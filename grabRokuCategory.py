@@ -1,9 +1,13 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+import sys
+
+url=sys.argv[0]
+print(sys.argv[0])
 
 driver = webdriver.Chrome()
-driver.get('https://therokuchannel.roku.com/browse/w.2AljKal2x6FlR4aGJN3QT4RoK0QpmkhKopeAyK6gIDRY801Q9RtBqR2ekmywsBrwr/action')
+driver.get(url)
 time.sleep(3)
 print(driver.page_source)
 driver.quit()
