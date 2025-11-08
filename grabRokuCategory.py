@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 import time
 import sys
 
-url=sys.argv[1]
-print(sys.argv[1])
+url = sys.argv[1]
+print(url)
 
 driver = webdriver.Chrome()
 driver.get(url)
