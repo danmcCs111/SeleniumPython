@@ -8,6 +8,6 @@ print(url)
 
 driver = webdriver.Chrome()
 driver.get(url)
-time.sleep(3)
+time.sleep(5)
 print(driver.page_source)
 driver.quit()

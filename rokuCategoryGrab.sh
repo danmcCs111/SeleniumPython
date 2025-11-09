@@ -1,6 +1,6 @@
 #/bin/bash
 python grabRokuCategories.py > rokuHomePage.txt
-./rokuUrlStrip.sh rokuHomePage.txt > rokuCategories.txt
+./rokuUrlStrip.sh rokuHomePage.txt | sort -n | uniq > rokuCategories.txt
 cats=`(cat rokuCategories.txt)`
 for i in ${cats[@]};
 do
