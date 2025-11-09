@@ -6,5 +6,5 @@ for i in ${cats[@]};
 do
 	python grabRokuCategory.py $i > rokuCat.txt
 	./rokuVideoName.sh rokuCat.txt
-	read -p enter_to_continue
+	read -p "enter to continue"
 done
