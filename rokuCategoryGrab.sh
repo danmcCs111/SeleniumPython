@@ -1,5 +1,10 @@
 #/bin/bash
-set PYTHONUTF8=1
 python grabRokuCategories.py > rokuHomePage.txt
 ./rokuUrlStrip.sh rokuHomePage.txt > rokuCategories.txt
-set PYTHONUTF8=1; cat rokuCategories.txt | awk '{system("python grabRokuCategory.py " $NF " > rokuCat.txt; ./rokuVideoName.sh rokuCat.txt; read -p enter_to_continue")}' 
+cats=`(cat rokuCategories.txt)`
+for i in ${cats[@]};
+do
+	python grabRokuCategory.py $i > rokuCat.txt
+	./rokuVideoName.sh rokuCat.txt
+	read -p enter_to_continue
+done
