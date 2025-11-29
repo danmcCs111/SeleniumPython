@@ -14,12 +14,13 @@ def print_term(driver):
     if "https://" not in line:
         line = "https://" + line
         
-    print(f"line: {line}")
+    print(f"video: {line}")
     testVideoPlay.open_and_play(driver, line)
     
-    
     while True:
-        print("Enter 'P to play/pause' or 'f to fullscreen' or 'Exit' to return to main menu")
+        print("")
+        print("Enter 'P to play/pause' or 'f to fullscreen' ")
+        print("or 'Exit' to return to main menu")
         line = sys.stdin.readline().strip()
         if "exit" == line.lower():
                 break

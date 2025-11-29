@@ -3,7 +3,6 @@ from selenium.webdriver import Keys, ActionChains
 from selenium.webdriver.common.by import By
 import time
 
-
 def open_and_play(driver, url):
     driver.get(url)
     
