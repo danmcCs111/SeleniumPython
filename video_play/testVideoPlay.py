@@ -6,8 +6,6 @@ import time
 
 def open_and_play(driver, url):
     driver.get(url)
-    time.sleep(5)#TODO
-    send_key(driver, Keys.SPACE)
     
 def send_key(driver, key):
     page_element=driver.find_element(By.ID, "content")

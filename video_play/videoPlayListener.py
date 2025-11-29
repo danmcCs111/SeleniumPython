@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver import Keys
 import sys
 import time
 import testVideoPlay
@@ -15,8 +16,17 @@ def print_term(driver):
         
     print(f"line: {line}")
     testVideoPlay.open_and_play(driver, line)
-    print(f"You entered: {line}")
-    print("video launch finished finished.")
+    
+    
+    while True:
+        print("Enter 'P to play/pause' or 'f to fullscreen' or 'Exit' to return to main menu")
+        line = sys.stdin.readline().strip()
+        if "exit" == line.lower():
+                break
+        if "p" == line.lower():
+            testVideoPlay.send_key(driver, Keys.SPACE)
+        if "f" == line.lower():
+            testVideoPlay.send_key(driver, "f")
 
 if __name__ == "__main__":
     driver = webdriver.Chrome()
