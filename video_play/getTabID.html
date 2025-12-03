@@ -1,0 +1,41 @@
+ <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Inline JavaScript Example</title>
+    </head>
+    <body>
+        <h1>Welcome!</h1>
+        <script>
+			 async function getTabIdByUrl(url) {
+				const tabs = await chrome.tabs.query({ url: url });
+				if (tabs.length > 0) {
+					return tabs[0].id;
+				}
+				return null;
+			}
+
+			getTabIdByUrl("https://tubitv.com/movies/100048006/ghost-ship").then(tabId => {
+				if (tabId) {
+					alert("Tab ID for example.com:");
+				}
+			});
+			
+			async function getActiveTabId() {
+				const tabs = await chrome.tabs.query({ active: true, currentWindow: true });
+				if (tabs.length > 0) {
+					return tabs[0].id;
+				}
+				return null;
+			}
+
+			getActiveTabId().then(tabId => {
+				if (tabId) {
+					alert("Active tab ID:");
+					console.log("Active tab ID:", tabId);
+				}
+			});
+        </script>
+        <p>This is a paragraph.</p>
+    </body>
+    </html>
+
