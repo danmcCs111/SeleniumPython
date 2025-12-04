@@ -1,8 +1,5 @@
 #/bin/bash
 file=$1
-roku_titles=(`egrep -o "\<a title=[A-Za-z0-9\&\;\:\?\!\=\"\ \-]*/watch/[a-zA-Z0-9\-]*\"" $file | egrep -o "title=\"[^\"]*\"" | sed 's/ /\_/g' | awk '{system("echo " $0)}'`)
-roku_urls=(`egrep -o "\<a title=[A-Za-z0-9\&\;\:\?\!\=\"\ \-]*/watch/[a-zA-Z0-9\-]*\"" $file | egrep -o "/watch/[^\"]*\"" | sed 's/\"//g' | awk '{system("echo https://therokuchannel.roku.com" $NF)}'`)
-
 
 function rokuToUrl {
 	roku_urls=("$@")
@@ -20,11 +17,33 @@ function printArray {
 	done
 }
 
+function imageArray {
+	local arr=("$@")
+	for r in ${arr[@]};
+	do
+		egrep -o "content\=\"[^\"]*$r[^\"]*\"" $file | uniq | head -1
+	done
+}
+
+roku_titles=(`egrep -o "\<a title=\"[^\/]*/watch/[a-zA-Z0-9\-]*\"" $file | egrep -o "title=\"[^\"]*\"" | sed 's/ /\_/g' | awk '{system("echo " $0)}'`)
+roku_urls=(`egrep -o "\<a title=\"[^\/]*/watch/[a-zA-Z0-9\-]*\"" $file | egrep -o "/watch/[^\"]*\"" | sed 's/\"//g' | awk '{system("echo https://therokuchannel.roku.com" $NF)}'`)
+tmp=(`printArray "${roku_urls[@]}" | sed 's/\// /g'`)
+roku_ids=(`printArray "${tmp[@]}" | egrep -v "https|watch|therokuchannel"`)
+printArray "${roku_ids[@]}"
+roku_images=(`imageArray "${roku_ids[@]}"`)
+#xargs -I {} egrep -o "content\=\"[^\"]*{}[^\"]*\"" $file | uniq | head -1`)
+
+
 printArray "${roku_urls[@]}"
 echo "url count: ${#roku_urls[@]}"
 
+printArray "${roku_images[@]}"
+echo "image count: ${#roku_images[@]}"
+
 printArray "${roku_titles[@]}"
 echo "title count: ${#roku_titles[@]}"
+echo "url count: ${#roku_urls[@]}"
+echo "image count: ${#roku_images[@]}"
 
 
 #rokuToUrl $roku_urls
