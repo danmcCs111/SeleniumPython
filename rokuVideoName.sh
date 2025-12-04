@@ -21,7 +21,7 @@ function imageArray {
 	local arr=("$@")
 	for r in ${arr[@]};
 	do
-		egrep -o "content\=\"[^\"]*$r[^\"]*\"" $file | uniq | head -1
+		egrep -o "content\=\"[^\"]*$r[^\"]*\"" $file | uniq | head -1 | sed 's/content=//g' | sed 's/\"//g'
 	done
 }
 
@@ -48,4 +48,9 @@ echo "image count: ${#roku_images[@]}"
 for index in "${!roku_urls[@]}"
 do
 	./rokuToUrl.sh "${roku_urls[$index]}" "${roku_titles[$index]}" 
+done
+
+for index in "${!roku_images[@]}"
+do
+	./rokuToImage.sh "${roku_images[$index]}" "${roku_titles[$index]}"
 done
