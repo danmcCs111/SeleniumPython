@@ -1,10 +1,13 @@
 #/bin/bash
 python grabRokuCategories.py > rokuHomePage.txt
 ./rokuUrlStrip.sh rokuHomePage.txt | sort -n | uniq > rokuCategories.txt
-cats=`(cat rokuCategories.txt)`
-for i in ${cats[@]};
+
+read -p "Edit rokuCategories.txt if desired and press Enter to continue"
+
+cats=(`cat rokuCategories.txt`)
+for index in "${!cats[@]}"
 do
-	python grabRokuCategory.py $i > rokuCat.txt
+	echo $(( $index + 1 )) " category of : ${#cats[@]}"
+	python grabRokuCategory.py "${cats[$i]}" > rokuCat.txt
 	./rokuVideoName.sh rokuCat.txt
-	read -p "enter to continue"
 done

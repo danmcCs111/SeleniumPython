@@ -41,6 +41,7 @@ printArray "${roku_images[@]}"
 echo "image count: ${#roku_images[@]}"
 
 printArray "${roku_titles[@]}"
+
 echo "title count: ${#roku_titles[@]}"
 echo "url count: ${#roku_urls[@]}"
 echo "image count: ${#roku_images[@]}"
