@@ -8,6 +8,6 @@ cats=(`cat rokuCategories.txt`)
 for index in "${!cats[@]}"
 do
 	echo $(( $index + 1 )) " category of : ${#cats[@]}"
-	python grabRokuCategory.py "${cats[$i]}" > rokuCat.txt
+	python grabRokuCategory.py "${cats[$index]}" > rokuCat.txt
 	./rokuVideoName.sh rokuCat.txt
 done
