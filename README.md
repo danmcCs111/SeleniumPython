@@ -1,5 +1,11 @@
-requires selenium install
+1) requires selenium install
 
-pip install selenium
+      pip install selenium
 
-https://pypi.org/project/selenium/
+      https://pypi.org/project/selenium/
+
+
+2) requires Pillow to convert from jpg to png as i'm using png standard.
+
+  
+      pip install Pillow
