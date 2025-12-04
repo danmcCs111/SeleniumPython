@@ -45,5 +45,7 @@ echo "title count: ${#roku_titles[@]}"
 echo "url count: ${#roku_urls[@]}"
 echo "image count: ${#roku_images[@]}"
 
-
-#rokuToUrl $roku_urls
+for index in "${!roku_urls[@]}"
+do
+	./rokuToUrl.sh "${roku_urls[$index]}" "${roku_titles[$index]}" 
+done
