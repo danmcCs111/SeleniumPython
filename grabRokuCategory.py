@@ -16,6 +16,7 @@ def scrollDown(body):
     for i in range(7):
         body.send_keys(Keys.PAGE_DOWN)
         time.sleep(1)
+    time.sleep(5)
 
 if __name__ == "__main__":
     url = sys.argv[1]

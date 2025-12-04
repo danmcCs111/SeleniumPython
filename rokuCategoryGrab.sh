@@ -11,3 +11,5 @@ do
 	python grabRokuCategory.py "${cats[$index]}" > rokuCat.txt
 	./rokuVideoName.sh rokuCat.txt
 done
+
+./GrabFolder/convertRokuToPng.sh
