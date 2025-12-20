@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver import Keys
+from selenium.webdriver.chrome.options import Options
 import sys
 import time
 import testVideoPlay
@@ -30,7 +31,11 @@ def print_term(driver):
             testVideoPlay.send_key(driver, "f")
 
 if __name__ == "__main__":
-    driver = webdriver.Chrome()
+    options = Options()
+    options.add_argument("--disable-infobars")
+    options.add_argument("--disable-notifications")
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    driver = webdriver.Chrome(options=options)
     while True:
         print_term(driver)
 

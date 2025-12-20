@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver import Keys, ActionChains
 import time
 import sys
@@ -21,7 +22,9 @@ def scrollDown(body):
 if __name__ == "__main__":
     url = sys.argv[1]
     print(url)
-    driver = webdriver.Chrome()
+    options = Options()
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(options=options)
     body = enterUrl(driver, url)
     scrollDown(body)
     print(driver.page_source)
