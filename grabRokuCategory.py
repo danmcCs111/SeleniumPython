@@ -23,7 +23,7 @@ if __name__ == "__main__":
     url = sys.argv[1]
     print(url)
     options = Options()
-    options.add_argument("--headless=new")
+    #options.add_argument("--headless=new")
     driver = webdriver.Chrome(options=options)
     body = enterUrl(driver, url)
     scrollDown(body)
