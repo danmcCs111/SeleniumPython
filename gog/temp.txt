@@ -2287,7 +2287,7 @@
     gog-track-event="{'event': 'gogGalaxyDownload'}"
 ><a class="footer-microservice-download__button footer-microservice-download__button--mac" href="https://content-system.gog.com/open_link/download?path=/open/galaxy/client/galaxy_client_2.0.92.24.pkg">
         Download GOG Galaxy
-        <span>for Mac</span></a><a class="footer-microservice-download__button footer-microservice-download__button--windows" href="https://webinstallers.gog-statics.com/download/GOG_Galaxy_2.0.exe?payload=oQUQVGo_hCydopN_rdHMsg6MEYcRX2mPeRmW2T8sPKwZ4Dubu6fJpPOH1mYS9M-yNj0VTAausOHiBYkGxpxBPJ2yhyUCEMUckn5E5UqtuUhLvEcwlQ..">
+        <span>for Mac</span></a><a class="footer-microservice-download__button footer-microservice-download__button--windows" href="https://webinstallers.gog-statics.com/download/GOG_Galaxy_2.0.exe?payload=UheW2Siip7XJ6LMtmPW11g4eYKmkio6f6pabBUHpEx7f-N4xzn_tGzwdcDAvPqaj1dzQcbehkkxh_2cIU5GgucXHQC9DaaiE_yeZ1jZDoToBozaFog..">
         Download GOG Galaxy
         <span>for Windows</span></a><a class="footer-microservice-download__button footer-microservice-download__button--other" href="/galaxy">
         Discover GOG Galaxy
@@ -2346,7 +2346,7 @@ try {
             'availableCurrencies': ["USD"],
             'availableLanguages': [{"code":"en-US","name":"English"},{"code":"de-DE","name":"Deutsch"},{"code":"fr-FR","name":"Fran\u00e7ais"},{"code":"pl-PL","name":"Polski"},{"code":"ru-RU","name":"P\u0443\u0441\u0441\u043a\u0438\u0439"},{"code":"zh-Hans","name":"\u4e2d\u6587(\u7b80\u4f53)"}],
             'hostname': 'https://menu-static.gog-statics.com',
-            'now': '1766195937',
+            'now': '1766196312',
             'env': 'prod',
             'features': {
                 'notifications': true,

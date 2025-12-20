@@ -9,6 +9,6 @@ curl $baseUrl --output temp.txt
 
 for i in {2..209}
 do
-	#echo "url: " $baseUrl$pageSuffix$i 
-	curl $baseUrl$pageSuffix$i --output page$i.txt
+	echo "url: " $baseUrl$pageSuffix$i 
+	#curl $baseUrl$pageSuffix$i --output page$i.txt
 done

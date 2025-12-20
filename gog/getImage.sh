@@ -7,12 +7,15 @@ count="$(( $count - 11 ))"
 rangeEnd=$(( $(( $count -1 )) / 4 ))
 echo $rangeEnd
 
-for i in {0..47}
+lines=(`grep -n product-tile $filename | sed 's/:.*$//g'`)
+for l in ${lines[@]}
 do
-	rStart=$(( $i * 4 ))
-	rStart=$(( $rStart + 1 ))
-	rEnd=$(( $(( $i + 1 )) * 4 ))
-
-	sed -n "${rStart},${rEnd}p" $filename
-	echo
+	sed -n "${l}p" $filename | sed 's/^/)(/g'
 done
+
+lines=(`egrep -n 'base-value|final-value|_ngcontent-gogcom-store-' $filename | sed 's/:.*$//g'`)
+for l in ${lines[@]}
+do
+	sed -n "${l}p" $filename | sed 's/$/,/g' 
+done
+
