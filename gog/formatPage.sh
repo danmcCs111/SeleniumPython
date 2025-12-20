@@ -22,10 +22,11 @@ function printArray()
 
 for l in ${lines[@]}
 do
-	all=$(echo "$l" `sed -n "${l}p" $filenameFormat | sed 's/^/)(/g'` | sed "s/ /-/g" | sed 's/"//g')
+	all=$(echo "$l" `sed -n "${l}p" $filenameFormat | sed 's/$/,/g' | sed 's/^/)(/g'` | sed "s/ /-/g" | sed 's/"//g')
 	repl="product-tile-product-tile--grid-href="
+	replTag="|title|"
 	all=`echo $all | sed "s/${repl}//g"`
-	#echo $all
+	all=`echo "$all" | sed -E "s/$/${replTag}/g"`
 	linesAll+=($all)
 done
 
@@ -35,11 +36,16 @@ for l in ${lines[@]}
 do
 	all=$(echo "$l" `sed -n "${l}p" $filenameFormat | sed 's/$/,/g'` | sed "s/ /-/g" | sed 's/"//g')
 	repl=("_ngcontent-gogcom-store-c[0-9]+=>" "base-value-ng-star-inserted>" "final-value-ng-star-inserted>" "<\/span>")
-	#repl="_ngcontent-gogcom-store-c[0-9]+=>"
-	#all=`echo $all | sed -E "s/${repl}//g"`
-	for r in ${repl[@]}
+	replTag=("|link|" "|base-value|" "|final-value|" "")
+	for i in ${!repl[@]}
 	do
-		all=`echo "$all" | sed -E "s/${r}//g"`
+		r=${repl[$i]}
+		rt=${replTag[$i]}
+		allNew=`echo "$all" | sed -E "s/${r}//g"`
+		if [[ "$allNew" != "$all" ]]; then
+			allNew=`echo "$allNew" | sed -E "s/$/${rt}/g"`
+		fi
+		all=$allNew
 	done
 
 	linesAll+=($all)
