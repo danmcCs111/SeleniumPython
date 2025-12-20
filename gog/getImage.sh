@@ -3,6 +3,8 @@
 filename=$1
 count=`cat $filename | wc -l`
 count="$(( $count - 11 ))"
+head -$count $filename > tmp$filename
+cat tmp$filename > $filename
 
 rangeEnd=$(( $(( $count -1 )) / 4 ))
 echo $rangeEnd
