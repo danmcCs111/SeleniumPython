@@ -24,7 +24,7 @@ for l in ${lines[@]}
 do
 	all=$(echo "$l" `sed -n "${l}p" $filenameFormat | sed 's/$/,/g' | sed 's/^/)(/g'` | sed "s/ /-/g" | sed 's/"//g')
 	repl="product-tile-product-tile--grid-href="
-	replTag="|title|"
+	replTag="|link|"
 	all=`echo $all | sed "s/${repl}//g"`
 	all=`echo "$all" | sed -E "s/$/${replTag}/g"`
 	linesAll+=($all)
@@ -35,14 +35,17 @@ lines=(`egrep -n 'base-value|final-value|_ngcontent-gogcom-store-' $filenameForm
 for l in ${lines[@]}
 do
 	all=$(echo "$l" `sed -n "${l}p" $filenameFormat | sed 's/$/,/g'` | sed "s/ /-/g" | sed 's/"//g')
-	repl=("_ngcontent-gogcom-store-c[0-9]+=>" "base-value-ng-star-inserted>" "final-value-ng-star-inserted>" "<\/span>")
-	replTag=("|link|" "|base-value|" "|final-value|" "")
+	repl=("<\/span>" "_ngcontent-gogcom-store-c[0-9]+=>" "base-value-ng-star-inserted>" "final-value-ng-star-inserted>")
+	replTag=("" "|title|" "|base-value|" "|final-value|")
 	for i in ${!repl[@]}
 	do
 		r=${repl[$i]}
 		rt=${replTag[$i]}
 		allNew=`echo "$all" | sed -E "s/${r}//g"`
 		if [[ "$allNew" != "$all" ]]; then
+			if [[ "$i" -eq "1" ]]; then
+				allNew=`echo $allNew | sed -E 's/[^[:alnum:]]/-/g' | sed -E 's/-$/,/g'` #title replace non-alpha
+			fi
 			allNew=`echo "$allNew" | sed -E "s/$/${rt}/g"`
 		fi
 		all=$allNew
