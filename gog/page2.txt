@@ -1,0 +1,202 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tomb_raider_goty"
+_ngcontent-gogcom-store-c1196613375="">Tomb Raider GOTY</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heroes_of_might_and_magic_5_bundle"
+_ngcontent-gogcom-store-c1196613375="">Heroes of Might and Magic® 5: Bundle</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_wars_knights_of_the_old_republic_ii_the_sith_lords"
+_ngcontent-gogcom-store-c1196613375="">STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_special_edition"
+_ngcontent-gogcom-store-c1196613375="">The Elder Scrolls V: Skyrim Special Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gothic_2_gold_edition"
+_ngcontent-gogcom-store-c1196613375="">Gothic 2 Gold Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lords_of_the_fallen_game_of_the_year_edition"
+_ngcontent-gogcom-store-c1196613375="">Lords of the Fallen Game of the Year Edition 2014</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aliens_versus_predator_classic_2000"
+_ngcontent-gogcom-store-c1196613375="">Aliens versus Predator Classic 2000</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.83</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/theme_hospital"
+_ngcontent-gogcom-store-c1196613375="">Theme Hospital</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atom_rpg_postapocalyptic_indie_game"
+_ngcontent-gogcom-store-c1196613375="">ATOM RPG: Post-apocalyptic indie game</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/return_to_castle_wolfenstein"
+_ngcontent-gogcom-store-c1196613375="">Return to Castle Wolfenstein</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallout"
+_ngcontent-gogcom-store-c1196613375="">Fallout</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/diablo"
+_ngcontent-gogcom-store-c1196613375="">Diablo + Hellfire</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_a_world_betrayed"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - A World Betrayed</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_mandate_of_heaven"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - Mandate of Heaven</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_witcher_3_wild_hunt"
+_ngcontent-gogcom-store-c1196613375="">The Witcher 3: Wild Hunt</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_settlers_2_10th_anniversary"
+_ngcontent-gogcom-store-c1196613375="">The Settlers® 2: 10th Anniversary</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_settlers_2_gold_edition"
+_ngcontent-gogcom-store-c1196613375="">The Settlers® 2: Gold Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_the_furious_wild"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - The Furious Wild</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$6.45</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_reign_of_blood"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - Reign of Blood</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.01</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_quest_hand_of_gilgamech"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Quest: Hand of Gilgamech</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_yellow_turban_rebellion"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - Yellow Turban Rebellion</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$3.05</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/world_in_conflict_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">World in Conflict: Complete Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gothic"
+_ngcontent-gogcom-store-c1196613375="">Gothic</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lust_theory_season_3"
+_ngcontent-gogcom-store-c1196613375="">Lust Theory - Season 3</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition"
+_ngcontent-gogcom-store-c1196613375="">The Elder Scrolls V: Skyrim Anniversary Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$16.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_heist"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Heist</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mad_max"
+_ngcontent-gogcom-store-c1196613375="">Mad Max</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallout_2"
+_ngcontent-gogcom-store-c1196613375="">Fallout 2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_royal_edition"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II Royal Edition</span>
+"base-value ng-star-inserted">$79.99</span>
+"final-value ng-star-inserted">$47.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_eight_princes"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - Eight Princes</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$3.05</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hitman_blood_money"
+_ngcontent-gogcom-store-c1196613375="">Hitman: Blood Money</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/uncharted_legacy_of_thieves_collection"
+_ngcontent-gogcom-store-c1196613375="">UNCHARTED™: Legacy of Thieves Collection</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$16.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cold_fear"
+_ngcontent-gogcom-store-c1196613375="">Cold Fear</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis"
+_ngcontent-gogcom-store-c1196613375="">Indiana Jones® and the Fate of Atlantis™</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_fates_divided"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - Fates Divided</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/planescape_torment_enhanced_edition"
+_ngcontent-gogcom-store-c1196613375="">Planescape: Torment: Enhanced Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metro_2033_redux"
+_ngcontent-gogcom-store-c1196613375="">Metro 2033 Redux</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hitman_2_silent_assassin"
+_ngcontent-gogcom-store-c1196613375="">Hitman 2: Silent Assassin</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_curse_of_monkey_island"
+_ngcontent-gogcom-store-c1196613375="">The Curse of Monkey Island™</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frostpunk_game_of_the_year_edition"
+_ngcontent-gogcom-store-c1196613375="">Frostpunk: Game of the Year Edition</span>
+"base-value ng-star-inserted">$48.99</span>
+"final-value ng-star-inserted">$5.38</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/doom_2016"
+_ngcontent-gogcom-store-c1196613375="">DOOM (2016)</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/middleearth_shadow_of_mordor"
+_ngcontent-gogcom-store-c1196613375="">Middle-earth™: Shadow of Mordor™ Game of the Year Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_age_origins"
+_ngcontent-gogcom-store-c1196613375="">Dragon Age™: Origins - Ultimate Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rollercoaster_tycoon_2"
+_ngcontent-gogcom-store-c1196613375="">RollerCoaster Tycoon® 2: Triple Thrill Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hitman_codename_47"
+_ngcontent-gogcom-store-c1196613375="">Hitman: Codename 47</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_redemption"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Redemption</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/myst_masterpiece_edition"
+_ngcontent-gogcom-store-c1196613375="">Myst Masterpiece Edition</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_walking_dead_the_telltale_definitive_series"
+_ngcontent-gogcom-store-c1196613375="">The Walking Dead: The Telltale Definitive Series</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,191 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_dig"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Dig</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/divinity_dragon_commander_imperial_edition"
+_ngcontent-gogcom-store-c1196613375="">Divinity: Dragon Commander Imperial Edition</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/far_cry_2_fortunes_edition"
+_ngcontent-gogcom-store-c1196613375="">Far Cry® 2: Fortune's Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kane_and_lynch_dead_men"
+_ngcontent-gogcom-store-c1196613375="">Kane and Lynch: Dead Men™</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silent_hill_4_the_room"
+_ngcontent-gogcom-store-c1196613375="">Silent Hill 4: The Room</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hitman_contracts"
+_ngcontent-gogcom-store-c1196613375="">Hitman 3: Contracts</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/i_g_i_2_covert_strike"
+_ngcontent-gogcom-store-c1196613375="">I.G.I. 2: Covert Strike</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dino_crisis"
+_ngcontent-gogcom-store-c1196613375="">Dino Crisis</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simcity_2000_special_edition"
+_ngcontent-gogcom-store-c1196613375="">SimCity™ 2000 Special Edition</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tainted_grail_the_fall_of_avalon_sanctuary_of_sarras"
+_ngcontent-gogcom-store-c1196613375="">Tainted Grail: The Fall of Avalon - Sanctuary of Sarras</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldurs_gate_3_digital_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Baldur's Gate 3 - Digital Deluxe Edition upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/divinity_original_sin_the_source_saga"
+_ngcontent-gogcom-store-c1196613375="">Divinity: Original Sin - The Source Saga</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotton_anne"
+_ngcontent-gogcom-store-c1196613375="">Forgotton Anne</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/everspace"
+_ngcontent-gogcom-store-c1196613375="">EVERSPACE™</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/icewind_dale_enhanced_edition"
+_ngcontent-gogcom-store-c1196613375="">Icewind Dale: Enhanced Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hitman_absolution"
+_ngcontent-gogcom-store-c1196613375="">Hitman: Absolution</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_elder_scrolls_iii_morrowind_goty_edition"
+_ngcontent-gogcom-store-c1196613375="">The Elder Scrolls III: Morrowind GOTY Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123"
+_ngcontent-gogcom-store-c1196613375="">Alone in the Dark: The Trilogy 1+2+3</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tomb_raider_iv_vi_remastered"
+_ngcontent-gogcom-store-c1196613375="">Tomb Raider IV-VI Remastered</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_dig_2"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Dig 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldurs_gate_siege_of_dragonspear"
+_ngcontent-gogcom-store-c1196613375="">Baldur's Gate: Siege of Dragonspear</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/day_of_the_tentacle_remastered"
+_ngcontent-gogcom-store-c1196613375="">Day of the Tentacle Remastered</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_hd_remaster"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil HD REMASTER</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sleeping_dogs_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Sleeping Dogs: Definitive Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallout_3_game_of_the_year_edition"
+_ngcontent-gogcom-store-c1196613375="">Fallout 3: Game of the Year Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition"
+_ngcontent-gogcom-store-c1196613375="">The Secret of Monkey Island™: Special Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jade_empire_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Jade Empire: Special Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simcity_3000"
+_ngcontent-gogcom-store-c1196613375="">SimCity™ 3000 Unlimited</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nox"
+_ngcontent-gogcom-store-c1196613375="">Nox™</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heroes_chronicles_all_chapters"
+_ngcontent-gogcom-store-c1196613375="">Heroes Chronicles: All Chapters</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pharaoh_cleopatra"
+_ngcontent-gogcom-store-c1196613375="">Pharaoh + Cleopatra</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeon_keeper"
+_ngcontent-gogcom-store-c1196613375="">Dungeon Keeper Gold™</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition"
+_ngcontent-gogcom-store-c1196613375="">Heroes of Might and Magic® 2: Gold</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metro_franchise_bundle"
+_ngcontent-gogcom-store-c1196613375="">Metro Franchise Bundle</span>
+"base-value ng-star-inserted">$59.47</span>
+"final-value ng-star-inserted">$8.92</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darksiders_iii_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Darksiders III Deluxe Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metro_last_light_redux"
+_ngcontent-gogcom-store-c1196613375="">Metro: Last Light Redux</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saints_row_2"
+_ngcontent-gogcom-store-c1196613375="">Saints Row 2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_wars_empire_at_war_gold_pack"
+_ngcontent-gogcom-store-c1196613375="">STAR WARS™ Empire at War: Gold Pack</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beyond_good_and_evil"
+_ngcontent-gogcom-store-c1196613375="">Beyond Good &amp; Evil™</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simcity_4_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">SimCity™ 4 Deluxe Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_crusader"
+_ngcontent-gogcom-store-c1196613375="">Stronghold Crusader HD</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sid_meiers_civilization_iii_complete"
+_ngcontent-gogcom-store-c1196613375="">Sid Meier's Civilization® III Complete</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zeus_poseidon"
+_ngcontent-gogcom-store-c1196613375="">Zeus + Poseidon (Acropolis)</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/caesar_3"
+_ngcontent-gogcom-store-c1196613375="">Caesar 3</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rollercoaster_tycoon_deluxe"
+_ngcontent-gogcom-store-c1196613375="">RollerCoaster Tycoon® Deluxe</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xcom_ufo_defense"
+_ngcontent-gogcom-store-c1196613375="">X-Com: UFO Defense</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/clair_obscur_expedition_33_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Clair Obscur: Expedition 33 Deluxe Edition</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$47.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stalker_2_heart_of_chornobyl_standard_edition"
+_ngcontent-gogcom-store-c1196613375="">S.T.A.L.K.E.R. 2: Heart of Chornobyl - Standard Edition</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$35.99</span>

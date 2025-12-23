@@ -1,0 +1,4 @@
+title=GameTitle_Game_GameDatabase
+link=GameUrl_Game_GameDatabase
+base-value=GameBaseValue_Game_GameDatabase
+final-value=GameFinalValue_Game_GameDatabase
