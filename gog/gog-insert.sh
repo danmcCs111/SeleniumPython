@@ -21,7 +21,7 @@ function stripFromTag()
 
 function readFile()
 {
-	fileRecords=(`tr -d '\n' < $fileInput > output.txt; cat output.txt | egrep -o "([^)]*)"`)
+	fileRecords=(`tr -d '\n' < $fileInput > $fileInput.tmp; cat $fileInput.tmp | egrep -o "([^)]*)"`)
 }
 
 insertPrefix="INSERT INTO gamedatabase.Game ("

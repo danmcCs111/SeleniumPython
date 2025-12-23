@@ -3,7 +3,7 @@
 filename=$1
 count=`cat $filename | wc -l`
 count="$(( $count - 11 ))"
-filenameFormat=formatted-$filename
+filenameFormat=$2
 head -$count $filename > $filenameFormat
 
 rangeEnd=$(( $(( $count -1 )) / 4 ))
