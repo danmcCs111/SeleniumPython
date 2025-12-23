@@ -48,10 +48,8 @@ do
 	do
 		t=${tag[$ti]}
 		stripFromTag $t $fileRecord
-		if [ -z "$dbValue" ];
+		if [ -n "$dbValue" ];
 		then
-			echo "blank"
-		else
 			dbValues+=($dbValue)
 			colTags+=(${dbColumns[$ti]})
 		fi
@@ -66,9 +64,12 @@ do
 	for dbi in ${!dbValues[@]}
 	do
 		db="${dbValues[$dbi]}"
-		#col="${colTags[$dbi]}"
-		#echo $db " " $col
-		echo '"' $db "\"," | sed 's/ //g'
+		db=$(echo '"' $db "\"," | sed 's/ //g')
+		if [[ "$db" =~ "$" ]]
+		then
+			db=`echo $db | sed 's/[$]//g' | sed "s/\"//g"`
+		fi
+		echo $db
 	done
 	echo $insertSuffix
 done
