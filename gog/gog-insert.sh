@@ -68,6 +68,9 @@ do
 		if [[ "$db" =~ "$" ]]
 		then
 			db=`echo $db | sed 's/[$]//g' | sed "s/\"//g"`
+		elif [[ "$db" =~ ^"\"(" ]]
+		then
+			db=`echo $db | sed 's/^\"[(]/\"/g'`
 		fi
 		echo $db
 	done
