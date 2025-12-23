@@ -24,6 +24,12 @@ function readFile()
 	fileRecords=(`tr -d '\n' < $fileInput > output.txt; cat output.txt | egrep -o "([^)]*)"`)
 }
 
+insertPrefix="INSERT INTO gamedatabase.Game ("
+insertSuffix="CURRENT_TIMESTAMP);"
+
+defEnd="InsertDate_Game_GameDatabase)"
+defEnd2="values("
+
 fileInput=$1
 mapFile=$2
 
@@ -50,10 +56,19 @@ do
 			colTags+=(${dbColumns[$ti]})
 		fi
 	done
+	echo $insertPrefix
+	for col in ${colTags[@]}
+	do
+		echo $col "," | sed 's/ //g'
+	done
+	echo $defEnd
+	echo $defEnd2
 	for dbi in ${!dbValues[@]}
 	do
 		db="${dbValues[$dbi]}"
-		col="${colTags[$dbi]}"
-		echo $db " " $col
+		#col="${colTags[$dbi]}"
+		#echo $db " " $col
+		echo '"' $db "\"," | sed 's/ //g'
 	done
+	echo $insertSuffix
 done
