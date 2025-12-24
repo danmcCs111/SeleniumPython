@@ -1,0 +1,190 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_nightmares_secrets_of_the_maw_expansion_pass"
+_ngcontent-gogcom-store-c1196613375="">Little Nightmares: Secrets of the Maw Expansion Pass</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_of_providence"
+_ngcontent-gogcom-store-c1196613375="">Star of Providence</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conarium"
+_ngcontent-gogcom-store-c1196613375="">Conarium</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conarium_ost"
+_ngcontent-gogcom-store-c1196613375="">Conarium OST</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/passpartout_the_starving_artist"
+_ngcontent-gogcom-store-c1196613375="">Passpartout: The Starving Artist</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/victor_vran_fractured_worlds"
+_ngcontent-gogcom-store-c1196613375="">Victor Vran: Fractured Worlds</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/victor_vran_motorhead_through_the_ages"
+_ngcontent-gogcom-store-c1196613375="">Victor Vran: Motörhead - Through the Ages</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cold_waters"
+_ngcontent-gogcom-store-c1196613375="">Cold Waters</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cold_waters_ost"
+_ngcontent-gogcom-store-c1196613375="">Cold Waters - OST</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brigador_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Brigador: Deluxe DLC Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brigador_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Brigador: Up-Armored Deluxe</span>
+"base-value ng-star-inserted">$32.94</span>
+"final-value ng-star-inserted">$6.91</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brigador"
+_ngcontent-gogcom-store-c1196613375="">Brigador: Up-Armored Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rezrog"
+_ngcontent-gogcom-store-c1196613375="">Rezrog</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tokyo_42"
+_ngcontent-gogcom-store-c1196613375="">Tokyo 42</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/locks_quest"
+_ngcontent-gogcom-store-c1196613375="">Lock's Quest</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/locks_quest_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lock's Quest Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/keeperrl_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">KeeperRL Official Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rime"
+_ngcontent-gogcom-store-c1196613375="">RiME</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/planet_nomads_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Planet Nomads Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/caveblazers"
+_ngcontent-gogcom-store-c1196613375="">Caveblazers</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starcrawlers"
+_ngcontent-gogcom-store-c1196613375="">StarCrawlers</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_infectious_madness_of_doctor_dekker"
+_ngcontent-gogcom-store-c1196613375="">The Infectious Madness of Doctor Dekker</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beholder_blissful_sleep"
+_ngcontent-gogcom-store-c1196613375="">Beholder - Blissful Sleep</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endless_space_2"
+_ngcontent-gogcom-store-c1196613375="">ENDLESS™ Space 2</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endless_space_2_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">ENDLESS™ Space 2 Definitive Edition</span>
+"base-value ng-star-inserted">$94.99</span>
+"final-value ng-star-inserted">$23.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inner_chains"
+_ngcontent-gogcom-store-c1196613375="">Inner Chains</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mages_of_mystralia"
+_ngcontent-gogcom-store-c1196613375="">Mages of Mystralia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mages_of_mystralia_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mages of Mystralia - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company_jupiters_forge"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company - Jupiter's Forge</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/production_line"
+_ngcontent-gogcom-store-c1196613375="">Production Line</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/regalia_of_men_and_monarchs"
+_ngcontent-gogcom-store-c1196613375="">Regalia: Of Men and Monarchs</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bounty_train"
+_ngcontent-gogcom-store-c1196613375="">Bounty Train</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bounty_train_trainium_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Bounty Train - Trainium Edition Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_creo_special_employee_kit"
+_ngcontent-gogcom-store-c1196613375="">The Surge - CREO Special Employee Kit</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.66</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_worlds_soundtrack_by_harold_faltermayer"
+_ngcontent-gogcom-store-c1196613375="">Two Worlds Soundtrack by Harold Faltermayer</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xblades_digital_deluxe_dlc"
+_ngcontent-gogcom-store-c1196613375="">X-Blades Digital Deluxe DLC</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xblades_ost"
+_ngcontent-gogcom-store-c1196613375="">X-Blades OST</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blockhood"
+_ngcontent-gogcom-store-c1196613375="">Block'hood</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tank_warfare_tunisia_1943"
+_ngcontent-gogcom-store-c1196613375="">Tank Warfare: Tunisia 1943</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/renowned_explorers_the_emperors_challenge"
+_ngcontent-gogcom-store-c1196613375="">Renowned Explorers: The Emperor's Challenge</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_anniversary_portraits"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Anniversary Portraits</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strafe_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">STRAFE Official Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strafe"
+_ngcontent-gogcom-store-c1196613375="">STRAFE: Gold Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/world_to_the_west"
+_ngcontent-gogcom-store-c1196613375="">World to the West</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_crusades_expansion_pack"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III: Crusade Expansion Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_in_the_sky_the_3rd"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails in the Sky the 3rd</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_nightmares"
+_ngcontent-gogcom-store-c1196613375="">Little Nightmares</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_nightmares_ost"
+_ngcontent-gogcom-store-c1196613375="">Little Nightmares Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

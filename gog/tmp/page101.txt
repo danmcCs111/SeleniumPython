@@ -1,0 +1,188 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_son_of_mine"
+_ngcontent-gogcom-store-c1196613375="">No Son of Mine</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chants_of_sennaar"
+_ngcontent-gogcom-store-c1196613375="">Chants of Sennaar</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chants_of_sennaar_game_ost"
+_ngcontent-gogcom-store-c1196613375="">Chants of Sennaar - Game + OST</span>
+"base-value ng-star-inserted">$24.90</span>
+"final-value ng-star-inserted">$15.68</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chants_of_sennaar_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Chants of Sennaar - Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/quarta_amethyst"
+_ngcontent-gogcom-store-c1196613375="">Quarta Amethyst</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$10.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/quarta_amethyst_unrated"
+_ngcontent-gogcom-store-c1196613375="">Quarta Amethyst UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tiny_witch_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tiny Witch Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tiny_witch_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Tiny Witch - Digital Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cardbob"
+_ngcontent-gogcom-store-c1196613375="">Cardbob</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golden_idol_mysteries_game_dlc_bundle"
+_ngcontent-gogcom-store-c1196613375="">Golden Idol Mysteries : Game + DLC Bundle</span>
+"final-value ng-star-inserted">$26.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golden_idol_mysteries_the_lemurian_vampire"
+_ngcontent-gogcom-store-c1196613375="">Golden Idol Mysteries: The Lemurian Vampire</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/helping_the_hotties"
+_ngcontent-gogcom-store-c1196613375="">Helping the Hotties</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/helping_the_hotties_4k_hifi_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Helping the Hotties - 4K HiFi Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/helping_the_hotties_complete_collection"
+_ngcontent-gogcom-store-c1196613375="">Helping the Hotties Complete Collection</span>
+"base-value ng-star-inserted">$19.77</span>
+"final-value ng-star-inserted">$11.86</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/helping_the_hotties_demo"
+_ngcontent-gogcom-store-c1196613375="">Helping the Hotties Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/onetwo_combo_bundle_punch_club_franchise"
+_ngcontent-gogcom-store-c1196613375="">One-Two Combo Bundle: Punch Club Franchise</span>
+"base-value ng-star-inserted">$25.48</span>
+"final-value ng-star-inserted">$15.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_case_of_the_golden_idol_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">The Case of the Golden Idol: Complete Edition</span>
+"final-value ng-star-inserted">$29.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trine_5_a_clockwork_conspiracy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trine 5: A Clockwork Conspiracy Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/daymare_1994_sandcastle"
+_ngcontent-gogcom-store-c1196613375="">Daymare: 1994 Sandcastle</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_city"
+_ngcontent-gogcom-store-c1196613375="">Prison City</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_making_of_karateka"
+_ngcontent-gogcom-store-c1196613375="">The Making of Karateka</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zoeti_art_book"
+_ngcontent-gogcom-store-c1196613375="">Zoeti - Art Book</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blue_wednesday_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Blue Wednesday - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blue_wednesday_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Blue Wednesday Deluxe Edition</span>
+"base-value ng-star-inserted">$21.57</span>
+"final-value ng-star-inserted">$19.41</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/buff_studio_bundle"
+_ngcontent-gogcom-store-c1196613375="">Buff Studio Bundle</span>
+"base-value ng-star-inserted">$26.08</span>
+"final-value ng-star-inserted">$23.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/master_of_magic_rise_of_the_soultrapped"
+_ngcontent-gogcom-store-c1196613375="">Master of Magic: Rise of the Soultrapped</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_men_of_steel"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Men of Steel</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_tribute_to_normandy_44"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Tribute to Normandy '44</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/untamed_tactics"
+_ngcontent-gogcom-store-c1196613375="">Untamed Tactics</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/untamed_tactics_humblewood_dlc"
+_ngcontent-gogcom-store-c1196613375="">Untamed Tactics - Humblewood DLC</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/untamed_tactics_digital_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Untamed Tactics: Digital Collector's Edition</span>
+"base-value ng-star-inserted">$25.99</span>
+"final-value ng-star-inserted">$15.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/untamed_tactics_humblewood_edition"
+_ngcontent-gogcom-store-c1196613375="">Untamed Tactics: Humblewood Edition</span>
+"base-value ng-star-inserted">$23.59</span>
+"final-value ng-star-inserted">$11.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/untamed_tactics_soundtrack_dlc"
+_ngcontent-gogcom-store-c1196613375="">Untamed Tactics: Soundtrack DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/samurai_vandalism"
+_ngcontent-gogcom-store-c1196613375="">Samurai Vandalism</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/samurai_vandalism_unrated"
+_ngcontent-gogcom-store-c1196613375="">Samurai Vandalism UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amid_evil_the_black_labyrinth"
+_ngcontent-gogcom-store-c1196613375="">AMID EVIL - The Black Labyrinth</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/don_duality"
+_ngcontent-gogcom-store-c1196613375="">Don Duality</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grand_tactician_the_civil_war_soundtrack_vol2"
+_ngcontent-gogcom-store-c1196613375="">Grand Tactician - The Civil War (1861-1865): Soundtrack Vol.2</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grand_tactician_the_civil_war_whiskey_lemons"
+_ngcontent-gogcom-store-c1196613375="">Grand Tactician: The Civil War - Whiskey &amp; Lemons</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_too_easily"
+_ngcontent-gogcom-store-c1196613375="">Love Too Easily</span>
+"base-value ng-star-inserted">$21.99</span>
+"final-value ng-star-inserted">$8.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blasphemous_2_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Blasphemous 2 Digital Artbook</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blasphemous_2_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Blasphemous 2 Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$13.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blasphemous_2_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Blasphemous 2 Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fire_shark"
+_ngcontent-gogcom-store-c1196613375="">Fire Shark</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flying_shark"
+_ngcontent-gogcom-store-c1196613375="">Flying Shark</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ginsha"
+_ngcontent-gogcom-store-c1196613375="">GINSHA</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$10.23</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hellfire"
+_ngcontent-gogcom-store-c1196613375="">Hellfire</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_kernev_clan_of_the_stoat"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Kernev, Clan of the Stoat</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

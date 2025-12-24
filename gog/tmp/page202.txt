@@ -1,0 +1,191 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lords_of_xulima_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Lords of Xulima - Deluxe Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lords_of_xulima_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Lords of Xulima Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_last_federation_betrayed_hope"
+_ngcontent-gogcom-store-c1196613375="">The Last Federation - Betrayed Hope</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/this_war_of_mine"
+_ngcontent-gogcom-store-c1196613375="">This War of Mine</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/randals_monday"
+_ngcontent-gogcom-store-c1196613375="">Randal's Monday</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lego_batman_3_beyond_gotham"
+_ngcontent-gogcom-store-c1196613375="">LEGO® Batman™ 3: Beyond Gotham</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_bird_story"
+_ngcontent-gogcom-store-c1196613375="">A Bird Story</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_bird_story_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Bird Story - Original Soundtrack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_of_pen_and_paper_1_deluxier_edition"
+_ngcontent-gogcom-store-c1196613375="">Knights of Pen and Paper +1 Deluxier Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_of_pen_and_paper_1_deluxier_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Knights of Pen and Paper +1 Deluxier Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/buzz_aldrins_space_program_manager"
+_ngcontent-gogcom-store-c1196613375="">Buzz Aldrin's Space Program Manager</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_catholic_league_unit_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Catholic League Unit Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_evangelical_union_unit_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Evangelical Union Unit Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_guns_drums_and_steel_music_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Guns, Drums and Steel Music Pack</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_songs_of_war_music_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Songs of War Music Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation_corporate_lockdown"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation - Corporate Lockdown</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/democracy_3_clones_and_drones"
+_ngcontent-gogcom-store-c1196613375="">Democracy 3: Clones and Drones</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeon_of_the_endless_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Dungeon of the ENDLESS™ - Definitive Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tales_of_majeyal_ashes_of_urhrok"
+_ngcontent-gogcom-store-c1196613375="">Tales of Maj'Eyal: Ashes of Urh'Rok</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_dungeon_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Dungeon Expansion</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ziggurat"
+_ngcontent-gogcom-store-c1196613375="">Ziggurat</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revolver360_reactor"
+_ngcontent-gogcom-store-c1196613375="">REVOLVER360 RE:ACTOR</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/screencheat"
+_ngcontent-gogcom-store-c1196613375="">Screencheat</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/door_kickers"
+_ngcontent-gogcom-store-c1196613375="">Door Kickers</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ultimate_general_gettysburg"
+_ngcontent-gogcom-store-c1196613375="">Ultimate General: Gettysburg</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition"
+_ngcontent-gogcom-store-c1196613375="">Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_grimrock_2"
+_ngcontent-gogcom-store-c1196613375="">Legend of Grimrock 2</span>
+"base-value ng-star-inserted">$23.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation_last_survivor"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation - Last Survivor</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ebook_crusader_kings_ii_the_song_of_roland"
+_ngcontent-gogcom-store-c1196613375="">E-book - Crusader Kings II: The Song of Roland</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_charlemagne"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: Charlemagne</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_evil_within"
+_ngcontent-gogcom-store-c1196613375="">The Evil Within</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_evil_within_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Evil Within Bundle</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_evil_within_season_pass"
+_ngcontent-gogcom-store-c1196613375="">The Evil Within: Season Pass</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/schein"
+_ngcontent-gogcom-store-c1196613375="">Schein</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_golden_wake"
+_ngcontent-gogcom-store-c1196613375="">A Golden Wake</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/giana_sisters_twisted_dreams_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Giana Sisters: Twisted Dreams - Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tri_original_soundtrack_artbook"
+_ngcontent-gogcom-store-c1196613375="">TRI Original Soundtrack + Artbook</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tri"
+_ngcontent-gogcom-store-c1196613375="">TRI: Of Friendship and Madness</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tri_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">TRI: Of Friendship and Madness – Deluxe Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/costume_quest_2"
+_ngcontent-gogcom-store-c1196613375="">Costume Quest 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/styx_master_of_shadows"
+_ngcontent-gogcom-store-c1196613375="">Styx: Master of Shadows</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation_crew_expendable"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation - Crew Expendable</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pier_solar_and_the_great_architects"
+_ngcontent-gogcom-store-c1196613375="">Pier Solar and the Great Architects</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverending_nightmares"
+_ngcontent-gogcom-store-c1196613375="">Neverending Nightmares</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_2"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini 2</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sword_of_the_stars_the_pit_osmium_edition_juggernaut"
+_ngcontent-gogcom-store-c1196613375="">Sword of the Stars: The Pit Osmium Edition - Juggernaut</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gauntlet_slayer_edition"
+_ngcontent-gogcom-store-c1196613375="">Gauntlet™ Slayer Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

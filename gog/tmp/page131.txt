@@ -1,0 +1,175 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/workshop_simulator"
+_ngcontent-gogcom-store-c1196613375="">Workshop Simulator</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_dynasties_bloodlines"
+_ngcontent-gogcom-store-c1196613375="">Star Dynasties Bloodlines</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aquarist"
+_ngcontent-gogcom-store-c1196613375="">Aquarist</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$6.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/buccaneers"
+_ngcontent-gogcom-store-c1196613375="">Buccaneers!</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_musical_story"
+_ngcontent-gogcom-store-c1196613375="">A Musical Story</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_musical_story_demo"
+_ngcontent-gogcom-store-c1196613375="">A Musical Story Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_musical_story_digital_deluxe_version"
+_ngcontent-gogcom-store-c1196613375="">A Musical Story Digital Deluxe Version</span>
+"final-value ng-star-inserted">$22.76</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_musical_story_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Musical Story Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gunborg_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Gunborg + Soundtrack</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gunborg_dark_matters"
+_ngcontent-gogcom-store-c1196613375="">Gunborg: Dark Matters</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soulash"
+_ngcontent-gogcom-store-c1196613375="">Soulash</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soulash_demo"
+_ngcontent-gogcom-store-c1196613375="">Soulash Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/what_lies_in_the_multiverse"
+_ngcontent-gogcom-store-c1196613375="">What Lies in the Multiverse</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/what_lies_in_the_multiverse_artbook"
+_ngcontent-gogcom-store-c1196613375="">What Lies in the Multiverse - Artbook</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/what_lies_in_the_multiverse_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">What Lies in the Multiverse - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/what_lies_in_the_multiverse_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">What Lies in the Multiverse Deluxe Edition</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beholder_3_demo"
+_ngcontent-gogcom-store-c1196613375="">Beholder 3 Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_project_hel"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner - Project_Hel</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_inevitable_excess"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Wrath of the Righteous - Inevitable Excess</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hordecore"
+_ngcontent-gogcom-store-c1196613375="">HordeCore</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombie_rollerz_pinball_heroes"
+_ngcontent-gogcom-store-c1196613375="">Zombie Rollerz: Pinball Heroes</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombie_rollerz_pinball_heroes_demo"
+_ngcontent-gogcom-store-c1196613375="">Zombie Rollerz: Pinball Heroes Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elex_ii_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">ELEX II Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heros_hour"
+_ngcontent-gogcom-store-c1196613375="">Hero's Hour</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_warrior_3"
+_ngcontent-gogcom-store-c1196613375="">Shadow Warrior 3: Definitive Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_warrior_3_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Shadow Warrior 3: Deluxe Definitive Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdoms_life"
+_ngcontent-gogcom-store-c1196613375="">Kingdom's Life</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdoms_life_bundle"
+_ngcontent-gogcom-store-c1196613375="">Kingdom's Life Bundle</span>
+"final-value ng-star-inserted">$8.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdoms_life_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom's Life Soundtrack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/meteoheroes"
+_ngcontent-gogcom-store-c1196613375="">MeteoHeroes</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chevalier_historie"
+_ngcontent-gogcom-store-c1196613375="">Chevalier Historie</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chevalier_historie_unrated"
+_ngcontent-gogcom-store-c1196613375="">Chevalier Historie UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bad_end_theater_art_collection"
+_ngcontent-gogcom-store-c1196613375="">BAD END THEATER art collection</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_dlc_set_6"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - DLC Set 6</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x4_tides_of_avarice_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">X4: Tides of Avarice Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghost_on_the_shore"
+_ngcontent-gogcom-store-c1196613375="">Ghost on the Shore</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghost_on_the_shore_demo"
+_ngcontent-gogcom-store-c1196613375="">Ghost on the Shore Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/martha_is_dead"
+_ngcontent-gogcom-store-c1196613375="">Martha Is Dead</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/martha_is_dead_digital_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">Martha Is Dead - Digital Deluxe Bundle</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$19.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/martha_is_dead_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Martha Is Dead - Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/perfect_tides"
+_ngcontent-gogcom-store-c1196613375="">Perfect Tides</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/perfect_tides_original_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Perfect Tides Original Game Soundtrack</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_plague_doctor_pack"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One - Plague Doctor Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demons_rise_up"
+_ngcontent-gogcom-store-c1196613375="">Demons Rise Up!</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_blood_moon_expansion_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Blood Moon Expansion: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_city_expansion_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The City Expansion: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_frostmarch_expansion_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Frostmarch Expansion: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_sacred_pool_expansion_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Sacred Pool Expansion: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

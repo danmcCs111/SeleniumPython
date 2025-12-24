@@ -1,0 +1,201 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/swordship"
+_ngcontent-gogcom-store-c1196613375="">Swordship</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/burnhouse_lane"
+_ngcontent-gogcom-store-c1196613375="">Burnhouse Lane</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombie_shooting_star_arcade"
+_ngcontent-gogcom-store-c1196613375="">Zombie Shooting Star: ARCADE</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/false_skies"
+_ngcontent-gogcom-store-c1196613375="">False Skies</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/call_of_juarez_bundle"
+_ngcontent-gogcom-store-c1196613375="">Call of Juarez Bundle</span>
+"base-value ng-star-inserted">$31.47</span>
+"final-value ng-star-inserted">$6.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/evil_west"
+_ngcontent-gogcom-store-c1196613375="">Evil West</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/please_be_happy"
+_ngcontent-gogcom-store-c1196613375="">Please Be Happy</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_nasty_outfits"
+_ngcontent-gogcom-store-c1196613375="">Succubus - Nasty Outfits</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crysis_2_remastered"
+_ngcontent-gogcom-store-c1196613375="">Crysis 2 Remastered</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crysis_3_remastered"
+_ngcontent-gogcom-store-c1196613375="">Crysis 3 Remastered</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_2_workshop_gems_emerald"
+_ngcontent-gogcom-store-c1196613375="">Train Valley 2: Workshop Gems - Emerald</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bendy_and_the_dark_revival"
+_ngcontent-gogcom-store-c1196613375="">Bendy and the Dark Revival</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solasta_crown_of_the_magister_inner_strength"
+_ngcontent-gogcom-store-c1196613375="">Solasta: Crown of the Magister - Inner Strength</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_1944"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - 1944</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/doors_paradox"
+_ngcontent-gogcom-store-c1196613375="">Doors: Paradox</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_chant"
+_ngcontent-gogcom-store-c1196613375="">The Chant</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_chant_70s_vfx_filter_mode"
+_ngcontent-gogcom-store-c1196613375="">The Chant - 70s VFX Filter Mode</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.65</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_chant_spiritual_retreat_outfit"
+_ngcontent-gogcom-store-c1196613375="">The Chant - Spiritual Retreat Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.65</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/against_the_storm"
+_ngcontent-gogcom-store-c1196613375="">Against the Storm</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomicrops_deerly_beloved"
+_ngcontent-gogcom-store-c1196613375="">Atomicrops: Deerly Beloved</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/st_yarimans_little_black_book_complete"
+_ngcontent-gogcom-store-c1196613375="">St. Yariman's Little Black Book ~Complete~</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterix_obelix_xxxl_the_ram_from_hibernia"
+_ngcontent-gogcom-store-c1196613375="">Asterix &amp; Obelix XXXL: The Ram From Hibernia</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced_dlc_aljauza_next"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced DLC- Al-Jauza NEXT</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced_dlc_amaterasu_next"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced DLC- Amaterasu NEXT</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced_dlc_spinoff_stories"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced DLC- Spin-Off Stories</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_zone_bard"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite - Zone Bard</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_prom_3_monster_roadtrip"
+_ngcontent-gogcom-store-c1196613375="">Monster Prom 3: Monster Roadtrip</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/batora_lost_haven_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Batora: Lost Haven - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$35.97</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_brainwashington_cadavers"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Brainwashington Cadavers</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_diami_krakens"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Diami Krakens</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_new_yuck_threats"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - New Yuck Threats</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_sinsonasty_manglers"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Sinsonasty Mangles</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/of_blades_and_tails"
+_ngcontent-gogcom-store-c1196613375="">Of Blades &amp; Tails</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_plague_tale_requiem_protectors_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">A Plague Tale: Requiem - Protector Pack DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/1428_shadows_over_silesia_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">1428: Shadows over Silesia - Deluxe Edition</span>
+"base-value ng-star-inserted">$23.37</span>
+"final-value ng-star-inserted">$4.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dungeon_of_naheulbeuk_back_to_the_futon"
+_ngcontent-gogcom-store-c1196613375="">The Dungeon Of Naheulbeuk: Back To The Futon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/our_life_beginnings_always_dereks_story"
+_ngcontent-gogcom-store-c1196613375="">Our Life: Beginnings &amp; Always - Derek's Story</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_2_workshop_gems_ruby"
+_ngcontent-gogcom-store-c1196613375="">Train Valley 2: Workshop Gems - Ruby</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prodeus"
+_ngcontent-gogcom-store-c1196613375="">Prodeus</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_toxoids_species_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Toxoids Species Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/curious_expedition_2_bundle"
+_ngcontent-gogcom-store-c1196613375="">Curious Expedition 2 Bundle</span>
+"base-value ng-star-inserted">$34.16</span>
+"final-value ng-star-inserted">$10.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metal_hellsinger"
+_ngcontent-gogcom-store-c1196613375="">Metal: Hellsinger</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whateverland"
+_ngcontent-gogcom-store-c1196613375="">Whateverland</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/broken_pieces"
+_ngcontent-gogcom-store-c1196613375="">Broken Pieces</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_onoskelis"
+_ngcontent-gogcom-store-c1196613375="">Succubus - Onoskelis</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soulslike_bundle"
+_ngcontent-gogcom-store-c1196613375="">Souls-Like Bundle</span>
+"base-value ng-star-inserted">$44.98</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/thetravelgame"
+_ngcontent-gogcom-store-c1196613375="">TheTravelGame</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroy_all_humans_2_reprobed"
+_ngcontent-gogcom-store-c1196613375="">Destroy All Humans! 2 - Reprobed</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

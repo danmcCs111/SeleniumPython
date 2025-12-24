@@ -1,0 +1,176 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_adventures_2_demo"
+_ngcontent-gogcom-store-c1196613375="">8-Bit Adventures 2: Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_adventures_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">8-Bit Adventures 2: Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_season_pass_2"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Wrath of the Righteous - Season Pass 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spelp"
+_ngcontent-gogcom-store-c1196613375="">Spelp</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spongebob_squarepants_the_cosmic_shake"
+_ngcontent-gogcom-store-c1196613375="">SpongeBob SquarePants: The Cosmic Shake</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spongebob_squarepants_the_cosmic_shake_costume_pack"
+_ngcontent-gogcom-store-c1196613375="">SpongeBob SquarePants: The Cosmic Shake - Costume Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tap_it_away"
+_ngcontent-gogcom-store-c1196613375="">Tap It Away</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unreal_world_the_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">UnReal World &amp; The Soundtrack</span>
+"base-value ng-star-inserted">$16.50</span>
+"final-value ng-star-inserted">$8.25</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unreal_world_enhanced_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">UnReal World Enhanced Soundtrack</span>
+"base-value ng-star-inserted">$5.50</span>
+"final-value ng-star-inserted">$2.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/milky_quest_ii"
+_ngcontent-gogcom-store-c1196613375="">Milky Quest II</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/milky_quest_ii_unrated"
+_ngcontent-gogcom-store-c1196613375="">Milky Quest II UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alice_escaped"
+_ngcontent-gogcom-store-c1196613375="">Alice Escaped!</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alice_escaped_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Alice Escaped! - Original Soundtrack</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$6.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alice_escaped_bundle"
+_ngcontent-gogcom-store-c1196613375="">Alice Escaped! Bundle</span>
+"base-value ng-star-inserted">$27.88</span>
+"final-value ng-star-inserted">$16.72</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atone_heart_of_the_elder_tree"
+_ngcontent-gogcom-store-c1196613375="">ATONE: Heart of the Elder Tree</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bloody_hell"
+_ngcontent-gogcom-store-c1196613375="">Bloody Hell</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/house_party_winter_holiday_pack"
+_ngcontent-gogcom-store-c1196613375="">House Party - Winter Holiday Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/garden_in"
+_ngcontent-gogcom-store-c1196613375="">Garden In!</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grunnd"
+_ngcontent-gogcom-store-c1196613375="">GRUNND</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_rise_of_rasalhague"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - Rise of Rasalhague</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_command_american_civil_war_wars_in_the_americas"
+_ngcontent-gogcom-store-c1196613375="">Strategic Command: American Civil War - Wars in the Americas</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metro_exodus_sdk"
+_ngcontent-gogcom-store-c1196613375="">Exodus SDK</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mahokenshi"
+_ngcontent-gogcom-store-c1196613375="">Mahokenshi</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/project_mirror"
+_ngcontent-gogcom-store-c1196613375="">Project: Mirror</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/caves_of_lore"
+_ngcontent-gogcom-store-c1196613375="">Caves of Lore</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demon_queen_melissa"
+_ngcontent-gogcom-store-c1196613375="">Demon Queen Melissa</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demon_queen_melissa_unrated"
+_ngcontent-gogcom-store-c1196613375="">Demon Queen Melissa UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trenches_world_war_1_horror_survival_game"
+_ngcontent-gogcom-store-c1196613375="">Trenches - World War 1 Horror Survival Game</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtual_maid_streamer_ramie_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">Virtual Maid Streamer Ramie Unrated Patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_space_for_the_unbound"
+_ngcontent-gogcom-store-c1196613375="">A Space for the Unbound</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/colossal_cave"
+_ngcontent-gogcom-store-c1196613375="">Colossal Cave</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/colossal_cave_demo"
+_ngcontent-gogcom-store-c1196613375="">Colossal Cave Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rain_world_downpour"
+_ngcontent-gogcom-store-c1196613375="">Rain World: Downpour</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_free_utv_dlc"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter - Free UTV DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_past_within_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Past Within Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/concordia_digital_edition_britannia_germania"
+_ngcontent-gogcom-store-c1196613375="">Concordia: Digital Edition - Britannia &amp; Germania</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/concordia_digital_edition_fish_market"
+_ngcontent-gogcom-store-c1196613375="">Concordia: Digital Edition - Fish Market</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/world_championship_boxing_manager_bundle"
+_ngcontent-gogcom-store-c1196613375="">World Championship Boxing Manager Bundle</span>
+"base-value ng-star-inserted">$17.98</span>
+"final-value ng-star-inserted">$8.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/world_championship_boxing_manager_2"
+_ngcontent-gogcom-store-c1196613375="">World Championship Boxing Manager™ 2</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_cyber_rabbit_dlc"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Cyber Rabbit DLC</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_rabbit_school_uniform_dlc"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Rabbit School Uniform DLC</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demons_roots_unrated"
+_ngcontent-gogcom-store-c1196613375="">Demons Roots UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/criminal_expert"
+_ngcontent-gogcom-store-c1196613375="">Criminal Expert</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strange_aeons"
+_ngcontent-gogcom-store-c1196613375="">Strange Aeons</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$5.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dv_rings_of_saturn_deep_weeb"
+_ngcontent-gogcom-store-c1196613375="">ΔV: Rings of Saturn - Deep Weeb</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neckbreak_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neckbreak Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vengeful_guardian_moonrider"
+_ngcontent-gogcom-store-c1196613375="">Vengeful Guardian: Moonrider</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vengeful_guardian_moonrider_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Vengeful Guardian: Moonrider - Original Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,194 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/homeworld_deserts_of_kharak_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak Soundtrack</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_boy_and_his_blob"
+_ngcontent-gogcom-store-c1196613375="">A Boy and His Blob</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darkest_dungeon_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Darkest Dungeon Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_shadow_of_fear_rebecca_tshirt"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 'Shadow of Fear' Rebecca T-shirt</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_costume_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 Costume Pack 2</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_costume_pack_3"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 Costume Pack 3</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_costume_pack_4"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 Costume Pack 4</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_costume_pack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 Costume Pack Bundle</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_fan_design_tshirt_pack"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 Fan Design T-shirt Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aquatic_adventure_of_the_last_human_the"
+_ngcontent-gogcom-store-c1196613375="">The Aquatic Adventure of the Last Human</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_deadly_tower_of_monsters"
+_ngcontent-gogcom-store-c1196613375="">The Deadly Tower of Monsters</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fear_equation"
+_ngcontent-gogcom-store-c1196613375="">Fear Equation</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oxenfree"
+_ngcontent-gogcom-store-c1196613375="">Oxenfree</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_grunts"
+_ngcontent-gogcom-store-c1196613375="">Space Grunts</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tharsis"
+_ngcontent-gogcom-store-c1196613375="">Tharsis</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punch_club"
+_ngcontent-gogcom-store-c1196613375="">Punch Club</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punch_club_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Punch Club Deluxe Edition</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punch_club_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Punch Club Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simpleplanes"
+_ngcontent-gogcom-store-c1196613375="">SimplePlanes</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$4.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_crusader_2_delivering_justice"
+_ngcontent-gogcom-store-c1196613375="">Stronghold Crusader 2: Delivering Justice mini-campaign</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_crusader_2_freedom_fighters"
+_ngcontent-gogcom-store-c1196613375="">Stronghold Crusader 2: Freedom Fighters mini-campaign</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blood_gold_caribbean"
+_ngcontent-gogcom-store-c1196613375="">Blood &amp; Gold: Caribbean!</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_precursor_worlds"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III - Precursor Worlds DLC</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/celestian_tales_old_north_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Celestian Tales: Old North - Original Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/detective_grimoire_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Detective Grimoire Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/haunt_the_house_terrortown_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Haunt the House: Terrortown Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nuclear_throne"
+_ngcontent-gogcom-store-c1196613375="">Nuclear Throne</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sound_of_drop_fall_into_poison_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sound of Drop - fall into poison - Official Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hand_of_fate_wildcards"
+_ngcontent-gogcom-store-c1196613375="">Hand of Fate: Wildcards</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_rain"
+_ngcontent-gogcom-store-c1196613375="">Steel Rain Complete</span>
+"base-value ng-star-inserted">$15.00</span>
+"final-value ng-star-inserted">$10.05</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valhalla_hills"
+_ngcontent-gogcom-store-c1196613375="">Valhalla Hills</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valhalla_hills_twohorned_helmet_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Valhalla Hills: Two-Horned Helmet Edition Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/content_pack_europa_universalis_iv_el_dorado"
+_ngcontent-gogcom-store-c1196613375="">Content Pack - Europa Universalis IV: El Dorado</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/content_pack_europa_universalis_iv_the_cossacks"
+_ngcontent-gogcom-store-c1196613375="">Content Pack - Europa Universalis IV: The Cossacks</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_sabaton_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Sabaton Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_europa_universalis_iv_the_cossacks"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Europa Universalis IV: The Cossacks</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cryptark_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Cryptark Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/thea_the_awakening"
+_ngcontent-gogcom-store-c1196613375="">Thea: The Awakening</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mordheim_city_of_the_damned"
+_ngcontent-gogcom-store-c1196613375="">Mordheim: City of the Damned</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hard_west"
+_ngcontent-gogcom-store-c1196613375="">Hard West</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hard_west_collectors_pack"
+_ngcontent-gogcom-store-c1196613375="">Hard West Collector's Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_goblin_shaman"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Goblin Shaman</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_jester"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Jester</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/higurashi_when_they_cry_hou_ch2_watanagashi"
+_ngcontent-gogcom-store-c1196613375="">Higurashi When They Cry Hou - Ch.2 Watanagashi</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_potatoes_a_weapon_shop_spud_tales_journey_to_olympus"
+_ngcontent-gogcom-store-c1196613375="">Holy Potatoes! A Weapon Shop?! - Spud Tales: Journey to Olympus</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/invisible_inc_contingency_plan"
+_ngcontent-gogcom-store-c1196613375="">Invisible Inc: Contingency Plan</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kero_blaster"
+_ngcontent-gogcom-store-c1196613375="">Kero Blaster</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_last_federation_the_lost_technologies"
+_ngcontent-gogcom-store-c1196613375="">The Last Federation - The Lost Technologies</span>
+"final-value ng-star-inserted">$6.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

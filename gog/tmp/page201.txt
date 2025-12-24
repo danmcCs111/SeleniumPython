@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_crusader_2_the_princess_the_pig"
+_ngcontent-gogcom-store-c1196613375="">Stronghold Crusader 2: The Princess &amp; The Pig</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oceanhorn_monster_of_uncharted_seas"
+_ngcontent-gogcom-store-c1196613375="">Oceanhorn: Monster of Uncharted Seas</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hotline_miami_2_wrong_number"
+_ngcontent-gogcom-store-c1196613375="">Hotline Miami 2: Wrong Number</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hotline_miami_2_wrong_number_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Hotline Miami 2: Wrong Number - Soundtrack</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hotline_miami_2_wrong_number_digital_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Hotline Miami 2: Wrong Number Digital Special Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hotline_miami_2_wrong_number_digital_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Hotline Miami 2: Wrong Number Digital Special Edition Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_evil_within_the_assignment"
+_ngcontent-gogcom-store-c1196613375="">The Evil Within: The Assignment</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shelter_2"
+_ngcontent-gogcom-store-c1196613375="">Shelter 2</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shelter_2_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Shelter 2 Special Edition</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shelter_2_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Shelter 2 Special Edition Upgrade</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_highland_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Highland Expansion</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_shape_shifter"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Shape Shifter</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormentum_dark_sorrow"
+_ngcontent-gogcom-store-c1196613375="">Tormentum: Dark Sorrow</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation_the_trigger"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation - The Trigger</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blackhole"
+_ngcontent-gogcom-store-c1196613375="">BLACKHOLE</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_king_of_fighters_2002_unlimited_match"
+_ngcontent-gogcom-store-c1196613375="">THE KING OF FIGHTERS 2002 UNLIMITED MATCH</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_guns_drums_and_steel_volume_2_music_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Guns, Drums and Steel Volume 2 Music Pack</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_europa_universalis_iv_el_dorado"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Europa Universalis IV: El Dorado</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/airships_conquer_the_skies"
+_ngcontent-gogcom-store-c1196613375="">Airships: Conquer the Skies</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/airships_conquer_the_skies_soundtrack_edition"
+_ngcontent-gogcom-store-c1196613375="">Airships: Conquer the Skies Soundtrack Edition</span>
+"final-value ng-star-inserted">$27.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/homeworld_remastered_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Homeworld® Remastered Soundtrack</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alfs_escape"
+_ngcontent-gogcom-store-c1196613375="">Oddworld: New 'n' Tasty - Alf's Escape</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scrub_abe"
+_ngcontent-gogcom-store-c1196613375="">Oddworld: New 'n' Tasty - Scrub Abe</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oddworld_new_n_tasty"
+_ngcontent-gogcom-store-c1196613375="">Oddworld: New ’n’ Tasty</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_fever"
+_ngcontent-gogcom-store-c1196613375="">Train Fever</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_book_of_unwritten_tales_2"
+_ngcontent-gogcom-store-c1196613375="">The Book of Unwritten Tales 2</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_book_of_unwritten_tales_2_almanac_edition"
+_ngcontent-gogcom-store-c1196613375="">The Book of Unwritten Tales 2 Almanac Edition</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$8.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/agarest_generations_of_war_2"
+_ngcontent-gogcom-store-c1196613375="">Agarest: Generations of War 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frozen_cortex"
+_ngcontent-gogcom-store-c1196613375="">Frozen Cortex</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reassembly"
+_ngcontent-gogcom-store-c1196613375="">Reassembly</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reassembly_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Reassembly Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hotline_miami_2_wrong_number_digital_comics"
+_ngcontent-gogcom-store-c1196613375="">Hotline Miami 2: Wrong Number - Digital Comics</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_2_secrets_of_aethera"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini 2: Secrets of Aethera</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hand_of_fate"
+_ngcontent-gogcom-store-c1196613375="">Hand of Fate</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_attila"
+_ngcontent-gogcom-store-c1196613375="">Total War: ATTILA</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paranautical_activity"
+_ngcontent-gogcom-store-c1196613375="">Paranautical Activity Deluxe Atonement Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sanctuaryrpg_black_edition"
+_ngcontent-gogcom-store-c1196613375="">Sanctuary RPG: Black Edition</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_escapists"
+_ngcontent-gogcom-store-c1196613375="">The Escapists</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/escapists_fhurst_peak_correctional_facility_the"
+_ngcontent-gogcom-store-c1196613375="">The Escapists: Fhurst Peak Correctional Facility</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation_lost_contact"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation - Lost Contact</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation - Season Pass</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_vs_chess_floating_island_dlc"
+_ngcontent-gogcom-store-c1196613375="">Battle vs Chess - Floating Island DLC</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunless_sea"
+_ngcontent-gogcom-store-c1196613375="">Sunless Sea</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$6.45</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terra_lander"
+_ngcontent-gogcom-store-c1196613375="">Terra Lander</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deathtrap"
+_ngcontent-gogcom-store-c1196613375="">Deathtrap</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/apotheon"
+_ngcontent-gogcom-store-c1196613375="">Apotheon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eden"
+_ngcontent-gogcom-store-c1196613375="">eden*</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/supreme_league_of_patriots_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Supreme League of Patriots: Season Pass</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

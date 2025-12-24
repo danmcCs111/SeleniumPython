@@ -1,0 +1,177 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grand_tactician_bundle"
+_ngcontent-gogcom-store-c1196613375="">Grand Tactician Bundle</span>
+"base-value ng-star-inserted">$79.99</span>
+"final-value ng-star-inserted">$59.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grand_tactician_the_civil_war"
+_ngcontent-gogcom-store-c1196613375="">Grand Tactician: The Civil War (1861-1865)</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$29.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_book_of_bondmaids_unrated_dlc"
+_ngcontent-gogcom-store-c1196613375="">The Book of Bondmaids - UNRATED DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_ii_medieval_swords_and_scimitars"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory II: Medieval - Swords and Scimitars</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries_jumpship_edition"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - JumpShip Edition</span>
+"final-value ng-star-inserted">$59.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries_legend_of_the_kestrel_lancers"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sable"
+_ngcontent-gogcom-store-c1196613375="">Sable</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$8.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_plane_effect"
+_ngcontent-gogcom-store-c1196613375="">The Plane Effect</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_signal_state"
+_ngcontent-gogcom-store-c1196613375="">The Signal State</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sheltered_2"
+_ngcontent-gogcom-store-c1196613375="">Sheltered 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sheltered_double_pack"
+_ngcontent-gogcom-store-c1196613375="">Sheltered Double Pack</span>
+"base-value ng-star-inserted">$31.49</span>
+"final-value ng-star-inserted">$5.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trap_genesis"
+_ngcontent-gogcom-store-c1196613375="">Trap Genesis</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trap_genesis_theme_songs"
+_ngcontent-gogcom-store-c1196613375="">Trap Genesis Theme Songs</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trap_genesis_unrated"
+_ngcontent-gogcom-store-c1196613375="">Trap Genesis UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aragami_2"
+_ngcontent-gogcom-store-c1196613375="">Aragami 2</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/behind_the_frame_the_finest_scenery_art_book"
+_ngcontent-gogcom-store-c1196613375="">Behind the Frame: The Finest Scenery - Art Book</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_pirate_hat"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Pirate Hat</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/severed_steel"
+_ngcontent-gogcom-store-c1196613375="">Severed Steel</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/severed_steel_art_book"
+_ngcontent-gogcom-store-c1196613375="">Severed Steel Art Book</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/severed_steel_digital_deluxe_version"
+_ngcontent-gogcom-store-c1196613375="">Severed Steel Digital Deluxe Version</span>
+"final-value ng-star-inserted">$33.23</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/severed_steel_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Severed Steel Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_of_iron_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tails of Iron - Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_of_iron_barbarian_ratsody"
+_ngcontent-gogcom-store-c1196613375="">Tails of Iron Barbarian Ratsody</span>
+"base-value ng-star-inserted">$27.53</span>
+"final-value ng-star-inserted">$8.25</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/toem"
+_ngcontent-gogcom-store-c1196613375="">TOEM</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/toem_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">TOEM Original Soundtrack</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eastward"
+_ngcontent-gogcom-store-c1196613375="">Eastward</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gamedec"
+_ngcontent-gogcom-store-c1196613375="">Gamedec - Definitive Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gamedec_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Gamedec - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$34.29</span>
+"final-value ng-star-inserted">$10.28</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gamedec_demo"
+_ngcontent-gogcom-store-c1196613375="">Gamedec Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gamedec_digital_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Gamedec: Digital Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gamedec_the_official_guidebook"
+_ngcontent-gogcom-store-c1196613375="">Gamedec: The Official Guidebook</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_amazing_american_circus"
+_ngcontent-gogcom-store-c1196613375="">The Amazing American Circus</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_amazing_american_circus_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Amazing American Circus - The Circus Symphony</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.51</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_amazing_american_circus_the_ringmasters_essentials"
+_ngcontent-gogcom-store-c1196613375="">The Amazing American Circus - The Ringmaster's Essentials</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_amazing_american_circus_the_ringmasters_edition"
+_ngcontent-gogcom-store-c1196613375="">The Amazing American Circus - The Ringmaster’s Edition</span>
+"base-value ng-star-inserted">$19.89</span>
+"final-value ng-star-inserted">$2.58</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_art_of_gamedec"
+_ngcontent-gogcom-store-c1196613375="">The Art of Gamedec</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flynn_son_of_crimson"
+_ngcontent-gogcom-store-c1196613375="">Flynn: Son of Crimson</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slender_threads_prologue"
+_ngcontent-gogcom-store-c1196613375="">Slender Threads: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/timberborn_and_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Timberborn + Soundtrack</span>
+"base-value ng-star-inserted">$41.98</span>
+"final-value ng-star-inserted">$25.18</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/timberborn_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Timberborn Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_keepers_return_of_the_godess"
+_ngcontent-gogcom-store-c1196613375="">Legend of Keepers: Return of the Goddess</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mondealy_demo"
+_ngcontent-gogcom-store-c1196613375="">Mondealy Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lamentum_digital_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Lamentum Digital Deluxe</span>
+"final-value ng-star-inserted">$18.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lamentum_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lamentum Soundtrack</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kraken_academy"
+_ngcontent-gogcom-store-c1196613375="">Kraken Academy!!</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$5.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kraken_academy_end_of_the_world_edition"
+_ngcontent-gogcom-store-c1196613375="">Kraken Academy!! End of the World Edition</span>
+"base-value ng-star-inserted">$27.99</span>
+"final-value ng-star-inserted">$8.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kraken_academy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kraken Academy!! Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_rewinder"
+_ngcontent-gogcom-store-c1196613375="">The Rewinder</span>
+"final-value ng-star-inserted">$14.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,202 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grim_dawn_loyalist_item_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Grim Dawn - Loyalist Item Pack #2</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/contra_anniversary_collection"
+_ngcontent-gogcom-store-c1196613375="">Contra Anniversary Collection</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_ancient_relics_story_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Ancient Relics Story Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_chaosbane"
+_ngcontent-gogcom-store-c1196613375="">Warhammer: Chaosbane</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spellforce_3_soul_harvest"
+_ngcontent-gogcom-store-c1196613375="">SpellForce 3: Soul Harvest</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alternate_dimansion_diary"
+_ngcontent-gogcom-store-c1196613375="">Alternate DiMansion Diary</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathologic_2"
+_ngcontent-gogcom-store-c1196613375="">Pathologic 2</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_plague_tale_innocence"
+_ngcontent-gogcom-store-c1196613375="">A Plague Tale: Innocence</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_kiwami_2"
+_ngcontent-gogcom-store-c1196613375="">Yakuza Kiwami 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_kiwami_2_clan_creator_bundle"
+_ngcontent-gogcom-store-c1196613375="">Yakuza Kiwami 2 - Clan Creator Bundle</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ost_atmospheres_additionals"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance – OST Atmospheres &amp; Additionals</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hypnospace_outlaw"
+_ngcontent-gogcom-store-c1196613375="">Hypnospace Outlaw</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_2"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_2_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada 2 - Complete Edition</span>
+"base-value ng-star-inserted">$32.28</span>
+"final-value ng-star-inserted">$10.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/feudal_alloy"
+_ngcontent-gogcom-store-c1196613375="">Feudal Alloy</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/niplheims_hunter_branded_azel"
+_ngcontent-gogcom-store-c1196613375="">Niplheim's Hunter - Branded Azel</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_kingmaker_the_wildcards"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Kingmaker - The Wildcards</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_ii_deadfire_the_forgotten_sanctum"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity II: Deadfire - The Forgotten Sanctum</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadows_awakening_necrophages_curse"
+_ngcontent-gogcom-store-c1196613375="">Shadows: Awakening – Necrophage’s Curse</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darksiders_iii"
+_ngcontent-gogcom-store-c1196613375="">Darksiders III</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grip"
+_ngcontent-gogcom-store-c1196613375="">GRIP</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_dynasty_edition"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League: Dynasty Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadows_awakening_the_chromaton_chronicles"
+_ngcontent-gogcom-store-c1196613375="">Shadows: Awakening - The Chromaton Chronicles</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_ii_deadfire_seeker_slayer_survivor"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/breathedge"
+_ngcontent-gogcom-store-c1196613375="">Breathedge</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/construction_simulator_2_us_pocket_edition"
+_ngcontent-gogcom-store-c1196613375="">Construction Simulator 2 US - Pocket Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_messenger"
+_ngcontent-gogcom-store-c1196613375="">The Messenger</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/7_billion_humans"
+_ngcontent-gogcom-store-c1196613375="">7 Billion Humans</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/we_happy_few_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">We Happy Few Deluxe Edition</span>
+"base-value ng-star-inserted">$79.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_0"
+_ngcontent-gogcom-store-c1196613375="">Yakuza 0</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/banner_saga_3"
+_ngcontent-gogcom-store-c1196613375="">Banner Saga 3</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/red_faction_guerrilla_remarstered"
+_ngcontent-gogcom-store-c1196613375="">Red Faction Guerrilla Re-Mars-tered</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/evenicle"
+_ngcontent-gogcom-store-c1196613375="">Evenicle</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$29.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darkest_dungeon_the_color_of_madness"
+_ngcontent-gogcom-store-c1196613375="">Darkest Dungeon®: The Color Of Madness</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wreckfest"
+_ngcontent-gogcom-store-c1196613375="">Wreckfest</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/agony_agony_unrated"
+_ngcontent-gogcom-store-c1196613375="">Agony + Agony UNRATED</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonlighter"
+_ngcontent-gogcom-store-c1196613375="">Moonlighter</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slipstream"
+_ngcontent-gogcom-store-c1196613375="">Slipstream</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fox_n_forests"
+_ngcontent-gogcom-store-c1196613375="">FOX n FORESTS</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simon_the_sorcerer_2"
+_ngcontent-gogcom-store-c1196613375="">Simon the Sorcerer 2: 25th Anniversary Edition</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simon_the_sorcerer"
+_ngcontent-gogcom-store-c1196613375="">Simon the Sorcerer: 25th Anniversary Edition</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jalopy"
+_ngcontent-gogcom-store-c1196613375="">Jalopy</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_heroes_of_neverwinter"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Heroes of Neverwinter</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pizza_connection_3"
+_ngcontent-gogcom-store-c1196613375="">Pizza Connection 3</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kerbal_space_program_making_history"
+_ngcontent-gogcom-store-c1196613375="">Kerbal Space Program: Making History</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_council"
+_ngcontent-gogcom-store-c1196613375="">The Council</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/into_the_breach"
+_ngcontent-gogcom-store-c1196613375="">Into the Breach</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartile"
+_ngcontent-gogcom-store-c1196613375="">WARTILE</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

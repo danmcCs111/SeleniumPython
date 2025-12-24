@@ -1,0 +1,182 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_dlc_set_8"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - DLC Set 8</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/to_be_a_king_volume_1"
+_ngcontent-gogcom-store-c1196613375="">To Be A King - Volume 1</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/to_be_a_king_bundle"
+_ngcontent-gogcom-store-c1196613375="">To Be A King Bundle</span>
+"base-value ng-star-inserted">$16.18</span>
+"final-value ng-star-inserted">$12.13</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/to_be_a_king_volume_1_official_guide"
+_ngcontent-gogcom-store-c1196613375="">To Be A King Volume 1 - Official Guide</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/undetected"
+_ngcontent-gogcom-store-c1196613375="">UNDETECTED</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/undetected_demo"
+_ngcontent-gogcom-store-c1196613375="">UNDETECTED Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brok_the_investigator_artbook"
+_ngcontent-gogcom-store-c1196613375="">BROK The InvestiGator - Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroyer_the_uboat_hunter_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Destroyer: The U-Boat Hunter Supporter Bundle</span>
+"base-value ng-star-inserted">$35.99</span>
+"final-value ng-star-inserted">$13.31</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/funtasia"
+_ngcontent-gogcom-store-c1196613375="">Funtasia</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gamedec_definitive_edition_free_characters_bundle"
+_ngcontent-gogcom-store-c1196613375="">Gamedec - Definitive Edition - Free Characters Bundle</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/our_life_beginnings_always_dereks_story"
+_ngcontent-gogcom-store-c1196613375="">Our Life: Beginnings &amp; Always - Derek's Story</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroyer_the_uboat_hunter"
+_ngcontent-gogcom-store-c1196613375="">Destroyer: The U-Boat Hunter</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroyer_the_uboat_hunter_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Destroyer: The U-Boat Hunter - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonscars"
+_ngcontent-gogcom-store-c1196613375="">Moonscars</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_excavation_of_hobs_barrow_art_book"
+_ngcontent-gogcom-store-c1196613375="">The Excavation of Hob's Barrow - Art Book</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_excavation_of_hobs_barrow_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Excavation of Hob's Barrow - Official Soundtrack</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dome_keeper"
+_ngcontent-gogcom-store-c1196613375="">Dome Keeper</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dome_keeper_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dome Keeper Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dome_keeper_engineer_gear_pack"
+_ngcontent-gogcom-store-c1196613375="">Dome Keeper: Engineer Gear Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_from_zero"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails from Zero</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$27.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_spirit_and_the_mouse"
+_ngcontent-gogcom-store-c1196613375="">The Spirit and the Mouse</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paramnesia"
+_ngcontent-gogcom-store-c1196613375="">Paramnesia</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tower_of_ardia"
+_ngcontent-gogcom-store-c1196613375="">Tower of Ardia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tower_of_ardia_unrated"
+_ngcontent-gogcom-store-c1196613375="">Tower of Ardia UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beacon_pines"
+_ngcontent-gogcom-store-c1196613375="">Beacon Pines</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beacon_pines_artbook"
+_ngcontent-gogcom-store-c1196613375="">Beacon Pines Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beacon_pines_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Beacon Pines Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beacon_pines_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Beacon Pines: Collector's Edition</span>
+"base-value ng-star-inserted">$35.97</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chasmtherift_demo"
+_ngcontent-gogcom-store-c1196613375="">Chasm: The Rift Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flashout_3_demo"
+_ngcontent-gogcom-store-c1196613375="">Flashout 3 Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flashout_3_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Flashout 3 Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gloomhaven_solo_scenarios_pack_mercenary_challenges"
+_ngcontent-gogcom-store-c1196613375="">Gloomhaven - Solo Scenarios Pack: Mercenary Challenges</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/infraspace"
+_ngcontent-gogcom-store-c1196613375="">InfraSpace</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_place_for_bravery"
+_ngcontent-gogcom-store-c1196613375="">No Place for Bravery</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_allies_victorious"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Allies Victorious</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_adventurer_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Adventurer Bundle</span>
+"base-value ng-star-inserted">$4.76</span>
+"final-value ng-star-inserted">$3.33</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_pet_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Pet Bundle</span>
+"base-value ng-star-inserted">$3.18</span>
+"final-value ng-star-inserted">$2.22</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_plushie_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Plushie Bundle</span>
+"base-value ng-star-inserted">$1.58</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_poster_f"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Poster (F)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_poster_m"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Poster (M)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_steampunk_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Steampunk Bundle</span>
+"base-value ng-star-inserted">$4.76</span>
+"final-value ng-star-inserted">$3.33</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_summer_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Summer Bundle</span>
+"base-value ng-star-inserted">$3.16</span>
+"final-value ng-star-inserted">$2.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serial_cleaners"
+_ngcontent-gogcom-store-c1196613375="">Serial Cleaners</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_life_1920s_orientexpress_train"
+_ngcontent-gogcom-store-c1196613375="">Train Life - 1920's Orient-Express Train</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vagrus_the_riven_realms_seekers_of_knowledge"
+_ngcontent-gogcom-store-c1196613375="">Vagrus - The Riven Realms: Seekers of Knowledge</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/diluvian_winds_prologue"
+_ngcontent-gogcom-store-c1196613375="">Diluvian Winds: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/there_is_no_light"
+_ngcontent-gogcom-store-c1196613375="">There Is No Light</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$8.74</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

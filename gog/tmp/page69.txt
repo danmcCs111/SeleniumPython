@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_sin_soundtrack_pack"
+_ngcontent-gogcom-store-c1196613375="">Mortal Sin + Soundtrack Pack</span>
+"base-value ng-star-inserted">$29.03</span>
+"final-value ng-star-inserted">$23.22</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_sin_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mortal Sin Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/incision"
+_ngcontent-gogcom-store-c1196613375="">INCISION</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/node_the_last_favor_of_the_antarii"
+_ngcontent-gogcom-store-c1196613375="">NODE: The Last Favor of the Antarii</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/node_the_last_favor_of_the_antarii_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">NODE: The Last Favor of the Antarii + Soundtrack</span>
+"base-value ng-star-inserted">$21.98</span>
+"final-value ng-star-inserted">$16.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/node_the_last_favor_of_the_antarii_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">NODE: The Last Favor of the Antarii Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oddsparks_an_automation_adventure_craftsmans_elemental_decorations_pack"
+_ngcontent-gogcom-store-c1196613375="">Oddsparks: An Automation Adventure - Craftsman's Elemental Decorations Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_supper_new_blood"
+_ngcontent-gogcom-store-c1196613375="">The Supper: New Blood</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_supper_new_blood_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Supper: New Blood Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vlad_circus_curse_of_asmodeus"
+_ngcontent-gogcom-store-c1196613375="">Vlad Circus: Curse of Asmodeus</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nikoderiko_the_magical_world_demo"
+_ngcontent-gogcom-store-c1196613375="">Nikoderiko: The Magical World Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/altheia_the_wrath_of_aferi"
+_ngcontent-gogcom-store-c1196613375="">Altheia: The Wrath of Aferi</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/discounty"
+_ngcontent-gogcom-store-c1196613375="">Discounty</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/discounty_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Discounty - Supporter Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/discounty_the_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Discounty - The Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knightica"
+_ngcontent-gogcom-store-c1196613375="">Knightica</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/labyrinth_flowers_unrated"
+_ngcontent-gogcom-store-c1196613375="">Labyrinth Flowers UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shantae_advance_risky_revolution"
+_ngcontent-gogcom-store-c1196613375="">Shantae Advance: Risky Revolution</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shantae_advance_risky_revolution_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Shantae Advance: Risky Revolution Deluxe Edition</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hordelord"
+_ngcontent-gogcom-store-c1196613375="">Hordelord</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bendy_lone_wolf"
+_ngcontent-gogcom-store-c1196613375="">Bendy: Lone Wolf</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revolution_editions_shadow_steel"
+_ngcontent-gogcom-store-c1196613375="">Revolution Editions - Shadow &amp; Steel</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_random_the_eternal_die_stitched_in_style"
+_ngcontent-gogcom-store-c1196613375="">Lost in Random: The Eternal Die - Stitched in Style</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_random_the_eternal_die_complete"
+_ngcontent-gogcom-store-c1196613375="">Lost In Random: The Eternal Die Complete</span>
+"base-value ng-star-inserted">$39.56</span>
+"final-value ng-star-inserted">$27.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brok_the_investigator_complete"
+_ngcontent-gogcom-store-c1196613375="">BROK the InvestiGator Complete</span>
+"base-value ng-star-inserted">$26.99</span>
+"final-value ng-star-inserted">$21.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brok_the_investigator_the_brawl_bar"
+_ngcontent-gogcom-store-c1196613375="">BROK: The Brawl Bar</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/age_of_wonders_4_archon_prophecy"
+_ngcontent-gogcom-store-c1196613375="">Age of Wonders 4: Archon Prophecy</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_city_brawl"
+_ngcontent-gogcom-store-c1196613375="">Fallen City Brawl</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$12.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mandragora_whispers_of_the_witch_tree_digital_deluxe_upgrade_bundle"
+_ngcontent-gogcom-store-c1196613375="">Mandragora: Whispers of the Witch Tree — Digital Deluxe Upgrade Bundle</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gemporium_a_cute_mining_sim"
+_ngcontent-gogcom-store-c1196613375="">Gemporium: A Cute Mining Sim</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elroy_and_the_aliens_artbook"
+_ngcontent-gogcom-store-c1196613375="">Elroy and the Aliens Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elroy_and_the_aliens_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Elroy and the Aliens: Deluxe Edition</span>
+"base-value ng-star-inserted">$23.37</span>
+"final-value ng-star-inserted">$16.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paper_animal_adventure"
+_ngcontent-gogcom-store-c1196613375="">Paper Animal Adventure</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stalker_2_heart_of_chornobyl_deluxe_to_ultimate_upgrade"
+_ngcontent-gogcom-store-c1196613375="">S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe to Ultimate Upgrade</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stalker_2_heart_of_chornobyl_standard_to_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">S.T.A.L.K.E.R. 2: Heart of Chornobyl - Standard to Deluxe Upgrade</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stalker_2_heart_of_chornobyl_standard_to_ultimate_upgrade"
+_ngcontent-gogcom-store-c1196613375="">S.T.A.L.K.E.R. 2: Heart of Chornobyl - Standard to Ultimate Upgrade</span>
+"final-value ng-star-inserted">$54.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_house_of_the_dead_2_remake"
+_ngcontent-gogcom-store-c1196613375="">THE HOUSE OF THE DEAD 2: Remake</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$16.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tukoni_forest_keepers_demo"
+_ngcontent-gogcom-store-c1196613375="">Tukoni: Forest Keepers Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wild_west_supermarket_simulator"
+_ngcontent-gogcom-store-c1196613375="">Wild West Supermarket Simulator</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sengoku_dynasty_official_guide"
+_ngcontent-gogcom-store-c1196613375="">Sengoku Dynasty - Official Guide</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$8.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yokai_busters_unrated"
+_ngcontent-gogcom-store-c1196613375="">Yokai Busters UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bee_simulator_the_hive"
+_ngcontent-gogcom-store-c1196613375="">Bee Simulator: The Hive</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$16.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bee_simulator_the_hive_artbook"
+_ngcontent-gogcom-store-c1196613375="">Bee Simulator: The Hive - Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valiant_tactics"
+_ngcontent-gogcom-store-c1196613375="">Valiant Tactics</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ikarus_parkour"
+_ngcontent-gogcom-store-c1196613375="">Ikarus Parkour</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$8.44</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunrider_legends_tactics"
+_ngcontent-gogcom-store-c1196613375="">Sunrider Legends Tactics</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomic_owl"
+_ngcontent-gogcom-store-c1196613375="">Atomic Owl</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomic_owl_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Atomic Owl Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.19</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

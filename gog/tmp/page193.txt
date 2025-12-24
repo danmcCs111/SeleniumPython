@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/goliath"
+_ngcontent-gogcom-store-c1196613375="">Goliath</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris"
+_ngcontent-gogcom-store-c1196613375="">Stellaris</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_galaxy_edition"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Galaxy Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kathy_rain_demo"
+_ngcontent-gogcom-store-c1196613375="">Kathy Rain demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_nether_realm_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Nether Realm Expansion</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fragments_of_him"
+_ngcontent-gogcom-store-c1196613375="">Fragments of Him</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crypt_of_the_necrodancer_extended_soundtrack_2"
+_ngcontent-gogcom-store-c1196613375="">Crypt of the Necrodancer - Extended Soundtrack 2</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bastard_bonds"
+_ngcontent-gogcom-store-c1196613375="">Bastard Bonds</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$4.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company_almanac_dlc"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company - Almanac DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company_ost"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company - OST</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company_real_mars_map_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company - Real Mars Map Pack DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pharaonic"
+_ngcontent-gogcom-store-c1196613375="">Pharaonic</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kindred_spirits_on_the_roof_drama_cd_vol1"
+_ngcontent-gogcom-store-c1196613375="">Kindred Spirits on the Roof Drama CD Vol.1</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ori_and_the_blind_forest_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Ori and the Blind Forest: Definitive Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/big_pharma_marketing_and_malpractice"
+_ngcontent-gogcom-store-c1196613375="">Big Pharma: Marketing and Malpractice</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.03</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cornerstone_the_song_of_tyrim"
+_ngcontent-gogcom-store-c1196613375="">Cornerstone: The Song of Tyrim</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deserts_of_kharak_khaaneph_fleet_pack"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak - Khaaneph Fleet Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neon_chrome"
+_ngcontent-gogcom-store-c1196613375="">Neon Chrome</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neon_chrome_arena"
+_ngcontent-gogcom-store-c1196613375="">Neon Chrome - Arena</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neon_chrome_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Neon Chrome Deluxe Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neon_chrome_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neon Chrome Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/corpse_party"
+_ngcontent-gogcom-store-c1196613375="">Corpse Party</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_armies"
+_ngcontent-gogcom-store-c1196613375="">8-bit Armies</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_armies_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">8-bit Armies Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_the_day_we_found_earth_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">OPUS: The Day We Found Earth - Original Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$6.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_the_day_we_found_earth_soundtrack_edition"
+_ngcontent-gogcom-store-c1196613375="">OPUS: The Day We Found Earth - Soundtrack Edition</span>
+"base-value ng-star-inserted">$14.38</span>
+"final-value ng-star-inserted">$5.03</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_ruler_2_wake_of_the_heralds"
+_ngcontent-gogcom-store-c1196613375="">Star Ruler 2: Wake of the Heralds</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada - Complete Edition</span>
+"base-value ng-star-inserted">$26.32</span>
+"final-value ng-star-inserted">$7.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_the_day_we_found_earth"
+_ngcontent-gogcom-store-c1196613375="">OPUS: The Day We Found Earth</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/megamagic_wizards_of_the_neon_age"
+_ngcontent-gogcom-store-c1196613375="">Megamagic: Wizards of the Neon Age</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/banner_saga_2_the"
+_ngcontent-gogcom-store-c1196613375="">Banner Saga 2</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/banner_saga_2_the_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Banner Saga 2 - Deluxe Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/banner_saga_2_the_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Banner Saga 2 - Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_gun_psycho_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light: Gun Psycho Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_harran_ranger_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light: Harran Ranger Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_volatile_hunter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light: Volatile Hunter Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_warlords_digital_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini Warlords - Digital Deluxe Upgrade</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_warlords"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini Warlords</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_warlords_cycle_of_warfare"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini Warlords - Cycle of Warfare</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_warlords_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini Warlords - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/democracy_3_africa"
+_ngcontent-gogcom-store-c1196613375="">Democracy 3: Africa</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$5.77</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stories_the_path_of_destinies"
+_ngcontent-gogcom-store-c1196613375="">Stories: The Path of Destinies</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stories_the_path_of_destinies_artbook"
+_ngcontent-gogcom-store-c1196613375="">Stories: The Path of Destinies - Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stories_the_path_of_destinies_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Stories: The Path of Destinies - Original Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_quest_islands_of_ice_and_fire"
+_ngcontent-gogcom-store-c1196613375="">The Quest - Islands of Ice and Fire</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldurs_gate_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Baldur's Gate Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_us_marines"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: U.S. Marines</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

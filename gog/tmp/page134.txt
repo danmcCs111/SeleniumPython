@@ -1,0 +1,183 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/insomnis"
+_ngcontent-gogcom-store-c1196613375="">Insomnis</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/watch_over_christmas_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Watch Over Christmas Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/being_a_dik_season_2_the_complete_official_guide"
+_ngcontent-gogcom-store-c1196613375="">Being a DIK: Season 2 - The complete official guide</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dead_cells_dlc_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dead Cells: DLC Bundle</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dead_cells_the_queen_and_the_sea"
+_ngcontent-gogcom-store-c1196613375="">Dead Cells: The Queen and the Sea</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kurokamisamas_feast_demo"
+_ngcontent-gogcom-store-c1196613375="">Kurokami-sama's Feast Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_deadly_frost_pack"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite Deadly Frost Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/martial_law"
+_ngcontent-gogcom-store-c1196613375="">Martial Law</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtual_rides_3_forge"
+_ngcontent-gogcom-store-c1196613375="">Virtual Rides 3 - Forge</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_echo_of_starsong_complete_soundtrack_vol1"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Echo of Starsong - Complete Soundtrack Vol.1</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_echo_of_starsong_complete_soundtrack_vol2"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Echo of Starsong - Complete Soundtrack Vol.2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_paint_of_war"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Wrath of the Righteous - Paint of War</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/concordia_digital_edition_corsica_gallia"
+_ngcontent-gogcom-store-c1196613375="">Concordia: Digital Edition - Gallia &amp; Corsica</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hundred_days_winemaking_simulator_napa_valley"
+_ngcontent-gogcom-store-c1196613375="">Hundred Days - Napa Valley</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_elf_hat"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Elf Hat</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_festive_christmas_outfit"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Festive Christmas Outfit</span>
+"base-value ng-star-inserted">$2.37</span>
+"final-value ng-star-inserted">$1.30</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_giant_candy_cane"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Giant Candy Cane</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_giant_snowflake"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Giant Snowflake</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_grouch_christmas_outfit"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Grouch Christmas Outfit</span>
+"base-value ng-star-inserted">$2.37</span>
+"final-value ng-star-inserted">$1.30</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_grouch_skin"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Grouch Skin</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_rudolph_skin"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Rudolph Skin</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_santa_hat"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Santa Hat</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punk_wars_hold_the_line"
+_ngcontent-gogcom-store-c1196613375="">Punk Wars: Hold the Line</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sam_max_beyond_time_and_space_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sam &amp; Max: Beyond Time and Space Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brutal_orchestra"
+_ngcontent-gogcom-store-c1196613375="">Brutal Orchestra</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brutal_orchestra_the_bundle_of_earthly_delights"
+_ngcontent-gogcom-store-c1196613375="">Brutal Orchestra - The Bundle of Earthly Delights</span>
+"base-value ng-star-inserted">$29.98</span>
+"final-value ng-star-inserted">$19.18</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brutal_orchestra_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Brutal Orchestra Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/christmas_massacre"
+_ngcontent-gogcom-store-c1196613375="">Christmas Massacre</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_beyond_a_joke"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One - Beyond a Joke</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alfred_hitchcock_vertigo_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Alfred Hitchcock - Vertigo - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alfred_hitchcock_vertigo_digital_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Alfred Hitchcock - Vertigo - Digital Deluxe Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blind_fate_edo_no_yami_prologue"
+_ngcontent-gogcom-store-c1196613375="">Blind Fate: Edo no Yami - Dojo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_snow_ops_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - Snow Ops Bundle</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_whisperer"
+_ngcontent-gogcom-store-c1196613375="">The Whisperer</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asteroids_recharged"
+_ngcontent-gogcom-store-c1196613375="">Asteroids Recharged</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomicrops_deluxe_edition_1615641224"
+_ngcontent-gogcom-store-c1196613375="">Atomicrops Deluxe Edition + DLC</span>
+"base-value ng-star-inserted">$22.50</span>
+"final-value ng-star-inserted">$6.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomicrops_reap_what_you_crow"
+_ngcontent-gogcom-store-c1196613375="">Atomicrops: Reap What You Crow</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdoms_of_amalur_rereckoning_fatesworn"
+_ngcontent-gogcom-store-c1196613375="">Kingdoms of Amalur: Re-Reckoning - Fatesworn</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/othercide_dressed_to_kill_cosmetics_pack"
+_ngcontent-gogcom-store-c1196613375="">Othercide - Dressed to Kill - Cosmetics Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scrapland_remastered"
+_ngcontent-gogcom-store-c1196613375="">Scrapland Remastered</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cleo_a_pirates_tale"
+_ngcontent-gogcom-store-c1196613375="">Cleo - a pirate's tale</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cleo_a_pirates_tale_deluxe_content"
+_ngcontent-gogcom-store-c1196613375="">Cleo - a pirate’s tale - Deluxe Content</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/being_a_dik_season_1_2_acting_lessons_bundle"
+_ngcontent-gogcom-store-c1196613375="">Being a DIK: Season 1 &amp; 2 + Acting Lessons Bundle</span>
+"base-value ng-star-inserted">$41.77</span>
+"final-value ng-star-inserted">$31.32</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/being_a_dik_season_1_2_guide_bundle"
+_ngcontent-gogcom-store-c1196613375="">Being a DIK: Season 1 &amp; 2 + Guide Bundle</span>
+"base-value ng-star-inserted">$41.75</span>
+"final-value ng-star-inserted">$30.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_tycoon_under_new_management"
+_ngcontent-gogcom-store-c1196613375="">Prison Tycoon: Under New Management</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_tycoon_under_new_management_roll_call"
+_ngcontent-gogcom-store-c1196613375="">Prison Tycoon: Under New Management - Roll Call</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_chronicles_of_myrtana_archolos"
+_ngcontent-gogcom-store-c1196613375="">The Chronicles Of Myrtana: Archolos</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

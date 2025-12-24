@@ -1,0 +1,476 @@
+GameTitle_Game_GameDatabase GameUrl_Game_GameDatabase GameBaseValue_Game_GameDatabase GameFinalValue_Game_GameDatabase
+title link base-value final-value
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Angeline-Era-OST--Volume-1-",
+"https://www.gog.com/en/game/angeline_era_ost_volume_1",
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Angeline-Era-OST--Volume-2-",
+"https://www.gog.com/en/game/angeline_era_ost_volume_2",
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Angeline-Era-Supporter-Bundle",
+"https://www.gog.com/en/game/angeline_era_supporter_bundle",
+46.89,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Frostpunk-2---Fractured-Utopias",
+"https://www.gog.com/en/game/frostpunk_2_fractured_utopias",
+12.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Tainted-Grail--The-Fall-of-Avalon---Bonus-Content--1",
+"https://www.gog.com/en/game/tainted_grail_the_fall_of_avalon_bonus_content_1",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Medieval-Dynasty---Exquisite-Pack",
+"https://www.gog.com/en/game/medieval_dynasty_exquisite_pack",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Flotsam",
+"https://www.gog.com/en/game/flotsam",
+24.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Northgard--Definitive-Edition",
+"https://www.gog.com/en/game/northgard_definitive_edition",
+34.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Dystopika--B-Sides",
+"https://www.gog.com/en/game/dystopika_bsides",
+2.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Rising-Heat",
+"https://www.gog.com/en/game/rising_heat",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"She-s-Leaving",
+"https://www.gog.com/en/game/shes_leaving",
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"S-T-A-L-K-E-R--G-A-M-M-A-",
+"https://www.gog.com/en/game/stalker_gamma",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Formula-Legends--Pioneer-Pack",
+"https://www.gog.com/en/game/formula_legends_pioneer_pack",
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"LOST-EMBER--Legendary-Souls",
+"https://www.gog.com/en/game/lost_ember_legendary_souls",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"LOST-EMBER--Rekindled-Edition",
+"https://www.gog.com/en/game/lost_ember_rekindled_edition",
+29.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"LoveR-Kiss-Endless-Memories",
+"https://www.gog.com/en/game/lover_kiss_endless_memories",
+44.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"LoveR-Kiss-Endless-Memories-Demo",
+"https://www.gog.com/en/game/lover_kiss_endless_memories_demo",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Band-of-Crusaders-Demo",
+"https://www.gog.com/en/game/band_of_crusaders_demo",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Brotherhood",
+"https://www.gog.com/en/game/brotherhood",
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Holy-Valkyrie-EXS-TiA--Concerto-1",
+"https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_1",
+19.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Holy-Valkyrie-EXS-TiA--Concerto-1-UNRATED",
+"https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_1_unrated",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Holy-Valkyrie-EXS-TiA--Concerto-2",
+"https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_2",
+19.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Holy-Valkyrie-EXS-TiA--Concerto-2-UNRATED",
+"https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_2_unrated",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Strategic-Command--American-Civil-War---Concert-of-Europe",
+"https://www.gog.com/en/game/strategic_command_american_civil_war_concert_of_europe",
+14.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"TORMENTOR---Artbook",
+"https://www.gog.com/en/game/tormentor_artbook",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"TORMENTOR---Comic-Book",
+"https://www.gog.com/en/game/tormentor_comic_book",
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"TORMENTOR---Soundtrack",
+"https://www.gog.com/en/game/tormentor_soundtrack",
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"TORMENTOR---Supporter",
+"https://www.gog.com/en/game/tormentor_supporter",
+5.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"TORMENTOR-Deluxe-Edition",
+"https://www.gog.com/en/game/tormentor_deluxe_edition",
+30.07,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Hunter-s-Moon--A-Sovereign-Syndicate-Adventure",
+"https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure",
+19.99,
+17.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Hunter-s-Moon--A-Sovereign-Syndicate-Adventure---Digital-Artbook",
+"https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure_digital_artbook",
+9.99,
+8.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Hunter-s-Moon--A-Sovereign-Syndicate-Adventure---Digital-Deluxe-Edition",
+"https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure_digital_deluxe_edition",
+35.97,
+32.37,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Hunter-s-Moon--A-Sovereign-Syndicate-Adventure---Soundtrack",
+"https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure_soundtrack",
+9.99,
+8.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Fetish-Locator--S-amp-M-Studio-Soundtrack",
+"https://www.gog.com/en/game/fetish_locator_sm_studio_soundtrack",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Galador---The-Prince-and-the-Coward---Digital-Deluxe-Content",
+"https://www.gog.com/en/game/galador_the_prince_and_the_coward_digital_deluxe_content",
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Galador---The-Prince-and-the-Coward---Digital-Deluxe-Edition",
+"https://www.gog.com/en/game/galador_the_prince_and_the_coward_digital_deluxe_edition",
+11.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Galador---The-Prince-and-the-Coward---Soundtrack",
+"https://www.gog.com/en/game/galador_the_prince_and_the_coward_soundtrack",
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Gorky-17---Digital-Deluxe-Content",
+"https://www.gog.com/en/game/gorky_17_digital_deluxe_content",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Gorky-17---Digital-Deluxe-Edition",
+"https://www.gog.com/en/game/gorky_17_digital_deluxe_edition",
+15.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Gorky-17---Soundtrack",
+"https://www.gog.com/en/game/gorky_17_soundtrack",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Kriophobia",
+"https://www.gog.com/en/game/kriophobia",
+14.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Monsters-are-Coming--Rock--amp--Road",
+"https://www.gog.com/en/game/monsters_are_coming_rock_road",
+8.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Typhon--Bot-vs-Bot",
+"https://www.gog.com/en/game/typhon_bot_vs_bot",
+19.99,
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Home-Sweet-Homecoming",
+"https://www.gog.com/en/game/home_sweet_homecoming",
+24.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Home-Sweet-Homecoming-UNRATED",
+"https://www.gog.com/en/game/home_sweet_homecoming_unrated",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"SpongeBob-SquarePants--Titans-of-the-Tide---Ghostly-Digital-Edition",
+"https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_ghostly_digital_edition",
+54.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"SpongeBob-SquarePants--Titans-of-the-Tide---Natural-Costume-Pack",
+"https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_natural_costume_pack",
+2.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"SpongeBob-SquarePants--Titans-of-the-Tide---Plankton-s-Portal-Challenge",
+"https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_planktons_portal_challenge",
+9.99,
+CURRENT_TIMESTAMP);

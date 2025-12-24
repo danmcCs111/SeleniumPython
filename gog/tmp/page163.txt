@@ -1,0 +1,177 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_tribute_to_dday_pack"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Tribute to D-Day Pack</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$3.90</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mosaique_neko_waifus_2"
+_ngcontent-gogcom-store-c1196613375="">Mosaique Neko Waifus 2</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtuaverse_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">VirtuaVerse - Soundtrack</span>
+"base-value ng-star-inserted">$7.00</span>
+"final-value ng-star-inserted">$1.40</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/megaquarium_freshwater_frenzy_deluxe_expansion"
+_ngcontent-gogcom-store-c1196613375="">Megaquarium: Freshwater Frenzy - Deluxe Expansion</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pc_building_simulator_overclockers_uk_workshop"
+_ngcontent-gogcom-store-c1196613375="">PC Building Simulator – Overclockers UK Workshop</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/drox_operative_2"
+_ngcontent-gogcom-store-c1196613375="">Drox Operative 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/covid_the_outbreak_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">COVID: The Outbreak Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruins_seeker"
+_ngcontent-gogcom-store-c1196613375="">Ruins Seeker</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruins_seeker_unrated"
+_ngcontent-gogcom-store-c1196613375="">Ruins Seeker UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_house_of_da_vinci_2"
+_ngcontent-gogcom-store-c1196613375="">The House of Da Vinci 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resolutiion"
+_ngcontent-gogcom-store-c1196613375="">Resolutiion</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resolutiion_ost"
+_ngcontent-gogcom-store-c1196613375="">Resolutiion OST</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sludge_life"
+_ngcontent-gogcom-store-c1196613375="">Sludge Life</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_hulk_deathwing_enhanced_edition_knights_of_the_crimson_order_dlc"
+_ngcontent-gogcom-store-c1196613375="">Space Hulk: Deathwing - Enhanced Edition: Knights of the Crimson Order DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_pilgrim"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Pilgrim</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_satyr"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Satyr</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_vampire"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Vampire</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_assault_pack"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius - Assault Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cultist_simulator_the_exile"
+_ngcontent-gogcom-store-c1196613375="">Cultist Simulator: The Exile</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/desperados_iii_demo"
+_ngcontent-gogcom-store-c1196613375="">Desperados III Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroy_all_humans_demo"
+_ngcontent-gogcom-store-c1196613375="">Destroy All Humans! Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_grunts_2"
+_ngcontent-gogcom-store-c1196613375="">Space Grunts 2</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/system_shock_demo"
+_ngcontent-gogcom-store-c1196613375="">System Shock Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vagrus_the_riven_realms_prologue"
+_ngcontent-gogcom-store-c1196613375="">Vagrus - The Riven Realms: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/age_of_wonders_planetfall_invasions"
+_ngcontent-gogcom-store-c1196613375="">Age of Wonders: Planetfall - Invasions</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dread_x_collection"
+_ngcontent-gogcom-store-c1196613375="">Dread X Collection</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_caddy_pack"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Caddy Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_flower_collectors_ost"
+_ngcontent-gogcom-store-c1196613375="">The Flower Collectors OST</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_flower_collectors_soundtrack_edition"
+_ngcontent-gogcom-store-c1196613375="">The Flower Collectors Soundtrack Edition</span>
+"base-value ng-star-inserted">$16.54</span>
+"final-value ng-star-inserted">$6.61</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/timelie_original_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Timelie - Original Game Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wildfire"
+_ngcontent-gogcom-store-c1196613375="">Wildfire</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seed_hunter"
+_ngcontent-gogcom-store-c1196613375="">Seed Hunter 猎源</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_mind_blitzkrieg"
+_ngcontent-gogcom-store-c1196613375="">Strategic Mind: Blitzkrieg</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_haven"
+_ngcontent-gogcom-store-c1196613375="">Space Haven</span>
+"base-value ng-star-inserted">$22.99</span>
+"final-value ng-star-inserted">$9.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_haven_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Space Haven Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/timelie"
+_ngcontent-gogcom-store-c1196613375="">Timelie</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neversong"
+_ngcontent-gogcom-store-c1196613375="">Neversong</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neversong_ost"
+_ngcontent-gogcom-store-c1196613375="">Neversong OST</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ai_war_2_zenith_onslaught"
+_ngcontent-gogcom-store-c1196613375="">AI War 2: Zenith Onslaught</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_nights_with_poe_and_munro"
+_ngcontent-gogcom-store-c1196613375="">Dark Nights with Poe and Munro</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hidden_through_time_viking_tales"
+_ngcontent-gogcom-store-c1196613375="">Hidden Through Time - Viking Tales</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kukkorodays"
+_ngcontent-gogcom-store-c1196613375="">KukkoroDays</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kukkorodays_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">KukkoroDays - unrated patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_architect_cleared_for_transfer"
+_ngcontent-gogcom-store-c1196613375="">Prison Architect - Cleared For Transfer</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/signs_of_the_sojourner"
+_ngcontent-gogcom-store-c1196613375="">Signs of the Sojourner</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/signs_of_the_sojourner_prologue"
+_ngcontent-gogcom-store-c1196613375="">Signs of the Sojourner: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_point_hospital_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Two Point Hospital Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

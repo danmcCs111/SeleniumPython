@@ -1,0 +1,186 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/last_federation_collection_the"
+_ngcontent-gogcom-store-c1196613375="">The Last Federation Collection</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mini_metro"
+_ngcontent-gogcom-store-c1196613375="">Mini Metro</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_2_titans"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini 2: Titans</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_crusader_2_the_jackal_the_khan"
+_ngcontent-gogcom-store-c1196613375="">Stronghold Crusader 2: The Jackal &amp; The Khan</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darksiders_ii_deathinitive_edition_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Darksiders II Deathinitive Edition Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_armageddon_ork_hunters"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000 : Armageddon - Ork Hunters</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/escapists_duct_tapes_are_forever_the"
+_ngcontent-gogcom-store-c1196613375="">The Escapists: Duct Tapes Are Forever</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endless_sky"
+_ngcontent-gogcom-store-c1196613375="">Endless Sky</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endless_sky_high_dpi"
+_ngcontent-gogcom-store-c1196613375="">Endless Sky - High DPI</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth3_v_generation"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth3 V Generation</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth3_v_generation_dlc_pack"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth3 V Generation - DLC Pack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth3_v_generation_dlc_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth3 V Generation - DLC Pack 2</span>
+"base-value ng-star-inserted">$13.97</span>
+"final-value ng-star-inserted">$6.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sound_of_drop_fall_into_poison"
+_ngcontent-gogcom-store-c1196613375="">Sound of Drop - fall into poison -</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bulb_boy"
+_ngcontent-gogcom-store-c1196613375="">Bulb Boy</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.51</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galak_z"
+_ngcontent-gogcom-store-c1196613375="">GALAK-Z</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_in_the_sky_sc"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails in the Sky SC</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$19.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_park"
+_ngcontent-gogcom-store-c1196613375="">The Park</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chaos_reborn"
+_ngcontent-gogcom-store-c1196613375="">Chaos Reborn</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/runestone_keeper"
+_ngcontent-gogcom-store-c1196613375="">Runestone Keeper</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom: New Lands Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rebel_galaxy"
+_ngcontent-gogcom-store-c1196613375="">Rebel Galaxy</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/planetbase"
+_ngcontent-gogcom-store-c1196613375="">Planetbase</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/broforce_the_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Broforce: The Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/downwell"
+_ngcontent-gogcom-store-c1196613375="">Downwell</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeons_2_a_game_of_winter"
+_ngcontent-gogcom-store-c1196613375="">Dungeons 2: A Game of Winter</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mushroom_11"
+_ngcontent-gogcom-store-c1196613375="">Mushroom 11</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mushroom_11_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mushroom 11 Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soundtrack_for_secrets_of_grindea"
+_ngcontent-gogcom-store-c1196613375="">Soundtrack for Secrets of Grindea</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_age_of_decadence"
+_ngcontent-gogcom-store-c1196613375="">The Age of Decadence</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deus_ex_revision_mod"
+_ngcontent-gogcom-store-c1196613375="">Deus Ex Revision Mod</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/marauder_of_dystopia_the_weakest_go_to_the_wall"
+_ngcontent-gogcom-store-c1196613375="">Marauder of Dystopia: The weakest go to the wall</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/marauder_of_dystopia_the_weakest_go_to_the_wall_unrated"
+_ngcontent-gogcom-store-c1196613375="">Marauder of Dystopia: The weakest go to the wall UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gary_grigsbys_war_in_the_west_operation_torch"
+_ngcontent-gogcom-store-c1196613375="">Gary Grigsby's War in the West: Operation Torch</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sublevel_zero"
+_ngcontent-gogcom-store-c1196613375="">Sublevel Zero Redux</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fault_series_original_soundtrack_vol_1"
+_ngcontent-gogcom-store-c1196613375="">fault Series ORIGINAL SOUNDTRACK vol 1</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/read_only_memories"
+_ngcontent-gogcom-store-c1196613375="">2064: Read Only Memories</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/2064_read_only_memories_sights_and_sounds_of_neosf"
+_ngcontent-gogcom-store-c1196613375="">2064: Read Only Memories - Sights and Sounds of Neo-SF</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$8.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_architect"
+_ngcontent-gogcom-store-c1196613375="">Prison Architect</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_architect_aficionado_dlc"
+_ngcontent-gogcom-store-c1196613375="">Prison Architect Aficionado DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/skyhill"
+_ngcontent-gogcom-store-c1196613375="">SKYHILL</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/762_high_calibre_762_hard_life"
+_ngcontent-gogcom-store-c1196613375="">7.62 High Calibre + 7.62 Hard Life</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/double_fine_adventure"
+_ngcontent-gogcom-store-c1196613375="">Double Fine Adventure Definitive Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steredenn"
+_ngcontent-gogcom-store-c1196613375="">Steredenn: Binary Stars</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/armikrog"
+_ngcontent-gogcom-store-c1196613375="">Armikrog</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/armikrog_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Armikrog - Deluxe Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/escapists_the_walking_dead_the"
+_ngcontent-gogcom-store-c1196613375="">The Escapists: The Walking Dead</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/escapists_the_walking_dead_the_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">The Escapists: The Walking Dead - Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alien_isolation_collection"
+_ngcontent-gogcom-store-c1196613375="">Alien: Isolation Collection</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$12.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

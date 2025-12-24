@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/toodee_and_topdee_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Toodee and Topdee Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grime_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">GRIME - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/svoboda_1945_liberation"
+_ngcontent-gogcom-store-c1196613375="">Svoboda 1945: Liberation</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$3.03</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grime"
+_ngcontent-gogcom-store-c1196613375="">GRIME</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vesper"
+_ngcontent-gogcom-store-c1196613375="">Vesper: Zero Light Edition</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/escape_from_naraka"
+_ngcontent-gogcom-store-c1196613375="">Escape from Naraka</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/escape_from_naraka_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Escape from Naraka Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spindle_demo"
+_ngcontent-gogcom-store-c1196613375="">Spindle Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite Digital Artbook</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_white_rose_pack"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite White Rose Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_forgotten_city_collectors_dlc"
+_ngcontent-gogcom-store-c1196613375="">The Forgotten City - Collector's DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_forgotten_city_digital_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">The Forgotten City - Digital Collector's Edition</span>
+"final-value ng-star-inserted">$31.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_forgotten_city_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Forgotten City - Digital Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unbound_worlds_apart"
+_ngcontent-gogcom-store-c1196613375="">Unbound: Worlds Apart</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unbound_worlds_apart_and_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Unbound: Worlds Apart and Soundtrack</span>
+"final-value ng-star-inserted">$23.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unbound_worlds_apart_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Unbound: Worlds Apart Soundtrack</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highfleet"
+_ngcontent-gogcom-store-c1196613375="">HighFleet</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$16.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/intravenous"
+_ngcontent-gogcom-store-c1196613375="">Intravenous</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_plane_effect_prologue"
+_ngcontent-gogcom-store-c1196613375="">The Plane Effect Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/urban_trial_tricky_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Urban Trial Tricky™ Deluxe Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_battlesector"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Battlesector</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_hellbound_debriefed"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Hellbound &amp; Debriefed</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cris_tales"
+_ngcontent-gogcom-store-c1196613375="">Cris Tales</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cris_tales_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Cris Tales Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deaths_door"
+_ngcontent-gogcom-store-c1196613375="">Death's Door</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deaths_door_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Death's Door Deluxe Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deaths_door_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Death's Door Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$10.00</span>
+"final-value ng-star-inserted">$4.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knock_on_the_coffin_lid_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Knock on the coffin lid - Supporter Pack</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$7.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/magical_valkyrie_lyristia"
+_ngcontent-gogcom-store-c1196613375="">Magical Valkyrie Lyristia</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/magical_valkyrie_lyristia_unrated"
+_ngcontent-gogcom-store-c1196613375="">Magical Valkyrie Lyristia UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/creepy_tale_2"
+_ngcontent-gogcom-store-c1196613375="">Creepy Tale 2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/creepy_tale_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Creepy Tale 2 Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/creepy_tale_bundle"
+_ngcontent-gogcom-store-c1196613375="">Creepy Tale Bundle</span>
+"base-value ng-star-inserted">$13.48</span>
+"final-value ng-star-inserted">$4.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/guild_of_darksteel"
+_ngcontent-gogcom-store-c1196613375="">Guild of Darksteel</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/guild_of_darksteel_demo"
+_ngcontent-gogcom-store-c1196613375="">Guild of Darksteel Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highrisers"
+_ngcontent-gogcom-store-c1196613375="">Highrisers</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_11_army_general_coop"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #11 - Army General Coop</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/streets_of_rage_4_mr_x_nightmare"
+_ngcontent-gogcom-store-c1196613375="">Streets Of Rage 4 - Mr. X Nightmare</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reverie_knights_tactics_prologue"
+_ngcontent-gogcom-store-c1196613375="">Reverie Knights Tactics: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paladin_dream"
+_ngcontent-gogcom-store-c1196613375="">Paladin Dream</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paladin_dream_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Paladin Dream Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_hand_clapping"
+_ngcontent-gogcom-store-c1196613375="">One Hand Clapping</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_1942"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - 1942</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_dlc_set_3"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - DLC Set 3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boomerang_x"
+_ngcontent-gogcom-store-c1196613375="">Boomerang X</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nemezis_mysterious_journey_iii"
+_ngcontent-gogcom-store-c1196613375="">Nemezis: Mysterious Journey III</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nemezis_mysterious_journey_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nemezis: Mysterious Journey Soundtrack</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_ix_monstrum_nox"
+_ngcontent-gogcom-store-c1196613375="">Ys IX: Monstrum Nox</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$23.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

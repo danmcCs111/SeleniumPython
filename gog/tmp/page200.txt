@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_shaman"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Shaman</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/content_pack_europa_universalis_iv_common_sense"
+_ngcontent-gogcom-store-c1196613375="">Content Pack - Europa Universalis IV: Common Sense</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_sounds_from_the_community_kairis_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Sounds from the community - Kairis Soundtrack</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frozen_cortex_mega_tier"
+_ngcontent-gogcom-store-c1196613375="">Frozen Cortex Mega Tier</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frozen_cortex_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Frozen Cortex Soundtrack</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frozen_cortex_ultimate_tier"
+_ngcontent-gogcom-store-c1196613375="">Frozen Cortex Ultimate Tier</span>
+"final-value ng-star-inserted">$31.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kholat"
+_ngcontent-gogcom-store-c1196613375="">Kholat</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/d4_dark_dreams_dont_die"
+_ngcontent-gogcom-store-c1196613375="">D4: Dark Dreams Don't Die - Season One</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/d4_dark_dreams_dont_die_special_edition"
+_ngcontent-gogcom-store-c1196613375="">D4: Dark Dreams Don't Die - Season One - Deluxe Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/d4_dark_dreams_dont_die_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">D4: Dark Dreams Don't Die - Season One - Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_hammer_the_vanguard_prophecy"
+_ngcontent-gogcom-store-c1196613375="">Star Hammer: The Vanguard Prophecy</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_masterplan"
+_ngcontent-gogcom-store-c1196613375="">The Masterplan</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/massive_chalice"
+_ngcontent-gogcom-store-c1196613375="">Massive Chalice</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/massive_chalice_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Massive Chalice Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth2_sisters_generation"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth2: Sisters Generation</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth2_sisters_generation_dlc_pack"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack</span>
+"base-value ng-star-inserted">$4.96</span>
+"final-value ng-star-inserted">$2.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth2_sisters_generation_dlc_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack 2</span>
+"base-value ng-star-inserted">$13.97</span>
+"final-value ng-star-inserted">$6.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rebuild_3_gangs_of_deadsville"
+_ngcontent-gogcom-store-c1196613375="">Rebuild 3: Gangs of Deadsville</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_sacred_pool_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Sacred Pool Expansion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serpent_in_the_staglands"
+_ngcontent-gogcom-store-c1196613375="">Serpent in the Staglands</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/subject_13"
+_ngcontent-gogcom-store-c1196613375="">Subject 13</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_undead_undressed"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Undead &amp; Undressed</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heroes_of_loot"
+_ngcontent-gogcom-store-c1196613375="">Heroes of Loot</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_evil_within_the_executioner"
+_ngcontent-gogcom-store-c1196613375="">The Evil Within: The Executioner</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/technobabylon"
+_ngcontent-gogcom-store-c1196613375="">Technobabylon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/technobabylon_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Technobabylon: Deluxe Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/technobabylon_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Technobabylon: Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monstrum"
+_ngcontent-gogcom-store-c1196613375="">Monstrum</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monstrum_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Monstrum - Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_witcher_3_wild_hunt_free_dlc_program"
+_ngcontent-gogcom-store-c1196613375="">The Witcher 3: Wild Hunt - Free DLC Program</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blackhole_complete_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">BLACKHOLE: Complete Edition Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/higurashi_when_they_cry_hou_ch1_onikakushi"
+_ngcontent-gogcom-store-c1196613375="">Higurashi When They Cry Hou - Ch.1 Onikakushi</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III: Ultimate Edition</span>
+"base-value ng-star-inserted">$99.49</span>
+"final-value ng-star-inserted">$29.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/not_a_hero"
+_ngcontent-gogcom-store-c1196613375="">Not a Hero</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/not_a_hero_global_megalord_edition"
+_ngcontent-gogcom-store-c1196613375="">Not A Hero: Global MegaLord Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_crusader_2_the_emperor_the_hermit"
+_ngcontent-gogcom-store-c1196613375="">Stronghold Crusader 2: The Emperor &amp; The Hermit</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/towerfall_ascension_dark_world"
+_ngcontent-gogcom-store-c1196613375="">Towerfall: Ascension - Dark World</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dex"
+_ngcontent-gogcom-store-c1196613375="">Dex</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wolfenstein_the_old_blood"
+_ngcontent-gogcom-store-c1196613375="">Wolfenstein: The Old Blood</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chroma_squad"
+_ngcontent-gogcom-store-c1196613375="">Chroma Squad</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/guns_gore_cannoli"
+_ngcontent-gogcom-store-c1196613375="">Guns, Gore &amp; Cannoli</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_world_war_ii"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: World War II</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stealth_inc_2_a_game_of_clones"
+_ngcontent-gogcom-store-c1196613375="">Stealth Inc. 2: A Game of Clones</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stealth_inc_2_a_game_of_clones_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Stealth Inc. 2: A Game of Clones Deluxe</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/exanima"
+_ngcontent-gogcom-store-c1196613375="">Exanima</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_vi_the_ark_of_napishtim"
+_ngcontent-gogcom-store-c1196613375="">Ys VI: The Ark of Napishtim</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kerbal_space_program"
+_ngcontent-gogcom-store-c1196613375="">Kerbal Space Program</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

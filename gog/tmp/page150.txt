@@ -1,0 +1,188 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nanotale_typing_chronicles"
+_ngcontent-gogcom-store-c1196613375="">Nanotale - Typing Chronicles</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pixelot"
+_ngcontent-gogcom-store-c1196613375="">Pixelot</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_mansion"
+_ngcontent-gogcom-store-c1196613375="">The Mansion</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/attack_of_the_mutant_penguins"
+_ngcontent-gogcom-store-c1196613375="">Attack of the Mutant Penguins</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golftopia"
+_ngcontent-gogcom-store-c1196613375="">GolfTopia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inspector_waffles_purrluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Inspector Waffles Purrluxe Edition</span>
+"base-value ng-star-inserted">$16.98</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_bikini_outfit_goddess_set"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Bikini Outfit: Goddess Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_bikini_outfit_vidol_set"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Bikini Outfit: V-Idol Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_bunny_outfit_goddess_set"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Bunny Outfit: Goddess Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_bunny_outfit_vidol_set"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Bunny Outfit: V-Idol Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_deluxe_item_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Deluxe Item Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Deluxe Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_dlc_set"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - DLC Set</span>
+"base-value ng-star-inserted">$72.12</span>
+"final-value ng-star-inserted">$21.63</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_extended_beattik_dance_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Extended BeatTik Dance Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_ingame_bgm_ileheart_i_love_you"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - In-game BGM: Ileheart - "I Love You"</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_ingame_bgm_ileheart_twilight_heart"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - In-game BGM: Ileheart - "Twilight Heart"</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_ingame_bgm_ileheart_vanilla_weather"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - In-game BGM: Ileheart - "Vanilla Weather"</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_item_booster_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Item Booster Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_swimsuit_outfit_goddess_set"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Swimsuit Outfit: Goddess Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_swimsuit_outfit_vidol_set"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Swimsuit Outfit: V-Idol Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_unlock_all_beattik_dances"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Unlock All BeatTik Dances</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_unlock_all_beattik_songs"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Unlock All BeatTik Songs</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_vip_edition"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - VIP Edition</span>
+"base-value ng-star-inserted">$148.19</span>
+"final-value ng-star-inserted">$74.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chihiro_himukai_always_walks_away"
+_ngcontent-gogcom-store-c1196613375="">Chihiro Himukai Always Walks Away</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chihiro_himukai_always_walks_away_unrated"
+_ngcontent-gogcom-store-c1196613375="">Chihiro Himukai Always Walks Away UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/genesis_noir_cosmic_collection"
+_ngcontent-gogcom-store-c1196613375="">Genesis Noir Cosmic Collection</span>
+"base-value ng-star-inserted">$27.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inspector_waffles_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Inspector Waffles Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saimin_gakushu_secret_desire_unrated"
+_ngcontent-gogcom-store-c1196613375="">Saimin Gakushū: Secret Desire UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spacebase_startopia"
+_ngcontent-gogcom-store-c1196613375="">Spacebase Startopia</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spacebase_startopia_extended_edition"
+_ngcontent-gogcom-store-c1196613375="">Spacebase Startopia - Extended Edition</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spacebase_startopia_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Spacebase Startopia - Original Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_legend"
+_ngcontent-gogcom-store-c1196613375="">Black Legend</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blue_fire_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Blue Fire - Original Soundtrack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dorfromantik_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dorfromantik + Soundtrack Vol 1 &amp; 2</span>
+"base-value ng-star-inserted">$22.07</span>
+"final-value ng-star-inserted">$15.44</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dorfromantik_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dorfromantik Soundtrack Vol 1</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_train_the_last_divinity"
+_ngcontent-gogcom-store-c1196613375="">Monster Train - The Last Divinity</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.07</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_6_the_song_of_life"
+_ngcontent-gogcom-store-c1196613375="">Yakuza 6: The Song of Life</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_6_the_song_of_life_clan_creator_card_bundle"
+_ngcontent-gogcom-store-c1196613375="">Yakuza 6: The Song of Life - Clan Creator Card Bundle</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paradise_lost"
+_ngcontent-gogcom-store-c1196613375="">Paradise Lost</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arkham_horror_mothers_embrace"
+_ngcontent-gogcom-store-c1196613375="">Arkham Horror: Mother's Embrace</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shores_unknown_demo"
+_ngcontent-gogcom-store-c1196613375="">Shores Unknown: Arrival</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_longest_road_on_earth_demo"
+_ngcontent-gogcom-store-c1196613375="">The Longest Road on Earth Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_binding_of_isaac_repentance"
+_ngcontent-gogcom-store-c1196613375="">The Binding of Isaac: Repentance</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_farm_unrated"
+_ngcontent-gogcom-store-c1196613375="">Succubus Farm UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/doctor_who_the_lonely_assasins"
+_ngcontent-gogcom-store-c1196613375="">Doctor Who: The Lonely Assassins</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/retro_first_friday_collection_2"
+_ngcontent-gogcom-store-c1196613375="">Retro First Friday Collection #2</span>
+"base-value ng-star-inserted">$29.56</span>
+"final-value ng-star-inserted">$17.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/retro_sports_bundle"
+_ngcontent-gogcom-store-c1196613375="">Retro Sports Bundle</span>
+"base-value ng-star-inserted">$24.80</span>
+"final-value ng-star-inserted">$11.16</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

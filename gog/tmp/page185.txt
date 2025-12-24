@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/de_blob"
+_ngcontent-gogcom-store-c1196613375="">de Blob</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expeditions_viking_bloodice_dlc"
+_ngcontent-gogcom-store-c1196613375="">Expeditions: Viking - Blood-Ice DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expeditions_viking_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Expeditions: Viking Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruin_of_the_reckless"
+_ngcontent-gogcom-store-c1196613375="">Ruin of the Reckless</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruin_of_the_reckless_collectors_edition_art_pack"
+_ngcontent-gogcom-store-c1196613375="">Ruin of the Reckless Collector's Edition Art pack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruin_of_the_reckless_ost"
+_ngcontent-gogcom-store-c1196613375="">Ruin of the Reckless OST</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scanner_sombre"
+_ngcontent-gogcom-store-c1196613375="">Scanner Sombre</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immortal_redneck"
+_ngcontent-gogcom-store-c1196613375="">Immortal Redneck</span>
+"final-value ng-star-inserted">$19.95</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pinstripe_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Pinstripe Original Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sniper_ghost_warrior_3_gold_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Sniper Ghost Warrior 3 Gold Edition upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/what_remains_of_edith_finch"
+_ngcontent-gogcom-store-c1196613375="">What Remains of Edith Finch</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/what_remains_of_edith_finch_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">What Remains of Edith Finch Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_escapists_2_glorious_regime_prison"
+_ngcontent-gogcom-store-c1196613375="">The Escapists 2 - Glorious Regime Prison</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_kriegsmarine"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Kriegsmarine</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/man_o_war_reiks_fashion"
+_ngcontent-gogcom-store-c1196613375="">Man O' War: Reik's Fashion</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_only_traitor"
+_ngcontent-gogcom-store-c1196613375="">The Only Traitor</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/late_shift"
+_ngcontent-gogcom-store-c1196613375="">Late Shift</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.11</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_falconers_moonlight"
+_ngcontent-gogcom-store-c1196613375="">The Falconers: Moonlight</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asura"
+_ngcontent-gogcom-store-c1196613375="">Asura: Vengeance Edition</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_inception"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Inception DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/project_highrise_las_vegas"
+_ngcontent-gogcom-store-c1196613375="">Project Highrise: Las Vegas</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/war_for_the_overworld_worker_skin_collection"
+_ngcontent-gogcom-store-c1196613375="">War for the Overworld: Seasonal Worker Skins</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cosmic_star_heroine"
+_ngcontent-gogcom-store-c1196613375="">Cosmic Star Heroine</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crawl"
+_ngcontent-gogcom-store-c1196613375="">Crawl</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/planescape_torment_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Planescape: Torment: Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yookalaylee"
+_ngcontent-gogcom-store-c1196613375="">Yooka-Laylee</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yookalaylee_digital_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Yooka-Laylee - Digital Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_signal_from_tolva"
+_ngcontent-gogcom-store-c1196613375="">The Signal From Tölva</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/herald_an_interactive_period_drama_book_i_ii_demo"
+_ngcontent-gogcom-store-c1196613375="">Herald: An Interactive Period Drama - Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slimesan_superslime_edition"
+_ngcontent-gogcom-store-c1196613375="">Slime-san: Superslime Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/content_pack_europa_universalis_iv_mandate_of_heaven"
+_ngcontent-gogcom-store-c1196613375="">Content Pack - Europa Universalis IV: Mandate of Heaven</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_europa_universalis_iv_mandate_of_heaven"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Europa Universalis IV: Mandate of Heaven</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_utopia"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Utopia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/collection_europa_universalis_iv_ultimate_ebook_pack"
+_ngcontent-gogcom-store-c1196613375="">Collection - Europa Universalis IV: Ultimate E-book Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paradigm"
+_ngcontent-gogcom-store-c1196613375="">Paradigm</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shovel_knight_specter_of_torment"
+_ngcontent-gogcom-store-c1196613375="">Shovel Knight: Specter of Torment</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blackwood_crossing"
+_ngcontent-gogcom-store-c1196613375="">Blackwood Crossing</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lego_city_undercover"
+_ngcontent-gogcom-store-c1196613375="">LEGO® City Undercover</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_galaxy_edition_upgrade_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Galaxy Edition Upgrade Pack</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tyranny_portrait_pack"
+_ngcontent-gogcom-store-c1196613375="">Tyranny - Portrait Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/collection_crusader_kings_ii_dynasty_shield_pack"
+_ngcontent-gogcom-store-c1196613375="">Collection - Crusader Kings II: Dynasty Shield Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/collection_crusader_kings_ii_ultimate_music_pack"
+_ngcontent-gogcom-store-c1196613375="">Collection - Crusader Kings II: Ultimate Music Pack</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/collection_crusader_kings_ii_ultimate_portrait_pack"
+_ngcontent-gogcom-store-c1196613375="">Collection - Crusader Kings II: Ultimate Portrait Pack</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$9.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/collection_crusader_kings_ii_ultimate_unit_pack"
+_ngcontent-gogcom-store-c1196613375="">Collection - Crusader Kings II: Ultimate Unit Pack</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$9.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/war_for_the_overworld_my_pet_dungeon"
+_ngcontent-gogcom-store-c1196613375="">War for the Overworld: My Pet Dungeon</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hacknet_labyrinths"
+_ngcontent-gogcom-store-c1196613375="">Hacknet - Labyrinths</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hacknet_labyrinths_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Hacknet - Labyrinths Official Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hacknet_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Hacknet Ultimate Edition</span>
+"base-value ng-star-inserted">$23.99</span>
+"final-value ng-star-inserted">$9.59</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

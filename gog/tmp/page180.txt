@@ -1,0 +1,190 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gorogoa_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Gorogoa - Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_harbinger_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Harbinger Expansion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wolfenstein_ii_the_freedom_chronicles_episode_1"
+_ngcontent-gogcom-store-c1196613375="">Wolfenstein II: The Freedom Chronicles - Episode 1</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elasto_mania_ii"
+_ngcontent-gogcom-store-c1196613375="">Elasto Mania II</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elasto_mania_trilogy_pack"
+_ngcontent-gogcom-store-c1196613375="">Elasto Mania Trilogy Pack</span>
+"final-value ng-star-inserted">$19.52</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wonderstructs_part_puzzle_expansion_pack"
+_ngcontent-gogcom-store-c1196613375="">Wonderstructs - Part &amp; Puzzle Expansion Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/together_we_live"
+_ngcontent-gogcom-store-c1196613375="">Together We Live</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tokyo_xanadu_ex"
+_ngcontent-gogcom-store-c1196613375="">Tokyo Xanadu eX+</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tokyo_xanadu_ex_item_bundle"
+_ngcontent-gogcom-store-c1196613375="">Tokyo Xanadu eX+  Item Bundle</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tokyo_xanadu_ex_spom_treat_bundle"
+_ngcontent-gogcom-store-c1196613375="">Tokyo Xanadu eX+  S-Pom Treat Bundle</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tokyo_xanadu_ex_outfit_accessory_bundle"
+_ngcontent-gogcom-store-c1196613375="">Tokyo Xanadu eX+ Outfit &amp; Accessory Bundle</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/longstory"
+_ngcontent-gogcom-store-c1196613375="">LongStory</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reigns_her_majesty_the_book_of_the_lady_of_the_wood"
+_ngcontent-gogcom-store-c1196613375="">Reigns: Her Majesty - The Book of the Lady of the Wood</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reigns_her_majesty_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Reigns: Her Majesty Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowhand"
+_ngcontent-gogcom-store-c1196613375="">Shadowhand</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spellforce_3_digital_extras"
+_ngcontent-gogcom-store-c1196613375="">SpellForce 3 Digital Extras</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spellforce_3_reforced"
+_ngcontent-gogcom-store-c1196613375="">SpellForce 3 Reforced</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_worlds_ii_echoes_of_the_dark_past"
+_ngcontent-gogcom-store-c1196613375="">Two Worlds II: Echoes of the Dark Past</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/riot_civil_unrest"
+_ngcontent-gogcom-store-c1196613375="">RIOT - Civil Unrest</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_ii_immortal_fire"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory II: Immortal Fire</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nine_parchments"
+_ngcontent-gogcom-store-c1196613375="">Nine Parchments</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_a_walk_in_the_park"
+_ngcontent-gogcom-store-c1196613375="">The Surge - A Walk in the Park</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/empires_of_the_undergrowth"
+_ngcontent-gogcom-store-c1196613375="">Empires of the Undergrowth</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seven_the_days_long_gone_digital_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Seven: Enhanced Collector's Edition</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seven_the_days_long_gone"
+_ngcontent-gogcom-store-c1196613375="">Seven: Enhanced Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seven_the_days_long_gone_demo"
+_ngcontent-gogcom-store-c1196613375="">Seven: The Days Long Gone Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_panzerkrieg"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Panzerkrieg</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/carcassonne_the_river"
+_ngcontent-gogcom-store-c1196613375="">Carcassonne - The River</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/carcassonne_tiles_tactics"
+_ngcontent-gogcom-store-c1196613375="">Carcassonne - Tiles &amp; Tactics</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_mirror"
+_ngcontent-gogcom-store-c1196613375="">Black Mirror</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_mirror_digital_extras"
+_ngcontent-gogcom-store-c1196613375="">Black Mirror Digital Extras</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_house_of_da_vinci"
+_ngcontent-gogcom-store-c1196613375="">The House of Da Vinci</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_chef_brigade"
+_ngcontent-gogcom-store-c1196613375="">Battle Chef Brigade Deluxe</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/megaton_rainfall"
+_ngcontent-gogcom-store-c1196613375="">Megaton Rainfall</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_last_blade_2"
+_ngcontent-gogcom-store-c1196613375="">THE LAST BLADE 2</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/titan_quest_ragnarok"
+_ngcontent-gogcom-store-c1196613375="">Titan Quest: Ragnarök</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/content_pack_europa_universalis_iv_cradle_of_civilization"
+_ngcontent-gogcom-store-c1196613375="">Content Pack - Europa Universalis IV: Cradle of Civilization</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_jade_dragon"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: Jade Dragon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_europa_universalis_iv_cradle_of_civilization"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Europa Universalis IV: Cradle of Civilization</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tower_57"
+_ngcontent-gogcom-store-c1196613375="">Tower 57</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tower_57_twopack"
+_ngcontent-gogcom-store-c1196613375="">Tower 57 Two-pack</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_deadfire_pack"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity: Deadfire Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/this_war_of_mine_stories_fathers_promise"
+_ngcontent-gogcom-store-c1196613375="">This War of Mine: Stories - Father's Promise</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/this_war_of_mine_stories_season_pass"
+_ngcontent-gogcom-store-c1196613375="">This War of Mine: Stories - Season Pass</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sphinx_and_the_cursed_mummy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sphinx and the Cursed Mummy Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_sanctus_reach_sons_of_cadia"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Sanctus Reach - Sons of Cadia</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prodigy_tactics"
+_ngcontent-gogcom-store-c1196613375="">Prodigy Tactics</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hand_of_fate_2"
+_ngcontent-gogcom-store-c1196613375="">Hand of Fate 2</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

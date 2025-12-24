@@ -1,0 +1,514 @@
+GameTitle_Game_GameDatabase GameUrl_Game_GameDatabase GameBaseValue_Game_GameDatabase GameFinalValue_Game_GameDatabase
+title link base-value final-value
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Fatal-Twelve",
+"https://www.gog.com/en/game/fatal_twelve",
+19.99,
+8.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Kingdom-Come--Deliverance---HD-Sound-Pack",
+"https://www.gog.com/en/game/kingdom_come_deliverance_hd_sound_pack",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Kingdom-Come--Deliverance---HD-Texture-Pack",
+"https://www.gog.com/en/game/kingdom_come_deliverance_hd_texture_pack",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Kingdom-Come--Deliverance---HD-Voice-Pack---English",
+"https://www.gog.com/en/game/kingdom_come_deliverance_hd_voice_pack_english",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Kingdom-Come--Deliverance---HD-Voice-Pack---French",
+"https://www.gog.com/en/game/kingdom_come_deliverance_hd_voice_pack_french",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Kingdom-Come--Deliverance---HD-Voice-Pack---German",
+"https://www.gog.com/en/game/kingdom_come_deliverance_hd_voice_pack_german",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Jalopy",
+"https://www.gog.com/en/game/jalopy",
+14.99,
+1.49,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Enhanced-Edition---French-Extras",
+"https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_french_extras",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Enhanced-Edition---German-Extras",
+"https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_german_extras",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Enhanced-Edition---Italian-Extras",
+"https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_italian_extras",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Enhanced-Edition---Polish-Extras",
+"https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_polish_extras",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Enhanced-Edition---Spanish-Extras",
+"https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_spanish_extras",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Enhanced-Edition-Digital-Deluxe-Edition",
+"https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_digital_deluxe_edition",
+68.29,
+6.82,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Enhanced-Edition-Official-Soundtrack",
+"https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_official_soundtrack",
+9.99,
+2.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Heroes-of-Neverwinter",
+"https://www.gog.com/en/game/neverwinter_nights_heroes_of_neverwinter",
+2.99,
+0.89,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Pirates-of-the-Sword-Coast",
+"https://www.gog.com/en/game/neverwinter_nights_pirates_of_the_sword_coast",
+2.99,
+0.74,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Premium-Adventures-Official-Soundtrack",
+"https://www.gog.com/en/game/neverwinter_nights_premium_adventures_official_soundtrack",
+2.99,
+0.89,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Neverwinter-Nights--Wyvern-Crown-of-Cormyr",
+"https://www.gog.com/en/game/neverwinter_nights_wyvern_crown_of_cormyr",
+2.99,
+0.74,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Pirate-s-Fate",
+"https://www.gog.com/en/game/the_pirates_fate",
+19.99,
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Pirate-s-Fate---Art-Book",
+"https://www.gog.com/en/game/the_pirates_fate_art_book",
+9.99,
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Pirate-s-Fate---Comic",
+"https://www.gog.com/en/game/the_pirates_fate_comic",
+4.99,
+2.49,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Pirate-s-Fate---OST",
+"https://www.gog.com/en/game/the_pirates_fate_ost",
+4.99,
+2.49,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Contraption-Maker--Battling-Cards---Parts--amp--Puzzles-Expansion-Pack",
+"https://www.gog.com/en/game/contraption_maker_battling_cards_parts_puzzles_expansion_pack",
+0.99,
+0.48,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Through-the-Ages",
+"https://www.gog.com/en/game/through_the_ages",
+15.99,
+10.71,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Ash-of-Gods--Redemption",
+"https://www.gog.com/en/game/ash_of_gods",
+24.99,
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Ash-of-Gods--Redemption---Beer-for-Developers",
+"https://www.gog.com/en/game/ash_of_gods_redemption_beer_for_developers",
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Ash-of-Gods--Redemption-Digital-Deluxe-Upgrade",
+"https://www.gog.com/en/game/ash_of_gods_redemption_digital_deluxe",
+9.99,
+1.49,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Lazy-Galaxy",
+"https://www.gog.com/en/game/lazy_galaxy",
+4.99,
+2.49,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Pizza-Connection-3-OST",
+"https://www.gog.com/en/game/pizza_connection_3_ost",
+2.99,
+0.59,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Pizza-Connection-3-Soundtrack-Edition",
+"https://www.gog.com/en/game/pizza_connection_3_soundtrack_edition",
+21.87,
+2.18,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Turmoil---The-Heat-Is-On",
+"https://www.gog.com/en/game/turmoil_the_heat_is_on",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Immersion-Pack---Europa-Universalis-IV--Rule-Britannia",
+"https://www.gog.com/en/game/immersion_pack_europa_universalis_iv_rule_britannia",
+9.99,
+5.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Wolfenstein-II--The-Freedom-Chronicles---Episode-3",
+"https://www.gog.com/en/game/wolfenstein_ii_the_freedom_chronicles_episode_3",
+9.99,
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"SYNTHETIK--Legion-Rising",
+"https://www.gog.com/en/game/synthetik_legion_rising",
+19.99,
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Realpolitiks---New-Power",
+"https://www.gog.com/en/game/realpolitiks_new_power",
+7.99,
+1.19,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Surviving-Mars",
+"https://www.gog.com/en/game/surviving_mars",
+29.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Surviving-Mars---Digital-Deluxe-Edition",
+"https://www.gog.com/en/game/surviving_mars_digital_deluxe_edition",
+39.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Surviving-Mars---Digital-Deluxe-Edition-Upgrade-Pack",
+"https://www.gog.com/en/game/surviving_mars_digital_deluxe_edition_upgrade_pack",
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Surviving-Mars---Season-Pass",
+"https://www.gog.com/en/game/surviving_mars_season_pass",
+34.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Surviving-Mars---Stellaris-Dome-Set",
+"https://www.gog.com/en/game/surviving_mars_stellaris_dome_set",
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Quest-Deluxe-Edition",
+"https://www.gog.com/en/game/the_quest_deluxe_edition",
+14.99,
+8.54,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Battle-vs-Chess---Grandmaster-Edition",
+"https://www.gog.com/en/game/battle_vs_chess_grandmaster_edition",
+30.73,
+12.29,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Long-Reach",
+"https://www.gog.com/en/game/the_long_reach",
+14.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Long-Reach---DEMO",
+"https://www.gog.com/en/game/the_long_reach_demo",
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"The-Long-Reach---Soundtrack",
+"https://www.gog.com/en/game/the_long_reach_soundtrack",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Ghost-of-a-Tale",
+"https://www.gog.com/en/game/ghost_of_a_tale",
+24.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Hakuoki--Edo-Blossoms",
+"https://www.gog.com/en/game/hakuoki_edo_blossoms",
+9.99,
+6.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Hakuoki--Edo-Blossoms---Deluxe-Bundle",
+"https://www.gog.com/en/game/hakuoki_edo_blossoms_deluxe_bundle",
+15.98,
+5.59,
+CURRENT_TIMESTAMP);

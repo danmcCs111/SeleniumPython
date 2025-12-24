@@ -1,0 +1,188 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/homeseek_plus_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Homeseek + Original Soundtrack</span>
+"base-value ng-star-inserted">$26.98</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/homeseek_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Homeseek Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iku_iku_succubus"
+_ngcontent-gogcom-store-c1196613375="">Iku Iku Succubus</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lakeburg_legacies"
+_ngcontent-gogcom-store-c1196613375="">Lakeburg Legacies</span>
+"base-value ng-star-inserted">$22.99</span>
+"final-value ng-star-inserted">$8.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lakeburg_legacies_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Lakeburg Legacies Supporter Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lust_element_season_1"
+_ngcontent-gogcom-store-c1196613375="">Lust Element - Season 1</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stillborn_slayer"
+_ngcontent-gogcom-store-c1196613375="">Stillborn Slayer</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unholy"
+_ngcontent-gogcom-store-c1196613375="">Unholy</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$10.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unholy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Unholy Soundtrack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/below_the_stone_demo"
+_ngcontent-gogcom-store-c1196613375="">Below the Stone Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_repair_house"
+_ngcontent-gogcom-store-c1196613375="">The Repair House</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/madshot"
+_ngcontent-gogcom-store-c1196613375="">Madshot</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/murder_is_game_over_streaming_death"
+_ngcontent-gogcom-store-c1196613375="">Murder Is Game Over: Streaming Death</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xenonauts_2"
+_ngcontent-gogcom-store-c1196613375="">Xenonauts 2</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$25.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cats_hidden_in_paris"
+_ngcontent-gogcom-store-c1196613375="">Cats Hidden in Paris</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cats_hidden_in_paris_extra_level"
+_ngcontent-gogcom-store-c1196613375="">Cats Hidden in Paris - Extra Level</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sticky_business"
+_ngcontent-gogcom-store-c1196613375="">Sticky Business</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_prison"
+_ngcontent-gogcom-store-c1196613375="">Succubus Prison</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_prison_unrated"
+_ngcontent-gogcom-store-c1196613375="">Succubus Prison UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glowing_stones_heroes_awakening"
+_ngcontent-gogcom-store-c1196613375="">Glowing Stones : Heroes' Awakening</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$9.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glowing_stones_heroes_awakening_bonus_edition"
+_ngcontent-gogcom-store-c1196613375="">Glowing Stones : Heroes' Awakening Bonus Edition</span>
+"base-value ng-star-inserted">$13.49</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glowing_stones_heroes_awakening_bonus_pack"
+_ngcontent-gogcom-store-c1196613375="">Glowing Stones : Heroes' Awakening Bonus Pack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glowing_stones_heroes_awakening_demo"
+_ngcontent-gogcom-store-c1196613375="">Glowing Stones : Heroes' Awakening Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jagged_alliance_2_german_strategy_guide"
+_ngcontent-gogcom-store-c1196613375="">Jagged Alliance 2 - Deutsches Lösungsbuch (German Strategy Guide)</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jagged_alliance_2_wildfire_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Jagged Alliance 2: Wildfire - Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gravity_circuit"
+_ngcontent-gogcom-store-c1196613375="">Gravity Circuit</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$7.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gravity_circuit_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Gravity Circuit Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_2_the_pandeia_project"
+_ngcontent-gogcom-store-c1196613375="">Train Valley 2 - The Pandeia Project</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starshifter"
+_ngcontent-gogcom-store-c1196613375="">Starshifter</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_valiant_coat_of_arms_collection"
+_ngcontent-gogcom-store-c1196613375="">The Valiant - Coat of Arms collection</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.65</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_valiant_demo"
+_ngcontent-gogcom-store-c1196613375="">The Valiant Multiplayer Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bleak_sword_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Bleak Sword Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_lovely_daughter_artbook"
+_ngcontent-gogcom-store-c1196613375="">My Lovely Daughter - Artbook</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_advanced_set_1"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - Advanced Set 1</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_advanced_set_2"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - Advanced Set 2</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_complete_consumables"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - Complete Consumables</span>
+"base-value ng-star-inserted">$85.47</span>
+"final-value ng-star-inserted">$42.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_complete_cosmetics"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - Complete Cosmetics</span>
+"base-value ng-star-inserted">$50.32</span>
+"final-value ng-star-inserted">$25.16</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_premium_cosmetic_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_sss_summer_splash_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_standard_cosmetic_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - Standard Cosmetic Set</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_starter_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie - Starter Set</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie Deluxe Edition</span>
+"base-value ng-star-inserted">$89.97</span>
+"final-value ng-star-inserted">$44.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_into_reverie_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails into Reverie Ultimate Edition</span>
+"base-value ng-star-inserted">$166.39</span>
+"final-value ng-star-inserted">$83.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gylt_bundle"
+_ngcontent-gogcom-store-c1196613375="">GYLT Game + Original Soundtrack</span>
+"base-value ng-star-inserted">$22.98</span>
+"final-value ng-star-inserted">$11.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gylt_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">GYLT Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_art_of_south_scrimshaw_part_one"
+_ngcontent-gogcom-store-c1196613375="">The Art of South Scrimshaw, Part One</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/american_hero_unrated"
+_ngcontent-gogcom-store-c1196613375="">American Hero Unrated</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

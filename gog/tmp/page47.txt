@@ -1,0 +1,200 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_shore"
+_ngcontent-gogcom-store-c1196613375="">The Shore</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/imperator_rome_heirs_of_alexander_content_pack"
+_ngcontent-gogcom-store-c1196613375="">Imperator: Rome - Heirs of Alexander Content Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/huniepop_2_double_date"
+_ngcontent-gogcom-store-c1196613375="">HuniePop 2: Double Date</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/redout_space_assault"
+_ngcontent-gogcom-store-c1196613375="">Redout: Space Assault</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/redout_space_assault_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Redout: Space Assault - Deluxe Edition</span>
+"base-value ng-star-inserted">$11.88</span>
+"final-value ng-star-inserted">$4.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/riddle_of_the_sphinx_extreme_expedition_pack"
+_ngcontent-gogcom-store-c1196613375="">Riddle of the Sphinx™ Extreme Expedition Pack</span>
+"final-value ng-star-inserted">$29.66</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gods_will_fall_valiant_edition"
+_ngcontent-gogcom-store-c1196613375="">Gods Will Fall - Valiant Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/remothered_a_lamb_to_the_slaughter_book_1"
+_ngcontent-gogcom-store-c1196613375="">Remothered: A Lamb to the Slaughter - Book 1</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/journey_to_the_savage_planet_hot_garbage"
+_ngcontent-gogcom-store-c1196613375="">Journey to the Savage Planet: Hot Garbage</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_nemesis_3_battle_of_rimini"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Nemesis #3 - Battle of Rimini</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_3_remastered"
+_ngcontent-gogcom-store-c1196613375="">Yakuza 3 Remastered</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/encodya"
+_ngcontent-gogcom-store-c1196613375="">ENCODYA</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/encodya_save_the_world_edition"
+_ngcontent-gogcom-store-c1196613375="">ENCODYA - Save the World Edition</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phoenotopia_awakening"
+_ngcontent-gogcom-store-c1196613375="">Phoenotopia: Awakening</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_snuffalo_thrills"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Snuffalo Thrills</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_n_dream_virtual_happiness"
+_ngcontent-gogcom-store-c1196613375="">Love n Dream: Virtual Happiness</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fantasy_tavern_sextet_vol1_new_world_days"
+_ngcontent-gogcom-store-c1196613375="">Fantasy Tavern Sextet - Vol.1 New World Days</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_gnashville_lycans"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Gnashville Lycans</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arise_a_simple_story"
+_ngcontent-gogcom-store-c1196613375="">Arise: A Simple Story</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/haven"
+_ngcontent-gogcom-store-c1196613375="">Haven</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sam_max_save_the_world_remastered"
+_ngcontent-gogcom-store-c1196613375="">Sam &amp; Max Save the World</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succumate"
+_ngcontent-gogcom-store-c1196613375="">Succumate</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_craftworld_aeldari"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius - Craftworld Aeldari</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_like_a_dragon_job_set"
+_ngcontent-gogcom-store-c1196613375="">Yakuza: Like a Dragon Job Set</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_like_a_dragon_karaoke_set"
+_ngcontent-gogcom-store-c1196613375="">Yakuza: Like a Dragon Karaoke Set</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_like_a_dragon_legends_costume_set"
+_ngcontent-gogcom-store-c1196613375="">Yakuza: Like a Dragon Legends Costume Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_like_a_dragon_ultimate_costume_set"
+_ngcontent-gogcom-store-c1196613375="">Yakuza: Like a Dragon Ultimate Costume Set</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tear_and_the_library_of_labyrinths"
+_ngcontent-gogcom-store-c1196613375="">Tear and the Library of Labyrinths</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spellforce_3_fallen_god_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">SpellForce 3 Fallen God Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iratus_halloween_skin_set"
+_ngcontent-gogcom-store-c1196613375="">Iratus: Halloween Skin Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/graveyard_keeper_game_of_crone"
+_ngcontent-gogcom-store-c1196613375="">Graveyard Keeper - Game of Crone</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iratus_holidays_skin_set"
+_ngcontent-gogcom-store-c1196613375="">Iratus: Holidays Skin Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iratus_necromancer_edition"
+_ngcontent-gogcom-store-c1196613375="">Iratus: Necromancer Edition</span>
+"base-value ng-star-inserted">$48.99</span>
+"final-value ng-star-inserted">$10.28</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iratus_summer_skin_set"
+_ngcontent-gogcom-store-c1196613375="">Iratus: Summer Skin Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pumpkin_jack"
+_ngcontent-gogcom-store-c1196613375="">Pumpkin Jack</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scourgebringer"
+_ngcontent-gogcom-store-c1196613375="">ScourgeBringer</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_point_hospital_culture_shock"
+_ngcontent-gogcom-store-c1196613375="">Two Point Hospital: Culture Shock</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_terror_bay_mutantneers"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Terror Bay Mutantneers</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_rush_vengeance"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Rush Vengeance</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_signifier_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Signifier Deluxe Edition</span>
+"base-value ng-star-inserted">$21.99</span>
+"final-value ng-star-inserted">$4.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/broodstar"
+_ngcontent-gogcom-store-c1196613375="">BroodStar</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$2.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cybernetic_fault"
+_ngcontent-gogcom-store-c1196613375="">Cybernetic Fault</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/embracelet"
+_ngcontent-gogcom-store-c1196613375="">Embracelet</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pendragon"
+_ngcontent-gogcom-store-c1196613375="">Pendragon</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomicrops"
+_ngcontent-gogcom-store-c1196613375="">Atomicrops</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_dynasty"
+_ngcontent-gogcom-store-c1196613375="">Medieval Dynasty</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saint_emiliana"
+_ngcontent-gogcom-store-c1196613375="">Saint Emiliana</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdoms_of_amalur_rereckoning"
+_ngcontent-gogcom-store-c1196613375="">Kingdoms of Amalur: Re-Reckoning</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

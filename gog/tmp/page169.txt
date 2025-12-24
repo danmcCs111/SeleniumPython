@@ -1,0 +1,182 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_himminbrjotir_clan_of_the_ox"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Himminbrjotir, Clan of the Ox</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_viii_lacrimosa_of_dana_hq_texture_pack"
+_ngcontent-gogcom-store-c1196613375="">Ys VIII: Lacrimosa of DANA - HQ Texture Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_alliance_alive_hd_remastered"
+_ngcontent-gogcom-store-c1196613375="">The Alliance Alive HD Remastered</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_alliance_alive_hd_remastered_digital_limited_edition"
+_ngcontent-gogcom-store-c1196613375="">The Alliance Alive HD Remastered - Digital Limited Edition</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_2_the_kraken_expansion"
+_ngcontent-gogcom-store-c1196613375="">The Surge 2 - The Kraken Expansion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_tao_qian"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - Tao Qian</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_fall_ghost_vigil"
+_ngcontent-gogcom-store-c1196613375="">Dark Fall: Ghost Vigil</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_white_door"
+_ngcontent-gogcom-store-c1196613375="">The White Door</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/devilutionx"
+_ngcontent-gogcom-store-c1196613375="">DevilutionX</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/barony_legends_pariahs"
+_ngcontent-gogcom-store-c1196613375="">Barony: Legends &amp; Pariahs</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/craft_the_world_lonely_mountain"
+_ngcontent-gogcom-store-c1196613375="">Craft The World - Lonely Mountain</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vestaria_saga_i_soundtrack_piano_arrangement_8bit_music_version"
+_ngcontent-gogcom-store-c1196613375="">Vestaria Saga I Soundtrack PIANO ARRANGEMENT &amp; 8-BIT MUSIC VERSION</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vestaria_saga_i_war_of_the_scions"
+_ngcontent-gogcom-store-c1196613375="">Vestaria Saga I: War of the Scions</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cthulhu_saves_christmas_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Cthulhu Saves Christmas - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/disco_elysium_soundtrack_and_artbooklet"
+_ngcontent-gogcom-store-c1196613375="">Disco Elysium - Soundtrack and Artbooklet</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldr_sky"
+_ngcontent-gogcom-store-c1196613375="">Baldr Sky</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/true_love_95"
+_ngcontent-gogcom-store-c1196613375="">True Love '95</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_retrowave_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - Retrowave Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_shu_warrior_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - SHU Warrior Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_jam_steel_titans_gold_truck_bundle"
+_ngcontent-gogcom-store-c1196613375="">Monster Jam Steel Titans - Gold Truck Bundle</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.77</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/encased_rpg_portrait_pack"
+_ngcontent-gogcom-store-c1196613375="">Encased RPG - Portrait Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/encased_rpg_run_and_gun_kit"
+_ngcontent-gogcom-store-c1196613375="">Encased RPG - Run and Gun Kit</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/encased_rpg_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Encased RPG - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virgo_versus_the_zodiac"
+_ngcontent-gogcom-store-c1196613375="">Virgo Versus the Zodiac</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virgo_versus_the_zodiac_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Virgo Versus the Zodiac - Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virgo_versus_the_zodiac_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Virgo Versus the Zodiac - Soundtrack Bundle</span>
+"base-value ng-star-inserted">$27.98</span>
+"final-value ng-star-inserted">$12.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virgo_versus_the_zodiac_demo"
+_ngcontent-gogcom-store-c1196613375="">Virgo Versus the Zodiac Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_coteries_of_new_york"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Coteries of New York</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_coteries_of_new_york_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Coteries of New York Deluxe Edition</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/avicii_invector"
+_ngcontent-gogcom-store-c1196613375="">AVICII Invector</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shovel_knight_showdown"
+_ngcontent-gogcom-store-c1196613375="">Shovel Knight Showdown</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shovel_knight_king_of_cards"
+_ngcontent-gogcom-store-c1196613375="">Shovel Knight: King of Cards</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shovel_knight_shovel_of_hope"
+_ngcontent-gogcom-store-c1196613375="">Shovel Knight: Shovel of Hope</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_2_jerichos_legacy_gears_pack"
+_ngcontent-gogcom-store-c1196613375="">The Surge 2 - Jericho's Legacy Gears Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashen"
+_ngcontent-gogcom-store-c1196613375="">Ashen</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashen_nightstorm_isle"
+_ngcontent-gogcom-store-c1196613375="">Ashen Nightstorm Isle</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellar_monarch_the_age_of_technology"
+_ngcontent-gogcom-store-c1196613375="">Stellar Monarch: The Age of Technology</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sub_terra_draconis"
+_ngcontent-gogcom-store-c1196613375="">Sub Terra Draconis</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_chivalry_weapon_pack"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - Chivalry Weapon Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/llama_of_walll_street"
+_ngcontent-gogcom-store-c1196613375="">Tropico 6 - The Llama of Wall Street</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darksiders_genesis_digital_extras"
+_ngcontent-gogcom-store-c1196613375="">Darksiders Genesis Digital Extras</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/interrogation_you_will_be_deceived"
+_ngcontent-gogcom-store-c1196613375="">Interrogation: You Will Be Deceived</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mosaic"
+_ngcontent-gogcom-store-c1196613375="">Mosaic</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mosaic_1_dlc"
+_ngcontent-gogcom-store-c1196613375="">Mosaic 1% DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mosaic_1_edition"
+_ngcontent-gogcom-store-c1196613375="">Mosaic 1% Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mosaic_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mosaic Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/edna_harvey_the_breakout_anniversary_edition"
+_ngcontent-gogcom-store-c1196613375="">Edna &amp; Harvey: The Breakout - Anniversary Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/edna_harvey_the_breakout_anniversary_edition_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Edna &amp; Harvey: The Breakout - Anniversary Edition Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

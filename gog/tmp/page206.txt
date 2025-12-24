@@ -1,0 +1,189 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/desktop_dungeons"
+_ngcontent-gogcom-store-c1196613375="">Desktop Dungeons Enhanced Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/desktop_dungeons_goatperson"
+_ngcontent-gogcom-store-c1196613375="">Desktop Dungeons Goatperson</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/anomaly_korea"
+_ngcontent-gogcom-store-c1196613375="">Anomaly Korea</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/anomaly_warzone_earth_mobile_campaign"
+_ngcontent-gogcom-store-c1196613375="">Anomaly Warzone Earth Mobile Campaign</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_worlds_kronos"
+_ngcontent-gogcom-store-c1196613375="">Battle Worlds: Kronos</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/journey_of_a_roach"
+_ngcontent-gogcom-store-c1196613375="">Journey of a Roach</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lilly_looking_through"
+_ngcontent-gogcom-store-c1196613375="">Lilly Looking Through</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lone_survivor_directors_cut"
+_ngcontent-gogcom-store-c1196613375="">Lone Survivor: The Director's Cut</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/avadon_2_the_corruption"
+_ngcontent-gogcom-store-c1196613375="">Avadon 2: The Corruption</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/drox_operative_invasion_of_the_ancients"
+_ngcontent-gogcom-store-c1196613375="">Drox Operative: Invasion of the Ancients</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deadly_premonition_directors_cut"
+_ngcontent-gogcom-store-c1196613375="">Deadly Premonition: Director's Cut</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aqua_kitty_milk_mine_defender"
+_ngcontent-gogcom-store-c1196613375="">Aqua Kitty: Milk Mine Defender</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demonicon"
+_ngcontent-gogcom-store-c1196613375="">Demonicon</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/secret_files_sam_peters"
+_ngcontent-gogcom-store-c1196613375="">Secret Files: Sam Peters</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tetrobot_and_co"
+_ngcontent-gogcom-store-c1196613375="">Tetrobot and Co.</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ethan_meteor_hunter"
+_ngcontent-gogcom-store-c1196613375="">Ethan: Meteor Hunter</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/goodbye_deponia"
+_ngcontent-gogcom-store-c1196613375="">Deponia 3: Goodbye Deponia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_rangers_hd_a_war_apart"
+_ngcontent-gogcom-store-c1196613375="">Space Rangers HD: A War Apart</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/140_game"
+_ngcontent-gogcom-store-c1196613375="">140</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bridge_constructor"
+_ngcontent-gogcom-store-c1196613375="">Bridge Constructor</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/democracy_3"
+_ngcontent-gogcom-store-c1196613375="">Democracy 3</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wolf_among_us_the"
+_ngcontent-gogcom-store-c1196613375="">The Wolf Among Us</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/montagues_mount"
+_ngcontent-gogcom-store-c1196613375="">Montague's Mount</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bionic_dues"
+_ngcontent-gogcom-store-c1196613375="">Bionic Dues</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cook_serve_delicious_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Cook, Serve, Delicious Original Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cook_serve_delicious"
+_ngcontent-gogcom-store-c1196613375="">Cook, Serve, Delicious!</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knock_knock"
+_ngcontent-gogcom-store-c1196613375="">Knock-Knock</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_inner_world"
+_ngcontent-gogcom-store-c1196613375="">The Inner World</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/giana_sisters_rise_of_the_owlverlord"
+_ngcontent-gogcom-store-c1196613375="">Giana Sisters: Rise of the Owlverlord</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_warrior"
+_ngcontent-gogcom-store-c1196613375="">Shadow Warrior (2013)</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_national_monuments_ii"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: National Monuments II</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ironclad_tactics_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Ironclad Tactics Deluxe Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/urban_trial_freestyle"
+_ngcontent-gogcom-store-c1196613375="">Urban Trial Freestyle</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/volgarr_the_viking"
+_ngcontent-gogcom-store-c1196613375="">Volgarr the Viking</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aarklash_legacy"
+_ngcontent-gogcom-store-c1196613375="">Aarklash: Legacy</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amnesia_a_machine_for_pigs"
+_ngcontent-gogcom-store-c1196613375="">Amnesia: A Machine For Pigs</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valdis_story_abyssal_city"
+_ngcontent-gogcom-store-c1196613375="">Valdis Story: Abyssal City</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/outlast"
+_ngcontent-gogcom-store-c1196613375="">Outlast</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brothers_a_tale_of_two_sons"
+_ngcontent-gogcom-store-c1196613375="">Brothers: A Tale of Two Sons</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_rome_ii_emperor_edition"
+_ngcontent-gogcom-store-c1196613375="">Total War: ROME II - Emperor Edition</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/memoria"
+_ngcontent-gogcom-store-c1196613375="">Memoria</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_chaos_engine"
+_ngcontent-gogcom-store-c1196613375="">The Chaos Engine</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shelter"
+_ngcontent-gogcom-store-c1196613375="">Shelter</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pixeljunk_monsters_hd"
+_ngcontent-gogcom-store-c1196613375="">PixelJunk Monsters HD</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_bureau_xcom_declassified"
+_ngcontent-gogcom-store-c1196613375="">The Bureau: XCOM® Declassified™</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saints_row_iv_reelected"
+_ngcontent-gogcom-store-c1196613375="">Saints Row IV: Re-Elected</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/race_the_sun"
+_ngcontent-gogcom-store-c1196613375="">Race the Sun</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unholy_heights"
+_ngcontent-gogcom-store-c1196613375="">Unholy Heights</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

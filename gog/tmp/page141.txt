@@ -1,0 +1,190 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_rewinder_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Rewinder - Original Soundtrack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_core_worlds"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Core Worlds</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bloodrayne_absolute_bundle"
+_ngcontent-gogcom-store-c1196613375="">BloodRayne Absolute Bundle</span>
+"base-value ng-star-inserted">$39.97</span>
+"final-value ng-star-inserted">$19.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dice_legacy"
+_ngcontent-gogcom-store-c1196613375="">Dice Legacy</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dice_legacy_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Dice Legacy Deluxe Edition</span>
+"final-value ng-star-inserted">$17.83</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dice_legacy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dice Legacy Soundtrack</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/residual"
+_ngcontent-gogcom-store-c1196613375="">Residual</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terrain_of_magical_expertise"
+_ngcontent-gogcom-store-c1196613375="">Terrain of Magical Expertise</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/webbed"
+_ngcontent-gogcom-store-c1196613375="">Webbed</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boulder_dash_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Boulder Dash Deluxe</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bus_simulator_21_next_stop"
+_ngcontent-gogcom-store-c1196613375="">Bus Simulator 21 Next Stop</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_mars_lifestyle_radio"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars - Mars Lifestyle Radio</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_below_and_beyond"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars: Below and Beyond</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tennis_manager_2021"
+_ngcontent-gogcom-store-c1196613375="">Tennis Manager 2021</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/super_arcade_football"
+_ngcontent-gogcom-store-c1196613375="">Super Arcade Football</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_club_nostalgia"
+_ngcontent-gogcom-store-c1196613375="">Golf Club Nostalgia</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/der_geisterjager_dlc"
+_ngcontent-gogcom-store-c1196613375="">Der Geisterjäger + DLC</span>
+"base-value ng-star-inserted">$22.48</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/edengate_the_edge_of_life"
+_ngcontent-gogcom-store-c1196613375="">EDENGATE: The Edge of Life</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_beach_hat"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Beach Hat</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_bengal_skin"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Bengal Skin</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_black_cat_skin"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Black Cat Skin</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_blue_cat_skin"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Blue Cat Skin</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_blue_mythical_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Blue Mythical Wings</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_dark_butterfly_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Dark Butterfly Wings</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_dark_mythical_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Dark Mythical Wings</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_demon_kitty_outfit"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Demon Kitty Outfit</span>
+"base-value ng-star-inserted">$2.37</span>
+"final-value ng-star-inserted">$1.30</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$34.79</span>
+"final-value ng-star-inserted">$13.91</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_evil_horns"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Evil Horns</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_exotic_skins_double_pack"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Exotic Skins - Double Pack</span>
+"base-value ng-star-inserted">$1.59</span>
+"final-value ng-star-inserted">$0.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_gladiator_helmet"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Gladiator Helmet</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_green_mythical_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Green Mythical Wings</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_light_mythical_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Light Mythical Wings</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_phantom_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Phantom Wings</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_pink_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Pink Wings</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_red_mythical_wings"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Red Mythical Wings</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_sakura_outfit"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Sakura Outfit</span>
+"base-value ng-star-inserted">$1.59</span>
+"final-value ng-star-inserted">$0.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_sakura_skin"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Sakura Skin</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_siamese_skin"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Siamese Skin</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitaria_fables_subzero_outfit"
+_ngcontent-gogcom-store-c1196613375="">Kitaria Fables - Sub-Zero Outfit</span>
+"base-value ng-star-inserted">$1.59</span>
+"final-value ng-star-inserted">$0.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_bowl"
+_ngcontent-gogcom-store-c1196613375="">Legend Bowl</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_commander_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Wrath of the Righteous - Commander Pack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Wrath of the Righteous - Season Pass</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_magister"
+_ngcontent-gogcom-store-c1196613375="">The Magister</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/timothy_learys_mind_mirror"
+_ngcontent-gogcom-store-c1196613375="">Timothy Leary's Mind Mirror</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Collector's Edition</span>
+"base-value ng-star-inserted">$100.19</span>
+"final-value ng-star-inserted">$55.10</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_echo_of_starsong_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Echo of Starsong  - Original Soundtrack -Best Selection-</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_echo_of_starsong_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Echo of Starsong - Deluxe Edition</span>
+"base-value ng-star-inserted">$63.46</span>
+"final-value ng-star-inserted">$41.24</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,187 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_costume_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak - Costume Set</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_starter_consumable_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak - Starter Consumable Set</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_voice_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak - Voice Set</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak Deluxe Edition</span>
+"base-value ng-star-inserted">$90.22</span>
+"final-value ng-star-inserted">$54.13</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak Ultimate Edition</span>
+"base-value ng-star-inserted">$134.35</span>
+"final-value ng-star-inserted">$80.61</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dawning_clocks_of_time_remake"
+_ngcontent-gogcom-store-c1196613375="">The Dawning Clocks of Time® Remake</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warno_nemesis_1_air_assault"
+_ngcontent-gogcom-store-c1196613375="">WARNO - Nemesis #1 - Air Assault</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stray_gods_orpheus_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Stray Gods: Orpheus Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_2_heat_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner 2 - Heat Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ingression_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Ingression Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_island_pool_party_dlc"
+_ngcontent-gogcom-store-c1196613375="">Moonstone Island: Pool Party DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_special_summer_vacation_2"
+_ngcontent-gogcom-store-c1196613375="">My Special Summer Vacation 2</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_special_summer_vacation_2_unrated"
+_ngcontent-gogcom-store-c1196613375="">My Special Summer Vacation 2 UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stray_gods_orpheus"
+_ngcontent-gogcom-store-c1196613375="">Stray Gods: Orpheus</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frogun_encore"
+_ngcontent-gogcom-store-c1196613375="">Frogun Encore</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lords_and_villeins_the_great_houses_edition"
+_ngcontent-gogcom-store-c1196613375="">Lords and Villeins: The Great Houses Edition</span>
+"base-value ng-star-inserted">$28.78</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/myst_riven_the_definitive_collection"
+_ngcontent-gogcom-store-c1196613375="">Myst &amp; Riven: The Definitive Collection</span>
+"base-value ng-star-inserted">$55.22</span>
+"final-value ng-star-inserted">$44.17</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nyoninjima_my_new_life_in_charge_of_a_tropical_island_unrated"
+_ngcontent-gogcom-store-c1196613375="">NYO-NIN-JIMA -My New Life in Charge of a Tropical Island- UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/real_anime_situation_2"
+_ngcontent-gogcom-store-c1196613375="">Real Anime Situation! 2</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/real_anime_situation_2_unrated"
+_ngcontent-gogcom-store-c1196613375="">Real Anime Situation! 2 UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/riven_the_complete_collection"
+_ngcontent-gogcom-store-c1196613375="">Riven: The Complete Collection</span>
+"base-value ng-star-inserted">$36.88</span>
+"final-value ng-star-inserted">$29.50</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/riven_the_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Riven: The Deluxe Edition</span>
+"base-value ng-star-inserted">$50.97</span>
+"final-value ng-star-inserted">$45.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_command_world_war_ii_war_in_the_pacific"
+_ngcontent-gogcom-store-c1196613375="">Strategic Command WWII: War in the Pacific</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$27.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beat_hazard_3"
+_ngcontent-gogcom-store-c1196613375="">Beat Hazard 3</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_the_master_baiter"
+_ngcontent-gogcom-store-c1196613375="">Legend of the Master Baiter</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_the_master_baiter_unrrated"
+_ngcontent-gogcom-store-c1196613375="">Legend of the Master Baiter UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/diplomacy_is_not_an_option_wallpapers"
+_ngcontent-gogcom-store-c1196613375="">Diplomacy is Not an Option - Wallpapers</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deck_of_souls"
+_ngcontent-gogcom-store-c1196613375="">Deck of Souls</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$9.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/workers_resources_soviet_republic_biomes"
+_ngcontent-gogcom-store-c1196613375="">Workers &amp; Resources: Soviet Republic - Biomes</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/into_the_emberlands"
+_ngcontent-gogcom-store-c1196613375="">Into the Emberlands</span>
+"base-value ng-star-inserted">$6.59</span>
+"final-value ng-star-inserted">$1.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/into_the_emberlands_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Into the Emberlands - Supporter Bundle</span>
+"base-value ng-star-inserted">$10.30</span>
+"final-value ng-star-inserted">$4.01</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/into_the_emberlands_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Into the Emberlands – Supporter Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paper_trail_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Paper Trail Soundtrack</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paper_trail_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Paper Trail Soundtrack Bundle</span>
+"base-value ng-star-inserted">$24.28</span>
+"final-value ng-star-inserted">$12.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/snow_plowing_simulator"
+_ngcontent-gogcom-store-c1196613375="">Snow Plowing Simulator</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$10.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chocolate_factory"
+_ngcontent-gogcom-store-c1196613375="">Chocolate Factory</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starship_troopers_terran_command_urban_onslaught"
+_ngcontent-gogcom-store-c1196613375="">Starship Troopers: Terran Command - Urban Onslaught</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$9.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_14_aces"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #14 - Aces</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tropico_6_tropican_shores"
+_ngcontent-gogcom-store-c1196613375="">Tropico 6 - Tropican Shores</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$12.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_boltgun_forges_of_corruption"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Boltgun - Forges of Corruption</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heroes_of_loot_gauntlet_of_power"
+_ngcontent-gogcom-store-c1196613375="">Heroes of Loot: Gauntlet of Power</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_remington_firearms_pack"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter - Remington Firearms Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/an_aunt_after_my_own_heart"
+_ngcontent-gogcom-store-c1196613375="">An Aunt After My Own Heart</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/an_aunt_after_my_own_heart_unrated"
+_ngcontent-gogcom-store-c1196613375="">An Aunt After My Own Heart UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_talos_principle_2_road_to_elysium_pack"
+_ngcontent-gogcom-store-c1196613375="">The Talos Principle 2 - Road to Elysium Pack</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tfc_the_fertile_crescent"
+_ngcontent-gogcom-store-c1196613375="">TFC: The Fertile Crescent</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whacking_hell"
+_ngcontent-gogcom-store-c1196613375="">Whacking Hell!</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vagrus_the_riven_realms_old_acquaintances"
+_ngcontent-gogcom-store-c1196613375="">Vagrus - The Riven Realms: Old Acquaintances</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

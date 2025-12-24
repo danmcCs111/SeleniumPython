@@ -1,0 +1,194 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/save_me_mr_tako_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Save me Mr Tako Original Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/base_one"
+_ngcontent-gogcom-store-c1196613375="">Base One</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inferno_beyond_the_7th_circle_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Inferno - Beyond the 7th Circle Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sockventure"
+_ngcontent-gogcom-store-c1196613375="">Sockventure</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_hand_of_merlin"
+_ngcontent-gogcom-store-c1196613375="">The Hand of Merlin</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_hand_of_merlin_deluxe_edition_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Hand of Merlin Deluxe Edition Bundle</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_hand_of_merlin_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Hand of Merlin Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nongunz_doppelganger_edition"
+_ngcontent-gogcom-store-c1196613375="">Nongunz: Doppelganger Edition</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_invisible_hand_deep_pockets"
+_ngcontent-gogcom-store-c1196613375="">The Invisible Hand - Deep Pockets</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_invisible_hand_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Invisible Hand Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endless_space_2_dark_matter"
+_ngcontent-gogcom-store-c1196613375="">ENDLESS™ Space 2 - Dark Matter</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.83</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distant_kingdoms"
+_ngcontent-gogcom-store-c1196613375="">Distant Kingdoms</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/retro_shooter_rampage_bundle"
+_ngcontent-gogcom-store-c1196613375="">Retro Shooter Rampage Bundle</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/save_me_mr_tako_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Save me Mr Tako: Definitive Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_pick_up_artist"
+_ngcontent-gogcom-store-c1196613375="">Galactic Pick Up Artist</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/7days_origins"
+_ngcontent-gogcom-store-c1196613375="">7Days Origins</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/r18plus_monster_girl_youki_chan"
+_ngcontent-gogcom-store-c1196613375="">R18Plus Monster Girl You-ki chan</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hanoi_puzzles_solid_match_wallpapers"
+_ngcontent-gogcom-store-c1196613375="">Hanoi Puzzles: Solid Match - Wallpapers</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inferno_beyond_the_7th_circle"
+_ngcontent-gogcom-store-c1196613375="">Inferno - Beyond the 7th Circle</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nope_nope_nurses_unrated"
+_ngcontent-gogcom-store-c1196613375="">Nope Nope Nurses UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$64.78</span>
+"final-value ng-star-inserted">$32.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_dlc_set_1"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - DLC Set 1</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_stage_pass"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - Stage Pass</span>
+"base-value ng-star-inserted">$19.90</span>
+"final-value ng-star-inserted">$9.95</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/insurmountable"
+_ngcontent-gogcom-store-c1196613375="">Insurmountable</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/insurmountable_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Insurmountable - Supporter Bundle</span>
+"base-value ng-star-inserted">$33.19</span>
+"final-value ng-star-inserted">$6.63</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_akatsuki_uni_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Akatsuki UNI Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_aogiri_high_school_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Aogiri High School Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_asacre_peace_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Asacre Peace Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_asano_sisters_project_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Asano Sisters Project Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_electronic_fairy_project_x_kokounoakumunightmare_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Electronic Fairy Project x Kokounoakumu-Nightmare- Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_game_club_project_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Game Club Project Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_hibiki_ao_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Hibiki Ao Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_ileheart_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Ileheart Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_insidechan_sisters_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - INSIDEChan Sisters Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_inuyama_tamaki_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Inuyama Tamaki Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_iwasimiz_kotoko_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Iwasimiz Kotoko Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_maoh_magrona_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Maoh Magrona Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_medwin_toris_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Medwin Toris Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_pinky_pop_hepburn_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Pinky Pop Hepburn Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_revdol_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - ReVdol! Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_sifir_esirer_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Sifir Esirer Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_tenjin_kotone_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Tenjin Kotone Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_todoki_uka_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Todoki Uka Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_tomari_mari_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Tomari Mari Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_wactor_pack"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - WACTOR Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_10_tannenberg"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #10 - Tannenberg</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pc_building_simulator_evga_workshop"
+_ngcontent-gogcom-store-c1196613375="">PC Building Simulator - EVGA Workshop</span>
+"final-value ng-star-inserted">$5.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

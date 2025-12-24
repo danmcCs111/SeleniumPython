@@ -1,0 +1,184 @@
+GameTitle_Game_GameDatabase GameUrl_Game_GameDatabase GameBaseValue_Game_GameDatabase GameFinalValue_Game_GameDatabase
+title link base-value final-value
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Puddle",
+"https://www.gog.com/en/game/puddle",
+7.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Expansion---Crusader-Kings-II--Legacy-of-Rome",
+"https://www.gog.com/en/game/expansion_crusader_kings_ii_legacy_of_rome",
+4.99,
+2.49,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Worms-Revolution-Gold-Edition",
+"https://www.gog.com/en/game/worms_revolution",
+23.39,
+3.50,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Blood-Bowl--Chaos-Edition",
+"https://www.gog.com/en/game/blood_bowl_chaos_edition",
+14.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"DOOM-3",
+"https://www.gog.com/en/game/doom_3",
+9.99,
+3.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Retro-City-Rampage-DX",
+"https://www.gog.com/en/game/retro_city_rampage_dx",
+14.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Zafehouse--Diaries",
+"https://www.gog.com/en/game/zafehouse_diaries",
+1.99,
+0.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Fallen-Enchantress--Ultimate-Edition",
+"https://www.gog.com/en/game/fallen_enchantress_ultimate_edition",
+39.99,
+11.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Fallen-Enchantress--Upgrade-to-Ultimate",
+"https://www.gog.com/en/game/fallen_enchantress_upgrade_to_ultimate",
+14.99,
+5.09,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Secret-Files-3",
+"https://www.gog.com/en/game/secret_files_3",
+9.99,
+0.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Gateways",
+"https://www.gog.com/en/game/gateways",
+4.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"I-Am-Alive",
+"https://www.gog.com/en/game/i_am_alive",
+14.99,
+11.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Super-Hexagon",
+"https://www.gog.com/en/game/super_hexagon",
+2.99,
+0.74,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Inquisitor",
+"https://www.gog.com/en/game/inquisitor",
+14.99,
+5.09,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Snapshot",
+"https://www.gog.com/en/game/snapshot",
+9.99,
+CURRENT_TIMESTAMP);
+INSERT INTO gamedatabase.Game (
+GameTitle_Game_GameDatabase,
+GameUrl_Game_GameDatabase,
+GameBaseValue_Game_GameDatabase,
+GameFinalValue_Game_GameDatabase,
+InsertDate_Game_GameDatabase)
+values(
+"Tales-From-Space--Mutant-Blobs-Attack",
+"https://www.gog.com/en/game/tales_from_space_mutant_blobs_attack",
+9.99,
+2.49,
+CURRENT_TIMESTAMP);

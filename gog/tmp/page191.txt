@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_plantoids_species_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Plantoids Species Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_blood_moon_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Blood Moon Expansion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/batman_a_telltale_game_series"
+_ngcontent-gogcom-store-c1196613375="">Batman - The Telltale Series</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/batman_shadows_mode_the_enemy_within"
+_ngcontent-gogcom-store-c1196613375="">Batman Shadows Mode: The Enemy Within</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/layers_of_fear_digital_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Layers of Fear Digital Deluxe</span>
+"final-value ng-star-inserted">$24.90</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/layers_of_fear_inheritance"
+_ngcontent-gogcom-store-c1196613375="">Layers of Fear: Inheritance</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/telltale_batman_shadows_edition"
+_ngcontent-gogcom-store-c1196613375="">Telltale Batman Shadows Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/telltale_batman_shadows_mode"
+_ngcontent-gogcom-store-c1196613375="">Telltale Batman Shadows Mode</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/this_is_the_police"
+_ngcontent-gogcom-store-c1196613375="">This Is the Police</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forced_showdown_deluxe_content"
+_ngcontent-gogcom-store-c1196613375="">FORCED SHOWDOWN: Deluxe Content</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forced_showdown_drone_invasion"
+_ngcontent-gogcom-store-c1196613375="">FORCED SHOWDOWN: Drone Invasion</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forced_showdown_supreme_skin_pack"
+_ngcontent-gogcom-store-c1196613375="">FORCED SHOWDOWN: Supreme Skin Pack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amatsutsumi_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">Amatsutsumi Unrated Patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seum_speedrunners_from_hell"
+_ngcontent-gogcom-store-c1196613375="">SEUM: Speedrunners from Hell</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seum_speedrunners_from_hell_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">SEUM: Speedrunners from Hell - Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_lost_treasures_dlc"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III - Lost Treasures DLC</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/just_deserts_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Just Deserts: Original Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/just_deserts"
+_ngcontent-gogcom-store-c1196613375="">Just Deserts</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/just_deserts_complete_costume_bundle"
+_ngcontent-gogcom-store-c1196613375="">Just Deserts Complete Costume Bundle</span>
+"base-value ng-star-inserted">$14.36</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_rush_frontiers"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Rush: Frontiers</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oddworld_munchs_oddysee"
+_ngcontent-gogcom-store-c1196613375="">Oddworld: Munch's Oddysee</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_epic_map_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Epic Map Pack DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_road_to_canada"
+_ngcontent-gogcom-store-c1196613375="">Death Road to Canada</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dreambreak"
+_ngcontent-gogcom-store-c1196613375="">Dreambreak</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dreambreak_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Dreambreak Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_winter_war"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Winter War</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombie_night_terror"
+_ngcontent-gogcom-store-c1196613375="">Zombie Night Terror</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombie_night_terror_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Zombie Night Terror Special Edition Upgrade</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bulb_boy_soundtrack_remastered"
+_ngcontent-gogcom-store-c1196613375="">Bulb Boy Soundtrack Remastered</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.11</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dead_age"
+_ngcontent-gogcom-store-c1196613375="">Dead Age</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/notch_deluxe_content_dlc"
+_ngcontent-gogcom-store-c1196613375="">Notch - Deluxe Content DLC</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_complete_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Complete Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_real_texas_cellpop_goes_out_at_night"
+_ngcontent-gogcom-store-c1196613375="">The Real Texas: Cellpop Goes Out At Night</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_real_texas_dusty_skies_edition"
+_ngcontent-gogcom-store-c1196613375="">The Real Texas: Dusty Skies Edition</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tumblestone"
+_ngcontent-gogcom-store-c1196613375="">Tumblestone</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/democracy_3_electioneering"
+_ngcontent-gogcom-store-c1196613375="">Democracy 3: Electioneering</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.03</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fossil_echo"
+_ngcontent-gogcom-store-c1196613375="">Fossil Echo</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/umineko_when_they_cry_question_arcs"
+_ngcontent-gogcom-store-c1196613375="">Umineko When They Cry - Question Arcs</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_fredmans_epistles"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Fredman's Epistles</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/furi"
+_ngcontent-gogcom-store-c1196613375="">Furi</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/goliath_summertime_gnarkness_dlc"
+_ngcontent-gogcom-store-c1196613375="">Goliath - Summertime Gnarkness DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_sea"
+_ngcontent-gogcom-store-c1196613375="">Lost Sea</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sonicomi"
+_ngcontent-gogcom-store-c1196613375="">SoniComi</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chicken_assassin_reloaded"
+_ngcontent-gogcom-store-c1196613375="">Chicken Assassin: Reloaded</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldurs_gate_ii_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Baldur's Gate II Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/icewind_dale_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Icewind Dale Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Train Valley - Original Soundtrack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sins_of_a_solar_empire_rebellion_outlaw_sectors_dlc"
+_ngcontent-gogcom-store-c1196613375="">Sins of a Solar Empire: Rebellion – Outlaw Sectors DLC</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

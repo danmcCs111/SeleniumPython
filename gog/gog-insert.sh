@@ -35,11 +35,11 @@ mapFile=$2
 
 getTags $mapFile
 getDBColumns $mapFile
-echo ${dbColumns[@]}
+#echo ${dbColumns[@]}
 readFile
 tag=(${tags[@]})
 
-echo ${tag[@]}
+#echo ${tag[@]}
 for fileRecord in ${fileRecords[@]}
 do
 	dbValues=()

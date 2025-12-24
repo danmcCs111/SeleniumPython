@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lil_guardsman"
+_ngcontent-gogcom-store-c1196613375="">Lil' Guardsman</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ufo_robot_grendizer_the_feast_of_the_wolves_the_princely_outfit"
+_ngcontent-gogcom-store-c1196613375="">UFO ROBOT GRENDIZER – The Feast of the Wolves - The Princely Outfit</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/radio_nostalgia_from_mars_the_cub_original_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Radio Nostalgia from Mars - The Cub - Original Game Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_cub"
+_ngcontent-gogcom-store-c1196613375="">The Cub</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lazy_galaxy_bundle"
+_ngcontent-gogcom-store-c1196613375="">Lazy Galaxy Bundle</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rising_lords"
+_ngcontent-gogcom-store-c1196613375="">Rising Lords</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/turnip_boy_robs_a_bank"
+_ngcontent-gogcom-store-c1196613375="">Turnip Boy Robs a Bank</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/first_cut_samurai_duel"
+_ngcontent-gogcom-store-c1196613375="">First Cut: Samurai Duel</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$6.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/achilles_legends_untold_mythic_hero_3d_figurine_20_achilles_edition"
+_ngcontent-gogcom-store-c1196613375="">Achilles: Legends Untold - Mythic Hero 3D Figurine 2.0: Achilles Edition</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/omurice_next_time"
+_ngcontent-gogcom-store-c1196613375="">Omurice Next Time</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sovereign_syndicate"
+_ngcontent-gogcom-store-c1196613375="">Sovereign Syndicate</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sovereign_syndicate_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Sovereign Syndicate Digital Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sovereign_syndicate_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sovereign Syndicate Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sovereign_syndicate_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Sovereign Syndicate: Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$35.97</span>
+"final-value ng-star-inserted">$14.38</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/incubus_quest"
+_ngcontent-gogcom-store-c1196613375="">Incubus Quest</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/incubus_quest_unrated"
+_ngcontent-gogcom-store-c1196613375="">Incubus Quest UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sail_forth_maelstrom"
+_ngcontent-gogcom-store-c1196613375="">Sail Forth + Maelstrom</span>
+"base-value ng-star-inserted">$21.99</span>
+"final-value ng-star-inserted">$17.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/war_hospital_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">War Hospital – Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scene_investigators_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Scene Investigators Soundtrack</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/roboquest_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Roboquest Deluxe Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/links_puzzle"
+_ngcontent-gogcom-store-c1196613375="">Links Puzzle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unveiling"
+_ngcontent-gogcom-store-c1196613375="">Unveiling</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/winter_memories_unrated"
+_ngcontent-gogcom-store-c1196613375="">Winter Memories UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ballance"
+_ngcontent-gogcom-store-c1196613375="">Ballance</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_lunar_new_year_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Lunar New Year Bundle</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tools_up_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Tools Up! Ultimate Edition</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/five_hearts_under_one_roof"
+_ngcontent-gogcom-store-c1196613375="">Five Hearts Under One Roof</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/barely_racing"
+_ngcontent-gogcom-store-c1196613375="">Barely Racing</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sub_terra_draconis_magma_grotto"
+_ngcontent-gogcom-store-c1196613375="">Sub Terra Draconis - Magma Grotto</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/contraption_maker_incredible_puzzles_pack"
+_ngcontent-gogcom-store-c1196613375="">Contraption Maker: Incredible Puzzles Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_tavern"
+_ngcontent-gogcom-store-c1196613375="">Love Tavern</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_tavern_brothel_uncensored_18"
+_ngcontent-gogcom-store-c1196613375="">Love Tavern: Brothel Uncensored (18+)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scene_investigators_the_making_of_scene_investigators"
+_ngcontent-gogcom-store-c1196613375="">Scene Investigators - The Making of Scene Investigators</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/milo_and_the_christmas_gift"
+_ngcontent-gogcom-store-c1196613375="">Milo and the Christmas Gift</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boti_byteland_overclocked_hidden_giftware_dlc"
+_ngcontent-gogcom-store-c1196613375="">Boti: Byteland Overclocked - Hidden Giftware DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_utopia_holy_roman_empire_music_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Utopia Holy Roman Empire Music Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highrise_city_metro_planes"
+_ngcontent-gogcom-store-c1196613375="">Highrise City: Metro &amp; Planes</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one"
+_ngcontent-gogcom-store-c1196613375="">ONE.</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_talos_principle_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Talos Principle 2 Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/under_the_waves_original_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Under The Waves (Original Game Soundtrack)</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/world_warfare_economics"
+_ngcontent-gogcom-store-c1196613375="">World Warfare &amp; Economics</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yogsothoths_yard_official_picture_package"
+_ngcontent-gogcom-store-c1196613375="">Yog-Sothoth's Yard - Official Picture Package</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prophecy_of_the_shadow"
+_ngcontent-gogcom-store-c1196613375="">Prophecy of the Shadow</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/renegade_the_battle_for_jacobs_star"
+_ngcontent-gogcom-store-c1196613375="">Renegade: The Battle for Jacob's Star</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/savage_warriors"
+_ngcontent-gogcom-store-c1196613375="">Savage Warriors</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_of_iron_artbook"
+_ngcontent-gogcom-store-c1196613375="">Tails of Iron - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_of_iron_crimson_knight"
+_ngcontent-gogcom-store-c1196613375="">Tails of Iron - Crimson Knight</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_prestige_collection"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Prestige Collection</span>
+"base-value ng-star-inserted">$89.95</span>
+"final-value ng-star-inserted">$71.96</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

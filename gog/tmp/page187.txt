@@ -1,0 +1,175 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_veteran_fencer_accessory_set"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Veteran Fencer Accessory Set</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_veteran_fencer_armor_set"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Veteran Fencer Armor Set</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_advent_dark_force_complete_deluxe_set"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force Complete Deluxe Set</span>
+"base-value ng-star-inserted">$29.61</span>
+"final-value ng-star-inserted">$8.88</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_advent_dark_force_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force Deluxe Bundle</span>
+"base-value ng-star-inserted">$20.78</span>
+"final-value ng-star-inserted">$6.23</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_advent_dark_force_dlc_bundle"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force DLC Bundle</span>
+"base-value ng-star-inserted">$24.22</span>
+"final-value ng-star-inserted">$7.26</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bendy_and_the_ink_machine"
+_ngcontent-gogcom-store-c1196613375="">Bendy and the Ink Machine</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/earthlock_comic_book_1"
+_ngcontent-gogcom-store-c1196613375="">EARTHLOCK: Comic Book #1</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phoning_home"
+_ngcontent-gogcom-store-c1196613375="">Phoning Home</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phoning_home_ost"
+_ngcontent-gogcom-store-c1196613375="">Phoning Home OST</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallout_4_high_resolution_texture_pack"
+_ngcontent-gogcom-store-c1196613375="">Fallout 4 - High Resolution Texture Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hearthlands"
+_ngcontent-gogcom-store-c1196613375="">Hearthlands</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/diluvion"
+_ngcontent-gogcom-store-c1196613375="">Diluvion: Resubmerged</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/diluvion_fleet_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Diluvion: Resubmerged Fleet Edition Upgrade</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_firelands_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Firelands Expansion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eador_imperium"
+_ngcontent-gogcom-store-c1196613375="">Eador. Imperium</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_normal_lost_phone"
+_ngcontent-gogcom-store-c1196613375="">A Normal Lost Phone</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_normal_lost_phone_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Normal Lost Phone - Official Soundtrack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mainlining"
+_ngcontent-gogcom-store-c1196613375="">Mainlining</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mainlining_demo"
+_ngcontent-gogcom-store-c1196613375="">Mainlining Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mainlining_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Mainlining: Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/memoranda"
+_ngcontent-gogcom-store-c1196613375="">Memoranda</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cayne"
+_ngcontent-gogcom-store-c1196613375="">CAYNE</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cayne_deluxe_content"
+_ngcontent-gogcom-store-c1196613375="">CAYNE: DELUXE CONTENT</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/da_capo_3_r"
+_ngcontent-gogcom-store-c1196613375="">Da Capo 3 R</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_quest_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dark Quest 2 Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/urban_empire"
+_ngcontent-gogcom-store-c1196613375="">Urban Empire</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_sanctus_reach"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Sanctus Reach</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company_blue_chip_ventures_dlc"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company - Blue Chip Ventures DLC</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/milkmaid_of_the_milky_way"
+_ngcontent-gogcom-store-c1196613375="">Milkmaid of the Milky Way</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/milkmaid_of_the_milky_way_ost"
+_ngcontent-gogcom-store-c1196613375="">Milkmaid of the Milky Way OST</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_metronomicon_deck_the_dubstep"
+_ngcontent-gogcom-store-c1196613375="">The Metronomicon - Deck the Dubstep</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/memorys_dogma_code01_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Memory's Dogma CODE:01 - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/world_end_economica_episode03"
+_ngcontent-gogcom-store-c1196613375="">WORLD END ECONOMiCA episode.03</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_tactics_blades_of_the_shogun_artbook_strategy_guide"
+_ngcontent-gogcom-store-c1196613375="">Shadow Tactics: Blades of the Shogun - Artbook + Strategy Guide</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_tactics_blades_of_the_shogun_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Shadow Tactics: Blades of the Shogun - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_invaders"
+_ngcontent-gogcom-store-c1196613375="">8-bit Invaders</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crystal_shard_adventure_bundle"
+_ngcontent-gogcom-store-c1196613375="">Crystal Shard Adventure Bundle</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sally_face"
+_ngcontent-gogcom-store-c1196613375="">Sally Face</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_martial_artist"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Martial Artist</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_saracen"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Saracen</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_little_acre"
+_ngcontent-gogcom-store-c1196613375="">The Little Acre</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/war_for_the_overworld_crucible"
+_ngcontent-gogcom-store-c1196613375="">War for the Overworld: Crucible</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellar_interface_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Stellar Interface - Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_tactics_demo"
+_ngcontent-gogcom-store-c1196613375="">Shadow Tactics: Blades of the Shogun Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellar_monarch"
+_ngcontent-gogcom-store-c1196613375="">Stellar Monarch</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_horizon_signal"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Horizon Signal</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeon_souls"
+_ngcontent-gogcom-store-c1196613375="">Dungeon Souls</span>
+"final-value ng-star-inserted">$12.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

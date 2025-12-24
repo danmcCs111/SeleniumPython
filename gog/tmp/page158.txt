@@ -1,0 +1,192 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beyond_a_steel_sky_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Beyond a Steel Sky Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cyber_hook"
+_ngcontent-gogcom-store-c1196613375="">Cyber Hook</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/embracelet_ost"
+_ngcontent-gogcom-store-c1196613375="">Embracelet OST</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neon_abyss_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neon Abyss - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serious_sam_4"
+_ngcontent-gogcom-store-c1196613375="">Serious Sam 4</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serious_sam_4_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Serious Sam 4 Deluxe Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serious_sam_4_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Serious Sam 4 Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$10.00</span>
+"final-value ng-star-inserted">$4.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/art_of_rally"
+_ngcontent-gogcom-store-c1196613375="">art of rally</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/art_of_rally_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">art of rally original soundtrack</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_generals_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2 General Edition Upgrade</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pendragon"
+_ngcontent-gogcom-store-c1196613375="">Pendragon</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rebel_galaxy_outlaw"
+_ngcontent-gogcom-store-c1196613375="">Rebel Galaxy Outlaw</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/when_the_past_was_around"
+_ngcontent-gogcom-store-c1196613375="">When The Past Was Around</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/when_the_past_was_around_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">When the Past Was Around (Original Soundtrack)</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/when_the_past_was_around_artbook"
+_ngcontent-gogcom-store-c1196613375="">When The Past Was Around - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paperball_adventure_bundle"
+_ngcontent-gogcom-store-c1196613375="">Paperball - Adventure Bundle</span>
+"base-value ng-star-inserted">$7.47</span>
+"final-value ng-star-inserted">$5.22</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paperball_cherry_sky_pack"
+_ngcontent-gogcom-store-c1196613375="">Paperball - Cherry Sky Pack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paperball_deep_sea_pack"
+_ngcontent-gogcom-store-c1196613375="">Paperball - Deep Sea Pack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paperball_secret_spy_pack"
+_ngcontent-gogcom-store-c1196613375="">Paperball - Secret Spy Pack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pendragon_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Pendragon Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomicrops_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Atomicrops Deluxe Edition</span>
+"base-value ng-star-inserted">$19.79</span>
+"final-value ng-star-inserted">$6.92</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atomicrops_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Atomicrops Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_red_storm"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Red Storm</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saint_emiliana_unrated"
+_ngcontent-gogcom-store-c1196613375="">Saint Emiliana UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dungeon_of_naheulbeuk_the_amulet_of_chaos_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition</span>
+"final-value ng-star-inserted">$42.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dungeon_of_naheulbeuk_the_amulet_of_chaos_goodies_pack"
+_ngcontent-gogcom-store-c1196613375="">The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dungeon_of_naheulbeuk_the_amulet_of_chaos_ost"
+_ngcontent-gogcom-store-c1196613375="">The Dungeon Of Naheulbeuk: The Amulet Of Chaos - OST</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/welcome_to_elk"
+_ngcontent-gogcom-store-c1196613375="">Welcome to Elk</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/welcome_to_elk_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Welcome to Elk Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wingspan"
+_ngcontent-gogcom-store-c1196613375="">Wingspan</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wingspan_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Wingspan Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bpm_bullets_per_minute"
+_ngcontent-gogcom-store-c1196613375="">BPM: BULLETS PER MINUTE</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bpm_bullets_per_minute_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">BPM: BULLETS PER MINUTE Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_brundr_kaelinn_clan_of_the_lynx"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Brundr &amp; Kaelinn, Clan of the Lynx</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/salthe"
+_ngcontent-gogcom-store-c1196613375="">Salthe</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/salthe_unrated"
+_ngcontent-gogcom-store-c1196613375="">Salthe UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vaporum_lockdown"
+_ngcontent-gogcom-store-c1196613375="">Vaporum: Lockdown</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wreckfest_season_pass_2"
+_ngcontent-gogcom-store-c1196613375="">Wreckfest - Season Pass 2</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_glory_dlc"
+_ngcontent-gogcom-store-c1196613375="">Mortal Glory + DLC</span>
+"base-value ng-star-inserted">$10.78</span>
+"final-value ng-star-inserted">$4.85</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_glory_fresh_blood_dlc"
+_ngcontent-gogcom-store-c1196613375="">Mortal Glory - Fresh Blood DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/as_far_as_the_eye"
+_ngcontent-gogcom-store-c1196613375="">As Far As The Eye</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/as_far_as_the_eye_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">As Far As The Eye – Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/as_far_as_the_eye_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">As Far As The Eye – Supporter Pack</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/as_far_as_the_eye_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">As Far As The Eye: Soundtrack Bundle</span>
+"base-value ng-star-inserted">$31.49</span>
+"final-value ng-star-inserted">$7.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/as_far_as_the_eye_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">As Far As The Eye: Supporter Bundle</span>
+"base-value ng-star-inserted">$37.36</span>
+"final-value ng-star-inserted">$9.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/control_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Control Ultimate Edition</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hidden_through_time_legends_of_japan"
+_ngcontent-gogcom-store-c1196613375="">Hidden Through Time - Legends of Japan</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_shadows_of_new_york"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Shadows of New York</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

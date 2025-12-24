@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/winter_ember"
+_ngcontent-gogcom-store-c1196613375="">Winter Ember</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_heart_of_darkness"
+_ngcontent-gogcom-store-c1196613375="">The Heart of Darkness</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_heart_of_darkness_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Heart of Darkness UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dokyusei_bangin_summer"
+_ngcontent-gogcom-store-c1196613375="">Dōkyūsei: Bangin' Summer</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dokyusei_bangin_summer_unrated"
+_ngcontent-gogcom-store-c1196613375="">Dōkyūsei: Bangin' Summer UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/abriss_build_to_destroy"
+_ngcontent-gogcom-store-c1196613375="">ABRISS - build to destroy</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cat_cafe_manager"
+_ngcontent-gogcom-store-c1196613375="">Cat Cafe Manager</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/insurmountable_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Insurmountable - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/run_the_world_inbetween"
+_ngcontent-gogcom-store-c1196613375="">RUN: The world in-between</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/run_the_world_inbetween_ost_bundle"
+_ngcontent-gogcom-store-c1196613375="">RUN: The world in-between + OST Bundle</span>
+"final-value ng-star-inserted">$12.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/run_the_world_inbetween_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">RUN: The world in-between Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solasta_crown_of_the_magister_lost_valley"
+_ngcontent-gogcom-store-c1196613375="">Solasta: Crown of the Magister - Lost Valley</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_game_of_thrones_a_feast_for_crows"
+_ngcontent-gogcom-store-c1196613375="">A Game Of Thrones - A Feast For Crows</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blast_brigade_vs_the_evil_legion_of_dr_cread"
+_ngcontent-gogcom-store-c1196613375="">Blast Brigade vs. the Evil Legion of Dr. Cread</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astral_ascent"
+_ngcontent-gogcom-store-c1196613375="">Astral Ascent</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astral_ascent_original_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Astral Ascent (Original Game Soundtrack)</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astral_ascent_dlc_1_dlc_2_bundle"
+_ngcontent-gogcom-store-c1196613375="">Astral Ascent + DLC 1 + DLC 2 Bundle</span>
+"base-value ng-star-inserted">$35.97</span>
+"final-value ng-star-inserted">$21.58</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astral_ascent_artbook"
+_ngcontent-gogcom-store-c1196613375="">Astral Ascent Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/biota"
+_ngcontent-gogcom-store-c1196613375="">B.I.O.T.A.</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/biota_demo"
+_ngcontent-gogcom-store-c1196613375="">B.I.O.T.A. Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expeditions_rome_death_or_glory"
+_ngcontent-gogcom-store-c1196613375="">Expeditions: Rome - Death or Glory</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/popslinger"
+_ngcontent-gogcom-store-c1196613375="">PopSlinger</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sephonie"
+_ngcontent-gogcom-store-c1196613375="">Sephonie</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sephonie_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sephonie - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sudocats_paper"
+_ngcontent-gogcom-store-c1196613375="">Sudocats Paper</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kung_fu_grand_king"
+_ngcontent-gogcom-store-c1196613375="">Kung Fu Grand King</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kung_fu_grand_king_unrated"
+_ngcontent-gogcom-store-c1196613375="">Kung Fu Grand King UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_making_of_nox_archaist"
+_ngcontent-gogcom-store-c1196613375="">The Making of Nox Archaist</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chinatown_detective_agency"
+_ngcontent-gogcom-store-c1196613375="">Chinatown Detective Agency</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/janitor_bleeds"
+_ngcontent-gogcom-store-c1196613375="">JANITOR BLEEDS</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mokoko_x"
+_ngcontent-gogcom-store-c1196613375="">Mokoko X</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mokoko_x_artwork"
+_ngcontent-gogcom-store-c1196613375="">Mokoko X - Artwork</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mokoko_x_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mokoko X - Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mokoko_x_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Mokoko X Deluxe</span>
+"base-value ng-star-inserted">$13.47</span>
+"final-value ng-star-inserted">$6.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mokoko_x_unrated"
+_ngcontent-gogcom-store-c1196613375="">Mokoko X UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shattered_pixel_dungeon_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Shattered Pixel Dungeon Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_april_fools_prototype_rcraft"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - APRIL FOOLS PROTOTYPE R-Craft</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_ofxx_mariko_rcraft"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - OFX-X MARIKO R-Craft</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coromon"
+_ngcontent-gogcom-store-c1196613375="">Coromon</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crystal_project_demo"
+_ngcontent-gogcom-store-c1196613375="">Crystal Project Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fixfox"
+_ngcontent-gogcom-store-c1196613375="">FixFox</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glitchhikers_the_spaces_between_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Glitchhikers: The Spaces Between - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glitchhikers_the_spaces_between_chill_beats_edition"
+_ngcontent-gogcom-store-c1196613375="">Glitchhikers: The Spaces Between Chill Beats Edition</span>
+"base-value ng-star-inserted">$20.68</span>
+"final-value ng-star-inserted">$7.23</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glitchhikers_the_spaces_between_deluxe_glitchpod_edition"
+_ngcontent-gogcom-store-c1196613375="">Glitchhikers: The Spaces Between Deluxe Glitchpod Edition</span>
+"base-value ng-star-inserted">$38.38</span>
+"final-value ng-star-inserted">$13.43</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glitchhikers_the_spaces_between_deluxe_soundtrack_5volume_set"
+_ngcontent-gogcom-store-c1196613375="">Glitchhikers: The Spaces Between Deluxe Soundtrack 5-Volume Set</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$12.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_book_of_bondmaids_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Book of Bondmaids Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.03</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/weird_west_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Weird West Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zodiacats_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Zodiacats - Supporter Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

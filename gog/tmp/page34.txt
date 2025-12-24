@@ -1,0 +1,197 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/those_who_rule"
+_ngcontent-gogcom-store-c1196613375="">Those Who Rule</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aztecs_the_last_sun"
+_ngcontent-gogcom-store-c1196613375="">Aztecs: The Last Sun</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_shadows_of_the_shroud"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Shadows of the Shroud</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/puzzle_quest_immortal_edition"
+_ngcontent-gogcom-store-c1196613375="">Puzzle Quest: Immortal Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/troublemaker_2_beyond_dream"
+_ngcontent-gogcom-store-c1196613375="">Troublemaker 2: Beyond Dream</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_legacy_of_the_forge"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II - Legacy of the Forge</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cronos_the_new_dawn"
+_ngcontent-gogcom-store-c1196613375="">Cronos: The New Dawn</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$44.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jotunnslayer_hordes_of_hel_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Jotunnslayer: Hordes of Hel - Collector’s Edition</span>
+"base-value ng-star-inserted">$29.65</span>
+"final-value ng-star-inserted">$25.20</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jotunnslayer_hordes_of_hel_heimdals_bifrost_armor_pack"
+_ngcontent-gogcom-store-c1196613375="">Jotunnslayer: Hordes of Hel - Heimdal’s Bifrost Armor Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jotunnslayer_hordes_of_hel_tyrs_mythical_armor_pack"
+_ngcontent-gogcom-store-c1196613375="">Jotunnslayer: Hordes of Hel - Tyr’s Mythical Armor Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries_shadow_of_kerensky"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - Shadow of Kerensky</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bad_cheese"
+_ngcontent-gogcom-store-c1196613375="">Bad Cheese</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$10.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_sin"
+_ngcontent-gogcom-store-c1196613375="">Mortal Sin</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/labyrinth_flowers"
+_ngcontent-gogcom-store-c1196613375="">Labyrinth Flowers</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$11.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_frontlines_westwall"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Frontlines - Westwall</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dark_queen_of_mortholme"
+_ngcontent-gogcom-store-c1196613375="">The Dark Queen of Mortholme</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chained_echoes_ashes_of_elrant"
+_ngcontent-gogcom-store-c1196613375="">Chained Echoes: Ashes of Elrant</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/against_the_storm_nightwatchers"
+_ngcontent-gogcom-store-c1196613375="">Against the Storm - Nightwatchers</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ninja_gaiden_ragebound"
+_ngcontent-gogcom-store-c1196613375="">NINJA GAIDEN: Ragebound</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/primal_planet"
+_ngcontent-gogcom-store-c1196613375="">Primal Planet</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/robocop_rogue_city_unfinished_business_prime_directives_pack"
+_ngcontent-gogcom-store-c1196613375="">RoboCop: Rogue City - Unfinished Business - Prime Directives Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eriksholm_the_stolen_dream"
+_ngcontent-gogcom-store-c1196613375="">Eriksholm: The Stolen Dream</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_dynasty_echoes_of_nature"
+_ngcontent-gogcom-store-c1196613375="">Medieval Dynasty - Echoes of Nature</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/system_shock_2_25th_anniversary_remaster"
+_ngcontent-gogcom-store-c1196613375="">System Shock® 2: 25th Anniversary Remaster</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_random_the_eternal_die"
+_ngcontent-gogcom-store-c1196613375="">Lost in Random: The Eternal Die</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wingspan_asia_expansion"
+_ngcontent-gogcom-store-c1196613375="">Wingspan: Asia Expansion</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/loot_line_season_1"
+_ngcontent-gogcom-store-c1196613375="">Loot Line - Season 1</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$7.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_alters_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Alters: Deluxe Edition</span>
+"base-value ng-star-inserted">$49.47</span>
+"final-value ng-star-inserted">$37.10</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tainted_grail_the_fall_of_avalon_supporter_edition"
+_ngcontent-gogcom-store-c1196613375="">Tainted Grail: The Fall of Avalon - Supporter Edition</span>
+"base-value ng-star-inserted">$54.99</span>
+"final-value ng-star-inserted">$43.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/survive_the_fall"
+_ngcontent-gogcom-store-c1196613375="">Survive the Fall</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_rogue_trader_season_pass_2"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Rogue Trader - Season Pass 2</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stalker_shadow_of_chornobyl_enhanced_edition"
+_ngcontent-gogcom-store-c1196613375="">S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_siege_and_the_sandfox"
+_ngcontent-gogcom-store-c1196613375="">The Siege and the Sandfox</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blacksmith_master"
+_ngcontent-gogcom-store-c1196613375="">Blacksmith Master</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/everspace_2_expansion_bundle"
+_ngcontent-gogcom-store-c1196613375="">EVERSPACE 2: Expansion Bundle</span>
+"base-value ng-star-inserted">$42.27</span>
+"final-value ng-star-inserted">$29.58</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/labyrinth_of_the_demon_king"
+_ngcontent-gogcom-store-c1196613375="">Labyrinth Of The Demon King</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_everspace_2_official_soundtrack_expansion_tracks"
+_ngcontent-gogcom-store-c1196613375="">The EVERSPACE™ 2 Official Soundtrack - Expansion Tracks</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nordic_ashes_remnants_of_corruption"
+_ngcontent-gogcom-store-c1196613375="">Nordic Ashes: Remnants of Corruption</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/driftmoon_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Driftmoon Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revenge_of_the_savage_planet_cosmic_hoarder_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Revenge of the Savage Planet - Cosmic Hoarder Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_biogenesis"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: BioGenesis</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/days_gone_broken_road_dlc"
+_ngcontent-gogcom-store-c1196613375="">Days Gone - Broken Road DLC</span>
+"final-value ng-star-inserted">$10.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amerzone_the_explorers_legacy_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Amerzone - The Explorer's Legacy - Deluxe Upgrade</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realpolitiks_3"
+_ngcontent-gogcom-store-c1196613375="">Realpolitiks 3: Earth and Beyond</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/farm_manager_world"
+_ngcontent-gogcom-store-c1196613375="">Farm Manager World</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/true_fear_forsaken_souls_part_3"
+_ngcontent-gogcom-store-c1196613375="">True Fear: Forsaken Souls Part 3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mandragora_whispers_of_the_witch_tree_digital_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Mandragora: Whispers of the Witch Tree — Digital Deluxe</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stygian_outer_gods"
+_ngcontent-gogcom-store-c1196613375="">Stygian: Outer Gods</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,193 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/everdream_valley_summer_fun_dlc"
+_ngcontent-gogcom-store-c1196613375="">Everdream Valley - Summer Fun DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/noob_the_factionless"
+_ngcontent-gogcom-store-c1196613375="">Noob - The Factionless</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_long_journey_to_an_uncertain_end"
+_ngcontent-gogcom-store-c1196613375="">A Long Journey to an Uncertain End</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reverie_sweet_as_edition"
+_ngcontent-gogcom-store-c1196613375="">Reverie: Sweet As Edition</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/runes_magica"
+_ngcontent-gogcom-store-c1196613375="">RUNES Magica</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slavicpunk_oldtimer"
+_ngcontent-gogcom-store-c1196613375="">SlavicPunk: Oldtimer</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slavicpunk_oldtimer_ost_pack"
+_ngcontent-gogcom-store-c1196613375="">SlavicPunk: Oldtimer + OST Pack</span>
+"base-value ng-star-inserted">$27.89</span>
+"final-value ng-star-inserted">$5.57</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slavicpunk_oldtimer_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">SlavicPunk: Oldtimer Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sludge_life_2"
+_ngcontent-gogcom-store-c1196613375="">SLUDGE LIFE 2</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sludge_life_2_ost"
+_ngcontent-gogcom-store-c1196613375="">SLUDGE LIFE 2 Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.68</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_lonely_outpost_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">One Lonely Outpost Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_and_enchants"
+_ngcontent-gogcom-store-c1196613375="">Love and Enchants</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/concordia_digital_edition_venus"
+_ngcontent-gogcom-store-c1196613375="">Concordia: Digital Edition - Venus</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dr_fetus_mean_meat_machine"
+_ngcontent-gogcom-store-c1196613375="">Dr. Fetus' Mean Meat Machine</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nova_lands"
+_ngcontent-gogcom-store-c1196613375="">Nova Lands</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_1945"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - 1945</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_bookwalker_thief_of_tales"
+_ngcontent-gogcom-store-c1196613375="">The Bookwalker: Thief of Tales</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_bookwalker_thief_of_tales_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">The Bookwalker: Thief of Tales - Digital Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_bookwalker_thief_of_tales_digital_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Bookwalker: Thief of Tales - Digital Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/colossal_cave_vr"
+_ngcontent-gogcom-store-c1196613375="">Colossal Cave VR</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trepang2_banger_edition"
+_ngcontent-gogcom-store-c1196613375="">Trepang2 - Banger Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$13.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trepang2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trepang2 - Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trepang2_demo"
+_ngcontent-gogcom-store-c1196613375="">Trepang2 Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/age_of_wonders_4_dragon_dawn"
+_ngcontent-gogcom-store-c1196613375="">Age of Wonders 4: Dragon Dawn</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/convergence_golden_ekko_skin"
+_ngcontent-gogcom-store-c1196613375="">CONVERGENCE: Golden Ekko Skin</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_china_history_lessons"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: China History Lessons</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_history_lessons_bundle"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: History Lessons Bundle</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$8.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_japan_history_lessons"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Japan History Lessons</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fireball_wizard"
+_ngcontent-gogcom-store-c1196613375="">Fireball Wizard</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.44</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punch_club_2_fast_forward"
+_ngcontent-gogcom-store-c1196613375="">Punch Club 2: Fast Forward</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punch_club_2_fast_forward_artbook_and_comic_book"
+_ngcontent-gogcom-store-c1196613375="">Punch Club 2: Fast Forward - Artbook and Comic Book</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punch_club_2_fast_forward_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Punch Club 2: Fast Forward - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/miwa_the_sacred_fox"
+_ngcontent-gogcom-store-c1196613375="">Miwa: The Sacred Fox</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$8.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/system_shock_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">System Shock Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_red_thunder"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Red Thunder</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_red_thunder_battle_pack_1"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Red Thunder - Battle Pack 1</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_red_thunder_fire_and_rubble"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Red Thunder - Fire and Rubble</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_red_thunder_complete"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Red Thunder Complete</span>
+"final-value ng-star-inserted">$94.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fall_of_porcupine_save_the_world_edition"
+_ngcontent-gogcom-store-c1196613375="">Fall of Porcupine Save the World Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/layers_of_fear_2023"
+_ngcontent-gogcom-store-c1196613375="">Layers of Fear</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/layers_of_fear_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Layers of Fear Deluxe Edition</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tunguska_the_visitation_dead_zone"
+_ngcontent-gogcom-store-c1196613375="">Tunguska: Dead Zone</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/daydream_forgotten_sorrow"
+_ngcontent-gogcom-store-c1196613375="">Daydream: Forgotten Sorrow</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/daydream_forgotten_sorrow_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Daydream: Forgotten Sorrow Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metro_simulator_2"
+_ngcontent-gogcom-store-c1196613375="">Metro Simulator 2</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metal_hellsinger_essential_hits_pack"
+_ngcontent-gogcom-store-c1196613375="">Metal: Hellsinger - Essential Hits Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lucy_dreaming_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lucy Dreaming Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kunoichi_demon_slayers_unrated"
+_ngcontent-gogcom-store-c1196613375="">Kunoichi Demon Slayers UNRATED</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

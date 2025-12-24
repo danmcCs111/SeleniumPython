@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hello_cruel_world"
+_ngcontent-gogcom-store-c1196613375="">Hello Cruel World</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hello_cruel_world_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Hello Cruel World Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_island_chefs_kiss_dlc_pack"
+_ngcontent-gogcom-store-c1196613375="">Moonstone Island: Chef's Kiss DLC Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8th_heaven"
+_ngcontent-gogcom-store-c1196613375="">8th Heaven</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astral_ascent_yamat_the_breach_traveler"
+_ngcontent-gogcom-store-c1196613375="">Astral Ascent - Yamat the Breach Traveler</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/exophobia_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Exophobia Soundtrack</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/towerful_defense_a_rogue_td"
+_ngcontent-gogcom-store-c1196613375="">Towerful Defense: A Rogue TD</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frontier_hunter_dlc_fashion_package_season_ultimate"
+_ngcontent-gogcom-store-c1196613375="">Frontier Hunter - DLC: Fashion Package Season Ultimate</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallout_london"
+_ngcontent-gogcom-store-c1196613375="">Fallout: London</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_pharaoh_dynasties"
+_ngcontent-gogcom-store-c1196613375="">Total War: PHARAOH DYNASTIES</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trepang2_bladekisser"
+_ngcontent-gogcom-store-c1196613375="">Trepang2 - Bladekisser</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/exophobia"
+_ngcontent-gogcom-store-c1196613375="">Exophobia</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valley_peaks"
+_ngcontent-gogcom-store-c1196613375="">Valley Peaks</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conscript"
+_ngcontent-gogcom-store-c1196613375="">CONSCRIPT</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conscript_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">CONSCRIPT Deluxe Edition</span>
+"base-value ng-star-inserted">$23.99</span>
+"final-value ng-star-inserted">$8.15</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conscript_officer_edition"
+_ngcontent-gogcom-store-c1196613375="">CONSCRIPT Officer Edition</span>
+"base-value ng-star-inserted">$26.99</span>
+"final-value ng-star-inserted">$9.17</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conscript_digital_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">CONSCRIPT – Digital Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conscript_golden_gun_pack"
+_ngcontent-gogcom-store-c1196613375="">CONSCRIPT – Golden Gun Pack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conscript_trench_raider_pack"
+_ngcontent-gogcom-store-c1196613375="">CONSCRIPT – Trench Raider Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_mines"
+_ngcontent-gogcom-store-c1196613375="">Forgotten Mines</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/linkito"
+_ngcontent-gogcom-store-c1196613375="">Linkito</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/linkito_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Linkito Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pixelsplit_horror_bundle"
+_ngcontent-gogcom-store-c1196613375="">Pixelsplit Horror Bundle</span>
+"base-value ng-star-inserted">$22.48</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shift_87"
+_ngcontent-gogcom-store-c1196613375="">Shift 87</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_star_named_eos"
+_ngcontent-gogcom-store-c1196613375="">The Star Named EOS</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/werewolf_the_apocalypse_purgatory"
+_ngcontent-gogcom-store-c1196613375="">Werewolf: The Apocalypse - Purgatory</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/werewolf_the_apocalypse_bundle"
+_ngcontent-gogcom-store-c1196613375="">Werewolf: The Apocalypse Bundle</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/horticular_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Horticular Soundtrack</span>
+"base-value ng-star-inserted">$6.75</span>
+"final-value ng-star-inserted">$5.40</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punch_club_2_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Punch Club 2: Complete Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_operator"
+_ngcontent-gogcom-store-c1196613375="">The Operator</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$9.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vulgator_priest_simulator_ost"
+_ngcontent-gogcom-store-c1196613375="">Vulgator (Priest Simulator OST)</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/angel_tear_goddess_betrayed_unrated"
+_ngcontent-gogcom-store-c1196613375="">Angel Tear: Goddess Betrayed UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_prison_holo_dancer"
+_ngcontent-gogcom-store-c1196613375="">Space Prison - Holo dancer</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_prison_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Space Prison - Supporter Pack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/union_of_gnomes_artbook"
+_ngcontent-gogcom-store-c1196613375="">Union of Gnomes - Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/usc_counterforce_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">USC: Counterforce - Supporter Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bo_path_of_the_teal_lotus"
+_ngcontent-gogcom-store-c1196613375="">Bō: Path of the Teal Lotus</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/clickolding"
+_ngcontent-gogcom-store-c1196613375="">CLICKOLDING</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nobody_wants_to_die_and_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Nobody Wants to Die and Soundtrack Bundle</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nobody_wants_to_die_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nobody Wants to Die Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dark_cave"
+_ngcontent-gogcom-store-c1196613375="">The Dark Cave</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/anger_foot"
+_ngcontent-gogcom-store-c1196613375="">Anger Foot</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/horticular_build_a_garden_attract_wildlife"
+_ngcontent-gogcom-store-c1196613375="">Horticular: Build a Garden, Attract Wildlife</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/horticular_complete"
+_ngcontent-gogcom-store-c1196613375="">Horticular: Complete</span>
+"base-value ng-star-inserted">$31.22</span>
+"final-value ng-star-inserted">$24.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_kawasaki_utv_pack"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter - Kawasaki UTV Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_standard_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$35.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_accessories_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak - Accessories Set</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_advanced_consumable_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak - Advanced Consumable Set</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$23.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dance_of_cards"
+_ngcontent-gogcom-store-c1196613375="">Dance of Cards</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dance_of_cards_game_ost_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dance of Cards - Game + OST Bundle</span>
+"base-value ng-star-inserted">$13.48</span>
+"final-value ng-star-inserted">$3.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dance_of_cards_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dance of Cards Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deexit_eternal_matters"
+_ngcontent-gogcom-store-c1196613375="">De-Exit - Eternal Matters</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_kinky_kitsune_and_the_tantalizing_tanuki"
+_ngcontent-gogcom-store-c1196613375="">The Kinky Kitsune and The Tantalizing Tanuki</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hunt_the_night"
+_ngcontent-gogcom-store-c1196613375="">Hunt the Night</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardpunk_verminfall_blood_pack"
+_ngcontent-gogcom-store-c1196613375="">Shardpunk - Blood Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardpunk_verminfall_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Shardpunk - Deluxe Edition</span>
+"base-value ng-star-inserted">$17.77</span>
+"final-value ng-star-inserted">$11.55</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardpunk_verminfall_demo"
+_ngcontent-gogcom-store-c1196613375="">Shardpunk - Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardpunk_verminfall_digital_compendium"
+_ngcontent-gogcom-store-c1196613375="">Shardpunk - Digital Compendium</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardpunk_verminfall_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Shardpunk - Official Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardpunk_verminfall_rat_pack"
+_ngcontent-gogcom-store-c1196613375="">Shardpunk - Rat Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/murderous_muses"
+_ngcontent-gogcom-store-c1196613375="">Murderous Muses</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_2_editors_bulletin"
+_ngcontent-gogcom-store-c1196613375="">Train Valley 2 - Editor's Bulletin</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartales"
+_ngcontent-gogcom-store-c1196613375="">Wartales</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x4_community_of_planets_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">X4: Community of Planets Collector's Edition (2024)</span>
+"base-value ng-star-inserted">$149.99</span>
+"final-value ng-star-inserted">$44.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x4_kingdom_end"
+_ngcontent-gogcom-store-c1196613375="">X4: Kingdom End</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_the_awakened_artbook"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes The Awakened - Artbook</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_the_awakened_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes The Awakened - Deluxe Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_the_awakened_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes The Awakened - Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_the_awakened_whispered_dreams_side_quest_pack"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes The Awakened - Whispered Dreams Side Quest Pack</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechaneer_restas_grand_adventure"
+_ngcontent-gogcom-store-c1196613375="">Mechaneer Resta's Grand Adventure</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechaneer_restas_grand_adventure_unrated"
+_ngcontent-gogcom-store-c1196613375="">Mechaneer Resta's Grand Adventure UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kunado_chronicles"
+_ngcontent-gogcom-store-c1196613375="">Kunado Chronicles</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kunado_chronicles_unrated"
+_ngcontent-gogcom-store-c1196613375="">Kunado Chronicles UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/curse_of_the_sea_rats"
+_ngcontent-gogcom-store-c1196613375="">Curse of the Sea Rats</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/melon_journey_bittersweet_memories"
+_ngcontent-gogcom-store-c1196613375="">Melon Journey: Bittersweet Memories</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moviehouse_the_film_studio_tycoon"
+_ngcontent-gogcom-store-c1196613375="">Moviehouse - The Film Studio Tycoon</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$1.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/organs_please"
+_ngcontent-gogcom-store-c1196613375="">Organs Please</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$8.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terrascape_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">TerraScape - Official Soundtrack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wall_world_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Wall World Original Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96_about_a_girl"
+_ngcontent-gogcom-store-c1196613375="">Road 96: About a Girl</span>
+"base-value ng-star-inserted">$7.96</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96_mile_0_full_journey_bundle"
+_ngcontent-gogcom-store-c1196613375="">Road 96: Mile 0 - Full Journey Bundle</span>
+"base-value ng-star-inserted">$26.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96_mile_0_stronger_together_bundle"
+_ngcontent-gogcom-store-c1196613375="">Road 96: Mile 0 - Stronger Together Bundle</span>
+"base-value ng-star-inserted">$17.84</span>
+"final-value ng-star-inserted">$4.46</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96_mile_0_ost"
+_ngcontent-gogcom-store-c1196613375="">Road 96: Mile 0 Soundtrack</span>
+"base-value ng-star-inserted">$6.96</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shogun_showdown_prologue"
+_ngcontent-gogcom-store-c1196613375="">Shogun Showdown: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/windy_meadow_remaster_demo"
+_ngcontent-gogcom-store-c1196613375="">Windy Meadow Remaster Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cartel_tycoon_lieutenants_pack_la_familia"
+_ngcontent-gogcom-store-c1196613375="">Cartel Tycoon - Lieutenants Pack - La Familia</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dr_fetus_mean_meat_machine_demo"
+_ngcontent-gogcom-store-c1196613375="">Dr. Fetus' Mean Meat Machine DEMO</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/volley_pals"
+_ngcontent-gogcom-store-c1196613375="">Volley Pals</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_alchemist_of_ars_magna"
+_ngcontent-gogcom-store-c1196613375="">The Alchemist of Ars Magna</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/troublemaker"
+_ngcontent-gogcom-store-c1196613375="">Troublemaker</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dredge_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">DREDGE - Digital Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dredge_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">DREDGE - Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/infinite_guitars"
+_ngcontent-gogcom-store-c1196613375="">INFINITE GUITARS</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/infinite_guitars_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">INFINITE GUITARS Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_empire_oceania"
+_ngcontent-gogcom-store-c1196613375="">Shadow Empire: Oceania</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_last_worker"
+_ngcontent-gogcom-store-c1196613375="">The Last Worker</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$4.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

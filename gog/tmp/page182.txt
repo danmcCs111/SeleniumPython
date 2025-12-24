@@ -1,0 +1,188 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/project_highrise_tokyo_towers"
+_ngcontent-gogcom-store-c1196613375="">Project Highrise: Tokyo Towers</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tyranny_bastards_wound"
+_ngcontent-gogcom-store-c1196613375="">Tyranny - Bastard's Wound</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_metronomicon_the_end_records_challenge_pack"
+_ngcontent-gogcom-store-c1196613375="">The Metronomicon - The End Records Challenge Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/songbringer"
+_ngcontent-gogcom-store-c1196613375="">Songbringer</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/last_day_of_june"
+_ngcontent-gogcom-store-c1196613375="">Last Day of June</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/life_is_strange_before_the_storm"
+_ngcontent-gogcom-store-c1196613375="">Life is Strange: Before the Storm</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/life_is_strange_before_the_storm_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Life is Strange: Before the Storm - Deluxe Edition</span>
+"final-value ng-star-inserted">$24.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/life_is_strange_before_the_storm_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Life is Strange: Before the Storm - Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunless_skies"
+_ngcontent-gogcom-store-c1196613375="">Sunless Skies: Sovereign Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_dragon_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Dragon Expansion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/absolver_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Absolver: Deluxe Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/absolver_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Absolver: Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/antihero_oliver_character"
+_ngcontent-gogcom-store-c1196613375="">Antihero Oliver Character</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hello_neighbor"
+_ngcontent-gogcom-store-c1196613375="">Hello Neighbor</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hello_neighbor_demo"
+_ngcontent-gogcom-store-c1196613375="">Hello Neighbor Alpha Version</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hakuoki_kyoto_winds_complete_deluxe_set"
+_ngcontent-gogcom-store-c1196613375="">Hakuoki: Kyoto Winds Complete Deluxe Set</span>
+"base-value ng-star-inserted">$20.67</span>
+"final-value ng-star-inserted">$8.26</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hakuoki_kyoto_winds_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Hakuoki: Kyoto Winds - Deluxe Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hakuoki_kyoto_winds_winds_treasure_box"
+_ngcontent-gogcom-store-c1196613375="">Hakuoki: Kyoto Winds - Winds Treasure Box</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distrust"
+_ngcontent-gogcom-store-c1196613375="">Distrust</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$0.77</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_escapists_2"
+_ngcontent-gogcom-store-c1196613375="">The Escapists 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_escapists_2_season_pass"
+_ngcontent-gogcom-store-c1196613375="">The Escapists 2 - Season Pass</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darkwood"
+_ngcontent-gogcom-store-c1196613375="">Darkwood</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_burma_road"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Burma Road</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moero_chronicle"
+_ngcontent-gogcom-store-c1196613375="">Moero Chronicle</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moero_chronicle_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Moero Chronicle - Deluxe Pack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moero_chronicle_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">Moero Chronicle Deluxe Bundle</span>
+"base-value ng-star-inserted">$12.78</span>
+"final-value ng-star-inserted">$3.83</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ken_folletts_the_pillars_of_the_earth_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Ken Follett's The Pillars of the Earth - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ken_folletts_the_pillars_of_the_earth_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Ken Follett’s The Pillars of the Earth</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sudden_strike_4"
+_ngcontent-gogcom-store-c1196613375="">Sudden Strike 4</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/halcyon_6_lightspeed_edition"
+_ngcontent-gogcom-store-c1196613375="">Halcyon 6: Lightspeed Edition</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phantom_trigger_ost"
+_ngcontent-gogcom-store-c1196613375="">Phantom Trigger OST</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realms_of_arkania_star_trail_remake"
+_ngcontent-gogcom-store-c1196613375="">Realms of Arkania: Star Trail (Remake)</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realms_of_arkania_star_trail_digital_deluxe_content"
+_ngcontent-gogcom-store-c1196613375="">Realms of Arkania: Star Trail - Digital Deluxe Content</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realms_of_arkania_star_trail_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Realms of Arkania: Star Trail - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$18.38</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starpoint_gemini_warlords_titans_return"
+_ngcontent-gogcom-store-c1196613375="">Starpoint Gemini Warlords - Titans Return</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/west_of_loathing"
+_ngcontent-gogcom-store-c1196613375="">West of Loathing</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fictorum"
+_ngcontent-gogcom-store-c1196613375="">Fictorum</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fictorum_ost"
+_ngcontent-gogcom-store-c1196613375="">Fictorum OST</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/batman_the_enemy_within_the_telltale_series"
+_ngcontent-gogcom-store-c1196613375="">Batman: The Enemy Within - The Telltale Series</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hellblade_senuas_sacrifice_pack"
+_ngcontent-gogcom-store-c1196613375="">Hellblade: Senua's Sacrifice</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sine_mora_ex"
+_ngcontent-gogcom-store-c1196613375="">Sine Mora EX</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tempest_treasure_lands"
+_ngcontent-gogcom-store-c1196613375="">Tempest - Treasure Lands</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cyber_complex"
+_ngcontent-gogcom-store-c1196613375="">Cyber Complex</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tales_of_the_tiny_planet"
+_ngcontent-gogcom-store-c1196613375="">Tales of the Tiny Planet</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_costume_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel - Costume Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_shining_pom_bait_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel - Shining Pom Bait Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_special_item_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel - Special Item Pack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

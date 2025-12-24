@@ -1,0 +1,196 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/umineko_when_they_cry_question_arcs"
+_ngcontent-gogcom-store-c1196613375="">Umineko When They Cry - Question Arcs</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_fredmans_epistles"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Fredman's Epistles</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/furi"
+_ngcontent-gogcom-store-c1196613375="">Furi</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_space_marines"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada - Space Marines</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_turtle_wars_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Turtle Wars DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/celestian_tales_old_north_alternate_costume_pack"
+_ngcontent-gogcom-store-c1196613375="">Celestian Tales: Old North - Alternate Costume Pack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/celestian_tales_old_north_howl_of_the_ravager"
+_ngcontent-gogcom-store-c1196613375="">Celestian Tales: Old North - Howl of the Ravager</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ara_fell"
+_ngcontent-gogcom-store-c1196613375="">Ara Fell: Enhanced Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_battlefields"
+_ngcontent-gogcom-store-c1196613375="">Medieval Battlefields</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/senran_kagura_shinovi_versus"
+_ngcontent-gogcom-store-c1196613375="">SENRAN KAGURA SHINOVI VERSUS</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/this_war_of_mine_the_little_ones"
+_ngcontent-gogcom-store-c1196613375="">This War of Mine: The Little Ones</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_gauntlet_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Gauntlet DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bridge_constructor_trains"
+_ngcontent-gogcom-store-c1196613375="">Bridge Constructor Trains</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_way"
+_ngcontent-gogcom-store-c1196613375="">The Way</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sengoku_jidai_gold"
+_ngcontent-gogcom-store-c1196613375="">Sengoku Jidai GOLD</span>
+"base-value ng-star-inserted">$31.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadwen"
+_ngcontent-gogcom-store-c1196613375="">Shadwen</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris"
+_ngcontent-gogcom-store-c1196613375="">Stellaris</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deserts_of_kharak_khaaneph_fleet_pack"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak - Khaaneph Fleet Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada - Complete Edition</span>
+"base-value ng-star-inserted">$26.32</span>
+"final-value ng-star-inserted">$7.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldurs_gate_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Baldur's Gate Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_overlord_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Overlord Scenario Pack DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/epistory_typing_chronicles"
+_ngcontent-gogcom-store-c1196613375="">Epistory - Typing Chronicles</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_u_difficult_quest"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia U - Difficult Quest</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/obscuritas"
+_ngcontent-gogcom-store-c1196613375="">Obscuritas</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alekhines_gun"
+_ngcontent-gogcom-store-c1196613375="">Alekhine's Gun</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunrider_liberation_day_captains_edition"
+_ngcontent-gogcom-store-c1196613375="">Sunrider: Liberation Day - Captain's Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stardew_valley_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Stardew Valley Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/superhot"
+_ngcontent-gogcom-store-c1196613375="">SUPERHOT</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_walking_dead_michonne_a_telltale_miniseries"
+_ngcontent-gogcom-store-c1196613375="">The Walking Dead: Michonne - A Telltale Miniseries</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_the_white_march_part_2"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity: The White March - Part II</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/downfall_redux"
+_ngcontent-gogcom-store-c1196613375="">Downfall: Redux</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/level22_garys_misadventures"
+_ngcontent-gogcom-store-c1196613375="">Level22 Gary’s Misadventures</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/firewatch"
+_ngcontent-gogcom-store-c1196613375="">Firewatch</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xcom_2_reinforcement_pack"
+_ngcontent-gogcom-store-c1196613375="">XCOM 2: Reinforcement Pack</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_conclave"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: Conclave</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_armageddon_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Armageddon - Soundtrack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge"
+_ngcontent-gogcom-store-c1196613375="">Order of the Thorne: The King's Challenge</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deserts_of_kharak_expedition_guide"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak - Expedition Guide</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_costume_pack_1"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 Costume Pack 1</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resident_evil_0_costume_pack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Resident Evil 0 Costume Pack Bundle</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oxenfree"
+_ngcontent-gogcom-store-c1196613375="">Oxenfree</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simpleplanes"
+_ngcontent-gogcom-store-c1196613375="">SimplePlanes</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$4.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/celestian_tales_old_north_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Celestian Tales: Old North - Original Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valhalla_hills_twohorned_helmet_edition"
+_ngcontent-gogcom-store-c1196613375="">Valhalla Hills: Two-Horned Helmet Edition</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valhalla_hills_twohorned_helmet_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Valhalla Hills: Two-Horned Helmet Edition Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/adom"
+_ngcontent-gogcom-store-c1196613375="">ADOM (Ancient Domains Of Mystery)</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mini_metro"
+_ngcontent-gogcom-store-c1196613375="">Mini Metro</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_crusader_2_the_jackal_the_khan"
+_ngcontent-gogcom-store-c1196613375="">Stronghold Crusader 2: The Jackal &amp; The Khan</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

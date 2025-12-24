@@ -1,0 +1,173 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_lovely_wife_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">My Lovely Wife Soundtrack</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/donut_dodo"
+_ngcontent-gogcom-store-c1196613375="">Donut Dodo</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_homage_stage_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - Homage Stage Soundtrack</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/behind_the_frame_the_finest_scenery_art_book_2"
+_ngcontent-gogcom-store-c1196613375="">Behind the Frame: The Finest Scenery - Art Book #2</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/card_shark"
+_ngcontent-gogcom-store-c1196613375="">Card Shark</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/card_shark_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Card Shark Deluxe Edition</span>
+"base-value ng-star-inserted">$29.98</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/card_shark_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Card Shark Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/card_shark_demo"
+_ngcontent-gogcom-store-c1196613375="">Card Shark Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gravitar_recharged"
+_ngcontent-gogcom-store-c1196613375="">Gravitar: Recharged</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kapital_sparks_of_revolution_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kapital: Sparks of Revolution - Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/souldiers"
+_ngcontent-gogcom-store-c1196613375="">Souldiers</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/souldiers_artbook"
+_ngcontent-gogcom-store-c1196613375="">Souldiers - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/souldiers_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Souldiers - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/souldiers_ost"
+_ngcontent-gogcom-store-c1196613375="">Souldiers - OST</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aid_artificial_intelligence_defence_demo"
+_ngcontent-gogcom-store-c1196613375="">A.I.D. - Artificial Intelligence Defence Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/corpse_factory"
+_ngcontent-gogcom-store-c1196613375="">CORPSE FACTORY</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necromunda_hired_gun_spire_noble_skin_pack"
+_ngcontent-gogcom-store-c1196613375="">Necromunda: Hired Gun - Spire Noble Skin Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silt"
+_ngcontent-gogcom-store-c1196613375="">Silt</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroy_all_humans_clone_carnage"
+_ngcontent-gogcom-store-c1196613375="">Destroy All Humans! Clone Carnage</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_of_messiah_unrated"
+_ngcontent-gogcom-store-c1196613375="">Knights of Messiah UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kao_the_kangaroo_2022"
+_ngcontent-gogcom-store-c1196613375="">Kao the Kangaroo</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kao_the_kangaroo_a_well_good_bundle"
+_ngcontent-gogcom-store-c1196613375="">Kao the Kangaroo - A Well Good Bundle</span>
+"base-value ng-star-inserted">$31.48</span>
+"final-value ng-star-inserted">$7.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kao_the_kangaroo_oh_well"
+_ngcontent-gogcom-store-c1196613375="">Kao the Kangaroo - Oh! Well</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kao_the_kangaroo_summer_drip"
+_ngcontent-gogcom-store-c1196613375="">Kao the Kangaroo - Summer Drip</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kao_the_kangaroo_top_of_the_class"
+_ngcontent-gogcom-store-c1196613375="">Kao the Kangaroo - Top of the Class</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kao_the_kangaroo_vip"
+_ngcontent-gogcom-store-c1196613375="">Kao the Kangaroo - VIP</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/svoboda_1945_liberation_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Svoboda 1945: Liberation Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.55</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unexplored_2_the_wayfarers_legacy"
+_ngcontent-gogcom-store-c1196613375="">Unexplored 2: The Wayfarer's Legacy</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unexplored_2_the_wayfarers_legacy_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Unexplored 2: The Wayfarer's Legacy - Digital Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unexplored_2_the_wayfarers_legacy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Unexplored 2: The Wayfarer's Legacy Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fabled_lands_demo"
+_ngcontent-gogcom-store-c1196613375="">Fabled Lands Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hellslave"
+_ngcontent-gogcom-store-c1196613375="">Hellslave</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hellslave_demo"
+_ngcontent-gogcom-store-c1196613375="">Hellslave Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/out_there_oceans_of_time"
+_ngcontent-gogcom-store-c1196613375="">Out There: Oceans of Time</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_1943"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - 1943</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_backrooms_1998_found_footage_survival_horror_game"
+_ngcontent-gogcom-store-c1196613375="">The Backrooms 1998 - Found Footage Survival Horror Game</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gas_station_simulator_can_touch_this_dlc"
+_ngcontent-gogcom-store-c1196613375="">Gas Station Simulator - Can Touch This DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/interstellar_space_genesis_evolving_empires"
+_ngcontent-gogcom-store-c1196613375="">Interstellar Space: Genesis - Evolving Empires</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shotgun_king_the_final_checkmate_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Shotgun King: The Final Checkmate Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sonority"
+_ngcontent-gogcom-store-c1196613375="">Sonority</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sonority_demo"
+_ngcontent-gogcom-store-c1196613375="">Sonority Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unwelcome"
+_ngcontent-gogcom-store-c1196613375="">Unwelcome</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unwelcome_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Unwelcome Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hardspace_shipbreaker"
+_ngcontent-gogcom-store-c1196613375="">Hardspace: Shipbreaker</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dread_x_collection_5"
+_ngcontent-gogcom-store-c1196613375="">Dread X Collection 5</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/curious_expedition_2_shores_of_taishi"
+_ngcontent-gogcom-store-c1196613375="">Curious Expedition 2 - Shores of Taishi</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/decision_red_daze"
+_ngcontent-gogcom-store-c1196613375="">Decision: Red Daze</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/detective_gallo_artbook"
+_ngcontent-gogcom-store-c1196613375="">Detective Gallo - Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.59</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

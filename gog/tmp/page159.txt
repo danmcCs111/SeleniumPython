@@ -1,0 +1,179 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_shadows_of_new_york_artbook"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Shadows of New York - Artbook</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_shadows_of_new_york_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Shadows of New York - Deluxe Edition</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_shadows_of_new_york_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Shadows of New York - Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cloud_gardens"
+_ngcontent-gogcom-store-c1196613375="">Cloud Gardens</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$12.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/werewolf_the_apocalypse_heart_of_the_forest_demo"
+_ngcontent-gogcom-store-c1196613375="">Werewolf: The Apocalypse - Heart of the Forest Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/avicii_invector_magma_track_pack"
+_ngcontent-gogcom-store-c1196613375="">AVICII Invector - Magma Track Pack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/avicii_invector_tim_track_pack"
+_ngcontent-gogcom-store-c1196613375="">AVICII Invector - TIM Track Pack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdoms_of_amalur_rereckoning_fate_edition"
+_ngcontent-gogcom-store-c1196613375="">Kingdoms of Amalur: Re-Reckoning FATE Edition</span>
+"base-value ng-star-inserted">$54.99</span>
+"final-value ng-star-inserted">$13.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/midnight_scenes_the_goodbye_note"
+_ngcontent-gogcom-store-c1196613375="">Midnight Scenes: The Goodbye Note</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_renegades_deluxe_content"
+_ngcontent-gogcom-store-c1196613375="">Star Renegades Deluxe Content</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_renegades_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Star Renegades Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.18</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paradise_killer_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Paradise Killer Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bleeding_moons"
+_ngcontent-gogcom-store-c1196613375="">Bleeding Moons</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bleeding_moons_demo"
+_ngcontent-gogcom-store-c1196613375="">Bleeding Moons Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spinch"
+_ngcontent-gogcom-store-c1196613375="">Spinch</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spinch_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Spinch - Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.44</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_shi_xie"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - Shi Xie</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_the_furious_wild"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - The Furious Wild</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$6.45</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ultrakill"
+_ngcontent-gogcom-store-c1196613375="">ULTRAKILL</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/desperados_iii_money_for_the_vultures_part_1_late_to_the_party"
+_ngcontent-gogcom-store-c1196613375="">Desperados III: Money for the Vultures - Part 1: Late To The Party</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/parkitect_booms_blooms"
+_ngcontent-gogcom-store-c1196613375="">Parkitect - Booms &amp; Blooms</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_harvest"
+_ngcontent-gogcom-store-c1196613375="">Iron Harvest</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$12.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saboteur_sio"
+_ngcontent-gogcom-store-c1196613375="">Saboteur SiO</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_shock_force_2"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Shock Force 2</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_shock_force_2_british_forces"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Shock Force 2 - British Forces</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_shock_force_2_marines"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Shock Force 2 - Marines</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_shock_force_2_nato_forces"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Shock Force 2 - NATO Forces</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_shock_force_2_complete"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Shock Force 2 Complete</span>
+"final-value ng-star-inserted">$115.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lynn_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lynn , Original SoundTrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/radical_relocation"
+_ngcontent-gogcom-store-c1196613375="">Radical Relocation</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_divine_invasion"
+_ngcontent-gogcom-store-c1196613375="">The Divine Invasion</span>
+"base-value ng-star-inserted">$9.77</span>
+"final-value ng-star-inserted">$1.17</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immortal_realms_vampire_wars_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Immortal Realms: Vampire Wars - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/roboquest_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Roboquest: Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shing"
+_ngcontent-gogcom-store-c1196613375="">Shing!</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/figment_2_creed_valley_demo"
+_ngcontent-gogcom-store-c1196613375="">Figment 2: Creed Valley Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_n_dream"
+_ngcontent-gogcom-store-c1196613375="">Love n Dream</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_n_dream_18_content_uncensored"
+_ngcontent-gogcom-store-c1196613375="">Love n Dream: 18+ Content (Uncensored)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mosaique_neko_waifus_3"
+_ngcontent-gogcom-store-c1196613375="">Mosaique Neko Waifus 3</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_1939"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - 1939</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/airhead_demo"
+_ngcontent-gogcom-store-c1196613375="">Airhead Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sheepo"
+_ngcontent-gogcom-store-c1196613375="">SHEEPO</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sheepo_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">SHEEPO Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_fracture_prologue"
+_ngcontent-gogcom-store-c1196613375="">Dark Fracture: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lynn_artbook_commentary"
+_ngcontent-gogcom-store-c1196613375="">Lynn , ArtBook + Commentary</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sense_a_cyberpunk_ghost_story"
+_ngcontent-gogcom-store-c1196613375="">Sense - 不祥的预感: A Cyberpunk Ghost Story</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/children_of_morta_paws_and_claws"
+_ngcontent-gogcom-store-c1196613375="">Children of Morta: Paws and Claws</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dread_x_collection_2"
+_ngcontent-gogcom-store-c1196613375="">Dread X Collection 2</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grand_tactician_the_civil_war_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Grand Tactician - The Civil War (1861-1865): Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

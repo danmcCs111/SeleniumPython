@@ -1,0 +1,186 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_germany"
+_ngcontent-gogcom-store-c1196613375="">Train Valley - Germany</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revolution_1979_black_friday"
+_ngcontent-gogcom-store-c1196613375="">1979 Revolution: Black Friday</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/content_pack_europa_universalis_iv_mare_nostrum"
+_ngcontent-gogcom-store-c1196613375="">Content Pack - Europa Universalis IV: Mare Nostrum</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/enter_the_gungeon_collectors_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Enter the Gungeon Collector's Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_sounds_from_the_community_kairis_soundtrack_part_ii"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Sounds from the community - Kairis Soundtrack Part II</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_europa_universalis_iv_mare_nostrum"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Europa Universalis IV: Mare Nostrum</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_overlord_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Overlord Scenario Pack DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dont_starve_alone_pack_plus"
+_ngcontent-gogcom-store-c1196613375="">Don't Starve Alone Pack Plus</span>
+"base-value ng-star-inserted">$20.22</span>
+"final-value ng-star-inserted">$8.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dont_starve_shipwrecked"
+_ngcontent-gogcom-store-c1196613375="">Don't Starve: Shipwrecked</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyper_light_drifter"
+_ngcontent-gogcom-store-c1196613375="">Hyper Light Drifter</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/epistory_typing_chronicles"
+_ngcontent-gogcom-store-c1196613375="">Epistory - Typing Chronicles</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forced_showdown"
+_ngcontent-gogcom-store-c1196613375="">FORCED SHOWDOWN</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paws_a_shelter_2_game"
+_ngcontent-gogcom-store-c1196613375="">Paws: A Shelter 2 Game</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paws_pitter_patter_edition"
+_ngcontent-gogcom-store-c1196613375="">Paws: Pitter Patter Edition</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paws_upgrade_to_pitter_patter_edition"
+_ngcontent-gogcom-store-c1196613375="">Paws: Upgrade to Pitter Patter Edition</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/samorost_3"
+_ngcontent-gogcom-store-c1196613375="">Samorost 3</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/samorost_3_cosmic_edition"
+_ngcontent-gogcom-store-c1196613375="">Samorost 3 Cosmic Edition</span>
+"base-value ng-star-inserted">$22.93</span>
+"final-value ng-star-inserted">$5.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/samorost_3_soundtrack_art_book"
+_ngcontent-gogcom-store-c1196613375="">Samorost 3 Soundtrack + Art Book</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slain"
+_ngcontent-gogcom-store-c1196613375="">Slain: Back From Hell</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slain_back_from_hell_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Slain: Back From Hell Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solstice"
+_ngcontent-gogcom-store-c1196613375="">Solstice</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solstice_digital_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Solstice - Digital Collector's Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solstice_ost_bonus_content"
+_ngcontent-gogcom-store-c1196613375="">Solstice OST + Bonus Content</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deserts_of_kharak_soban_fleet_pack"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak - Soban Fleet Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nelly_cootalot_the_fowl_fleet"
+_ngcontent-gogcom-store-c1196613375="">Nelly Cootalot: The Fowl Fleet</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/polaris_sector"
+_ngcontent-gogcom-store-c1196613375="">Polaris Sector - Gold Edition</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sword_of_the_stars_the_pit_osmium_edition_healer"
+_ngcontent-gogcom-store-c1196613375="">Sword of the Stars: The Pit Osmium Edition - Healer</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_u_difficult_quest"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia U - Difficult Quest</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nexus_the_jupiter_incident_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nexus - The Jupiter Incident Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/obscuritas"
+_ngcontent-gogcom-store-c1196613375="">Obscuritas</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_elf_historia"
+_ngcontent-gogcom-store-c1196613375="">Dark Elf Historia</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_elf_historia_unrated"
+_ngcontent-gogcom-store-c1196613375="">Dark Elf Historia UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_u_bonus_quest"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia U - Bonus Quest</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_u_action_unleashed"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia U: Action Unleashed</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deadbolt"
+_ngcontent-gogcom-store-c1196613375="">DEADBOLT</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alekhines_gun"
+_ngcontent-gogcom-store-c1196613375="">Alekhine's Gun</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moon_hunters"
+_ngcontent-gogcom-store-c1196613375="">Moon Hunters</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_guest"
+_ngcontent-gogcom-store-c1196613375="">The Guest</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_armageddon_golgotha"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Armageddon - Golgotha</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/overload_playable_teaser"
+_ngcontent-gogcom-store-c1196613375="">Overload - Playable Teaser</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardlight"
+_ngcontent-gogcom-store-c1196613375="">Shardlight</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardlight_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Shardlight: Special Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shardlight_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Shardlight: Special Edition Upgrade</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunrider_liberation_day_captains_edition"
+_ngcontent-gogcom-store-c1196613375="">Sunrider: Liberation Day - Captain's Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/into_the_stars"
+_ngcontent-gogcom-store-c1196613375="">Into the Stars</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/momodora_reverie_under_the_moonlight"
+_ngcontent-gogcom-store-c1196613375="">Momodora: Reverie Under the Moonlight</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/momodora_reverie_under_the_moonlight_ost"
+_ngcontent-gogcom-store-c1196613375="">Momodora: Reverie Under the Moonlight OST</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hard_west_scars_of_freedom"
+_ngcontent-gogcom-store-c1196613375="">Hard West: Scars of Freedom</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.83</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

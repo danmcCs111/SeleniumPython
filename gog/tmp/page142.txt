@@ -1,0 +1,177 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_echo_of_starsong"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Echo of Starsong - Full Bloom Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_dynasties"
+_ngcontent-gogcom-store-c1196613375="">Star Dynasties</span>
+"base-value ng-star-inserted">$30.99</span>
+"final-value ng-star-inserted">$7.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stronghold_warlords_the_mongol_empire_campaign"
+_ngcontent-gogcom-store-c1196613375="">Stronghold: Warlords - The Mongol Empire Campaign</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amazing_cultivation_simulator_immortal_tales_of_wudang"
+_ngcontent-gogcom-store-c1196613375="">Amazing Cultivation Simulator - Immortal Tales of WuDang</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_art_bundle"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner: Art Bundle</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_neon_pack"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner: Neon Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_summer_bundle"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner: Summer Bundle</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gone_viral"
+_ngcontent-gogcom-store-c1196613375="">Gone Viral</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gone_viral_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Gone Viral Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lamentum_artbook"
+_ngcontent-gogcom-store-c1196613375="">Lamentum Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tinytopia"
+_ngcontent-gogcom-store-c1196613375="">Tinytopia</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/7_girls_war"
+_ngcontent-gogcom-store-c1196613375="">7 Girls War</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/7_girls_war_unrated"
+_ngcontent-gogcom-store-c1196613375="">7 Girls War UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seed_of_the_dead_sweet_home_theme_songs"
+_ngcontent-gogcom-store-c1196613375="">Seed of the Dead: Sweet Home Theme Songs</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldo_the_guardian_owls"
+_ngcontent-gogcom-store-c1196613375="">Baldo: The Guardian Owls</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lamentum"
+_ngcontent-gogcom-store-c1196613375="">Lamentum</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/parquet"
+_ngcontent-gogcom-store-c1196613375="">Parquet</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/der_geisterjager_the_ghost_hunter"
+_ngcontent-gogcom-store-c1196613375="">Der Geisterjäger / The Ghost Hunter</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/der_geisterjager_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Der Geisterjäger Original Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rustler_digital_art_book"
+_ngcontent-gogcom-store-c1196613375="">Rustler - Digital Art Book</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spookware"
+_ngcontent-gogcom-store-c1196613375="">SPOOKWARE</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tin_can_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tin Can Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tropico_6_festival"
+_ngcontent-gogcom-store-c1196613375="">Tropico 6 - Festival</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/behind_the_frame_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Behind the Frame - Deluxe Edition</span>
+"base-value ng-star-inserted">$24.61</span>
+"final-value ng-star-inserted">$13.53</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/behind_the_frame_the_finest_scenery"
+_ngcontent-gogcom-store-c1196613375="">Behind the Frame: The Finest Scenery</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$7.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/murder_mystery_machine"
+_ngcontent-gogcom-store-c1196613375="">Murder Mystery Machine</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serin_fate"
+_ngcontent-gogcom-store-c1196613375="">Serin Fate</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hoa"
+_ngcontent-gogcom-store-c1196613375="">Hoa</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hoa_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Hoa Soundtrack</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_ii"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty II</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_ii_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty II - Digital Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_ii_digital_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty II - Digital Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_ii_lords_edition"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty II - Lord's Edition</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/claires_quest_gold"
+_ngcontent-gogcom-store-c1196613375="">Claire's Quest: GOLD</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/honeyhoneyhoney_unrated"
+_ngcontent-gogcom-store-c1196613375="">Honey*Honey*Honey! UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_kizuna_ai_character_story"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Kizuna AI (Character &amp; Story)</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_kizuna_ai_vtuber_accessories"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Kizuna AI - Vtuber Accessories</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_kizuna_ai_summer_style_outfit"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Kizuna AI: Summer Style Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_towa_kiseki_character_story"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Towa Kiseki (Character &amp; Story)</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_towa_kiseki_vtuber_accessories"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Towa Kiseki - Vtuber Accessories</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_towa_kiseki_bunny_outfit"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Towa Kiseki: Bunny Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_virtual_stars_towa_kiseki_swimsuit_outfit"
+_ngcontent-gogcom-store-c1196613375="">Neptunia Virtual Stars - Towa Kiseki: Swimsuit Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/behind_the_frame_the_finest_scenery_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Behind the Frame: The Finest Scenery - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_book_demo"
+_ngcontent-gogcom-store-c1196613375="">Black Book Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/happy_game_demo"
+_ngcontent-gogcom-store-c1196613375="">Happy Game Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nongunz_doppelganger_edition_demo"
+_ngcontent-gogcom-store-c1196613375="">Nongunz: Doppelganger Edition Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/norco_act_one"
+_ngcontent-gogcom-store-c1196613375="">NORCO Act One</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_magister_demo"
+_ngcontent-gogcom-store-c1196613375="">The Magister Demo</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

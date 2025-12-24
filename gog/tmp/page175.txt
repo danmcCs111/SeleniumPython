@@ -1,0 +1,183 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brigador_modkit_map_editor"
+_ngcontent-gogcom-store-c1196613375="">Brigador Modkit &amp; Map Editor</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_witchs_love_diary"
+_ngcontent-gogcom-store-c1196613375="">The Witch's Love Diary</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ballisticng_neon_nights"
+_ngcontent-gogcom-store-c1196613375="">BallisticNG - Neon Nights</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knightin"
+_ngcontent-gogcom-store-c1196613375="">Knightin'+</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/interstellar_space_genesis"
+_ngcontent-gogcom-store-c1196613375="">Interstellar Space: Genesis</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mighty_switch_force_collection"
+_ngcontent-gogcom-store-c1196613375="">Mighty Switch Force! Collection</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_boy_and_the_cursed_kingdom"
+_ngcontent-gogcom-store-c1196613375="">Monster Boy and the Cursed Kingdom</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_lyngbakr_clan_of_the_kraken"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Lyngbakr, Clan of the Kraken</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/automachef"
+_ngcontent-gogcom-store-c1196613375="">Automachef</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/date_a_live_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">DATE A LIVE Deluxe Bundle</span>
+"base-value ng-star-inserted">$39.98</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/date_a_live_rio_reincarnation"
+_ngcontent-gogcom-store-c1196613375="">DATE A LIVE: Rio Reincarnation</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/date_a_live_rio_reincarnation_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">DATE A LIVE: Rio Reincarnation - Deluxe Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/people_playground"
+_ngcontent-gogcom-store-c1196613375="">People Playground</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_mechanicus_heretek"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Mechanicus - Heretek</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_mechanicus_heretek_edition"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Mechanicus - Heretek+ Edition</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/swords_souls_neverseen"
+_ngcontent-gogcom-store-c1196613375="">Swords &amp; Souls: Neverseen</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/detective_girl_of_the_steam_city"
+_ngcontent-gogcom-store-c1196613375="">Detective Girl of the Steam City</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/detective_girl_of_the_steam_city_unrated"
+_ngcontent-gogcom-store-c1196613375="">Detective Girl of the Steam City UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nowhere_prophet"
+_ngcontent-gogcom-store-c1196613375="">Nowhere Prophet</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nowhere_prophet_digital_extras"
+_ngcontent-gogcom-store-c1196613375="">Nowhere Prophet - Digital Extras</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/overload_anniversary_level_pack"
+_ngcontent-gogcom-store-c1196613375="">Overload - Anniversary Level Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/etherborn"
+_ngcontent-gogcom-store-c1196613375="">Etherborn</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/etherborn_art_design_book"
+_ngcontent-gogcom-store-c1196613375="">Etherborn Art &amp; Design Book</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/etherborn_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Etherborn Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fate_hunters"
+_ngcontent-gogcom-store-c1196613375="">Fate Hunters</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/horace"
+_ngcontent-gogcom-store-c1196613375="">Horace</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_chaos_space_marines"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius – Chaos Space Marines</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_call"
+_ngcontent-gogcom-store-c1196613375="">Night Call</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_call_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Night Call Deluxe Edition</span>
+"base-value ng-star-inserted">$22.99</span>
+"final-value ng-star-inserted">$4.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_call_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Night Call Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darksiders_iii_keepers_of_the_void"
+_ngcontent-gogcom-store-c1196613375="">Darksiders III - Keepers of the Void</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galaxy_squad"
+_ngcontent-gogcom-store-c1196613375="">Galaxy Squad</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nightmare_reaper"
+_ngcontent-gogcom-store-c1196613375="">Nightmare Reaper</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtual_rides_3_salsa"
+_ngcontent-gogcom-store-c1196613375="">Virtual Rides 3 - Salsa</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/earthx"
+_ngcontent-gogcom-store-c1196613375="">EarthX</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_making_of_streets_of_rogue"
+_ngcontent-gogcom-store-c1196613375="">The Making of Streets of Rogue</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blazing_chrome"
+_ngcontent-gogcom-store-c1196613375="">Blazing Chrome</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eagle_island"
+_ngcontent-gogcom-store-c1196613375="">Eagle Island Twist</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_empires"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory: Empires</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_messenger_soundtrack_disc_iii_picnic_panic"
+_ngcontent-gogcom-store-c1196613375="">The Messenger Soundtrack - Disc III: Picnic Panic</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_messenger_picnic_panic"
+_ngcontent-gogcom-store-c1196613375="">The Messenger: Picnic Panic</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/godhood"
+_ngcontent-gogcom-store-c1196613375="">Godhood</span>
+"final-value ng-star-inserted">$26.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/super_neptunia_rpg_additional_party_members_set"
+_ngcontent-gogcom-store-c1196613375="">Super Neptunia RPG - Additional Party Members Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/super_neptunia_rpg_animal_ears_and_tails_set"
+_ngcontent-gogcom-store-c1196613375="">Super Neptunia RPG - Animal Ears and Tails Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reventure_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Reventure Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distraint_2_ost"
+_ngcontent-gogcom-store-c1196613375="">DISTRAINT 2 - OST</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/merchant_of_the_skies"
+_ngcontent-gogcom-store-c1196613375="">Merchant of the Skies</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astrologaster_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Astrologaster: Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

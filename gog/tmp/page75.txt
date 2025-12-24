@@ -1,0 +1,191 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/afterlove_ep_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Afterlove EP - Deluxe Edition</span>
+"base-value ng-star-inserted">$37.37</span>
+"final-value ng-star-inserted">$22.42</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/afterlove_ep_original_soundtrack_collection"
+_ngcontent-gogcom-store-c1196613375="">Afterlove EP - Original Soundtrack Collection</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_standard_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$41.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_accessory_costume_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II - Accessory &amp; Costume (Bundle)</span>
+"base-value ng-star-inserted">$59.83</span>
+"final-value ng-star-inserted">$41.88</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_accessory_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II - Accessory Pack</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$12.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_advanced_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II - Advanced Pack</span>
+"base-value ng-star-inserted">$69.99</span>
+"final-value ng-star-inserted">$48.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_bgm_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II - BGM Pack</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_costume_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II - Costume Pack</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$31.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_holo_core_voice_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II - Holo Core Voice Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_starter_pack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II - Starter Pack</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II Complete Edition</span>
+"base-value ng-star-inserted">$185.99</span>
+"final-value ng-star-inserted">$130.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II Deluxe Edition</span>
+"base-value ng-star-inserted">$80.05</span>
+"final-value ng-star-inserted">$56.03</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_through_daybreak_ii_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails through Daybreak II Ultimate Edition</span>
+"base-value ng-star-inserted">$130.00</span>
+"final-value ng-star-inserted">$91.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_week_in_the_life_of_asocial_giraffe_demo"
+_ngcontent-gogcom-store-c1196613375="">A Week in the Life of Asocial Giraffe Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/recall_empty_wishes"
+_ngcontent-gogcom-store-c1196613375="">Recall: Empty Wishes</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/primal_hearts_2_unrated"
+_ngcontent-gogcom-store-c1196613375="">Primal Hearts 2 UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/primal_hearts_unrated"
+_ngcontent-gogcom-store-c1196613375="">Primal Hearts UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oirbo"
+_ngcontent-gogcom-store-c1196613375="">Oirbo</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_executive_movie_industry_tycoon"
+_ngcontent-gogcom-store-c1196613375="">The Executive - Movie Industry Tycoon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reality_break"
+_ngcontent-gogcom-store-c1196613375="">Reality Break</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terraforming_mars_big_box_promo_pack"
+_ngcontent-gogcom-store-c1196613375="">Terraforming Mars – Big Box Promo Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_game_about_digging_a_hole"
+_ngcontent-gogcom-store-c1196613375="">A Game About Digging A Hole</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slender_threads"
+_ngcontent-gogcom-store-c1196613375="">Slender Threads</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_expansion_pass"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II Expansion Pass</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/3_minutes_to_midnight_comic_book_issue_no_1"
+_ngcontent-gogcom-store-c1196613375="">3 Minutes to Midnight Comic Book (Issue No. 1)</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/3_minutes_to_midnight_adventurers_guide"
+_ngcontent-gogcom-store-c1196613375="">3 Minutes to Midnight: Adventurer’s Guide</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_art_of_3_minutes_to_midnight"
+_ngcontent-gogcom-store-c1196613375="">The Art of 3 Minutes to Midnight</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/citizen_sleeper_2_the_sleepers_sketchbook"
+_ngcontent-gogcom-store-c1196613375="">Citizen Sleeper 2 - The Sleeper's Sketchbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/citizen_sleeper_2_starward_vector"
+_ngcontent-gogcom-store-c1196613375="">Citizen Sleeper 2: Starward Vector</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$16.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/citizen_sleeper_2_starward_vector_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Citizen Sleeper 2: Starward Vector Soundtrack</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/foundation_guivre_garden"
+_ngcontent-gogcom-store-c1196613375="">Foundation Guivre Garden</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/foundation_supporter_edition"
+_ngcontent-gogcom-store-c1196613375="">Foundation Supporter Edition</span>
+"base-value ng-star-inserted">$42.72</span>
+"final-value ng-star-inserted">$29.90</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/foundation_supporter_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Foundation Supporter Upgrade</span>
+"base-value ng-star-inserted">$9.48</span>
+"final-value ng-star-inserted">$6.63</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_glitch_fairy_artbook"
+_ngcontent-gogcom-store-c1196613375="">The Glitch Fairy - Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/defenders_quest_2_mists_of_ruin"
+_ngcontent-gogcom-store-c1196613375="">Defender's Quest 2: Mists of Ruin</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scott_whiskers_the_search_for_the_golden_cat_demo"
+_ngcontent-gogcom-store-c1196613375="">Scott Whiskers: the Search for the Golden Cat Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/techno_banter"
+_ngcontent-gogcom-store-c1196613375="">Techno Banter</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/techno_banter_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Techno Banter - Official Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/techno_banter_ultimate_mix"
+_ngcontent-gogcom-store-c1196613375="">Techno Banter: Ultimate Mix</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coridden"
+_ngcontent-gogcom-store-c1196613375="">Coridden</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coridden_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Coridden - Deluxe Edition</span>
+"base-value ng-star-inserted">$29.71</span>
+"final-value ng-star-inserted">$19.31</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coridden_digital_bestiary"
+_ngcontent-gogcom-store-c1196613375="">Coridden - Digital Bestiary</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coridden_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Coridden - Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_end_of_the_sun"
+_ngcontent-gogcom-store-c1196613375="">The End of the Sun</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_end_of_the_sun_soundtrack_edition"
+_ngcontent-gogcom-store-c1196613375="">The End of the Sun - Soundtrack Edition</span>
+"base-value ng-star-inserted">$26.98</span>
+"final-value ng-star-inserted">$18.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_end_of_the_sun_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The End of the Sun Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eternal_strands"
+_ngcontent-gogcom-store-c1196613375="">Eternal Strands</span>
+"final-value ng-star-inserted">$39.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

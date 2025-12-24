@@ -1,0 +1,181 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/letinas_odyssey"
+_ngcontent-gogcom-store-c1196613375="">Letina's Odyssey</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/absolute_tactics_daughters_of_mercy_art_book"
+_ngcontent-gogcom-store-c1196613375="">Absolute Tactics: Daughters of Mercy - Art Book</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/absolute_tactics_daughters_of_mercy"
+_ngcontent-gogcom-store-c1196613375="">Absolute Tactics: Daughters of Mercy</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/absolute_tactics_daughters_of_mercy_demo"
+_ngcontent-gogcom-store-c1196613375="">Absolute Tactics: Daughters of Mercy Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blind_fate_edo_no_yami"
+_ngcontent-gogcom-store-c1196613375="">Blind Fate: Edo no Yami</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/curious_expedition_2_robots_of_lux"
+_ngcontent-gogcom-store-c1196613375="">Curious Expedition 2 - Robots of Lux</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_ii_medieval_sublime_porte"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory II: Medieval - Sublime Porte</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/foretales_artbook"
+_ngcontent-gogcom-store-c1196613375="">Foretales - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/foretales_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Foretales - Deluxe Edition</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/foretales_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Foretales - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_sports_pack"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Sports Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_hraesvelg_clan_of_the_eagle"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Hræsvelg, Clan of the Eagle</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/disciples_liberation_gog_edition"
+_ngcontent-gogcom-store-c1196613375="">Disciples: Liberation - GOG Edition</span>
+"base-value ng-star-inserted">$54.99</span>
+"final-value ng-star-inserted">$29.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/king_of_retail"
+_ngcontent-gogcom-store-c1196613375="">King of Retail</span>
+"base-value ng-star-inserted">$25.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immersion_pack_europa_universalis_iv_lions_of_the_north"
+_ngcontent-gogcom-store-c1196613375="">Immersion Pack - Europa Universalis IV: Lions of the North</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nobody_saves_the_world_frozen_hearth"
+_ngcontent-gogcom-store-c1196613375="">Nobody Saves the World - Frozen Hearth</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nobody_saves_the_world_complete"
+_ngcontent-gogcom-store-c1196613375="">Nobody Saves the World Complete</span>
+"base-value ng-star-inserted">$32.50</span>
+"final-value ng-star-inserted">$9.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_architect_free_for_life"
+_ngcontent-gogcom-store-c1196613375="">Prison Architect - Free For Life</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/roadwarden_demo"
+_ngcontent-gogcom-store-c1196613375="">Roadwarden Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/absolute_tactics_daughters_of_mercy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Absolute Tactics: Daughters of Mercy - Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_dreamer"
+_ngcontent-gogcom-store-c1196613375="">One Dreamer</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_dreamer_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">One Dreamer + Soundtrack</span>
+"final-value ng-star-inserted">$21.23</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_dreamer_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">One Dreamer Soundtrack</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arrow"
+_ngcontent-gogcom-store-c1196613375="">ARROW</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/garden_simulator"
+_ngcontent-gogcom-store-c1196613375="">Garden Simulator</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jack_move"
+_ngcontent-gogcom-store-c1196613375="">Jack Move</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jack_move_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Jack Move - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/justice_sucks_tactical_vacuum_action"
+_ngcontent-gogcom-store-c1196613375="">JUSTICE SUCKS: Tactical Vacuum Action</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steelrising"
+_ngcontent-gogcom-store-c1196613375="">Steelrising</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steelrising_discus_chain"
+_ngcontent-gogcom-store-c1196613375="">Steelrising - Discus Chain</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steelrising_marie_antoinette_pack"
+_ngcontent-gogcom-store-c1196613375="">Steelrising - Marie Antoinette Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tux_and_fanny"
+_ngcontent-gogcom-store-c1196613375="">Tux and Fanny</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nine_noir_lives"
+_ngcontent-gogcom-store-c1196613375="">Nine Noir Lives</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nine_noir_lives_demo"
+_ngcontent-gogcom-store-c1196613375="">Nine Noir Lives Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nine_noir_lives_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nine Noir Lives Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_mystery_of_woolley_mountain_the_comic_prologue"
+_ngcontent-gogcom-store-c1196613375="">The Mystery Of Woolley Mountain - 'The Comic Prologue'</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trail_out"
+_ngcontent-gogcom-store-c1196613375="">Trail Out: Complete Edition</span>
+"base-value ng-star-inserted">$29.71</span>
+"final-value ng-star-inserted">$14.85</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cyberpunk_2077_redmod"
+_ngcontent-gogcom-store-c1196613375="">Cyberpunk 2077 REDmod</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railbound"
+_ngcontent-gogcom-store-c1196613375="">Railbound</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_zachtronics_solitaire_collection"
+_ngcontent-gogcom-store-c1196613375="">The Zachtronics Solitaire Collection</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chambers_of_devious_design"
+_ngcontent-gogcom-store-c1196613375="">Chambers of Devious Design</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_imperial_gatekeeper_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Imperial Gatekeeper UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flashout_3d_enhanced_edition"
+_ngcontent-gogcom-store-c1196613375="">Flashout 3D: Enhanced Edition</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hell_pie_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Hell Pie Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gerda_a_flame_in_winter"
+_ngcontent-gogcom-store-c1196613375="">Gerda: A Flame in Winter</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hot_sento_girls_and_love"
+_ngcontent-gogcom-store-c1196613375="">Hot Sento Girls and love</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mythbusters_the_game_crazy_experiments_simulator"
+_ngcontent-gogcom-store-c1196613375="">MythBusters: The Game - Crazy Experiments Simulator</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.76</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/restless_soul"
+_ngcontent-gogcom-store-c1196613375="">RESTLESS SOUL</span>
+"final-value ng-star-inserted">$14.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

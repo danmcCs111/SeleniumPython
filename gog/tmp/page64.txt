@@ -1,0 +1,170 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/empires_of_the_undergrowth_exploding_ants"
+_ngcontent-gogcom-store-c1196613375="">Empires of the Undergrowth - Exploding Ants</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_ultimate_bundle"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Ultimate Bundle</span>
+"base-value ng-star-inserted">$199.99</span>
+"final-value ng-star-inserted">$49.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_saga_bundle"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance Saga Bundle</span>
+"base-value ng-star-inserted">$99.99</span>
+"final-value ng-star-inserted">$54.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_n_dream_bundle"
+_ngcontent-gogcom-store-c1196613375="">Love n Dream Bundle</span>
+"base-value ng-star-inserted">$5.08</span>
+"final-value ng-star-inserted">$2.03</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/meridian4_bundle"
+_ngcontent-gogcom-store-c1196613375="">Meridian4 Bundle</span>
+"base-value ng-star-inserted">$65.68</span>
+"final-value ng-star-inserted">$15.76</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metal_hellsinger_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Metal: Hellsinger - Complete Edition</span>
+"base-value ng-star-inserted">$43.96</span>
+"final-value ng-star-inserted">$26.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/old_world_wrath_of_gods"
+_ngcontent-gogcom-store-c1196613375="">Old World - Wrath of Gods</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/settlers_bundle"
+_ngcontent-gogcom-store-c1196613375="">Settlers Bundle</span>
+"base-value ng-star-inserted">$53.96</span>
+"final-value ng-star-inserted">$16.72</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shooter_dual_pack"
+_ngcontent-gogcom-store-c1196613375="">Shooter Dual Pack - Necromunda: Hired Gun + Space Hulk: Deathwing - Enhanced Edition</span>
+"base-value ng-star-inserted">$59.49</span>
+"final-value ng-star-inserted">$10.70</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silent_hill_2_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">SILENT HILL 2 Deluxe Edition</span>
+"base-value ng-star-inserted">$79.99</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silver_box_classics"
+_ngcontent-gogcom-store-c1196613375="">Silver Box Classics</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_season_08"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Season 08</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/summers_gone_season_1_bundle"
+_ngcontent-gogcom-store-c1196613375="">Summer's Gone - Season 1 Bundle</span>
+"base-value ng-star-inserted">$22.47</span>
+"final-value ng-star-inserted">$17.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_i_of_the_dragon_extended_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The I of the Dragon Extended Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_oregon_trail"
+_ngcontent-gogcom-store-c1196613375="">The Oregon Trail</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_zachtronics_puzzle_pack"
+_ngcontent-gogcom-store-c1196613375="">THE ZACHTRONICS PUZZLE PACK</span>
+"base-value ng-star-inserted">$99.99</span>
+"final-value ng-star-inserted">$49.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_worlds_epic_edition_complete"
+_ngcontent-gogcom-store-c1196613375="">Two Worlds Epic Edition Complete</span>
+"base-value ng-star-inserted">$33.57</span>
+"final-value ng-star-inserted">$8.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40k_bundle"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40K Bundle</span>
+"base-value ng-star-inserted">$99.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wingspan_seasonal_decorative_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Wingspan - Seasonal Decorative Pack 2</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/copa_city"
+_ngcontent-gogcom-store-c1196613375="">COPA CITY</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/etrange_overlord"
+_ngcontent-gogcom-store-c1196613375="">Etrange Overlord</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_proud_nordics"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Proud Nordics</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reanimal"
+_ngcontent-gogcom-store-c1196613375="">REANIMAL</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reanimal_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">REANIMAL - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$53.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/menace"
+_ngcontent-gogcom-store-c1196613375="">MENACE</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/norse_oath_of_blood"
+_ngcontent-gogcom-store-c1196613375="">NORSE: Oath of Blood</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampires_bloodlord_rising"
+_ngcontent-gogcom-store-c1196613375="">Vampires: Bloodlord Rising</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nova_roma"
+_ngcontent-gogcom-store-c1196613375="">Nova Roma</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_beyond_the_horizon"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails beyond the Horizon</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_the_spongebob_movie_search_for_squarepants_costume_pack"
+_ngcontent-gogcom-store-c1196613375="">SpongeBob SquarePants: Titans of the Tide - The SpongeBob Movie: Search for SquarePants Costume Pack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/formula_legends_2025_complete_dlc_pack"
+_ngcontent-gogcom-store-c1196613375="">Formula Legends - 2025 Complete DLC Pack</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II Digital Artbook</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kubikon_3d_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Kubikon 3D - Complete Edition</span>
+"final-value ng-star-inserted">$14.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scott_whiskers_the_complete_journey"
+_ngcontent-gogcom-store-c1196613375="">Scott Whiskers: the Complete Journey!</span>
+"final-value ng-star-inserted">$26.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sorry_were_closed_artbook"
+_ngcontent-gogcom-store-c1196613375="">Sorry We're Closed - Art Book</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sorry_were_closed_perfect_combo_edition"
+_ngcontent-gogcom-store-c1196613375="">Sorry We're Closed - Perfect Combo Edition</span>
+"final-value ng-star-inserted">$40.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_elkcrest_island"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter - Elkcrest Island</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aaero2_arcade_paradise_ost"
+_ngcontent-gogcom-store-c1196613375="">Aaero2 - Arcade Paradise OST</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aaero2_lania_kea_ost"
+_ngcontent-gogcom-store-c1196613375="">Aaero2 - Lania Kea OST</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aaero2_monstercat_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Aaero2 - Monstercat Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aaero2_black_razor_edition_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Aaero2: Black Razor Edition Deluxe</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$26.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/verho_curse_of_faces_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Verho - Curse of Faces: Official Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$6.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golden_gate_2_goddess_heart"
+_ngcontent-gogcom-store-c1196613375="">Golden Gate 2: Goddess Heart</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_glitch_fairy_artbook_2"
+_ngcontent-gogcom-store-c1196613375="">The Glitch Fairy - Artbook 2</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oddsparks_an_automation_adventure_coaster_rush"
+_ngcontent-gogcom-store-c1196613375="">Oddsparks: An Automation Adventure - Coaster Rush</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oddsparks_an_automation_adventure_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Oddsparks: An Automation Adventure - Ultimate Edition</span>
+"final-value ng-star-inserted">$59.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spindle_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Spindle Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crosak"
+_ngcontent-gogcom-store-c1196613375="">CROSAK</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$12.89</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

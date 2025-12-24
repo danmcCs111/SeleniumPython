@@ -1,0 +1,190 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rise_eterna"
+_ngcontent-gogcom-store-c1196613375="">Rise Eterna</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bonetown_the_second_coming_edition"
+_ngcontent-gogcom-store-c1196613375="">BoneTown: The Second Coming Edition</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/edge_of_eternity_artbook"
+_ngcontent-gogcom-store-c1196613375="">Edge Of Eternity - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/edge_of_eternity_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Edge Of Eternity - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/edge_of_eternity_goodies_pack"
+_ngcontent-gogcom-store-c1196613375="">Edge Of Eternity - Goodies Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/edge_of_eternity_ost"
+_ngcontent-gogcom-store-c1196613375="">Edge Of Eternity - OST</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/remains"
+_ngcontent-gogcom-store-c1196613375="">Remains</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_noir"
+_ngcontent-gogcom-store-c1196613375="">Tails Noir</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_noir_artifact_edition"
+_ngcontent-gogcom-store-c1196613375="">Tails Noir: Artifact Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_noir_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tails Noir: Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_noir_words_dlc"
+_ngcontent-gogcom-store-c1196613375="">Tails Noir: Words DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_ghost_in_stay_home"
+_ngcontent-gogcom-store-c1196613375="">No Ghost in Stay Home</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pieces_of_my_heart_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Pieces of my Heart Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ynglet"
+_ngcontent-gogcom-store-c1196613375="">Ynglet</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_dlc_set_2"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - DLC Set 2</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astalon_tears_of_the_earth"
+_ngcontent-gogcom-store-c1196613375="">Astalon: Tears of the Earth</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astalon_tears_of_the_earth_2_soundtrack_albums"
+_ngcontent-gogcom-store-c1196613375="">Astalon: Tears of the Earth + 2 Soundtrack Albums!</span>
+"base-value ng-star-inserted">$28.87</span>
+"final-value ng-star-inserted">$11.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astalon_tears_of_the_earth_original_sound_version"
+_ngcontent-gogcom-store-c1196613375="">Astalon: Tears of the Earth - Original Sound Version</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astalon_tears_of_the_earth_super_arrange_version"
+_ngcontent-gogcom-store-c1196613375="">Astalon: Tears of the Earth - Super Arrange Version</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mainframe_defenders_meltdown_prologue"
+_ngcontent-gogcom-store-c1196613375="">Mainframe Defenders: Meltdown - Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slipways"
+_ngcontent-gogcom-store-c1196613375="">Slipways</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_last_spell_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Last Spell - Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/until_we_die"
+_ngcontent-gogcom-store-c1196613375="">Until We Die</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/overboard"
+_ngcontent-gogcom-store-c1196613375="">Overboard!</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sludge_life_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sludge Life Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sludge_life_soundtrack_edition"
+_ngcontent-gogcom-store-c1196613375="">Sludge Life: Soundtrack Edition</span>
+"base-value ng-star-inserted">$21.99</span>
+"final-value ng-star-inserted">$5.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dr_livingstone_i_presume_artbook"
+_ngcontent-gogcom-store-c1196613375="">Dr Livingstone, I Presume? - Reversed Escape Room - Artbook</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dr_livingstone_i_presume_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Dr Livingstone, I Presume? - Reversed Escape Room - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$17.97</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dr_livingstone_i_presume_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dr Livingstone, I Presume? - Reversed Escape Room - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/going_medieval"
+_ngcontent-gogcom-store-c1196613375="">Going Medieval</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$18.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/going_medieval_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Going Medieval Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necromunda_hired_gun_artbook"
+_ngcontent-gogcom-store-c1196613375="">Necromunda: Hired Gun - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necromunda_hired_gun_hunters_bounty_pack"
+_ngcontent-gogcom-store-c1196613375="">Necromunda: Hired Gun - Hunter's Bounty Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necromunda_hired_gun_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Necromunda: Hired Gun - Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necromunda_hired_gun_bundle"
+_ngcontent-gogcom-store-c1196613375="">Necromunda: Hired Gun – Bundle</span>
+"base-value ng-star-inserted">$48.72</span>
+"final-value ng-star-inserted">$11.20</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nox_archaist_book_of_hints"
+_ngcontent-gogcom-store-c1196613375="">Nox Archaist Book of Hints</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stonefly"
+_ngcontent-gogcom-store-c1196613375="">Stonefly</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/good_night_knight_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Good Night, Knight Soundtrack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dumpy_and_bumpy"
+_ngcontent-gogcom-store-c1196613375="">Dumpy and Bumpy</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_harvest_operation_eagle"
+_ngcontent-gogcom-store-c1196613375="">Iron Harvest - Operation Eagle</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries_digital_content"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - Digital Content</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_heroes_of_the_inner_sphere"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - Heroes of the Inner Sphere</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_longest_road_on_earth"
+_ngcontent-gogcom-store-c1196613375="">The Longest Road on Earth</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_longest_road_on_earth_backstage_edition"
+_ngcontent-gogcom-store-c1196613375="">The Longest Road on Earth Backstage Edition</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.44</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_longest_road_on_earth_soundtrack_by_beicoli"
+_ngcontent-gogcom-store-c1196613375="">The Longest Road on Earth Soundtrack by Beícoli</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.44</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_longest_road_on_earth_world_tour_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Longest Road on Earth World Tour Bundle</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chef_eastern_asian_cuisine"
+_ngcontent-gogcom-store-c1196613375="">Chef: Eastern Asian Cuisine</span>
+"final-value ng-star-inserted">$5.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

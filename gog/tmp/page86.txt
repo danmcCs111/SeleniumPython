@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beacon_of_neyda_demo"
+_ngcontent-gogcom-store-c1196613375="">Beacon of Neyda Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cats_hidden_around_the_world"
+_ngcontent-gogcom-store-c1196613375="">Cats Hidden Around the World</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trap_yuri_garden"
+_ngcontent-gogcom-store-c1196613375="">Trap Yuri Garden</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trap_yuri_garden_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trap Yuri Garden Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trap_yuri_garden_unrated"
+_ngcontent-gogcom-store-c1196613375="">Trap Yuri Garden UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_battle_for_normandy_battle_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Battle for Normandy - Battle Pack 2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pool_cleaning_simulator"
+_ngcontent-gogcom-store-c1196613375="">Pool Cleaning Simulator</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$6.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_ancients"
+_ngcontent-gogcom-store-c1196613375="">The Ancients</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arzette_the_jewel_of_faramore_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Arzette: The Jewel of Faramore - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arzette_the_jewel_of_faramore_visual_compendium"
+_ngcontent-gogcom-store-c1196613375="">Arzette: The Jewel of Faramore - Visual Compendium</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arzette_the_jewel_of_faramore_digital_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">Arzette: The Jewel of Faramore Digital Deluxe Bundle</span>
+"base-value ng-star-inserted">$30.07</span>
+"final-value ng-star-inserted">$12.02</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_ii_masters_edition"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory II Masters Edition</span>
+"base-value ng-star-inserted">$52.49</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_kingdoms"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory: Kingdoms</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$33.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fireside"
+_ngcontent-gogcom-store-c1196613375="">Fireside</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jims_nightmare_chapter_1"
+_ngcontent-gogcom-store-c1196613375="">Jim's Nightmare: Chapter 1</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/songs_of_silence_digital_goodies"
+_ngcontent-gogcom-store-c1196613375="">Songs of Silence: Digital Goodies</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/songs_of_silence_the_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Songs of Silence: The Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_saint_yhoundeh_unrated"
+_ngcontent-gogcom-store-c1196613375="">Fallen Saint Yhoundeh UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_black_smoke_pack"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite - Black Smoke Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heads_will_roll_reforged_not_a_hero"
+_ngcontent-gogcom-store-c1196613375="">Heads Will Roll: Reforged - Not a Hero</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries_dlc_upgrade_bundle"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries DLC Upgrade Bundle</span>
+"final-value ng-star-inserted">$59.46</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_sleep_for_sole"
+_ngcontent-gogcom-store-c1196613375="">no sleep for sole</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pools_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">POOLS Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whispers_in_the_moss"
+_ngcontent-gogcom-store-c1196613375="">Whispers in the Moss</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whispers_in_the_moss_demo"
+_ngcontent-gogcom-store-c1196613375="">Whispers in the Moss Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astor_blade_of_the_monolith"
+_ngcontent-gogcom-store-c1196613375="">Astor: Blade of the Monolith</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_garm_clan_of_the_hounds"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Garm, Clan of the Hounds</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_complete_dlc_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Complete DLC Bundle</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Complete Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/skald_against_the_black_priory_reinforcement_pack"
+_ngcontent-gogcom-store-c1196613375="">SKALD: Against the Black Priory - Reinforcement Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/skald_against_the_black_priory_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">SKALD: Against the Black Priory Deluxe Edition</span>
+"base-value ng-star-inserted">$22.47</span>
+"final-value ng-star-inserted">$11.23</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/skald_against_the_black_priory_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">SKALD: Against the Black Priory Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vendir_plague_of_lies"
+_ngcontent-gogcom-store-c1196613375="">Vendir: Plague of Lies</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vendir_plague_of_lies_vampires_fall_origins"
+_ngcontent-gogcom-store-c1196613375="">Vendir: Plague of Lies + Vampire's Fall: Origins</span>
+"base-value ng-star-inserted">$25.18</span>
+"final-value ng-star-inserted">$12.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/capes"
+_ngcontent-gogcom-store-c1196613375="">Capes</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/capes_king_city_edition"
+_ngcontent-gogcom-store-c1196613375="">Capes - King City Edition</span>
+"base-value ng-star-inserted">$46.39</span>
+"final-value ng-star-inserted">$22.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/capes_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Capes - Supporter Pack</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$5.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lesson_learned"
+_ngcontent-gogcom-store-c1196613375="">Lesson Learned</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reus_2"
+_ngcontent-gogcom-store-c1196613375="">Reus 2</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reus_2_supporter_edition"
+_ngcontent-gogcom-store-c1196613375="">Reus 2 - Supporter Edition</span>
+"base-value ng-star-inserted">$29.68</span>
+"final-value ng-star-inserted">$17.80</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reus_2_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Reus 2 - Supporter Pack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lust_academy_season_3"
+_ngcontent-gogcom-store-c1196613375="">Lust Academy - Season 3</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pixel_town_akanemachi_sideshow"
+_ngcontent-gogcom-store-c1196613375="">Pixel Town: Akanemachi Sideshow</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pixel_town_akanemachi_sideshow_unrated"
+_ngcontent-gogcom-store-c1196613375="">Pixel Town: Akanemachi Sideshow UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/voidbound"
+_ngcontent-gogcom-store-c1196613375="">Voidbound</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_tower_full_of_cats_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Tower Full of Cats Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eiyuden_chronicle_hundred_heroes_hope_of_alliance"
+_ngcontent-gogcom-store-c1196613375="">Eiyuden Chronicle: Hundred Heroes - Hope of Alliance</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eiyuden_chronicle_hundred_heroes_hq_makeover_pack"
+_ngcontent-gogcom-store-c1196613375="">Eiyuden Chronicle: Hundred Heroes - HQ Makeover Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

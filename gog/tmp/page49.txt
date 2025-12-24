@@ -1,0 +1,198 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_step_from_eden_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">One Step From Eden Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_danger"
+_ngcontent-gogcom-store-c1196613375="">Iron Danger</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_danger_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Iron Danger Supporter Bundle</span>
+"base-value ng-star-inserted">$24.89</span>
+"final-value ng-star-inserted">$5.72</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deep_sky_derelicts_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Deep Sky Derelicts: Definitive Edition</span>
+"base-value ng-star-inserted">$24.80</span>
+"final-value ng-star-inserted">$3.72</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_digital_limited_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III Digital Limited Edition</span>
+"base-value ng-star-inserted">$78.97</span>
+"final-value ng-star-inserted">$19.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/princesses_never_lose"
+_ngcontent-gogcom-store-c1196613375="">Princesses Never Lose!</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ostriv"
+_ngcontent-gogcom-store-c1196613375="">Ostriv</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dandara_trials_of_fear_enhanced_edition"
+_ngcontent-gogcom-store-c1196613375="">Dandara: Trials of Fear Enhanced Edition</span>
+"base-value ng-star-inserted">$17.59</span>
+"final-value ng-star-inserted">$3.51</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cloud_meadow"
+_ngcontent-gogcom-store-c1196613375="">Cloud Meadow</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shady_lewd_kart"
+_ngcontent-gogcom-store-c1196613375="">Shady Lewd Kart</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_under_fire_the_crusaders"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Under Fire: The Crusaders</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mainframe_defenders"
+_ngcontent-gogcom-store-c1196613375="">Mainframe Defenders</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rimworld_royalty"
+_ngcontent-gogcom-store-c1196613375="">RimWorld - Royalty</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fury_unleashed_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Fury Unleashed Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shining_song_starnova_idol_empire"
+_ngcontent-gogcom-store-c1196613375="">Shining Song Starnova: Idol Empire</span>
+"base-value ng-star-inserted">$19.98</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_suicide_of_rachel_foster"
+_ngcontent-gogcom-store-c1196613375="">The Suicide of Rachel Foster</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/luna_the_shadow_dust"
+_ngcontent-gogcom-store-c1196613375="">LUNA The Shadow Dust</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metro_exodus_sams_story"
+_ngcontent-gogcom-store-c1196613375="">Metro Exodus - Sam's Story</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stoneshard"
+_ngcontent-gogcom-store-c1196613375="">Stoneshard</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$18.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_blind_prophet"
+_ngcontent-gogcom-store-c1196613375="">The Blind Prophet</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/venusblood_frontier"
+_ngcontent-gogcom-store-c1196613375="">VenusBlood FRONTIER International</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$25.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_sin_fransicko_forty_nightmares"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Sin Fransicko Forty Nightmares</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampires_fall_origins"
+_ngcontent-gogcom-store-c1196613375="">Vampire's Fall: Origins</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2_vicious_sisters_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2: Vicious Sisters - Deluxe Edition</span>
+"base-value ng-star-inserted">$22.91</span>
+"final-value ng-star-inserted">$4.58</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/praetorians_hd"
+_ngcontent-gogcom-store-c1196613375="">Praetorians - HD Remaster</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gemcraft_frostborn_wrath"
+_ngcontent-gogcom-store-c1196613375="">GemCraft - Frostborn Wrath</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_jam_steel_titans_gold_truck_bundle"
+_ngcontent-gogcom-store-c1196613375="">Monster Jam Steel Titans - Gold Truck Bundle</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.77</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_chaosbane_tomb_kings_dlc"
+_ngcontent-gogcom-store-c1196613375="">Warhammer: Chaosbane - Tomb Kings DLC</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_northern_europe"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire - Northern Europe</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deep_sky_derelicts_station_life"
+_ngcontent-gogcom-store-c1196613375="">Deep Sky Derelicts: Station Life</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starcomnexus"
+_ngcontent-gogcom-store-c1196613375="">Starcom:&nbsp;Nexus</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_command_world_war_i"
+_ngcontent-gogcom-store-c1196613375="">Strategic Command: World War I</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tangledeep_dawn_of_dragons"
+_ngcontent-gogcom-store-c1196613375="">Tangledeep - Dawn of Dragons</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sniper_ghost_warrior_contracts_sturm_bodyguard_9"
+_ngcontent-gogcom-store-c1196613375="">Sniper Ghost Warrior Contracts - STURM BODYGUARD 9</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterix_obelix_xxl_3_the_crystal_menhir"
+_ngcontent-gogcom-store-c1196613375="">Asterix &amp; Obelix XXL 3 - The Crystal Menhir</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battletech_heavy_metal"
+_ngcontent-gogcom-store-c1196613375="">BATTLETECH - Heavy Metal</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sigma_theory_global_cold_war_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Sigma Theory: Global Cold War - Deluxe Edition</span>
+"base-value ng-star-inserted">$27.17</span>
+"final-value ng-star-inserted">$5.43</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_hunterprey"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation – Hunter/Prey</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terminator_resistance"
+_ngcontent-gogcom-store-c1196613375="">Terminator: Resistance</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_bumbo"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Bum-bo</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_brawltimore_razors"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - Brawltimore Razors</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_2_season_pass"
+_ngcontent-gogcom-store-c1196613375="">The Surge 2 - Season Pass</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/animation_arts_collection"
+_ngcontent-gogcom-store-c1196613375="">Animation Arts Collection</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rise_of_industry_2130"
+_ngcontent-gogcom-store-c1196613375="">Rise of Industry: 2130</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_lithoids_species_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Lithoids Species Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/corpse_party_2_dead_patient"
+_ngcontent-gogcom-store-c1196613375="">Corpse Party 2: Dead Patient</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

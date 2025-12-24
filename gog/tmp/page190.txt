@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/avadon_3_hint_book_extras"
+_ngcontent-gogcom-store-c1196613375="">Avadon 3: Hint Book &amp; Extras</span>
+"base-value ng-star-inserted">$9.95</span>
+"final-value ng-star-inserted">$2.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/conga_master"
+_ngcontent-gogcom-store-c1196613375="">Conga Master</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/event0"
+_ngcontent-gogcom-store-c1196613375="">Event[0]</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_heist_hatbox_three_4_free"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Heist - Hatbox: Three 4 Free</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mad_games_tycoon"
+_ngcontent-gogcom-store-c1196613375="">Mad Games Tycoon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ember"
+_ngcontent-gogcom-store-c1196613375="">Ember</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/project_highrise"
+_ngcontent-gogcom-store-c1196613375="">Project Highrise</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mother_russia_bleeds_dealer_edition"
+_ngcontent-gogcom-store-c1196613375="">Mother Russia Bleeds: Dealer Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_rangers_quest"
+_ngcontent-gogcom-store-c1196613375="">Space Rangers: Quest</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/redout_solar_challenge_edition"
+_ngcontent-gogcom-store-c1196613375="">Redout: Solar Challenge Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tahira_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tahira Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tahira_echoes_of_the_astral_empire"
+_ngcontent-gogcom-store-c1196613375="">Tahira: Echoes of the Astral Empire</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_final_station"
+_ngcontent-gogcom-store-c1196613375="">The Final Station</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_final_station_artbook_and_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Final Station - Artbook and Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/just_deserts_school_uniform_set"
+_ngcontent-gogcom-store-c1196613375="">Just Deserts: School Uniform Set</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_the_reapers_due"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: The Reaper's Due</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/just_deserts_valerya_chapter"
+_ngcontent-gogcom-store-c1196613375="">Just Deserts: Valerya Chapter</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/master_of_orion"
+_ngcontent-gogcom-store-c1196613375="">Master of Orion</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/master_of_orion_collectors_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Master of Orion: Collector's Edition Upgrade</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/obduction_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Obduction ® Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panpan"
+_ngcontent-gogcom-store-c1196613375="">Pan-Pan</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panpan_upgrade_to_planetary_pack"
+_ngcontent-gogcom-store-c1196613375="">Pan-Pan Upgrade to Planetary Pack</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_hive"
+_ngcontent-gogcom-store-c1196613375="">The Hive</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth1_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth1 Deluxe Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/just_deserts_sleepwear_costume_set"
+_ngcontent-gogcom-store-c1196613375="">Just Deserts: Sleepwear Costume Set</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/just_deserts_swimwear_set"
+_ngcontent-gogcom-store-c1196613375="">Just Deserts: Swimwear Set</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/obduction"
+_ngcontent-gogcom-store-c1196613375="">Obduction ®</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deus_ex_mankind_divided"
+_ngcontent-gogcom-store-c1196613375="">Deus Ex: Mankind Divided</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deus_ex_mankind_divided_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Deus Ex: Mankind Divided™ DLC - Season Pass</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_altarian_prophecy_dlc"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III - Altarian Prophecy DLC</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombasite"
+_ngcontent-gogcom-store-c1196613375="">Zombasite</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombasite_demo"
+_ngcontent-gogcom-store-c1196613375="">Zombasite Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company_ceres_initiative_dlc"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company - Ceres Initiative DLC</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tempest"
+_ngcontent-gogcom-store-c1196613375="">Tempest</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/okhlos"
+_ngcontent-gogcom-store-c1196613375="">Okhlos: Omega</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/okhlos_olympus_edition"
+_ngcontent-gogcom-store-c1196613375="">Okhlos: Omega Olympus Edition</span>
+"base-value ng-star-inserted">$22.99</span>
+"final-value ng-star-inserted">$4.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/okhlos_olympus_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Okhlos: Omega Olympus Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_oblivion_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Oblivion DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flowers_le_volume_sur_printemps"
+_ngcontent-gogcom-store-c1196613375="">Flowers - Le Volume Sur Printemps</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/notch_the_innocent_luna_collection"
+_ngcontent-gogcom-store-c1196613375="">Notch - The Innocent LunA Collection</span>
+"final-value ng-star-inserted">$17.56</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_hordes"
+_ngcontent-gogcom-store-c1196613375="">8-bit Hordes</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_hordes_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">8-bit Hordes Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_mans_sky"
+_ngcontent-gogcom-store-c1196613375="">No Man's Sky</span>
+"final-value ng-star-inserted">$59.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/enigmatis_3_the_shadow_of_karkhala"
+_ngcontent-gogcom-store-c1196613375="">Enigmatis 3: The Shadow of Karkhala</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reigns_collectors_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Reigns Collector's Edition Upgrade</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_new_lands_royal_edition"
+_ngcontent-gogcom-store-c1196613375="">Kingdom: New Lands Royal Edition</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kindred_spirits_on_the_roof_drama_cd_vol4"
+_ngcontent-gogcom-store-c1196613375="">Kindred Spirits on the Roof Drama CD Vol.4</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_kings_story"
+_ngcontent-gogcom-store-c1196613375="">Little King's Story</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,203 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wildcat_gun_machine"
+_ngcontent-gogcom-store-c1196613375="">Wildcat Gun Machine</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tales_from_the_unending_void_season_1"
+_ngcontent-gogcom-store-c1196613375="">Tales From The Unending Void: Season 1</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lust_theory_season_1"
+_ngcontent-gogcom-store-c1196613375="">Lust Theory - Season 1</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/syberia_the_world_before_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Syberia: The World Before - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/giant_bundle"
+_ngcontent-gogcom-store-c1196613375="">Giant Bundle</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mary_skelter_2"
+_ngcontent-gogcom-store-c1196613375="">Mary Skelter 2</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$8.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/white_shadows"
+_ngcontent-gogcom-store-c1196613375="">White Shadows</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_tactics_anniversary_bundle"
+_ngcontent-gogcom-store-c1196613375="">Shadow Tactics: Anniversary Bundle</span>
+"base-value ng-star-inserted">$66.45</span>
+"final-value ng-star-inserted">$12.62</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_bash_hd"
+_ngcontent-gogcom-store-c1196613375="">Monster Bash HD</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/agatha_christie_hercule_poirot_the_first_cases"
+_ngcontent-gogcom-store-c1196613375="">Agatha Christie - Hercule Poirot: The First Cases</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_of_iron"
+_ngcontent-gogcom-store-c1196613375="">Tails of Iron</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atom_rpg_trudograd_war_supply_pack"
+_ngcontent-gogcom-store-c1196613375="">Atom RPG: Trudograd - War Supply Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96"
+_ngcontent-gogcom-store-c1196613375="">Road 96</span>
+"base-value ng-star-inserted">$19.96</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_man_remastered"
+_ngcontent-gogcom-store-c1196613375="">Shadow Man Remastered</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_nemesis"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Nemesis</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saimin_gakushu_secret_desire"
+_ngcontent-gogcom-store-c1196613375="">Saimin Gakushū: Secret Desire</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dorfromantik"
+_ngcontent-gogcom-store-c1196613375="">Dorfromantik</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$9.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deponia_full_scrap_collection"
+_ngcontent-gogcom-store-c1196613375="">Deponia Full Scrap Collection</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_chaosbane_slayer_edition"
+_ngcontent-gogcom-store-c1196613375="">Warhammer: Chaosbane Slayer Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_dynasty"
+_ngcontent-gogcom-store-c1196613375="">Medieval Dynasty</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inmost"
+_ngcontent-gogcom-store-c1196613375="">INMOST</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_citadel"
+_ngcontent-gogcom-store-c1196613375="">The Citadel</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_spanish_civil_war"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - Spanish Civil War</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/drug_dealer_simulator"
+_ngcontent-gogcom-store-c1196613375="">Drug Dealer Simulator</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_dark_dreams_of_furiae"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Dark Dreams of Furiae</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wizardry_labyrinth_of_lost_souls"
+_ngcontent-gogcom-store-c1196613375="">Wizardry: Labyrinth of Lost Souls</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonlighter_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Moonlighter: Complete Edition</span>
+"base-value ng-star-inserted">$24.29</span>
+"final-value ng-star-inserted">$3.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/transport_fever_2"
+_ngcontent-gogcom-store-c1196613375="">Transport Fever 2</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darksiders_genesis"
+_ngcontent-gogcom-store-c1196613375="">Darksiders Genesis</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathologic_2_marble_nest"
+_ngcontent-gogcom-store-c1196613375="">Pathologic 2: Marble Nest</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cat_quest_ii"
+_ngcontent-gogcom-store-c1196613375="">Cat Quest II</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_tyrants_of_the_moonsea"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Tyrants of the Moonsea</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/noita"
+_ngcontent-gogcom-store-c1196613375="">Noita</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_short_hike"
+_ngcontent-gogcom-store-c1196613375="">A Short Hike</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atom_rpg_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">ATOM RPG - Supporter Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kerbal_space_program_breaking_ground"
+_ngcontent-gogcom-store-c1196613375="">Kerbal Space Program: Breaking Ground</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vambrace_cold_soul"
+_ngcontent-gogcom-store-c1196613375="">Vambrace: Cold Soul</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/altfrequencies"
+_ngcontent-gogcom-store-c1196613375="">Alt-Frequencies</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/katana_zero"
+_ngcontent-gogcom-store-c1196613375="">Katana ZERO</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fenimore_fillmore_3_skulls_of_the_toltecs"
+_ngcontent-gogcom-store-c1196613375="">Fenimore Fillmore: 3 Skulls of the Toltecs</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_kingmaker_varnholds_lot"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Kingmaker - Varnhold's Lot</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slaves_sword_2"
+_ngcontent-gogcom-store-c1196613375="">Slave's Sword 2</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/away_journey_to_the_unexpected"
+_ngcontent-gogcom-store-c1196613375="">AWAY: Journey to the Unexpected</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_time_at_portia"
+_ngcontent-gogcom-store-c1196613375="">My Time At Portia</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/thief_simulator"
+_ngcontent-gogcom-store-c1196613375="">Thief Simulator</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tyranny_gold_edition"
+_ngcontent-gogcom-store-c1196613375="">Tyranny - Gold Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_augmented_edition"
+_ngcontent-gogcom-store-c1196613375="">The Surge - Augmented Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

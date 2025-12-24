@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/midnight_scenes_a_safe_place_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Midnight Scenes: A Safe place Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kotokos_a_little_weird"
+_ngcontent-gogcom-store-c1196613375="">Kotoko's a Little Weird</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kotokos_a_little_weird_unrated"
+_ngcontent-gogcom-store-c1196613375="">Kotoko's a Little Weird UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highwater"
+_ngcontent-gogcom-store-c1196613375="">Highwater</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highwater_game_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Highwater Game + Soundtrack Bundle</span>
+"final-value ng-star-inserted">$22.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highwater_pirate_radio_highwater_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Highwater Pirate Radio - Highwater (Official Soundtrack)</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries_solaris_showdown"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - Solaris Showdown</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vagrus_the_riven_realms_praetor_edition"
+_ngcontent-gogcom-store-c1196613375="">Vagrus - The Riven Realms: Praetor Edition</span>
+"base-value ng-star-inserted">$79.88</span>
+"final-value ng-star-inserted">$51.92</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/llamasoft_the_jeff_minter_story"
+_ngcontent-gogcom-store-c1196613375="">Llamasoft: The Jeff Minter Story</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/contra_operation_galuga"
+_ngcontent-gogcom-store-c1196613375="">Contra: Operation Galuga</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/clem_digital_art_book"
+_ngcontent-gogcom-store-c1196613375="">CLeM - Digital Art Book</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/liminal_border_part_ii"
+_ngcontent-gogcom-store-c1196613375="">Liminal Border Part II</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/liminal_border_part_ii_unrated"
+_ngcontent-gogcom-store-c1196613375="">Liminal Border Part II UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zoria_age_of_shattering_digital_bestiary"
+_ngcontent-gogcom-store-c1196613375="">Zoria: Age of Shattering Digital Bestiary</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zoria_age_of_shattering_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Zoria: Age of Shattering Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/berserk_boy"
+_ngcontent-gogcom-store-c1196613375="">Berserk Boy</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reveil"
+_ngcontent-gogcom-store-c1196613375="">REVEIL</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reveil_funhouse_edition"
+_ngcontent-gogcom-store-c1196613375="">REVEIL Funhouse Edition</span>
+"base-value ng-star-inserted">$26.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reveil_funhouse_pack"
+_ngcontent-gogcom-store-c1196613375="">REVEIL Funhouse Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/birds_and_cats_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Birds and Cats Special Edition</span>
+"base-value ng-star-inserted">$82.38</span>
+"final-value ng-star-inserted">$57.66</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nie_no_hakoniwa_dollhouse_of_offerings_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nie No Hakoniwa - Dollhouse of Offerings Soundtrack</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nie_no_hakoniwa_complete_bundle"
+_ngcontent-gogcom-store-c1196613375="">Nie no Hakoniwa Complete Bundle</span>
+"base-value ng-star-inserted">$38.68</span>
+"final-value ng-star-inserted">$23.20</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_glory_2"
+_ngcontent-gogcom-store-c1196613375="">Mortal Glory 2</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serviceit"
+_ngcontent-gogcom-store-c1196613375="">ServiceIT</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_thaumaturge_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Thaumaturge: Original Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/we_are_football_2024"
+_ngcontent-gogcom-store-c1196613375="">WE ARE FOOTBALL 2024</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_void_hope"
+_ngcontent-gogcom-store-c1196613375="">A Void Hope</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/keeperrl"
+_ngcontent-gogcom-store-c1196613375="">KeeperRL</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tamarak_trail"
+_ngcontent-gogcom-store-c1196613375="">Tamarak Trail</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tamarak_trail_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tamarak Trail Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brothers_a_tale_of_two_sons_remake"
+_ngcontent-gogcom-store-c1196613375="">Brothers: A Tale of Two Sons Remake</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brothers_a_tale_of_two_sons_remake_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Brothers: A Tale of Two Sons Remake Original Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cats_love_boxes"
+_ngcontent-gogcom-store-c1196613375="">Cats Love Boxes</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gord_the_alliance"
+_ngcontent-gogcom-store-c1196613375="">Gord - The Alliance</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spiritfall"
+_ngcontent-gogcom-store-c1196613375="">Spiritfall</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_wars_dark_forces_remaster"
+_ngcontent-gogcom-store-c1196613375="">STAR WARS™: Dark Forces Remaster</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/age_of_wonders_4_primal_fury"
+_ngcontent-gogcom-store-c1196613375="">Age of Wonders 4: Primal Fury</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alone_in_the_crowd"
+_ngcontent-gogcom-store-c1196613375="">Alone in the Crowd</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/otherwar"
+_ngcontent-gogcom-store-c1196613375="">Otherwar</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sword_princess_sistina"
+_ngcontent-gogcom-store-c1196613375="">Sword Princess Sistina</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sword_princess_sistina_unrated"
+_ngcontent-gogcom-store-c1196613375="">Sword Princess Sistina UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terror_at_oakheart"
+_ngcontent-gogcom-store-c1196613375="">Terror at Oakheart</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_witch_of_fern_island"
+_ngcontent-gogcom-store-c1196613375="">The Witch of Fern Island</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boti_byteland_overclocked_bitosaurus_dlc"
+_ngcontent-gogcom-store-c1196613375="">Boti: Byteland Overclocked - Bitosaurus DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/technocide"
+_ngcontent-gogcom-store-c1196613375="">Technocide</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tunguska_the_visitation_slaughterhouse"
+_ngcontent-gogcom-store-c1196613375="">Tunguska: Slaughterhouse</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtual_rides_3_ride_pack_glider_upside_down"
+_ngcontent-gogcom-store-c1196613375="">Virtual Rides 3 - Ride Pack (Glider &amp; Upside Down)</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_lovely_family_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">My Lovely Family Deluxe Bundle</span>
+"final-value ng-star-inserted">$39.14</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

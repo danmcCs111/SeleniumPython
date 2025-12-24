@@ -1,0 +1,181 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nine_parchments_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nine Parchments Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trine_3_the_artifacts_of_power_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trine 3: The Artifacts of Power Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trine_4_the_nightmare_prince_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trine 4: The Nightmare Prince Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trine_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trine Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coffee_talk_soundtrack_ost"
+_ngcontent-gogcom-store-c1196613375="">Coffee Talk - Soundtrack OST</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kunai"
+_ngcontent-gogcom-store-c1196613375="">KUNAI</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stoneshard_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Stoneshard - Supporter Pack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_pedestrian_demo"
+_ngcontent-gogcom-store-c1196613375="">The Pedestrian Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/abandon_ship_artbook"
+_ngcontent-gogcom-store-c1196613375="">Abandon Ship - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dark_crystal_age_of_resistance_tactics"
+_ngcontent-gogcom-store-c1196613375="">The Dark Crystal: Age of Resistance Tactics</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/enderal_forgotten_stories_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Enderal: Forgotten Stories Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/venusblood_frontier_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">VenusBlood FRONTIER Unrated patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/divine_miko_koyori"
+_ngcontent-gogcom-store-c1196613375="">Divine Miko Koyori</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/divine_miko_koyori_unrated"
+_ngcontent-gogcom-store-c1196613375="">Divine Miko Koyori UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seeds_of_chaos"
+_ngcontent-gogcom-store-c1196613375="">Seeds of Chaos</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elderborn"
+_ngcontent-gogcom-store-c1196613375="">ELDERBORN</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elderborn_metal_af_edition"
+_ngcontent-gogcom-store-c1196613375="">ELDERBORN Metal AF Edition</span>
+"base-value ng-star-inserted">$19.78</span>
+"final-value ng-star-inserted">$3.95</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ministry_of_broadcast"
+_ngcontent-gogcom-store-c1196613375="">Ministry of Broadcast</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/simulacra_2"
+_ngcontent-gogcom-store-c1196613375="">SIMULACRA 2</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_airport_ceo_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Airport CEO Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/through_the_darkest_of_times"
+_ngcontent-gogcom-store-c1196613375="">Through the Darkest of Times</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coffee_talk"
+_ngcontent-gogcom-store-c1196613375="">Coffee Talk</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coffee_talk_artbook"
+_ngcontent-gogcom-store-c1196613375="">Coffee Talk - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coffee_talk_demo"
+_ngcontent-gogcom-store-c1196613375="">Coffee Talk Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cook_serve_delicious_3"
+_ngcontent-gogcom-store-c1196613375="">Cook, Serve, Delicious! 3?!</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cook_serve_delicious_3_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Cook, Serve, Delicious! 3?! Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hollow_island"
+_ngcontent-gogcom-store-c1196613375="">Hollow Island</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_glory"
+_ngcontent-gogcom-store-c1196613375="">Mortal Glory</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_pedestrian_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Pedestrian Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2_vicious_sisters"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2: Vicious Sisters</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2_vicious_sisters_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2: Vicious Sisters - Deluxe Edition</span>
+"base-value ng-star-inserted">$22.91</span>
+"final-value ng-star-inserted">$4.58</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mina_locks_of_love_skin"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2: Vicious Sisters - Mina - Locks of Love Skin</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mina_winter_princess_skin"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2: Vicious Sisters - Mina - Winter Princess Skin</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2_vicious_sisters_artbook"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2: Vicious Sisters Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2_vicious_sisters_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2: Vicious Sisters Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_back_to_school_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Coma: Back to School Bundle</span>
+"base-value ng-star-inserted">$29.73</span>
+"final-value ng-star-inserted">$2.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_supper"
+_ngcontent-gogcom-store-c1196613375="">The Supper</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_supper_pdf_art_book"
+_ngcontent-gogcom-store-c1196613375="">The Supper - PDF Art Book</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_supper_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Supper Soundtrack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hentai_mosaique_neko_waifus"
+_ngcontent-gogcom-store-c1196613375="">Hentai Mosaique Neko Waifus</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/commandos_2_praetorians_hd_remaster_double_pack"
+_ngcontent-gogcom-store-c1196613375="">Commandos 2 &amp; Praetorians: HD Remaster Double Pack</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/der_geisterturm_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Der Geisterturm + Soundtrack</span>
+"base-value ng-star-inserted">$19.78</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_space_for_the_unbound_prologue"
+_ngcontent-gogcom-store-c1196613375="">A Space for the Unbound - Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/der_geisterturm_the_ghost_tower"
+_ngcontent-gogcom-store-c1196613375="">Der Geisterturm / The Ghost Tower</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/der_geisterturm_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Der Geisterturm Original Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pc_building_simulator_nzxt_workshop"
+_ngcontent-gogcom-store-c1196613375="">PC Building Simulator - NZXT Workshop</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_mystery_of_woolley_mountain_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Mystery Of Woolley Mountain Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frostpunk_the_last_autumn"
+_ngcontent-gogcom-store-c1196613375="">Frostpunk: The Last Autumn</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$2.54</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

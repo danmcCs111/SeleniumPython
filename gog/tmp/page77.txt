@@ -1,0 +1,191 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/go_home_annie"
+_ngcontent-gogcom-store-c1196613375="">Go Home Annie: An SCP Game</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terminator_dark_fate_defiance_we_are_legion"
+_ngcontent-gogcom-store-c1196613375="">Terminator: Dark Fate - Defiance: We are Legion</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_restless_sheep_the_lone_wolf_cutthroat_lovers"
+_ngcontent-gogcom-store-c1196613375="">The Restless Sheep &amp; The Lone Wolf -A Tale of Cutthroat Lovers-</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_restless_sheep_the_lone_wolf_cutthroat_lovers_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Restless Sheep &amp; The Lone Wolf -A Tale of Cutthroat Lovers- UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_battlesector_astra_militarum"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Battlesector - Astra Militarum</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_ultima_founding"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius - Ultima Founding</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartales_the_skelmar_invasion"
+_ngcontent-gogcom-store-c1196613375="">Wartales - Expansion: The Skelmar Invasion</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_shelter_full_of_cats"
+_ngcontent-gogcom-store-c1196613375="">A Shelter Full of Cats</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_shelter_full_of_cats_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Shelter Full of Cats Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indiana_jones_and_the_great_circle_digital_premium_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Indiana Jones and the Great Circle: Digital Premium Upgrade</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$19.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indiana_jones_and_the_great_circle_the_order_of_giants"
+_ngcontent-gogcom-store-c1196613375="">Indiana Jones and the Great Circle™: The Order of Giants</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/janosik_2"
+_ngcontent-gogcom-store-c1196613375="">Janosik 2</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$5.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/only_lead_can_stop_them"
+_ngcontent-gogcom-store-c1196613375="">Only Lead Can Stop Them</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/undead_west"
+_ngcontent-gogcom-store-c1196613375="">Undead West</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/everdream_valley_family_time_dlc"
+_ngcontent-gogcom-store-c1196613375="">Everdream Valley - Family Time DLC</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/operation_polygon_storm_polar_express_dlc"
+_ngcontent-gogcom-store-c1196613375="">Operation: Polygon Storm - Polar Express DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/caves_of_qud_dromad_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Caves of Qud - Dromad Deluxe Edition</span>
+"base-value ng-star-inserted">$40.49</span>
+"final-value ng-star-inserted">$34.41</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/caves_of_qud_pets_pack"
+_ngcontent-gogcom-store-c1196613375="">Caves of Qud Pet's Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nikoderiko"
+_ngcontent-gogcom-store-c1196613375="">Nikoderiko: The Magical World - Director's Cut</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/symphonia"
+_ngcontent-gogcom-store-c1196613375="">Symphonia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/symphonia_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Symphonia - Deluxe Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/symphonia_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Symphonia Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_edge_of_allegoria_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Edge of Allegoria Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_park_snow_day_chaos_pack"
+_ngcontent-gogcom-store-c1196613375="">SOUTH PARK: SNOW DAY! - Chaos Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_edge_of_allegoria"
+_ngcontent-gogcom-store-c1196613375="">The Edge of Allegoria</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/project_wingman_frontline59_campaign"
+_ngcontent-gogcom-store-c1196613375="">Project Wingman: Frontline-59 Campaign</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/polarityflows_metroidvania_bundle"
+_ngcontent-gogcom-store-c1196613375="">PolarityFlow's Metroidvania Bundle</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$18.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/polarityflows_shmup_bundle"
+_ngcontent-gogcom-store-c1196613375="">PolarityFlow's Shmup Bundle</span>
+"base-value ng-star-inserted">$21.99</span>
+"final-value ng-star-inserted">$14.07</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_trucker_steelseries_dlc"
+_ngcontent-gogcom-store-c1196613375="">Star Trucker - SteelSeries Promotional Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neon_blood"
+_ngcontent-gogcom-store-c1196613375="">Neon Blood</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/new_arc_line"
+_ngcontent-gogcom-store-c1196613375="">New Arc Line</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sin_slayers_reign_of_the_8th"
+_ngcontent-gogcom-store-c1196613375="">Sin Slayers: Reign of The 8th</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sin_slayers_reign_of_the_8th_artbook"
+_ngcontent-gogcom-store-c1196613375="">Sin Slayers: Reign of The 8th - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sin_slayers_reign_of_the_8th_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sin Slayers: Reign of The 8th - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wild_country"
+_ngcontent-gogcom-store-c1196613375="">Wild Country</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/follow_the_meaning"
+_ngcontent-gogcom-store-c1196613375="">Follow the meaning</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alaloth_champions_of_the_four_kingdoms"
+_ngcontent-gogcom-store-c1196613375="">Alaloth: Champions of The Four Kingdoms</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$22.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alaloth_champions_of_the_four_kingdoms_ultimate_pack"
+_ngcontent-gogcom-store-c1196613375="">Alaloth: Champions of The Four Kingdoms - Ultimate Pack</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/loco_motive_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Loco Motive + Soundtrack Bundle</span>
+"base-value ng-star-inserted">$20.69</span>
+"final-value ng-star-inserted">$16.55</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/loco_motive_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Loco Motive Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/au_revoir"
+_ngcontent-gogcom-store-c1196613375="">Au Revoir</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stalker_2_heart_of_chornobyl_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition</span>
+"base-value ng-star-inserted">$79.99</span>
+"final-value ng-star-inserted">$47.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fill_multicolor"
+_ngcontent-gogcom-store-c1196613375="">Fill Multicolor</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_but_unbroken"
+_ngcontent-gogcom-store-c1196613375="">Forgotten but Unbroken</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_but_unbroken_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Forgotten but Unbroken Soundtrack</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$6.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_but_unbroken_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Forgotten But Unbroken Soundtrack Bundle</span>
+"base-value ng-star-inserted">$36.25</span>
+"final-value ng-star-inserted">$33.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/great_god_grove"
+_ngcontent-gogcom-store-c1196613375="">Great God Grove</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/industry_giant_40"
+_ngcontent-gogcom-store-c1196613375="">Industry Giant 4.0</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,189 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_critical_hit_pack"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Critical Hit Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_park_snow_day_420_pack"
+_ngcontent-gogcom-store-c1196613375="">SOUTH PARK: SNOW DAY! - 420 Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_park_snow_day_asspen_pack"
+_ngcontent-gogcom-store-c1196613375="">SOUTH PARK: SNOW DAY! - Asspen Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartales_the_tavern_opens"
+_ngcontent-gogcom-store-c1196613375="">Wartales - Contract: The Tavern Opens!</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingsgrave"
+_ngcontent-gogcom-store-c1196613375="">Kingsgrave</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingsgrave_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kingsgrave Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/klabater_complete_bundle"
+_ngcontent-gogcom-store-c1196613375="">Klabater Complete Bundle</span>
+"base-value ng-star-inserted">$99.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/klabater_franchise_bundle"
+_ngcontent-gogcom-store-c1196613375="">Klabater Franchise Bundle</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rauniot"
+_ngcontent-gogcom-store-c1196613375="">Rauniot</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_mildew_children"
+_ngcontent-gogcom-store-c1196613375="">The Mildew Children</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fill_the_rainbow"
+_ngcontent-gogcom-store-c1196613375="">Fill the Rainbow</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/harold_halibut"
+_ngcontent-gogcom-store-c1196613375="">Harold Halibut</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hit_the_shape"
+_ngcontent-gogcom-store-c1196613375="">Hit the Shape</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/life_eater"
+_ngcontent-gogcom-store-c1196613375="">Life Eater</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lifecraft"
+_ngcontent-gogcom-store-c1196613375="">Lifecraft</span>
+"final-value ng-star-inserted">$22.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dream_tactics"
+_ngcontent-gogcom-store-c1196613375="">Dream Tactics</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mechwarrior_5_mercenaries_succession_wars_edition"
+_ngcontent-gogcom-store-c1196613375="">MechWarrior 5: Mercenaries - Succession Wars Edition</span>
+"final-value ng-star-inserted">$79.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vertical_kingdom"
+_ngcontent-gogcom-store-c1196613375="">Vertical Kingdom</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/craftomation_101_mega_map_of_selfreplicating_machines"
+_ngcontent-gogcom-store-c1196613375="">Craftomation 101 Mega Map of Self-Replicating Machines</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/island_of_penance"
+_ngcontent-gogcom-store-c1196613375="">Island of Penance</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$10.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/island_of_penance_unrated"
+_ngcontent-gogcom-store-c1196613375="">Island of Penance UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/headquarters_world_war_ii"
+_ngcontent-gogcom-store-c1196613375="">Headquarters: World War II</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$25.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathblasters"
+_ngcontent-gogcom-store-c1196613375="">PathBlasters</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revival_recolonization"
+_ngcontent-gogcom-store-c1196613375="">Revival: Recolonization</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/broken_roads"
+_ngcontent-gogcom-store-c1196613375="">Broken Roads</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/broken_roads_artbook"
+_ngcontent-gogcom-store-c1196613375="">Broken Roads Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/broken_roads_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Broken Roads Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/broken_roads_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Broken Roads: Deluxe Edition</span>
+"base-value ng-star-inserted">$44.97</span>
+"final-value ng-star-inserted">$22.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yet_another_fantasy_title"
+_ngcontent-gogcom-store-c1196613375="">Yet Another Fantasy Title (YAFT)</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crown_of_pain"
+_ngcontent-gogcom-store-c1196613375="">Crown of Pain</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/last_hope_bunker_zombie_survival"
+_ngcontent-gogcom-store-c1196613375="">Last Hope Bunker: Zombie Survival</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yellow_taxi_goes_vroom"
+_ngcontent-gogcom-store-c1196613375="">Yellow Taxi Goes Vroom</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dogyuun"
+_ngcontent-gogcom-store-c1196613375="">Dogyuun</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grind_stormer"
+_ngcontent-gogcom-store-c1196613375="">Grind Stormer</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/toaplan_arcade_shootem_ups_4"
+_ngcontent-gogcom-store-c1196613375="">Toaplan Arcade Shoot'em Ups 4</span>
+"base-value ng-star-inserted">$19.81</span>
+"final-value ng-star-inserted">$9.90</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/toaplan_arcade_shootem_ups_ultimate_collection"
+_ngcontent-gogcom-store-c1196613375="">Toaplan Arcade Shoot'em Ups Ultimate Collection</span>
+"base-value ng-star-inserted">$69.99</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/truxton_2"
+_ngcontent-gogcom-store-c1196613375="">Truxton 2</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/twin_hawk"
+_ngcontent-gogcom-store-c1196613375="">Twin Hawk</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sons_of_valhalla_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Sons of Valhalla - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crypt_of_the_necrodancer_hatsune_miku_character_dlc"
+_ngcontent-gogcom-store-c1196613375="">Crypt of the NecroDancer: Hatsune Miku Character DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_build_mechanized"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Build: Mechanized</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_maid_academy"
+_ngcontent-gogcom-store-c1196613375="">Holy Maid Academy</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_maid_academy_unrated"
+_ngcontent-gogcom-store-c1196613375="">Holy Maid Academy UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saviorless"
+_ngcontent-gogcom-store-c1196613375="">Saviorless</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_skye_ost_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Skye + OST Bundle</span>
+"base-value ng-star-inserted">$12.59</span>
+"final-value ng-star-inserted">$7.55</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_skye_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Skye Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_worlds_egg_for_those_who_dream"
+_ngcontent-gogcom-store-c1196613375="">The World's Egg - For Those Who Dream</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$10.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_worlds_egg_for_those_who_dream_unrated"
+_ngcontent-gogcom-store-c1196613375="">The World's Egg - For Those Who Dream UNRATED</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

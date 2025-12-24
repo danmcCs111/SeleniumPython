@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_deity_2"
+_ngcontent-gogcom-store-c1196613375="">Dark Deity 2</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_deity_2_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Dark Deity 2 Deluxe Edition</span>
+"base-value ng-star-inserted">$26.98</span>
+"final-value ng-star-inserted">$18.88</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_deity_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dark Deity 2 Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heart_future_whispers"
+_ngcontent-gogcom-store-c1196613375="">Heart: Future Whispers</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dotage_folkways"
+_ngcontent-gogcom-store-c1196613375="">dotAGE - Folkways</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rendering_ranger_r_rewind"
+_ngcontent-gogcom-store-c1196613375="">Rendering Ranger: R² [Rewind]</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/real_anime_situation_dt"
+_ngcontent-gogcom-store-c1196613375="">Real Anime Situation! DT</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/real_anime_situation_dt_unrated"
+_ngcontent-gogcom-store-c1196613375="">Real Anime Situation! DT UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reignbreaker_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Reignbreaker + Soundtrack</span>
+"base-value ng-star-inserted">$12.73</span>
+"final-value ng-star-inserted">$7.63</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reignbreaker_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Reignbreaker Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asylum"
+_ngcontent-gogcom-store-c1196613375="">ASYLUM</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$16.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_17_war_reserves"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #17 - War Reserves</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fate_enhanced_edition"
+_ngcontent-gogcom-store-c1196613375="">FATE: Enhanced Edition</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_kingdoms_rajas_and_tribes"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory: Kingdoms - Rajas and Tribes</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stoneshard_character_pack"
+_ngcontent-gogcom-store-c1196613375="">Stoneshard - Character Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beyond_the_ice_palace_2"
+_ngcontent-gogcom-store-c1196613375="">Beyond the Ice Palace 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_13"
+_ngcontent-gogcom-store-c1196613375="">ORDER 13</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_lonely_outpost"
+_ngcontent-gogcom-store-c1196613375="">One Lonely Outpost</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tropico_6_return_to_nature"
+_ngcontent-gogcom-store-c1196613375="">Tropico 6 - Return to Nature</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$11.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartales_the_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Wartales - The Official Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/henpri"
+_ngcontent-gogcom-store-c1196613375="">HENPRI: HENTAI PRISON</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/henpri_unrated"
+_ngcontent-gogcom-store-c1196613375="">HENPRI: HENTAI PRISON UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_in_tight_spaces"
+_ngcontent-gogcom-store-c1196613375="">Knights in Tight Spaces</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_in_tight_spaces_artbook"
+_ngcontent-gogcom-store-c1196613375="">Knights in Tight Spaces - Artbook</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_in_tight_spaces_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Knights in Tight Spaces - Collector's Edition</span>
+"base-value ng-star-inserted">$25.47</span>
+"final-value ng-star-inserted">$16.55</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_in_tight_spaces_official_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Knights in Tight Spaces - Official Game Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/citadelum_campaign_iii_the_lost_eagles_of_germania"
+_ngcontent-gogcom-store-c1196613375="">Citadelum Campaign III: The Lost Eagles of Germania</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/horticular_frozen_frontier_tundra_creatures_and_plants"
+_ngcontent-gogcom-store-c1196613375="">Horticular - Frozen Frontier: Tundra Creatures and Plants</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eiyuden_chronicle_hundred_heroes_the_chapter_of_marisa"
+_ngcontent-gogcom-store-c1196613375="">Eiyuden Chronicle: Hundred Heroes - Story Expansion: The Chapter of Marisa</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fly_corp_american_dream"
+_ngcontent-gogcom-store-c1196613375="">Fly Corp - American Dream</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/die_in_the_dungeon"
+_ngcontent-gogcom-store-c1196613375="">Die in the Dungeon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cabernet"
+_ngcontent-gogcom-store-c1196613375="">Cabernet</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cabernet_artbook"
+_ngcontent-gogcom-store-c1196613375="">Cabernet Artbook</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cabernet_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Cabernet Deluxe Edition</span>
+"base-value ng-star-inserted">$26.97</span>
+"final-value ng-star-inserted">$20.22</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cabernet_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Cabernet Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/songs_of_silence_lighteaters"
+_ngcontent-gogcom-store-c1196613375="">Songs of Silence: Lighteaters</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/songs_of_silence_lighteaters_edition"
+_ngcontent-gogcom-store-c1196613375="">Songs of Silence: Lighteaters Edition</span>
+"base-value ng-star-inserted">$34.18</span>
+"final-value ng-star-inserted">$22.21</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/theres_a_gun_in_the_office"
+_ngcontent-gogcom-store-c1196613375="">There's a Gun in the Office</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xout_resurfaced"
+_ngcontent-gogcom-store-c1196613375="">X-Out Resurfaced</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/geminism"
+_ngcontent-gogcom-store-c1196613375="">Geminism</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$12.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/geminism_unrated"
+_ngcontent-gogcom-store-c1196613375="">Geminism UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/headquarters_world_war_ii_ardennes"
+_ngcontent-gogcom-store-c1196613375="">Headquarters World War II - Ardennes</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/liminal_border_part_iii"
+_ngcontent-gogcom-store-c1196613375="">Liminal Border Part III</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/liminal_border_part_iii_unrated"
+_ngcontent-gogcom-store-c1196613375="">Liminal Border Part III UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/microtopia"
+_ngcontent-gogcom-store-c1196613375="">Microtopia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/afterlove_ep"
+_ngcontent-gogcom-store-c1196613375="">Afterlove EP</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/afterlove_ep_artbook"
+_ngcontent-gogcom-store-c1196613375="">Afterlove EP - Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/afterlove_ep_bgm_soundtrack_collection"
+_ngcontent-gogcom-store-c1196613375="">Afterlove EP - BGM Soundtrack Collection</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.19</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

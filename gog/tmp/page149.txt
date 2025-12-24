@@ -1,0 +1,175 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/super_chopper"
+_ngcontent-gogcom-store-c1196613375="">Super Chopper</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/super_huey_1_2_airdrop"
+_ngcontent-gogcom-store-c1196613375="">Super Huey™ 1 &amp; 2 Airdrop</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/turnip_boy_commits_tax_evasion"
+_ngcontent-gogcom-store-c1196613375="">Turnip Boy Commits Tax Evasion</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phoenotopia_awakening_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Phoenotopia: Awakening Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_shattering_secret_room"
+_ngcontent-gogcom-store-c1196613375="">The Shattering - Secret Room</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/controloverride"
+_ngcontent-gogcom-store-c1196613375="">Control:Override</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_rust_weapon_pack"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - Rust Weapon Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/godstrike"
+_ngcontent-gogcom-store-c1196613375="">Godstrike</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_nemesis"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Nemesis</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_darkside_detective_a_fumble_in_the_dark"
+_ngcontent-gogcom-store-c1196613375="">The Darkside Detective: A Fumble in the Dark</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_darkside_detective_a_fumble_in_the_dark_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Darkside Detective: A Fumble in the Dark - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_signifier_directors_cut_demo"
+_ngcontent-gogcom-store-c1196613375="">The Signifier Director’s Cut Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_fields"
+_ngcontent-gogcom-store-c1196613375="">Forgotten Fields</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_fields_demo"
+_ngcontent-gogcom-store-c1196613375="">Forgotten Fields Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tasomachi_behind_the_twilight"
+_ngcontent-gogcom-store-c1196613375="">TASOMACHI: Behind the Twilight</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tasomachi_behind_the_twilight_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">TASOMACHI: Behind the Twilight - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/against_the_moon_moonstorm"
+_ngcontent-gogcom-store-c1196613375="">Against The Moon - Moonstorm</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dread_x_collection_the_hunt"
+_ngcontent-gogcom-store-c1196613375="">Dread X Collection: The Hunt</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_year_of_the_ox"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner Metal Ox Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scars_of_summer"
+_ngcontent-gogcom-store-c1196613375="">Scars of Summer</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scars_of_summer_unrated"
+_ngcontent-gogcom-store-c1196613375="">Scars of Summer UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/say_no_more"
+_ngcontent-gogcom-store-c1196613375="">Say No! More</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_art_of_ashe_digital_artbook_and_map"
+_ngcontent-gogcom-store-c1196613375="">The Art of Ashe - Digital Artbook and Map</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iv"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel IV</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iv_consumable_starter_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel IV - Consumable Starter Set</span>
+"base-value ng-star-inserted">$23.66</span>
+"final-value ng-star-inserted">$9.46</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iv_consumable_value_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel IV - Consumable Value Set</span>
+"base-value ng-star-inserted">$39.58</span>
+"final-value ng-star-inserted">$15.83</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iv_standard_cosmetic_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel IV - Standard Cosmetic Set</span>
+"base-value ng-star-inserted">$31.99</span>
+"final-value ng-star-inserted">$12.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trials_of_fire"
+_ngcontent-gogcom-store-c1196613375="">Trials of Fire</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trials_of_fire_inferno_edition"
+_ngcontent-gogcom-store-c1196613375="">Trials of Fire Inferno Edition</span>
+"final-value ng-star-inserted">$24.62</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trials_of_fire_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trials of Fire Soundtrack</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8doors_arums_afterlife_adventure"
+_ngcontent-gogcom-store-c1196613375="">8Doors: Arum's Afterlife Adventure</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8doors_arums_afterlife_adventure_bundle"
+_ngcontent-gogcom-store-c1196613375="">8Doors: Arum's Afterlife Adventure Bundle</span>
+"final-value ng-star-inserted">$22.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8doors_arums_afterlife_adventure_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">8Doors: Arum's Afterlife Adventure Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astrodogs"
+_ngcontent-gogcom-store-c1196613375="">Astrodogs</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/first_feudal_demo"
+_ngcontent-gogcom-store-c1196613375="">First Feudal Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scarlet_hood_and_the_wicked_wood"
+_ngcontent-gogcom-store-c1196613375="">Scarlet Hood and the Wicked Wood</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scarlet_hood_and_the_wicked_wood_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Scarlet Hood and the Wicked Wood - Deluxe Edition</span>
+"base-value ng-star-inserted">$19.49</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scarlet_hood_and_the_wicked_wood_artbook"
+_ngcontent-gogcom-store-c1196613375="">Scarlet Hood and the Wicked Wood – Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scarlet_hood_and_the_wicked_wood_original_soundtracks"
+_ngcontent-gogcom-store-c1196613375="">Scarlet Hood and the Wicked Wood – Original Soundtracks</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_game_of_thrones_a_dance_with_dragons"
+_ngcontent-gogcom-store-c1196613375="">A Game Of Thrones - A Dance With Dragons</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arons_adventure"
+_ngcontent-gogcom-store-c1196613375="">Aron's Adventure</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dramatical_murder_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">DRAMAtical Murder Unrated patch</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_words_beyond_the_page"
+_ngcontent-gogcom-store-c1196613375="">Lost Words: Beyond the Page</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_jam_steel_titans_2_inverse_higher_education"
+_ngcontent-gogcom-store-c1196613375="">Monster Jam Steel Titans 2 - Inverse Higher Education</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_slormancer"
+_ngcontent-gogcom-store-c1196613375="">The Slormancer</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_slormancer_ost_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Slormancer + OST Bundle</span>
+"base-value ng-star-inserted">$23.38</span>
+"final-value ng-star-inserted">$16.36</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_slormancer_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Slormancer Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nanotale_typing_chronicles_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nanotale - Typing Chronicles Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

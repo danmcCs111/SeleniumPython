@@ -1,0 +1,194 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/maize"
+_ngcontent-gogcom-store-c1196613375="">Maize</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/master_of_orion_revenge_at_antares_race_pack"
+_ngcontent-gogcom-store-c1196613375="">Master of Orion: Revenge of Antares Race Pack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dwarves_the"
+_ngcontent-gogcom-store-c1196613375="">The Dwarves</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dwarves_digital_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">The Dwarves Digital Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blade_bones"
+_ngcontent-gogcom-store-c1196613375="">Blade &amp; Bones</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_metronomicon_j_punch_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">The Metronomicon - J-Punch Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellar_interface"
+_ngcontent-gogcom-store-c1196613375="">Stellar Interface</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellar_interface_golden_interface"
+_ngcontent-gogcom-store-c1196613375="">Stellar Interface - Golden Interface</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/double_fine_adventure_additional_content"
+_ngcontent-gogcom-store-c1196613375="">Double Fine Adventure Additional Content</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shenzhen_io"
+_ngcontent-gogcom-store-c1196613375="">SHENZHEN I/O</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_command_wwii_war_in_europe"
+_ngcontent-gogcom-store-c1196613375="">Strategic Command WWII: War in Europe</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/even_the_ocean"
+_ngcontent-gogcom-store-c1196613375="">Even the Ocean</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/even_the_ocean_friend_pack"
+_ngcontent-gogcom-store-c1196613375="">Even the Ocean Friend Pack</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/even_the_ocean_ost"
+_ngcontent-gogcom-store-c1196613375="">Even the Ocean OST</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silence"
+_ngcontent-gogcom-store-c1196613375="">Silence</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silence_artbook"
+_ngcontent-gogcom-store-c1196613375="">Silence Artbook</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silence_demo"
+_ngcontent-gogcom-store-c1196613375="">Silence Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silence_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Silence Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_art_of_tahira"
+_ngcontent-gogcom-store-c1196613375="">The Art of Tahira</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_red"
+_ngcontent-gogcom-store-c1196613375="">Way of the Red</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dishonored_2"
+_ngcontent-gogcom-store-c1196613375="">Dishonored 2</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_blitzkrieg"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Blitzkrieg</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tyranny_commander_edition"
+_ngcontent-gogcom-store-c1196613375="">Tyranny - Standard Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_night_stand"
+_ngcontent-gogcom-store-c1196613375="">One Night Stand</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeon_rats"
+_ngcontent-gogcom-store-c1196613375="">Dungeon Rats</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/memorys_dogma_code01"
+_ngcontent-gogcom-store-c1196613375="">Memory's Dogma CODE:01</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/political_animals"
+_ngcontent-gogcom-store-c1196613375="">Political Animals</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eisenwald_blood_of_november"
+_ngcontent-gogcom-store-c1196613375="">Eisenwald: Blood of November</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/owlboy"
+_ngcontent-gogcom-store-c1196613375="">Owlboy</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/owlboy_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Owlboy Collector's Edition</span>
+"base-value ng-star-inserted">$26.98</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/owlboy_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Owlboy Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/layers_of_fear_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Layers of Fear (2016) - Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwell"
+_ngcontent-gogcom-store-c1196613375="">Orwell</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/carmageddon_max_damage"
+_ngcontent-gogcom-store-c1196613375="">Carmageddon: Max Damage</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/drive_on_moscow"
+_ngcontent-gogcom-store-c1196613375="">Drive on Moscow</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/offworld_trading_company_the_patron_and_the_patriot_dlc"
+_ngcontent-gogcom-store-c1196613375="">Offworld Trading Company - The Patron and the Patriot DLC</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwell_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Orwell Deluxe Edition</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwell_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Orwell Original Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/through_the_woods"
+_ngcontent-gogcom-store-c1196613375="">Through the Woods</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/through_the_woods_collectors_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Through the Woods: Collector's Edition Upgrade</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hyperdimension_neptunia_rebirth3_v_generation_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Hyperdimension Neptunia Re;Birth3: V Generation Deluxe Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ne_no_kami_the_two_princess_knights_of_kyoto"
+_ngcontent-gogcom-store-c1196613375="">Ne no Kami: The Two Princess Knights of Kyoto</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mordheim_city_of_the_damned_undead"
+_ngcontent-gogcom-store-c1196613375="">Mordheim: City of the Damned - Undead</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kim"
+_ngcontent-gogcom-store-c1196613375="">Kim</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kim_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kim - Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hacknet_ost"
+_ngcontent-gogcom-store-c1196613375="">Hacknet Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rusty_lake_roots"
+_ngcontent-gogcom-store-c1196613375="">Rusty Lake: Roots</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_leviathans_story_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Leviathans Story Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

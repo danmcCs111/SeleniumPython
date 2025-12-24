@@ -1,0 +1,187 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/achilles_legends_untold_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Achilles: Legends Untold - Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/batora_lost_haven_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Batora: Lost Haven - Digital Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/batora_lost_haven_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Batora: Lost Haven - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_shootas_blood_teef"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Shootas, Blood &amp; Teef</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced_dlc_herschel_next"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced DLC- Herschel NEXT</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_valiant"
+_ngcontent-gogcom-store-c1196613375="">The Valiant</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_valiant_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Valiant Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lucy_dreaming"
+_ngcontent-gogcom-store-c1196613375="">Lucy Dreaming</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$12.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mars_base"
+_ngcontent-gogcom-store-c1196613375="">Mars Base</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zid_journey_demo"
+_ngcontent-gogcom-store-c1196613375="">Zid Journey DEMO</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beautiful_mystic_survivors"
+_ngcontent-gogcom-store-c1196613375="">Beautiful Mystic Survivors</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indoorlands"
+_ngcontent-gogcom-store-c1196613375="">Indoorlands</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$4.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scorn"
+_ngcontent-gogcom-store-c1196613375="">Scorn</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scorn_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Scorn - Deluxe Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scorn_artwork"
+_ngcontent-gogcom-store-c1196613375="">Scorn: Digital Artbook</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scorn_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Scorn: Original Soundtrack</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stay_out_of_the_house"
+_ngcontent-gogcom-store-c1196613375="">Stay Out of the House</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trifox"
+_ngcontent-gogcom-store-c1196613375="">Trifox</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_eidolons"
+_ngcontent-gogcom-store-c1196613375="">Lost Eidolons</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_eidolons_artbook_world_map"
+_ngcontent-gogcom-store-c1196613375="">Lost Eidolons - Artbook &amp; World Map</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_eidolons_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lost Eidolons - Original Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necrobouncer_prologue"
+_ngcontent-gogcom-store-c1196613375="">NecroBouncer: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_case_of_the_golden_idol_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Case of the Golden Idol Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_darkest_tales"
+_ngcontent-gogcom-store-c1196613375="">The Darkest Tales</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brigand_gold"
+_ngcontent-gogcom-store-c1196613375="">Brigand: Gold</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lego_bricktales_demo"
+_ngcontent-gogcom-store-c1196613375="">LEGO® Bricktales DEMO</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lego_bricktales_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">LEGO® Bricktales Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterigos_curse_of_the_stars"
+_ngcontent-gogcom-store-c1196613375="">Asterigos: Curse of the Stars</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterigos_curse_of_the_stars_complete_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Asterigos: Curse of the Stars - Complete Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterigos_curse_of_the_stars_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Asterigos: Curse of the Stars - Deluxe Edition</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterigos_curse_of_the_stars_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Asterigos: Curse of the Stars - Ultimate Edition</span>
+"base-value ng-star-inserted">$54.99</span>
+"final-value ng-star-inserted">$21.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterigos_digital_art_book"
+_ngcontent-gogcom-store-c1196613375="">Asterigos: Digital Art Book</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ozymandias_bronze_age_empire_sim"
+_ngcontent-gogcom-store-c1196613375="">Ozymandias: Bronze Age Empire Sim</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ozymandias_bronze_age_empire_sim_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Ozymandias: Bronze Age Empire Sim - Deluxe Edition</span>
+"base-value ng-star-inserted">$22.48</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ozymandias_bronze_age_empire_sim_demo"
+_ngcontent-gogcom-store-c1196613375="">Ozymandias: Bronze Age Empire Sim DEMO</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_architect_undead"
+_ngcontent-gogcom-store-c1196613375="">Prison Architect - Undead</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chasmtherift"
+_ngcontent-gogcom-store-c1196613375="">Chasm: The Rift</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/democracy_4_country_pack"
+_ngcontent-gogcom-store-c1196613375="">Democracy 4 - Country Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chaos_head_noah"
+_ngcontent-gogcom-store-c1196613375="">CHAOS;HEAD NOAH</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chaos_head_noah_costume_dlc"
+_ngcontent-gogcom-store-c1196613375="">CHAOS;HEAD NOAH - Costume DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chaoshead_noah_chaoschild_double_pack"
+_ngcontent-gogcom-store-c1196613375="">CHAOS;HEAD NOAH / CHAOS;CHILD DOUBLE PACK</span>
+"final-value ng-star-inserted">$44.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/superpower_3"
+_ngcontent-gogcom-store-c1196613375="">SuperPower 3</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/priest_simulator_vampire_show"
+_ngcontent-gogcom-store-c1196613375="">Priest Simulator: Vampire Show</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bibots"
+_ngcontent-gogcom-store-c1196613375="">Bibots</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_plague_doctor_of_wippra"
+_ngcontent-gogcom-store-c1196613375="">The Plague Doctor of Wippra</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/1428_shadows_over_silesia"
+_ngcontent-gogcom-store-c1196613375="">1428: Shadows over Silesia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/1428_shadows_over_silesia_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">1428: Shadows over Silesia Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroy_all_humans_2_reprobed_challenge_accepted"
+_ngcontent-gogcom-store-c1196613375="">Destroy All Humans! 2 - Reprobed: Challenge Accepted DLC</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,173 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/horace_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Horace Official Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/graveyard_keeper_stranger_sins"
+_ngcontent-gogcom-store-c1196613375="">Graveyard Keeper - Stranger Sins</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/i_am_not_a_monster_multiplayer_version"
+_ngcontent-gogcom-store-c1196613375="">I Am Not A Monster - Multiplayer Version</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xeno_crisis"
+_ngcontent-gogcom-store-c1196613375="">Xeno Crisis</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lichtspeer_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lichtspeer Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_mind_the_pacific"
+_ngcontent-gogcom-store-c1196613375="">Strategic Mind: The Pacific</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/design_variety_pack"
+_ngcontent-gogcom-store-c1196613375="">Design Variety Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_left_4_dead_2_weapon_pack"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - Left 4 Dead 2 Weapon Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_lithoids_species_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Lithoids Species Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shortest_trip_to_earth_supporters_pack"
+_ngcontent-gogcom-store-c1196613375="">Shortest Trip to Earth - Supporters Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/abandon_ship"
+_ngcontent-gogcom-store-c1196613375="">Abandon Ship</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ai_war_2"
+_ngcontent-gogcom-store-c1196613375="">AI War 2</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ai_war_2_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">AI War 2: Complete Edition</span>
+"final-value ng-star-inserted">$44.96</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_2_future_shock_weapon_pack"
+_ngcontent-gogcom-store-c1196613375="">The Surge 2 - Future Shock Weapon Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/autonauts"
+_ngcontent-gogcom-store-c1196613375="">Autonauts</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_planet_judgement_day"
+_ngcontent-gogcom-store-c1196613375="">Battle Planet - Judgement Day</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/felix_the_reaper_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Felix The Reaper - Supporter Pack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_big_workshop"
+_ngcontent-gogcom-store-c1196613375="">Little Big Workshop</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sea_salt"
+_ngcontent-gogcom-store-c1196613375="">Sea Salt</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sea_salt_digital_deluxe_package"
+_ngcontent-gogcom-store-c1196613375="">Sea Salt - Digital Deluxe Package</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/six_ages_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Six Ages Original Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/six_ages_ride_like_the_wind"
+_ngcontent-gogcom-store-c1196613375="">Six Ages: Ride Like the Wind</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_death_on_the_vistula"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Death on the Vistula</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #2 - Gora Kalwaria</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_3"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #3 - Zbuczyn</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_4"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #4 - Brest</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_5"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #5 - Smart Orders</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stranded_sails_explorers_of_the_cursed_islands"
+_ngcontent-gogcom-store-c1196613375="">Stranded Sails - Explorers of the Cursed Islands</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_beast_inside"
+_ngcontent-gogcom-store-c1196613375="">The Beast Inside</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_fortification_pack"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius - Fortification Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beat_hazard_2"
+_ngcontent-gogcom-store-c1196613375="">Beat Hazard 2</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$5.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beat_hazard_2_original_sound_track"
+_ngcontent-gogcom-store-c1196613375="">Beat Hazard 2 - Original Sound Track</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/disco_elysium_the_final_cut_bundle"
+_ngcontent-gogcom-store-c1196613375="">Disco Elysium - The Final Cut Bundle</span>
+"base-value ng-star-inserted">$53.98</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_time_at_portia_npc_attire_package"
+_ngcontent-gogcom-store-c1196613375="">My Time At Portia - NPC Attire Package</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_time_at_portia_player_attire_package"
+_ngcontent-gogcom-store-c1196613375="">My Time At Portia - Player Attire Package</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/outbuddies"
+_ngcontent-gogcom-store-c1196613375="">OUTBUDDIES DX</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/corpse_party_blood_drive"
+_ngcontent-gogcom-store-c1196613375="">Corpse Party: Blood Drive</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deliver_us_the_moon_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Deliver Us The Moon - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_keepers_prologue"
+_ngcontent-gogcom-store-c1196613375="">Legend of Keepers: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pine"
+_ngcontent-gogcom-store-c1196613375="">Pine</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/radio_commander_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Radio Commander - Complete Edition</span>
+"final-value ng-star-inserted">$22.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valfaris"
+_ngcontent-gogcom-store-c1196613375="">Valfaris</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valfaris_digital_art_book"
+_ngcontent-gogcom-store-c1196613375="">Valfaris - Digital Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valfaris_digital_ost"
+_ngcontent-gogcom-store-c1196613375="">Valfaris - Digital OST</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/valfaris_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Valfaris Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$35.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_star_varnir"
+_ngcontent-gogcom-store-c1196613375="">Dragon Star Varnir</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_star_varnir_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Dragon Star Varnir -  Deluxe Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_star_varnir_level_limit_breach_2"
+_ngcontent-gogcom-store-c1196613375="">Dragon Star Varnir -  Level Limit Breach 2</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

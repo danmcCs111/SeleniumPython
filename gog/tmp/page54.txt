@@ -1,0 +1,202 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tank_warfare_tunisia_1943"
+_ngcontent-gogcom-store-c1196613375="">Tank Warfare: Tunisia 1943</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expeditions_viking"
+_ngcontent-gogcom-store-c1196613375="">Expeditions: Viking</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sniper_ghost_warrior_3_gold_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Sniper Ghost Warrior 3 Gold Edition upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/man_o_war_corsair"
+_ngcontent-gogcom-store-c1196613375="">Man O' War: Corsair - Warhammer Naval Battles</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/man_o_war_reiks_fashion"
+_ngcontent-gogcom-store-c1196613375="">Man O' War: Reik's Fashion</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_inception"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Inception DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cosmic_star_heroine"
+_ngcontent-gogcom-store-c1196613375="">Cosmic Star Heroine</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cossacks_3_guardians_of_the_highlands"
+_ngcontent-gogcom-store-c1196613375="">Cossacks 3: Guardians of the Highlands</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/planescape_torment_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Planescape: Torment: Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slimesan_superslime_edition"
+_ngcontent-gogcom-store-c1196613375="">Slime-san: Superslime Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_utopia"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Utopia</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_in_the_woods"
+_ngcontent-gogcom-store-c1196613375="">Night in the Woods: Weird Autumn Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cossacks_3_rise_to_glory"
+_ngcontent-gogcom-store-c1196613375="">Cossacks 3: Rise to Glory</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hidden_folks"
+_ngcontent-gogcom-store-c1196613375="">Hidden Folks</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/diluvion"
+_ngcontent-gogcom-store-c1196613375="">Diluvion: Resubmerged</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/diluvion_fleet_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Diluvion: Resubmerged Fleet Edition Upgrade</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stars_in_shadow"
+_ngcontent-gogcom-store-c1196613375="">Stars in Shadow</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/caladrius_blaze"
+_ngcontent-gogcom-store-c1196613375="">Caladrius Blaze</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_binding_of_isaac_afterbirth_plus"
+_ngcontent-gogcom-store-c1196613375="">The Binding of Isaac: Afterbirth+</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_tactics_blades_of_the_shogun_artbook_strategy_guide"
+_ngcontent-gogcom-store-c1196613375="">Shadow Tactics: Blades of the Shogun - Artbook + Strategy Guide</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_tactics_blades_of_the_shogun_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Shadow Tactics: Blades of the Shogun - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/walking_dead_a_new_frontier_the"
+_ngcontent-gogcom-store-c1196613375="">The Walking Dead: A New Frontier</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_martial_artist"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Martial Artist</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cossacks_3_days_of_brilliance"
+_ngcontent-gogcom-store-c1196613375="">Cossacks 3: Days of Brilliance</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xcom_2_resistance_warrior_pack"
+_ngcontent-gogcom-store-c1196613375="">XCOM 2: Resistance Warrior Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yesterday_origins"
+_ngcontent-gogcom-store-c1196613375="">Yesterday Origins</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/transport_fever"
+_ngcontent-gogcom-store-c1196613375="">Transport Fever</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_night_stand"
+_ngcontent-gogcom-store-c1196613375="">One Night Stand</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/carmageddon_max_damage"
+_ngcontent-gogcom-store-c1196613375="">Carmageddon: Max Damage</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_leviathans_story_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Leviathans Story Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_warrior_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Shadow Warrior 2 - Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunless_sea_zubmariner"
+_ngcontent-gogcom-store-c1196613375="">Sunless Sea: Zubmariner</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$5.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_tau_empire"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada - Tau Empire</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virginia"
+_ngcontent-gogcom-store-c1196613375="">Virginia</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/redout_solar_challenge_edition"
+_ngcontent-gogcom-store-c1196613375="">Redout: Solar Challenge Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seasons_after_fall"
+_ngcontent-gogcom-store-c1196613375="">Seasons after Fall</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neurovoider"
+_ngcontent-gogcom-store-c1196613375="">NeuroVoider</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/master_of_orion_collectors_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Master of Orion: Collector's Edition Upgrade</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_armageddon_da_orks"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Armageddon - Da Orks</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_oblivion_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Oblivion DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reigns"
+_ngcontent-gogcom-store-c1196613375="">Reigns</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_plantoids_species_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Plantoids Species Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amatsutsumi"
+_ngcontent-gogcom-store-c1196613375="">Amatsutsumi</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starbound"
+_ngcontent-gogcom-store-c1196613375="">Starbound</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_epic_map_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Epic Map Pack DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombie_night_terror"
+_ngcontent-gogcom-store-c1196613375="">Zombie Night Terror</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zombie_night_terror_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Zombie Night Terror Special Edition Upgrade</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

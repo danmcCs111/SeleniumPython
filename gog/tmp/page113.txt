@@ -1,0 +1,189 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_roger"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise - R.O.G.E.R.</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_coinop_pack_2"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise Coin-Op Pack 2</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asterigos_call_of_the_paragons"
+_ngcontent-gogcom-store-c1196613375="">Asterigos: Call of the Paragons</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_aurora_shores"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter - Aurora Shores</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gore_death_ronin"
+_ngcontent-gogcom-store-c1196613375="">G.O.R.E - Death Ronin</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gore_od_grave"
+_ngcontent-gogcom-store-c1196613375="">G.O.R.E - O.D. Grave</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dreams_in_the_witch_house_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dreams in the Witch House Bundle</span>
+"base-value ng-star-inserted">$14.43</span>
+"final-value ng-star-inserted">$9.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/primitive_hearts_unrated"
+_ngcontent-gogcom-store-c1196613375="">PRIMITIVE HEARTS UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/torii_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Torii Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dreams_in_the_witch_house_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dreams in the Witch House Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$5.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_ii_swifter_than_eagles"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory II: Swifter than Eagles</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/loretta"
+_ngcontent-gogcom-store-c1196613375="">Loretta</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tower_escape"
+_ngcontent-gogcom-store-c1196613375="">Tower Escape</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/house_party_valentines_day_holiday_pack"
+_ngcontent-gogcom-store-c1196613375="">House Party - Valentine's Day Holiday Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succuseka_special_story"
+_ngcontent-gogcom-store-c1196613375="">SuccuSeka Special Story</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succuseka_resist_succubus_temptation"
+_ngcontent-gogcom-store-c1196613375="">SuccuSeka: Resist Succubus Temptation</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/truxton"
+_ngcontent-gogcom-store-c1196613375="">Truxton</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/twin_cobra"
+_ngcontent-gogcom-store-c1196613375="">Twin Cobra</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ctrl_alt_ego_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Ctrl Alt Ego Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ctrl_alt_ego_ego_tunes_edition"
+_ngcontent-gogcom-store-c1196613375="">Ctrl Alt Ego: Ego Tunes Edition</span>
+"base-value ng-star-inserted">$20.68</span>
+"final-value ng-star-inserted">$10.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opportunity_a_sugar_baby_story"
+_ngcontent-gogcom-store-c1196613375="">Opportunity: A Sugar Baby Story</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_maiden_the_butler_and_the_witch_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Maiden, the Butler, and the Witch UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_adventures_1_2_bundle"
+_ngcontent-gogcom-store-c1196613375="">8-Bit Adventures 1 + 2 Bundle</span>
+"base-value ng-star-inserted">$23.99</span>
+"final-value ng-star-inserted">$16.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mask_of_the_rose_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mask of the Rose Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/midnight_scenes_from_the_woods"
+_ngcontent-gogcom-store-c1196613375="">Midnight Scenes: From the Woods</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/midnight_scenes_from_the_woods_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Midnight Scenes: From the Woods Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/perseverance_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Perseverance: Complete Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nebuchadnezzar_the_adventures_of_sargon"
+_ngcontent-gogcom-store-c1196613375="">Nebuchadnezzar: The Adventures of Sargon</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_architect_jungle_pack"
+_ngcontent-gogcom-store-c1196613375="">Prison Architect - Jungle Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scorchlands"
+_ngcontent-gogcom-store-c1196613375="">Scorchlands</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_trasamire_campaigns"
+_ngcontent-gogcom-store-c1196613375="">The Trasamire Campaigns</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_building_full_of_cats_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Building Full of Cats Soundtrack</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inspector_schmidt_a_bavarian_tale"
+_ngcontent-gogcom-store-c1196613375="">Inspector Schmidt - A Bavarian Tale</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$5.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inspector_schmidt_a_bavarian_tale_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Inspector Schmidt - A Bavarian Tale - Collectors Edition</span>
+"base-value ng-star-inserted">$27.03</span>
+"final-value ng-star-inserted">$6.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inspector_schmidt_a_bavarian_tale_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Inspector Schmidt - A Bavarian Tale - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/losungsbuch_pdf_inspector_schmidt_a_bavarian_tale"
+_ngcontent-gogcom-store-c1196613375="">Lösungsbuch - PDF - Inspector Schmidt - A Bavarian Tale</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/perish"
+_ngcontent-gogcom-store-c1196613375="">PERISH</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/synthetic_lover_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Synthetic Lover Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_symbiant"
+_ngcontent-gogcom-store-c1196613375="">The Symbiant</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_symbiant_adult_patch"
+_ngcontent-gogcom-store-c1196613375="">The Symbiant - Adult Patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_symbiant_artbook_cg_pack"
+_ngcontent-gogcom-store-c1196613375="">The Symbiant - Artbook &amp; CG Pack</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_symbiant_game_choice_achievement_guide"
+_ngcontent-gogcom-store-c1196613375="">The Symbiant - Game Choice &amp; Achievement Guide</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_symbiant_ost"
+_ngcontent-gogcom-store-c1196613375="">The Symbiant - OST</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_symbiant_demo"
+_ngcontent-gogcom-store-c1196613375="">The Symbiant Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hardspace_shipbreaker_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Hardspace: Shipbreaker - Digital Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rhythm_sprout_sick_beats_bad_sweets"
+_ngcontent-gogcom-store-c1196613375="">Rhythm Sprout: Sick Beats &amp; Bad Sweets</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_adventures_2"
+_ngcontent-gogcom-store-c1196613375="">8-Bit Adventures 2</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/8bit_adventures_2_bundle"
+_ngcontent-gogcom-store-c1196613375="">8-Bit Adventures 2: Bundle</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$20.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

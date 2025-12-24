@@ -1,0 +1,200 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paradise_killer"
+_ngcontent-gogcom-store-c1196613375="">Paradise Killer</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immortal_realms_vampire_wars"
+_ngcontent-gogcom-store-c1196613375="">Immortal Realms: Vampire Wars</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/windbound"
+_ngcontent-gogcom-store-c1196613375="">Windbound</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_n_dream"
+_ngcontent-gogcom-store-c1196613375="">Love n Dream</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sense_a_cyberpunk_ghost_story"
+_ngcontent-gogcom-store-c1196613375="">Sense - 不祥的预感: A Cyberpunk Ghost Story</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chronicon_complete"
+_ngcontent-gogcom-store-c1196613375="">Chronicon Complete</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$16.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_brothers_blazing_deserts"
+_ngcontent-gogcom-store-c1196613375="">Battle Brothers - Blazing Deserts</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/horizon_zero_dawn_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Horizon Zero Dawn™ Complete Edition</span>
+"final-value ng-star-inserted">$49.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_complete_collection"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire Complete Collection</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$17.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/banners_of_ruin"
+_ngcontent-gogcom-store-c1196613375="">Banners of Ruin</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroy_all_humans_special_skin_pack"
+_ngcontent-gogcom-store-c1196613375="">Destroy All Humans! Special Skin Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/creaks"
+_ngcontent-gogcom-store-c1196613375="">Creaks</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/creaks_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Creaks Collector's Edition</span>
+"base-value ng-star-inserted">$22.93</span>
+"final-value ng-star-inserted">$5.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beyond_a_steel_sky"
+_ngcontent-gogcom-store-c1196613375="">Beyond a Steel Sky</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_ost"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire - Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_under_fire_heroes"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Under Fire: Heroes</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fell_seal_arbiters_mark_missions_and_monsters"
+_ngcontent-gogcom-store-c1196613375="">Fell Seal: Arbiter's Mark - Missions and Monsters</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alwas_legacy"
+_ngcontent-gogcom-store-c1196613375="">Alwa's Legacy</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$3.05</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/colt_canyon"
+_ngcontent-gogcom-store-c1196613375="">Colt Canyon</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/desperados_iii"
+_ngcontent-gogcom-store-c1196613375="">Desperados III</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_one_lives_in_heaven_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">No One Lives in Heaven Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/covid_the_outbreak"
+_ngcontent-gogcom-store-c1196613375="">COVID: The Outbreak</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruins_seeker"
+_ngcontent-gogcom-store-c1196613375="">Ruins Seeker</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_vampire"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Vampire</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/those_who_remain"
+_ngcontent-gogcom-store-c1196613375="">Those Who Remain</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/field_of_glory_empires_persia_550330_bce"
+_ngcontent-gogcom-store-c1196613375="">Field of Glory: Empires - Persia 550-330 BCE</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_train"
+_ngcontent-gogcom-store-c1196613375="">Monster Train</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mafia_ii_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Mafia II: Definitive Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mafia_iii_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Mafia III: Definitive Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/higurashi_when_they_cry_hou_ch8_matsuribayashi"
+_ngcontent-gogcom-store-c1196613375="">Higurashi When They Cry Hou - Ch.8 Matsuribayashi</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jet_lancer"
+_ngcontent-gogcom-store-c1196613375="">Jet Lancer</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtuaverse"
+_ngcontent-gogcom-store-c1196613375="">VirtuaVerse</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_down_under"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire - Down Under</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_ranger"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Ranger</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_swordsman"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Swordsman</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_witch_hunter"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Witch Hunter</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge_1_2_dual_pack"
+_ngcontent-gogcom-store-c1196613375="">The Surge 1 &amp; 2 - Dual Pack</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$4.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brave_alchemist_colette"
+_ngcontent-gogcom-store-c1196613375="">Brave Alchemist Colette</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iratus_lord_of_the_dead"
+_ngcontent-gogcom-store-c1196613375="">Iratus: Lord of the Dead</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iratus_lord_of_the_dead_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Iratus: Lord of the Dead - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_underworlds_online"
+_ngcontent-gogcom-store-c1196613375="">Warhammer Underworlds – Shadespire Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_fantasy_epic_jigsaw_puzzle"
+_ngcontent-gogcom-store-c1196613375="">Dark Fantasy: Epic Jigsaw Puzzle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/euphoria_supreme_mechanics"
+_ngcontent-gogcom-store-c1196613375="">Euphoria: Supreme Mechanics</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$1.43</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/operencia_the_stolen_sun_explorers_edition"
+_ngcontent-gogcom-store-c1196613375="">Operencia: The Stolen Sun – Explorer’s Edition</span>
+"base-value ng-star-inserted">$35.09</span>
+"final-value ng-star-inserted">$10.52</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_gateway_trilogy"
+_ngcontent-gogcom-store-c1196613375="">The Gateway Trilogy</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mount_blade_ii_bannerlord"
+_ngcontent-gogcom-store-c1196613375="">Mount &amp; Blade II: Bannerlord</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/biped"
+_ngcontent-gogcom-store-c1196613375="">Biped</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_step_from_eden"
+_ngcontent-gogcom-store-c1196613375="">One Step From Eden</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

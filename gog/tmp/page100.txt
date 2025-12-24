@@ -1,0 +1,188 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pray_game"
+_ngcontent-gogcom-store-c1196613375="">Pray Game</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pray_game_unrated"
+_ngcontent-gogcom-store-c1196613375="">Pray Game UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cartel_tycoon_anniversary_edition"
+_ngcontent-gogcom-store-c1196613375="">Cartel Tycoon - Anniversary Edition</span>
+"base-value ng-star-inserted">$54.99</span>
+"final-value ng-star-inserted">$21.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cartel_tycoon_san_rafaela"
+_ngcontent-gogcom-store-c1196613375="">Cartel Tycoon - San Rafaela</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gas_station_simulator_party_time_dlc"
+_ngcontent-gogcom-store-c1196613375="">Gas Station Simulator - Party Time DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/airship_kingdoms_adrift"
+_ngcontent-gogcom-store-c1196613375="">Airship: Kingdoms Adrift</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$16.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astrea_sixsided_oracles"
+_ngcontent-gogcom-store-c1196613375="">Astrea: Six-Sided Oracles</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frontier_hunter_dlc_hairstyle_pack"
+_ngcontent-gogcom-store-c1196613375="">Frontier Hunter - DLC: Hairstyle Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/livestream_2_escape_from_togaezuka_happy_place"
+_ngcontent-gogcom-store-c1196613375="">Livestream 2: Escape from Togaezuka Happy Place</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/digital_eclipse_bundle"
+_ngcontent-gogcom-store-c1196613375="">Digital Eclipse Bundle</span>
+"base-value ng-star-inserted">$42.48</span>
+"final-value ng-star-inserted">$25.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_island_art_book"
+_ngcontent-gogcom-store-c1196613375="">Moonstone Island Art Book</span>
+"base-value ng-star-inserted">$4.49</span>
+"final-value ng-star-inserted">$2.02</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_island_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Moonstone Island Collector's Edition</span>
+"base-value ng-star-inserted">$31.46</span>
+"final-value ng-star-inserted">$11.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_island_decor_galore_dlc_pack"
+_ngcontent-gogcom-store-c1196613375="">Moonstone Island Decor Galore DLC Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_island_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Moonstone Island Soundtrack</span>
+"base-value ng-star-inserted">$6.49</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/renfield_bring_your_own_blood"
+_ngcontent-gogcom-store-c1196613375="">Renfield: Bring Your Own Blood</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sagres"
+_ngcontent-gogcom-store-c1196613375="">Sagres</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unloop"
+_ngcontent-gogcom-store-c1196613375="">Unloop</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gloomhaven_jaws_of_the_lion_alternative_skins"
+_ngcontent-gogcom-store-c1196613375="">Gloomhaven - Jaws of the Lion Alternative Skins</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arrow_patterns"
+_ngcontent-gogcom-store-c1196613375="">ARROW Patterns</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boti_byteland_overclocked"
+_ngcontent-gogcom-store-c1196613375="">Boti: Byteland Overclocked</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_vs_zombies"
+_ngcontent-gogcom-store-c1196613375="">Golf VS Zombies</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/savant_ascent_remix"
+_ngcontent-gogcom-store-c1196613375="">Savant - Ascent REMIX</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ad_infinitum_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Ad Infinitum - Digital Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ad_infinitum_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Ad Infinitum Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ad_infinitum_supporter_edition"
+_ngcontent-gogcom-store-c1196613375="">Ad Infinitum Supporter Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inspector_gadget_mad_time_party"
+_ngcontent-gogcom-store-c1196613375="">Inspector Gadget - MAD Time Party</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gunbrella"
+_ngcontent-gogcom-store-c1196613375="">Gunbrella</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gunbrella_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Gunbrella - Deluxe Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/incubus_a_ghosthunters_tale_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Incubus - A ghost-hunters tale - Game Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/incubus_sounds_of_e9_radio_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Incubus - Sounds of E9 - Radio Soundtrack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_fortress_italy"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Fortress Italy</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_fortress_italy_gustav_line"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Fortress Italy - Gustav Line</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_fortress_italy_rome_to_victory"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Fortress Italy - Rome to Victory</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_fortress_italy_complete"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Fortress Italy Complete</span>
+"final-value ng-star-inserted">$116.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_corrupted_forest_course"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Corrupted Forest Course</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_fairytale_fables_pack"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Fairytale Fables Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_peaceful_pines_course"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Peaceful Pines Course</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_chant_the_gloom_below"
+_ngcontent-gogcom-store-c1196613375="">The Chant - The Gloom Below</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hauma_a_detective_noir_story"
+_ngcontent-gogcom-store-c1196613375="">Hauma - A Detective Noir Story</span>
+"base-value ng-star-inserted">$12.49</span>
+"final-value ng-star-inserted">$1.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solitaire_quest_garden_story"
+_ngcontent-gogcom-store-c1196613375="">Solitaire Quest: Garden Story</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tavernacle"
+_ngcontent-gogcom-store-c1196613375="">Tavernacle!</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unheard_voices_of_crime"
+_ngcontent-gogcom-store-c1196613375="">Unheard - Voices of Crime</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/incubus_a_ghost_hunters_tale"
+_ngcontent-gogcom-store-c1196613375="">Incubus - A ghost-hunters tale</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mage_of_the_olekta_desert"
+_ngcontent-gogcom-store-c1196613375="">Mage of the Olekta Desert</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$10.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mage_of_the_olekta_desert_unrated"
+_ngcontent-gogcom-store-c1196613375="">Mage of the Olekta Desert UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distant_worlds_2_factions_quameno_and_gizureans"
+_ngcontent-gogcom-store-c1196613375="">Distant Worlds 2: Factions - Quameno and Gizureans</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lempo"
+_ngcontent-gogcom-store-c1196613375="">Lempo</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/videoverse_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">VIDEOVERSE Original Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.79</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

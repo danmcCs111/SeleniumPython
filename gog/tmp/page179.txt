@@ -1,0 +1,189 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_kiss_for_the_petals_maidens_of_michael"
+_ngcontent-gogcom-store-c1196613375="">A Kiss For The Petals - Maidens of Michael</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_nightmares_expansion_3"
+_ngcontent-gogcom-store-c1196613375="">Little Nightmares - The Residence DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwell_ignorance_is_strength"
+_ngcontent-gogcom-store-c1196613375="">Orwell: Ignorance is Strength</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwell_ignorance_is_strength_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Orwell: Ignorance is Strength Original Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwell_ignorance_is_strength_season_2_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Orwell: Ignorance is Strength Season 2 Deluxe</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwell_ignorance_is_strength_seasons_complete"
+_ngcontent-gogcom-store-c1196613375="">Orwell: Ignorance is Strength Seasons Complete</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_apocalypse"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Apocalypse</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rad_rodgers"
+_ngcontent-gogcom-store-c1196613375="">Rad Rodgers Radical Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/thimbleweed_park_ransome_unbeeped"
+_ngcontent-gogcom-store-c1196613375="">Thimbleweed Park - Ransome Unbeeped</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/symmetry"
+_ngcontent-gogcom-store-c1196613375="">SYMMETRY</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dying Light Original Soundtrack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mhakna_gramura_and_fairy_bell"
+_ngcontent-gogcom-store-c1196613375="">Mhakna Gramura and Fairy Bell</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mhakna_gramura_and_fairy_bell_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mhakna Gramura and Fairy Bell - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sphinx_and_the_cursed_mummy_authoring_tools"
+_ngcontent-gogcom-store-c1196613375="">Sphinx and the Cursed Mummy: Authoring Tools</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iconoclasts_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Iconoclasts - Soundtrack</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tempest_jade_sea"
+_ngcontent-gogcom-store-c1196613375="">Tempest - Jade Sea</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_art_book"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance - Art Book</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ost"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance OST</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_all_accessories"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - All Accessories</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_all_arcus_covers"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - All Arcus Covers</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_all_casual_clothes"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - All Casual Clothes</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_all_glasses"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - All Glasses</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_all_ridealongs"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_shining_pom_bait_set_1"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Set 1</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_shining_pom_bait_set_2"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Set 2</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_shining_pom_bait_set_3"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Set 3</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_shining_pom_bait_set_4"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Set 4</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_shining_pom_bait_set_5"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Set 5</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_shining_pom_bait_value_set_1"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Value Set 1</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_shining_pom_bait_value_set_2"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Value Set 2</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_ii_unspeakable_costumes"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel II - Unspeakable Costumes</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crossing_souls"
+_ngcontent-gogcom-store-c1196613375="">Crossing Souls</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_fall_part_2_unbound"
+_ngcontent-gogcom-store-c1196613375="">The Fall Part 2: Unbound</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aegis_defenders"
+_ngcontent-gogcom-store-c1196613375="">Aegis Defenders</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aegis_defenders_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Aegis Defenders Original Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/attack_of_the_earthlings"
+_ngcontent-gogcom-store-c1196613375="">Attack of the Earthlings</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kitty_powers_love_life"
+_ngcontent-gogcom-store-c1196613375="">Kitty Powers’ Love Life</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_rocket_of_whispers"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Rocket of Whispers</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_rocket_of_whispers_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Rocket of Whispers - Deluxe Edition</span>
+"base-value ng-star-inserted">$21.22</span>
+"final-value ng-star-inserted">$12.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/opus_rocket_of_whispers_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">OPUS: Rocket of Whispers - Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartile"
+_ngcontent-gogcom-store-c1196613375="">WARTILE</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/treasure_adventure_world"
+_ngcontent-gogcom-store-c1196613375="">Treasure Adventure World</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/treasure_adventure_world_official_soundtrack_instruction_booklet"
+_ngcontent-gogcom-store-c1196613375="">Treasure Adventure World - Official Soundtrack &amp; Instruction Booklet</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crossing_souls_demo"
+_ngcontent-gogcom-store-c1196613375="">Crossing Souls Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beer"
+_ngcontent-gogcom-store-c1196613375="">Beer!</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeons_3_once_upon_a_time"
+_ngcontent-gogcom-store-c1196613375="">Dungeons 3: Once Upon A Time</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/candleman_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Candleman - Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

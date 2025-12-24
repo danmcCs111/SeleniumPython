@@ -1,0 +1,189 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_hungry_lamb_traveling_in_the_late_ming_dynasty"
+_ngcontent-gogcom-store-c1196613375="">The Hungry Lamb: Traveling in the Late Ming Dynasty</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/havendock"
+_ngcontent-gogcom-store-c1196613375="">Havendock</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_last_spell_elves_of_amberwald"
+_ngcontent-gogcom-store-c1196613375="">The Last Spell - Elves of Amberwald</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/true_fear_forsaken_souls_trilogy"
+_ngcontent-gogcom-store-c1196613375="">True Fear: Forsaken Souls Trilogy</span>
+"base-value ng-star-inserted">$26.07</span>
+"final-value ng-star-inserted">$20.85</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mandragora_whispers_of_the_witch_tree"
+_ngcontent-gogcom-store-c1196613375="">Mandragora: Whispers of the Witch Tree</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$25.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soulslinger_envoy_of_death"
+_ngcontent-gogcom-store-c1196613375="">Soulslinger: Envoy of Death</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soulstone_survivors"
+_ngcontent-gogcom-store-c1196613375="">Soulstone Survivors</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/drive_rally"
+_ngcontent-gogcom-store-c1196613375="">#DRIVE Rally</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/synergy"
+_ngcontent-gogcom-store-c1196613375="">Synergy</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chains_of_freedom"
+_ngcontent-gogcom-store-c1196613375="">Chains of Freedom</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/coridden_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Coridden - Supporter Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_gallant_huntsmans_kit"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II - Gallant Huntsman's Kit</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_shields_of_seasons_passing"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II - Shields of Seasons Passing</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darkest_dungeon_ii_infernal_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Darkest Dungeon® II: Infernal Supporter Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_is_coming"
+_ngcontent-gogcom-store-c1196613375="">Night is Coming</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/repose"
+_ngcontent-gogcom-store-c1196613375="">REPOSE</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/repose_artbook"
+_ngcontent-gogcom-store-c1196613375="">REPOSE - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/repose_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">REPOSE - Deluxe Edition</span>
+"base-value ng-star-inserted">$16.17</span>
+"final-value ng-star-inserted">$12.93</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/repose_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">REPOSE - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/skelethrone_the_chronicles_of_ericona_the_jewel_in_the_skull"
+_ngcontent-gogcom-store-c1196613375="">Skelethrone: The Chronicles of Ericona - The Jewel in the Skull</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/travelers_refrain"
+_ngcontent-gogcom-store-c1196613375="">Traveler's Refrain</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hollywood_animal"
+_ngcontent-gogcom-store-c1196613375="">Hollywood Animal</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_book_of_bondmaids_artbook"
+_ngcontent-gogcom-store-c1196613375="">The Book of Bondmaids - Artbook</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.01</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/imagine_earth_galaxies"
+_ngcontent-gogcom-store-c1196613375="">Imagine Earth - Galaxies</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sandwalkers"
+_ngcontent-gogcom-store-c1196613375="">Sandwalkers</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/leila"
+_ngcontent-gogcom-store-c1196613375="">Leila</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/leila_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Leila - Supporter Pack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prim_demo"
+_ngcontent-gogcom-store-c1196613375="">PRIM Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brassheart"
+_ngcontent-gogcom-store-c1196613375="">Brassheart</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knock_on_the_coffin_lid_nightmares_of_millenis"
+_ngcontent-gogcom-store-c1196613375="">Knock on the coffin lid - Nightmares of Millenis</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$7.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distant_worlds_2_factions_atuuk_and_wekkarus"
+_ngcontent-gogcom-store-c1196613375="">Distant Worlds 2: Factions - Atuuk and Wekkarus</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_kid"
+_ngcontent-gogcom-store-c1196613375="">Death Kid</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galacticare_the_voice_beyond"
+_ngcontent-gogcom-store-c1196613375="">Galacticare - The Voice Beyond</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/house_party_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">House Party - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/house_party_total_indulgence"
+_ngcontent-gogcom-store-c1196613375="">House Party - Total Indulgence</span>
+"base-value ng-star-inserted">$59.09</span>
+"final-value ng-star-inserted">$37.22</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rain_world_the_watcher"
+_ngcontent-gogcom-store-c1196613375="">Rain World: The Watcher</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/disney_villains_cursed_cafe"
+_ngcontent-gogcom-store-c1196613375="">Disney Villains Cursed Café</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inayah_life_after_gods"
+_ngcontent-gogcom-store-c1196613375="">INAYAH - Life after Gods</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/karma_the_dark_world"
+_ngcontent-gogcom-store-c1196613375="">KARMA: The Dark World</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/karma_the_dark_world_artbook"
+_ngcontent-gogcom-store-c1196613375="">KARMA: The Dark World Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/karma_the_dark_world_digital_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">KARMA: The Dark World Digital Deluxe Bundle</span>
+"base-value ng-star-inserted">$37.76</span>
+"final-value ng-star-inserted">$33.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/karma_the_dark_world_ep"
+_ngcontent-gogcom-store-c1196613375="">KARMA: The Dark World EP</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/karma_the_dark_world_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">KARMA: The Dark World Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rosewater"
+_ngcontent-gogcom-store-c1196613375="">Rosewater</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rosewater_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Rosewater Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gunslugs"
+_ngcontent-gogcom-store-c1196613375="">Gunslugs</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_darkest_files"
+_ngcontent-gogcom-store-c1196613375="">The Darkest Files</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warno_nemesis_3_homefront"
+_ngcontent-gogcom-store-c1196613375="">WARNO - Nemesis #3 - Homefront</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

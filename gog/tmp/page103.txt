@@ -1,0 +1,180 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mai_and_the_legendary_treasure"
+_ngcontent-gogcom-store-c1196613375="">Mai and the Legendary Treasure</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mai_and_the_legendary_treasure_unrated"
+_ngcontent-gogcom-store-c1196613375="">Mai and the Legendary Treasure UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sclash"
+_ngcontent-gogcom-store-c1196613375="">Sclash</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/symbios_torn_asunder"
+_ngcontent-gogcom-store-c1196613375="">Sym.BIOS: Torn Asunder</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/symbios_torn_asunder_demo"
+_ngcontent-gogcom-store-c1196613375="">Sym.BIOS: Torn Asunder Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paquerette_down_the_bunburrows"
+_ngcontent-gogcom-store-c1196613375="">Paquerette Down the Bunburrows</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paquerette_down_the_bunburrows_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Paquerette Down the Bunburrows - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paquerette_down_the_bunburrows_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Paquerette Down the Bunburrows - Supporter Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_undead_undressed_complete_outfit_set"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Undead &amp; Undressed - Complete Outfit Set</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_undead_undressed_katis_route_dlc_upgrade"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Undead &amp; Undressed - Kati's Route DLC Upgrade</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_undead_undressed_mana_kitadas_outfit"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Undead &amp; Undressed - Mana Kitada's Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_undead_undressed_rui_fumizukis_outfit"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Undead &amp; Undressed - Rui Fumizuki's Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_undead_undressed_saras_outfit"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Undead &amp; Undressed - Sara's Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akibas_trip_undead_undressed_sena_kitadas_outfit"
+_ngcontent-gogcom-store-c1196613375="">AKIBA'S TRIP: Undead &amp; Undressed - Sena Kitada's Outfit</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_life_of_a_magical_circle"
+_ngcontent-gogcom-store-c1196613375="">The Life of a Magical Circle</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cats_hidden_in_italy"
+_ngcontent-gogcom-store-c1196613375="">Cats Hidden in Italy</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/suzerain_supporter_edition"
+_ngcontent-gogcom-store-c1196613375="">Suzerain - Supporter Edition</span>
+"final-value ng-star-inserted">$49.25</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/suzerain_support_the_developers_vulpitzer_award"
+_ngcontent-gogcom-store-c1196613375="">Suzerain Support the Developers &amp; Vulpitzer Award</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/venba"
+_ngcontent-gogcom-store-c1196613375="">Venba</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/venba_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Venba Deluxe Edition</span>
+"final-value ng-star-inserted">$22.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/venba_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Venba Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nifas_first_mission"
+_ngcontent-gogcom-store-c1196613375="">Nifa's First Mission</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nifas_first_mission_unrated"
+_ngcontent-gogcom-store-c1196613375="">Nifa's First Mission UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mega_city_police"
+_ngcontent-gogcom-store-c1196613375="">Mega City Force</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mega_city_police_digital_80s_artbook"
+_ngcontent-gogcom-store-c1196613375="">Mega City Force - Digital 80's Artbook</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mega_city_police_digital_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Mega City Force - Digital Collector's Edition</span>
+"base-value ng-star-inserted">$17.80</span>
+"final-value ng-star-inserted">$14.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mega_city_police_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mega City Force Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_shell_part_i_inferno_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Shell Part I: Inferno UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/witchs_rhythm_puzzle"
+_ngcontent-gogcom-store-c1196613375="">Witch's Rhythm Puzzle</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/witchs_rhythm_puzzle_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Witch's Rhythm Puzzle Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deadlink"
+_ngcontent-gogcom-store-c1196613375="">Deadlink</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lunacy_saint_rhodes"
+_ngcontent-gogcom-store-c1196613375="">Lunacy: Saint Rhodes</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mount_blade_ii_bannerlord_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Mount &amp; Blade II: Bannerlord - Original Soundtrack</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demon_lord_reincarnation_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Demon Lord Reincarnation Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/typhon_bot_vs_bot_demo"
+_ngcontent-gogcom-store-c1196613375="">Typhon: Bot vs Bot Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/super_catboy"
+_ngcontent-gogcom-store-c1196613375="">Super Catboy</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jagged_alliance_2_classic_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Jagged Alliance 2 Classic Deluxe</span>
+"base-value ng-star-inserted">$20.97</span>
+"final-value ng-star-inserted">$8.38</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lorettas_brandnew_job"
+_ngcontent-gogcom-store-c1196613375="">Loretta's Brand-New Job</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lorettas_brandnew_job_unrated"
+_ngcontent-gogcom-store-c1196613375="">Loretta's Brand-New Job UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/showgunners_security_breach"
+_ngcontent-gogcom-store-c1196613375="">Showgunners - Security Breach</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brewpub_simulator"
+_ngcontent-gogcom-store-c1196613375="">Brewpub Simulator</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$7.01</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/airships_heroes_and_villains"
+_ngcontent-gogcom-store-c1196613375="">Airships: Heroes and Villains</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cross_tails"
+_ngcontent-gogcom-store-c1196613375="">Cross Tails</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$16.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demon_lord_reincarnation"
+_ngcontent-gogcom-store-c1196613375="">Demon Lord Reincarnation</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demon_lord_reincarnation_plus_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Demon Lord Reincarnation + Soundtrack</span>
+"base-value ng-star-inserted">$11.68</span>
+"final-value ng-star-inserted">$5.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dros"
+_ngcontent-gogcom-store-c1196613375="">DROS</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dros_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">DROS Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/homeseek"
+_ngcontent-gogcom-store-c1196613375="">Homeseek</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

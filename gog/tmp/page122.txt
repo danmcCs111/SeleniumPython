@@ -1,0 +1,190 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_life_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Train Life - Supporter Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_pet_shop_after_dark"
+_ngcontent-gogcom-store-c1196613375="">a pet shop after dark</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_pet_shop_after_dark_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">a pet shop after dark - Game + Soundtrack</span>
+"base-value ng-star-inserted">$13.48</span>
+"final-value ng-star-inserted">$12.13</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_pet_shop_after_dark_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">a pet shop after dark Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroy_all_humans_2_reprobed_official_orchestral_score"
+_ngcontent-gogcom-store-c1196613375="">Destroy All Humans! 2 - Reprobed: Official Orchestral Score</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destroy_all_humans_2_reprobed_skin_pack"
+_ngcontent-gogcom-store-c1196613375="">Destroy All Humans! 2 - Reprobed: Skin Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_the_treasure_of_the_midnight_isles"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tinykin"
+_ngcontent-gogcom-store-c1196613375="">Tinykin</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/outerverse"
+_ngcontent-gogcom-store-c1196613375="">Outerverse</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slime_girl_smoothies"
+_ngcontent-gogcom-store-c1196613375="">Slime Girl Smoothies</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/how_to_build_a_magnificent_kingdom_unrated"
+_ngcontent-gogcom-store-c1196613375="">How to Build a Magnificent Kingdom UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brok_the_investigator"
+_ngcontent-gogcom-store-c1196613375="">BROK The InvestiGator</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brok_the_investigator_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">BROK The InvestiGator - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brok_the_investigator_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">BROK The InvestiGator Deluxe Edition</span>
+"base-value ng-star-inserted">$27.52</span>
+"final-value ng-star-inserted">$13.76</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tamakagura_tales_of_turmoil"
+_ngcontent-gogcom-store-c1196613375="">TAMAKAGURA: Tales of Turmoil</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tamakagura_tales_of_turmoil_unrated"
+_ngcontent-gogcom-store-c1196613375="">TAMAKAGURA: Tales of Turmoil UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/haak"
+_ngcontent-gogcom-store-c1196613375="">HAAK</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/i_was_a_teenage_exocolonist"
+_ngcontent-gogcom-store-c1196613375="">I Was a Teenage Exocolonist</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fall_of_porcupine_prologue"
+_ngcontent-gogcom-store-c1196613375="">Fall of Porcupine: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/islets"
+_ngcontent-gogcom-store-c1196613375="">Islets</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/queens_wish_2_the_tormentor_hint_book_extras"
+_ngcontent-gogcom-store-c1196613375="">Queen's Wish 2 The Tormentor - Hint Book &amp; Extras</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/queens_wish_2_the_tormentor"
+_ngcontent-gogcom-store-c1196613375="">Queen's Wish 2: The Tormentor</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warriors_of_the_nile_2"
+_ngcontent-gogcom-store-c1196613375="">Warriors of the Nile 2</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/are_you_smarter_than_a_5th_grader"
+_ngcontent-gogcom-store-c1196613375="">Are You Smarter than a 5th Grader?</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/are_you_smarter_than_a_5th_grader_extra_credit"
+_ngcontent-gogcom-store-c1196613375="">Are You Smarter than a 5th Grader? - Extra Credit</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_legion_revenants_digital_art_book"
+_ngcontent-gogcom-store-c1196613375="">Fallen Legion Revenants - Digital Art Book</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_legion_revenants_digital_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Fallen Legion Revenants - Digital Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_legion_revenants_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Fallen Legion Revenants Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$50.37</span>
+"final-value ng-star-inserted">$25.18</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_legion_revenants"
+_ngcontent-gogcom-store-c1196613375="">Fallen Legion: Revenants</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_legion_revenants_blazblue_exemplar_costume_bundle"
+_ngcontent-gogcom-store-c1196613375="">Fallen Legion: Revenants - BlazBlue Exemplar Costume Bundle</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_legion_rise_to_glory_fallen_legion_revenants_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Fallen Legion: Rise to Glory / Fallen Legion Revenants Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$81.59</span>
+"final-value ng-star-inserted">$40.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/justin_wack_and_the_big_time_hack"
+_ngcontent-gogcom-store-c1196613375="">Justin Wack and the Big Time Hack</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/midnight_fight_express"
+_ngcontent-gogcom-store-c1196613375="">Midnight Fight Express</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yars_recharged"
+_ngcontent-gogcom-store-c1196613375="">Yars Recharged</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/justin_wack_and_the_big_time_hack_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Justin Wack and the Big Time Hack - Deluxe Edition</span>
+"base-value ng-star-inserted">$29.67</span>
+"final-value ng-star-inserted">$22.25</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/justin_wack_and_the_big_time_hack_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Justin Wack and the Big Time Hack - Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/justin_wack_and_the_big_time_hack_official_walkthrough_chart"
+_ngcontent-gogcom-store-c1196613375="">Justin Wack and the Big Time Hack - Official Walkthrough Chart</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mira_and_the_legend_of_the_djinns_demo"
+_ngcontent-gogcom-store-c1196613375="">Mira and the Legend of the Djinns Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tribal_hunter"
+_ngcontent-gogcom-store-c1196613375="">Tribal Hunter</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_tale_of_paper_demo"
+_ngcontent-gogcom-store-c1196613375="">A Tale of Paper Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_tale_of_paper_refolded_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">A Tale of Paper: Refolded - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$23.73</span>
+"final-value ng-star-inserted">$13.05</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_tale_of_paper_refolded_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Tale of Paper: Refolded Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/i_was_a_teenage_exocolonist_soundtrack_and_artbook"
+_ngcontent-gogcom-store-c1196613375="">I Was a Teenage Exocolonist Soundtrack and Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cursed_to_golf"
+_ngcontent-gogcom-store-c1196613375="">Cursed to Golf</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_dlc_set_7"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - DLC Set 7</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_stage_pass_volume_3"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - Stage Pass Volume 3</span>
+"base-value ng-star-inserted">$19.90</span>
+"final-value ng-star-inserted">$9.95</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sir_whoopass_switchball_hd"
+_ngcontent-gogcom-store-c1196613375="">Sir Whoopass &amp; Switchball HD Bundle</span>
+"base-value ng-star-inserted">$19.48</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sir_whoopass_immortal_death"
+_ngcontent-gogcom-store-c1196613375="">Sir Whoopass™: Immortal Death</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$10.19</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/master_of_orion_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Master of Orion: Collector's Edition</span>
+"final-value ng-star-inserted">$49.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stardew_valley_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Stardew Valley Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_town_of_light"
+_ngcontent-gogcom-store-c1196613375="">The Town of Light</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$3.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atlantic_fleet"
+_ngcontent-gogcom-store-c1196613375="">Atlantic Fleet</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/factorio_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Factorio Soundtrack</span>
+"final-value ng-star-inserted">$7.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grim_dawn_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Grim Dawn Definitive Edition</span>
+"base-value ng-star-inserted">$55.25</span>
+"final-value ng-star-inserted">$24.86</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/superhot_one_of_us_bundle"
+_ngcontent-gogcom-store-c1196613375="">SUPERHOT ONE OF US BUNDLE</span>
+"base-value ng-star-inserted">$42.47</span>
+"final-value ng-star-inserted">$16.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x_rebirth_home_of_light_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">X Rebirth: Home of Light Complete Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x_rebirth_home_of_light_complete_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">X Rebirth: Home of Light Complete Edition Upgrade</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlevoid_harbinger"
+_ngcontent-gogcom-store-c1196613375="">Battlevoid: Harbinger</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_flame_in_the_flood"
+_ngcontent-gogcom-store-c1196613375="">The Flame in the Flood</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bridge_constructor_stunts"
+_ngcontent-gogcom-store-c1196613375="">Bridge Constructor Stunts</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gnomoria"
+_ngcontent-gogcom-store-c1196613375="">Gnomoria</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tales_of_majeyal_embers_of_rage"
+_ngcontent-gogcom-store-c1196613375="">Tales of Maj'Eyal: Embers of Rage</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_quest"
+_ngcontent-gogcom-store-c1196613375="">The Quest</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/devil_daggers"
+_ngcontent-gogcom-store-c1196613375="">Devil Daggers</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_mercenaries_dlc"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III - Mercenaries Expansion Pack DLC</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_pineapple_left_behind"
+_ngcontent-gogcom-store-c1196613375="">No Pineapple Left Behind</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_pineapple_left_behind_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">No Pineapple Left Behind Soundtrack</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/californium"
+_ngcontent-gogcom-store-c1196613375="">Californium</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_builders_kit_dlc"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III - Builder's Kit DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/layers_of_fear"
+_ngcontent-gogcom-store-c1196613375="">Layers of Fear (2016)</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_the_white_march_part_2"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity: The White March - Part II</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kindred_spirits_on_the_roof"
+_ngcontent-gogcom-store-c1196613375="">Kindred Spirits on the Roof</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/level22_garys_misadventures"
+_ngcontent-gogcom-store-c1196613375="">Level22 Gary’s Misadventures</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/firewatch"
+_ngcontent-gogcom-store-c1196613375="">Firewatch</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_preposterous_awesomeness_of_everything"
+_ngcontent-gogcom-store-c1196613375="">The Preposterous Awesomeness of Everything</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xcom_2_reinforcement_pack"
+_ngcontent-gogcom-store-c1196613375="">XCOM 2: Reinforcement Pack</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mordheim_city_of_the_damned_hired_swords_dlc_bundle_1_poison_wind_globadier_smuggler"
+_ngcontent-gogcom-store-c1196613375="">Mordheim: City of the Damned - HIRED SWORDS DLC BUNDLE 1 - Poison Wind Globadier + Smuggler</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mordheim_city_of_the_damned_the_poison_wind_globadier"
+_ngcontent-gogcom-store-c1196613375="">Mordheim: City of the Damned - The Poison Wind Globadier</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mordheim_city_of_the_damned_the_smuggler"
+_ngcontent-gogcom-store-c1196613375="">Mordheim: City of the Damned - The Smuggler</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fault_milestone_one_the_art_of_fault_milestone_one"
+_ngcontent-gogcom-store-c1196613375="">fault milestone one - THE ART OF fault milestone one</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asdivine_hearts"
+_ngcontent-gogcom-store-c1196613375="">Asdivine Hearts</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/content_pack_crusader_kings_ii_conclave"
+_ngcontent-gogcom-store-c1196613375="">Content Pack - Crusader Kings II: Conclave</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_conclave"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: Conclave</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_armageddon_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Armageddon - Soundtrack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/imscared"
+_ngcontent-gogcom-store-c1196613375="">IMSCARED</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bombshell"
+_ngcontent-gogcom-store-c1196613375="">Bombshell</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bombshell_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Bombshell Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bombshell_digital_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Bombshell Digital Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rusty_lake_hotel"
+_ngcontent-gogcom-store-c1196613375="">Rusty Lake Hotel</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_morning_sun"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Morning Sun</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tropico_5_complete_collection"
+_ngcontent-gogcom-store-c1196613375="">Tropico 5: Complete Collection</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$16.44</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tropico_5_complete_collection_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Tropico 5: Complete Collection Upgrade</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_witness"
+_ngcontent-gogcom-store-c1196613375="">The Witness</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/subterrain"
+_ngcontent-gogcom-store-c1196613375="">Subterrain</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/homeworld_deserts_of_kharak"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deserts_of_kharak_expedition_guide"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak - Expedition Guide</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

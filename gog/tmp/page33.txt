@@ -1,0 +1,188 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shard_of_spring"
+_ngcontent-gogcom-store-c1196613375="">Shard of Spring</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_quest_1_2_3"
+_ngcontent-gogcom-store-c1196613375="">King's Quest 1+2+3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starflight_1_2"
+_ngcontent-gogcom-store-c1196613375="">Starflight™ 1+2</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/demons_winter"
+_ngcontent-gogcom-store-c1196613375="">Demon's Winter</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gunship_gunship_2000"
+_ngcontent-gogcom-store-c1196613375="">Gunship + Gunship 2000</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragons_lair_trilogy"
+_ngcontent-gogcom-store-c1196613375="">Dragon's Lair Trilogy</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mule"
+_ngcontent-gogcom-store-c1196613375="">M.U.L.E.</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deus_ex_bundle"
+_ngcontent-gogcom-store-c1196613375="">Deus Ex Bundle</span>
+"base-value ng-star-inserted">$71.06</span>
+"final-value ng-star-inserted">$12.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legacy_of_kain_bundle"
+_ngcontent-gogcom-store-c1196613375="">Legacy of Kain Bundle</span>
+"base-value ng-star-inserted">$25.16</span>
+"final-value ng-star-inserted">$7.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stoneshard_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Stoneshard - Supporter Bundle</span>
+"base-value ng-star-inserted">$31.48</span>
+"final-value ng-star-inserted">$23.61</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/techland_action_bundle"
+_ngcontent-gogcom-store-c1196613375="">Techland Action Bundle</span>
+"base-value ng-star-inserted">$48.56</span>
+"final-value ng-star-inserted">$9.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_i_of_the_dragon_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The I of the Dragon Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wet_nightmares"
+_ngcontent-gogcom-store-c1196613375="">Wet Nightmares</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x4_foundations"
+_ngcontent-gogcom-store-c1196613375="">X4: Discovery Pack (X4: Foundations + X4: Timelines)</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_the_spongebob_movie_search_for_squarepants"
+_ngcontent-gogcom-store-c1196613375="">SpongeBob SquarePants: Titans of the Tide - The SpongeBob Movie: Search for SquarePants</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/formula_legends_season_early_2010_turbo_pack"
+_ngcontent-gogcom-store-c1196613375="">Formula Legends - Season Early 2010 + Turbo Pack</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_ii_extended_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance II Extended Official Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sorry_were_closed_artbook"
+_ngcontent-gogcom-store-c1196613375="">Sorry We're Closed - Art Book</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/syberia_remastered_artbook_artworks"
+_ngcontent-gogcom-store-c1196613375="">Syberia - Remastered - Artbook &amp; Artworks</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/formula_legends_turbo_power_pack"
+_ngcontent-gogcom-store-c1196613375="">Formula Legends: Turbo Power Pack</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tainted_grail_the_fall_of_avalon_excalibur_edition"
+_ngcontent-gogcom-store-c1196613375="">Tainted Grail: The Fall of Avalon - Excalibur Edition</span>
+"final-value ng-star-inserted">$69.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeons_4_double_trouble"
+_ngcontent-gogcom-store-c1196613375="">Dungeons 4 – Double Trouble</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/angeline_era"
+_ngcontent-gogcom-store-c1196613375="">Angeline Era</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frostpunk_2_fractured_utopias"
+_ngcontent-gogcom-store-c1196613375="">Frostpunk 2 - Fractured Utopias</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_dynasty_exquisite_pack"
+_ngcontent-gogcom-store-c1196613375="">Medieval Dynasty - Exquisite Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_strasser_pack"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter - Strasser Pack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_of_night"
+_ngcontent-gogcom-store-c1196613375="">Kingdom of Night</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_infernals_species_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Infernals Species Pack</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormentor"
+_ngcontent-gogcom-store-c1196613375="">TORMENTOR</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fetish_locator_sm_studio"
+_ngcontent-gogcom-store-c1196613375="">Fetish Locator: S&amp;M Studio</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gigasword"
+_ngcontent-gogcom-store-c1196613375="">GIGASWORD</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rue_valley"
+_ngcontent-gogcom-store-c1196613375="">Rue Valley</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sacred_2_remaster"
+_ngcontent-gogcom-store-c1196613375="">Sacred 2 Remaster</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/syberia_remastered"
+_ngcontent-gogcom-store-c1196613375="">Syberia - Remastered</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whiskerwood"
+_ngcontent-gogcom-store-c1196613375="">Whiskerwood</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_2_steel_dragons"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire 2 - Steel Dragons</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wreckreation"
+_ngcontent-gogcom-store-c1196613375="">Wreckreation</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$35.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beneath"
+_ngcontent-gogcom-store-c1196613375="">Beneath</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/avernum_4_greed_and_glory_hintbook_extras"
+_ngcontent-gogcom-store-c1196613375="">Avernum 4: Greed and Glory Hintbook &amp; Extras</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_geyser_couriers_of_darkness_tales_of_the_moon_cult"
+_ngcontent-gogcom-store-c1196613375="">Black Geyser: Couriers of Darkness - Tales of the Moon Cult</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vagrus_the_riven_realms_ruinous_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Vagrus - The Riven Realms Ruinous Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vagrus_the_riven_realms_at_the_heart_of_ruin"
+_ngcontent-gogcom-store-c1196613375="">Vagrus - The Riven Realms: At the Heart of Ruin</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillaged_village_humbled_by_savages"
+_ngcontent-gogcom-store-c1196613375="">Pillaged Village: Humbled by Savages</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mohrta"
+_ngcontent-gogcom-store-c1196613375="">Mohrta</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spindle"
+_ngcontent-gogcom-store-c1196613375="">Spindle</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/machick_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Machick 2 Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/u4ia_season_1_leap_of_faith_bundle"
+_ngcontent-gogcom-store-c1196613375="">U4iA - Season 1 + Leap of Faith Bundle</span>
+"base-value ng-star-inserted">$26.97</span>
+"final-value ng-star-inserted">$21.57</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shrines_legacy"
+_ngcontent-gogcom-store-c1196613375="">Shrine's Legacy</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,183 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dex_demo"
+_ngcontent-gogcom-store-c1196613375="">Dex Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/thimbleweed_park"
+_ngcontent-gogcom-store-c1196613375="">Thimbleweed Park</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/meganoid"
+_ngcontent-gogcom-store-c1196613375="">Meganoid</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rain_world"
+_ngcontent-gogcom-store-c1196613375="">Rain World</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/quern_undying_thoughts_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Quern - Undying Thoughts (Original Soundtrack)</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/88_heroes"
+_ngcontent-gogcom-store-c1196613375="">88 Heroes</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_brothers_supporter_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Battle Brothers - Supporter Edition Upgrade</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghost_10_support_mission_mode_skin"
+_ngcontent-gogcom-store-c1196613375="">Ghost 1.0 - Support Mission Mode Skin</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vikings_wolves_of_midgard"
+_ngcontent-gogcom-store-c1196613375="">Vikings - Wolves of Midgard</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/craft_the_world_dig_with_friends"
+_ngcontent-gogcom-store-c1196613375="">Craft The World - Dig with Friends</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_crows_eye"
+_ngcontent-gogcom-store-c1196613375="">The Crow's Eye</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_crows_eye_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Crow's Eye - Deluxe Edition</span>
+"base-value ng-star-inserted">$11.68</span>
+"final-value ng-star-inserted">$4.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_crows_eye_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Crow's Eye - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kona_day_one"
+_ngcontent-gogcom-store-c1196613375="">Kona</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kona_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kona - Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtual_rides_3_funfair_simulator"
+_ngcontent-gogcom-store-c1196613375="">Virtual Rides 3 - Funfair Simulator</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/future_unfolding"
+_ngcontent-gogcom-store-c1196613375="">Future Unfolding</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_squared"
+_ngcontent-gogcom-store-c1196613375="">Death Squared</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/styx_shards_of_darkness"
+_ngcontent-gogcom-store-c1196613375="">Styx: Shards of Darkness</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fenimore_fillmore_the_westerner"
+_ngcontent-gogcom-store-c1196613375="">Fenimore Fillmore: The Westerner</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/streets_of_rogue_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Streets of Rogue Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bad_dream_coma"
+_ngcontent-gogcom-store-c1196613375="">Bad Dream: Coma</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_monks_and_mystics"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: Monks and Mystics</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/river_city_ransom_underground"
+_ngcontent-gogcom-store-c1196613375="">River City Ransom: Underground</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/torment_tides_of_numenera"
+_ngcontent-gogcom-store-c1196613375="">Torment: Tides of Numenera</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/torment_tides_of_numenera_immortal_edition"
+_ngcontent-gogcom-store-c1196613375="">Torment: Tides of Numenera - Immortal Edition</span>
+"final-value ng-star-inserted">$74.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/torment_tides_of_numenera_immortal_edition_content"
+_ngcontent-gogcom-store-c1196613375="">Torment: Tides of Numenera - Immortal Edition Upgrade</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/torment_tides_of_numenera_legacy_edition"
+_ngcontent-gogcom-store-c1196613375="">Torment: Tides of Numenera - Legacy Edition</span>
+"final-value ng-star-inserted">$54.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/torment_tides_of_numenera_legacy_edition_content"
+_ngcontent-gogcom-store-c1196613375="">Torment: Tides of Numenera - Legacy Edition Upgrade</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stories_untold"
+_ngcontent-gogcom-store-c1196613375="">Stories Untold</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stories_untold_demo"
+_ngcontent-gogcom-store-c1196613375="">Stories Untold Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hollow_knight_soundtracks"
+_ngcontent-gogcom-store-c1196613375="">Hollow Knight &amp; Soundtracks</span>
+"base-value ng-star-inserted">$23.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hollow_knight_ost"
+_ngcontent-gogcom-store-c1196613375="">Hollow Knight - Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/four_last_things"
+_ngcontent-gogcom-store-c1196613375="">Four Last Things</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/herald_an_interactive_period_drama_book_i_ii"
+_ngcontent-gogcom-store-c1196613375="">Herald: An Interactive Period Drama - Book I &amp; II</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_in_the_woods"
+_ngcontent-gogcom-store-c1196613375="">Night in the Woods: Weird Autumn Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hegemony_iii_the_eagle_king"
+_ngcontent-gogcom-store-c1196613375="">Hegemony III: The Eagle King</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realpolitiks"
+_ngcontent-gogcom-store-c1196613375="">Realpolitiks</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_potatoes_were_in_space_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Holy Potatoes! We’re in Space?! Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crusader_kings_ii_south_indian_portraits_5_year_anniversary_gift"
+_ngcontent-gogcom-store-c1196613375="">Crusader Kings II: South Indian Portraits 5 Year Anniversary Gift</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dear_esther_landmark_edition"
+_ngcontent-gogcom-store-c1196613375="">Dear Esther: Landmark Edition</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_advent_dark_force"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Deluxe Pack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_fairy_set_1_ahab_and_leela"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Fairy Set 1: Ahab and Leela</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_fairy_set_2_aques_and_drulger"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Fairy Set 2: Aques and Drulger</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_fairy_set_3_lars_and_foxer"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Fairy Set 3: Lars and Foxer</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_ultimate_fencer_accessory_set"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Ultimate Fencer Accessory Set</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fairy_fencer_f_adf_ultimate_fencer_armor_set"
+_ngcontent-gogcom-store-c1196613375="">Fairy Fencer F: Advent Dark Force  - Ultimate Fencer Armor Set</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

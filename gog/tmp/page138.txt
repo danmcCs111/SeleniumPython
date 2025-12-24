@@ -1,0 +1,179 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/professionals_abroad_dlc"
+_ngcontent-gogcom-store-c1196613375="">Professionals Abroad DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terraformers_first_steps_on_mars"
+_ngcontent-gogcom-store-c1196613375="">Terraformers: First Steps on Mars</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inquisitors_heart_and_soul"
+_ngcontent-gogcom-store-c1196613375="">Inquisitor’s Heart and Soul</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$1.43</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/what_the_golf_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">WHAT THE GOLF? Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endzone_a_world_apart_prosperity"
+_ngcontent-gogcom-store-c1196613375="">Endzone - A World Apart: Prosperity</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heads_will_roll_downfall"
+_ngcontent-gogcom-store-c1196613375="">Heads Will Roll: Downfall</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moons_of_ardan"
+_ngcontent-gogcom-store-c1196613375="">Moons of Ardan</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moons_of_ardan_demo"
+_ngcontent-gogcom-store-c1196613375="">Moons of Ardan Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rustler_murder_madness"
+_ngcontent-gogcom-store-c1196613375="">Rustler - Murder Madness</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tainted_grail_conquest_original_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Tainted Grail: Conquest + Original Soundtrack Bundle</span>
+"base-value ng-star-inserted">$26.98</span>
+"final-value ng-star-inserted">$10.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tainted_grail_conquest_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tainted Grail: Conquest - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tandem_a_tale_of_shadows"
+_ngcontent-gogcom-store-c1196613375="">Tandem: A Tale of Shadows</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tandem_a_tale_of_shadows_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tandem: A Tale of Shadows Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bats_bloodsucker_antiterror_squad"
+_ngcontent-gogcom-store-c1196613375="">BATS: Bloodsucker Anti-Terror Squad</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spectacular_sparky"
+_ngcontent-gogcom-store-c1196613375="">Spectacular Sparky</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/they_always_run"
+_ngcontent-gogcom-store-c1196613375="">They Always Run</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/they_always_run_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">They Always Run Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inscryption_demo"
+_ngcontent-gogcom-store-c1196613375="">Inscryption Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inscryption_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Inscryption Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inscryption_soundtrack_edition"
+_ngcontent-gogcom-store-c1196613375="">Inscryption: Soundtrack Edition</span>
+"base-value ng-star-inserted">$21.58</span>
+"final-value ng-star-inserted">$8.63</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/into_the_pit"
+_ngcontent-gogcom-store-c1196613375="">Into the Pit</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sacred_fire_demo"
+_ngcontent-gogcom-store-c1196613375="">Sacred Fire Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sacred_fire_a_role_playing_game"
+_ngcontent-gogcom-store-c1196613375="">Sacred Fire: A Role Playing Game</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$12.72</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_dlc_set_4"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - DLC Set 4</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_stage_pass_volume_2"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2 - Stage Pass Volume 2</span>
+"base-value ng-star-inserted">$19.90</span>
+"final-value ng-star-inserted">$9.95</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_little_golf_journey"
+_ngcontent-gogcom-store-c1196613375="">A Little Golf Journey</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_tycoon_simulation_game"
+_ngcontent-gogcom-store-c1196613375="">Arcade Tycoon ™ : Simulation Game</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elechead"
+_ngcontent-gogcom-store-c1196613375="">ElecHead</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grime_score"
+_ngcontent-gogcom-store-c1196613375="">GRIME - Score</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/growing_up"
+_ngcontent-gogcom-store-c1196613375="">Growing Up</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruin_raiders"
+_ngcontent-gogcom-store-c1196613375="">Ruin Raiders</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sphere_flying_cities"
+_ngcontent-gogcom-store-c1196613375="">Sphere - Flying Cities</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sphere_flying_cities_save_the_world_edition"
+_ngcontent-gogcom-store-c1196613375="">Sphere - Flying Cities - Save the World Edition</span>
+"base-value ng-star-inserted">$27.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_darkest_tales_into_the_nightmare"
+_ngcontent-gogcom-store-c1196613375="">The Darkest Tales - Into the Nightmare</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_riftbreaker_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Riftbreaker Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/midnight_protocol"
+_ngcontent-gogcom-store-c1196613375="">Midnight Protocol</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/polyclassic_wild"
+_ngcontent-gogcom-store-c1196613375="">PolyClassic: Wild</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rekkr_sunken_land"
+_ngcontent-gogcom-store-c1196613375="">REKKR: Sunken Land</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sylphy_and_the_sleepless_island"
+_ngcontent-gogcom-store-c1196613375="">Sylphy and the Sleepless Island</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sylphy_and_the_sleepless_island_unrated"
+_ngcontent-gogcom-store-c1196613375="">Sylphy and the Sleepless Island UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eclipse"
+_ngcontent-gogcom-store-c1196613375="">Eclipse</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eclipse_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Eclipse + Soundtrack Bundle</span>
+"final-value ng-star-inserted">$14.38</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eclipse_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Eclipse Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/in_sound_mind_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">In Sound Mind - Digital Artbook</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_allies_resurgent"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Allies Resurgent</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_lightbringer"
+_ngcontent-gogcom-store-c1196613375="">The Lightbringer</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hotel_magnate"
+_ngcontent-gogcom-store-c1196613375="">Hotel Magnate</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_unrated"
+_ngcontent-gogcom-store-c1196613375="">Succubus Unrated</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

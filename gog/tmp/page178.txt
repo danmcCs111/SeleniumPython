@@ -1,0 +1,171 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fatal_twelve"
+_ngcontent-gogcom-store-c1196613375="">Fatal Twelve</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_hd_sound_pack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance - HD Sound Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_hd_texture_pack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance - HD Texture Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_hd_voice_pack_english"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance - HD Voice Pack - English</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_hd_voice_pack_french"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance - HD Voice Pack - French</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_hd_voice_pack_german"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance - HD Voice Pack - German</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jalopy"
+_ngcontent-gogcom-store-c1196613375="">Jalopy</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_french_extras"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition - French Extras</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_german_extras"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition - German Extras</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_italian_extras"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition - Italian Extras</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_polish_extras"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition - Polish Extras</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_spanish_extras"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition - Spanish Extras</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$68.29</span>
+"final-value ng-star-inserted">$6.82</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_heroes_of_neverwinter"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Heroes of Neverwinter</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_pirates_of_the_sword_coast"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Pirates of the Sword Coast</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_premium_adventures_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Premium Adventures Official Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_wyvern_crown_of_cormyr"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Wyvern Crown of Cormyr</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_pirates_fate"
+_ngcontent-gogcom-store-c1196613375="">The Pirate's Fate</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_pirates_fate_art_book"
+_ngcontent-gogcom-store-c1196613375="">The Pirate's Fate - Art Book</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_pirates_fate_comic"
+_ngcontent-gogcom-store-c1196613375="">The Pirate's Fate - Comic</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_pirates_fate_ost"
+_ngcontent-gogcom-store-c1196613375="">The Pirate's Fate - OST</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/contraption_maker_battling_cards_parts_puzzles_expansion_pack"
+_ngcontent-gogcom-store-c1196613375="">Contraption Maker: Battling Cards - Parts &amp; Puzzles Expansion Pack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.48</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/through_the_ages"
+_ngcontent-gogcom-store-c1196613375="">Through the Ages</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$10.71</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ash_of_gods"
+_ngcontent-gogcom-store-c1196613375="">Ash of Gods: Redemption</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ash_of_gods_redemption_beer_for_developers"
+_ngcontent-gogcom-store-c1196613375="">Ash of Gods: Redemption - Beer for Developers</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ash_of_gods_redemption_digital_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Ash of Gods: Redemption Digital Deluxe Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lazy_galaxy"
+_ngcontent-gogcom-store-c1196613375="">Lazy Galaxy</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pizza_connection_3_ost"
+_ngcontent-gogcom-store-c1196613375="">Pizza Connection 3 OST</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pizza_connection_3_soundtrack_edition"
+_ngcontent-gogcom-store-c1196613375="">Pizza Connection 3 Soundtrack Edition</span>
+"base-value ng-star-inserted">$21.87</span>
+"final-value ng-star-inserted">$2.18</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/turmoil_the_heat_is_on"
+_ngcontent-gogcom-store-c1196613375="">Turmoil - The Heat Is On</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immersion_pack_europa_universalis_iv_rule_britannia"
+_ngcontent-gogcom-store-c1196613375="">Immersion Pack - Europa Universalis IV: Rule Britannia</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wolfenstein_ii_the_freedom_chronicles_episode_3"
+_ngcontent-gogcom-store-c1196613375="">Wolfenstein II: The Freedom Chronicles - Episode 3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/synthetik_legion_rising"
+_ngcontent-gogcom-store-c1196613375="">SYNTHETIK: Legion Rising</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realpolitiks_new_power"
+_ngcontent-gogcom-store-c1196613375="">Realpolitiks - New Power</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_digital_deluxe_edition_upgrade_pack"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars - Digital Deluxe Edition Upgrade Pack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars - Season Pass</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_stellaris_dome_set"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars - Stellaris Dome Set</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_quest_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Quest Deluxe Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_vs_chess_grandmaster_edition"
+_ngcontent-gogcom-store-c1196613375="">Battle vs Chess - Grandmaster Edition</span>
+"base-value ng-star-inserted">$30.73</span>
+"final-value ng-star-inserted">$12.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_long_reach"
+_ngcontent-gogcom-store-c1196613375="">The Long Reach</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_long_reach_demo"
+_ngcontent-gogcom-store-c1196613375="">The Long Reach - DEMO</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_long_reach_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Long Reach - Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghost_of_a_tale"
+_ngcontent-gogcom-store-c1196613375="">Ghost of a Tale</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hakuoki_edo_blossoms"
+_ngcontent-gogcom-store-c1196613375="">Hakuoki: Edo Blossoms</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hakuoki_edo_blossoms_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">Hakuoki: Edo Blossoms - Deluxe Bundle</span>
+"base-value ng-star-inserted">$15.98</span>
+"final-value ng-star-inserted">$5.59</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flat_eye"
+_ngcontent-gogcom-store-c1196613375="">Flat Eye</span>
+"base-value ng-star-inserted">$18.99</span>
+"final-value ng-star-inserted">$5.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mcpixel_3"
+_ngcontent-gogcom-store-c1196613375="">McPixel 3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mcpixel_3_demo"
+_ngcontent-gogcom-store-c1196613375="">McPixel 3 Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_ace_pilot_special_training_pack_i"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2: Ace Pilot Special Training Pack I</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_ace_pilot_special_training_pack_ii"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2: Ace Pilot Special Training Pack II</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_ace_pilot_special_training_pack_iii"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2: Ace Pilot Special Training Pack III</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rtype_final_2_new_pilot_support_pack"
+_ngcontent-gogcom-store-c1196613375="">R-Type Final 2: New Pilot Support Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solasta_crown_of_the_magister_inner_strength"
+_ngcontent-gogcom-store-c1196613375="">Solasta: Crown of the Magister - Inner Strength</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terracotta"
+_ngcontent-gogcom-store-c1196613375="">TERRACOTTA</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terracotta_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">TERRACOTTA Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/we_are_football_national_teams"
+_ngcontent-gogcom-store-c1196613375="">WE ARE FOOTBALL - National Teams</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atari_50_expanded_edition_dlc_bundle"
+_ngcontent-gogcom-store-c1196613375="">Atari 50: Expanded Edition DLC Bundle</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/atari_50_the_anniversary_celebration"
+_ngcontent-gogcom-store-c1196613375="">Atari 50: The Anniversary Celebration</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gore_screaming_show"
+_ngcontent-gogcom-store-c1196613375="">Gore Screaming Show</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gore_screaming_show_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">Gore Screaming Show unrated patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spirits_of_baciu_prologue"
+_ngcontent-gogcom-store-c1196613375="">Spirits of Baciu - Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/titan_station"
+_ngcontent-gogcom-store-c1196613375="">Titan Station</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fabular_once_upon_a_spacetime"
+_ngcontent-gogcom-store-c1196613375="">Fabular: Once Upon a Spacetime</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lords_and_bards_bundle"
+_ngcontent-gogcom-store-c1196613375="">Lords and Bards Bundle</span>
+"base-value ng-star-inserted">$29.98</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lords_and_villeins_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lords and Villeins Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lunistice_demo"
+_ngcontent-gogcom-store-c1196613375="">Lunistice Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$18.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced - Season Pass</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced_stella_gear_next_pack"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced - Stella Gear NEXT PACK</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relayer_advanced_extra_pack"
+_ngcontent-gogcom-store-c1196613375="">Relayer Advanced EXTRA PACK</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$22.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/roboplant_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Roboplant Soundtrack</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steelrising_cagliostros_secrets"
+_ngcontent-gogcom-store-c1196613375="">Steelrising - Cagliostro’s Secrets</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_castle_full_of_cats"
+_ngcontent-gogcom-store-c1196613375="">A Castle Full of Cats</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_castle_full_of_cats_bag_of_treats"
+_ngcontent-gogcom-store-c1196613375="">A Castle Full of Cats: Bag of Treats</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/once_upon_a_jester"
+_ngcontent-gogcom-store-c1196613375="">Once Upon a Jester</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/once_upon_a_jester_bundle"
+_ngcontent-gogcom-store-c1196613375="">Once Upon a Jester Bundle</span>
+"base-value ng-star-inserted">$18.39</span>
+"final-value ng-star-inserted">$4.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/once_upon_a_jester_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Once Upon a Jester Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_1944"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - 1944</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/winter_falling_battle_tactics"
+_ngcontent-gogcom-store-c1196613375="">Winter Falling: Battle Tactics</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astro_colony_demo"
+_ngcontent-gogcom-store-c1196613375="">Astro Colony Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neptunia_x_senran_kagura_ninja_wars"
+_ngcontent-gogcom-store-c1196613375="">Neptunia x Senran Kagura: Ninja Wars</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ringlorn_saga"
+_ngcontent-gogcom-store-c1196613375="">Ringlorn Saga</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ringlorn_saga_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Ringlorn Saga Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soulstone_survivors_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Soulstone Survivors - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_cyberdance_euromix"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise - CyberDance EuroMix</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_empathy"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise - Empathy</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_smoke_em"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise - Smoke ‘em</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_summer_of_sports"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise - Summer of Sports</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_coinop_pack_1"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise Coin-Op Pack 1</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghost_song"
+_ngcontent-gogcom-store-c1196613375="">Ghost Song</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/how_to_say_goodbye"
+_ngcontent-gogcom-store-c1196613375="">How to Say Goodbye</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/outshine"
+_ngcontent-gogcom-store-c1196613375="">Outshine</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_the_aftermath_shattered_hope"
+_ngcontent-gogcom-store-c1196613375="">Surviving the Aftermath: Shattered Hope</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

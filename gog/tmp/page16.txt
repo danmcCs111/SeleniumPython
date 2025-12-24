@@ -1,0 +1,200 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_elites_ghost_division"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Elite - Ghost Division</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/duck_detective_the_ghost_of_glamping"
+_ngcontent-gogcom-store-c1196613375="">Duck Detective: The Ghost of Glamping</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kathy_rain_2_soothsayer"
+_ngcontent-gogcom-store-c1196613375="">Kathy Rain 2: Soothsayer</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spellforce_conquest_of_eo_children_of_nor"
+_ngcontent-gogcom-store-c1196613375="">SpellForce: Conquest of Eo – Children of Nor</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowgate_2"
+_ngcontent-gogcom-store-c1196613375="">Shadowgate 2</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x4_hyperion_pack_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">X4: Hyperion Pack Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_10th_anniversary_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - 10th Anniversary Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indiana_jones_and_the_great_circle_premium_edition"
+_ngcontent-gogcom-store-c1196613375="">Indiana Jones and the Great Circle: Premium Edition</span>
+"base-value ng-star-inserted">$99.99</span>
+"final-value ng-star-inserted">$59.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/loco_motive"
+_ngcontent-gogcom-store-c1196613375="">Loco Motive</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$12.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/helping_the_hotties_storytime"
+_ngcontent-gogcom-store-c1196613375="">Helping the Hotties - Storytime</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/clock_tower_rewind"
+_ngcontent-gogcom-store-c1196613375="">Clock Tower: Rewind</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_starter_edition_2024"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Starter Edition (2024)</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/drova_forsaken_kin"
+_ngcontent-gogcom-store-c1196613375="">Drova - Forsaken Kin</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$18.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spellforce_conquest_of_eo_weavers_realms"
+_ngcontent-gogcom-store-c1196613375="">SpellForce: Conquest of Eo - Weaver’s Realms</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_sky_art_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Dark Sky - Art Supporter Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_sky_supporter_edition"
+_ngcontent-gogcom-store-c1196613375="">Dark Sky - Supporter Edition</span>
+"final-value ng-star-inserted">$26.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_starter_edition"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Starter Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starcom_unknown_space"
+_ngcontent-gogcom-store-c1196613375="">Starcom: Unknown Space</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$18.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/core_keeper"
+_ngcontent-gogcom-store-c1196613375="">Core Keeper</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cult_of_the_lamb_pilgrim_pack"
+_ngcontent-gogcom-store-c1196613375="">Cult of the Lamb: Pilgrim Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_wars_bounty_hunter"
+_ngcontent-gogcom-store-c1196613375="">STAR WARS™: Bounty Hunter™</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crash_time_undercover"
+_ngcontent-gogcom-store-c1196613375="">Crash Time - Undercover</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/usc_counterforce"
+_ngcontent-gogcom-store-c1196613375="">USC: Counterforce</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nobody_wants_to_die"
+_ngcontent-gogcom-store-c1196613375="">Nobody Wants to Die</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/riven"
+_ngcontent-gogcom-store-c1196613375="">Riven</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/workers_resources_soviet_republic"
+_ngcontent-gogcom-store-c1196613375="">Workers &amp; Resources: Soviet Republic</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/x4_community_of_planets_edition"
+_ngcontent-gogcom-store-c1196613375="">X4: Community of Planets Edition (2024)</span>
+"base-value ng-star-inserted">$99.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bloodstained_ritual_of_the_night_miriams_complete_cosmetic_bundle"
+_ngcontent-gogcom-store-c1196613375="">Bloodstained: Ritual of the Night - Miriam’s Complete Cosmetic Bundle</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crow_country"
+_ngcontent-gogcom-store-c1196613375="">Crow Country</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/felvidek"
+_ngcontent-gogcom-store-c1196613375="">Felvidek</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$7.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grim_dawn_loyalist_pack_3"
+_ngcontent-gogcom-store-c1196613375="">Grim Dawn - Loyalist Pack 3</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phantasie_memorial_set"
+_ngcontent-gogcom-store-c1196613375="">Phantasie Memorial Set</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/turok_3_shadow_of_oblivion_remastered"
+_ngcontent-gogcom-store-c1196613375="">Turok 3: Shadow of Oblivion Remastered</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/agatha_christie_murder_on_the_orient_express"
+_ngcontent-gogcom-store-c1196613375="">Agatha Christie - Murder on the Orient Express</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bomb_rush_cyberfunk"
+_ngcontent-gogcom-store-c1196613375="">Bomb Rush Cyberfunk</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/love_sex_second_base"
+_ngcontent-gogcom-store-c1196613375="">Love and Sex: Second Base</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/system_shock"
+_ngcontent-gogcom-store-c1196613375="">System Shock</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fetish_locator_week_three"
+_ngcontent-gogcom-store-c1196613375="">Fetish Locator Week Three</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_galactic_paragons"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Galactic Paragons</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dysmantle_doomsday"
+_ngcontent-gogcom-store-c1196613375="">DYSMANTLE: Doomsday</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$2.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moviehouse_save_the_world_edition"
+_ngcontent-gogcom-store-c1196613375="">Moviehouse Save the World Edition</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terra_nil"
+_ngcontent-gogcom-store-c1196613375="">Terra Nil</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_the_aftermath_ultimate_colony_edition"
+_ngcontent-gogcom-store-c1196613375="">Surviving the Aftermath - Ultimate Colony Edition</span>
+"base-value ng-star-inserted">$54.99</span>
+"final-value ng-star-inserted">$16.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pharaoh_a_new_era"
+_ngcontent-gogcom-store-c1196613375="">Pharaoh™: A New Era</span>
+"final-value ng-star-inserted">$22.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunrider_4_the_captains_return"
+_ngcontent-gogcom-store-c1196613375="">Sunrider 4: The Captain's Return</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rance_quest_magnum"
+_ngcontent-gogcom-store-c1196613375="">Rance Quest Magnum</span>
+"base-value ng-star-inserted">$44.95</span>
+"final-value ng-star-inserted">$22.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_knight_witch_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Knight Witch Deluxe Edition</span>
+"base-value ng-star-inserted">$22.49</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/old_world"
+_ngcontent-gogcom-store-c1196613375="">Old World</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

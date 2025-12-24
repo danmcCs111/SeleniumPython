@@ -1,0 +1,198 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whispers_of_a_machine"
+_ngcontent-gogcom-store-c1196613375="">Whispers of a Machine</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heavens_vault"
+_ngcontent-gogcom-store-c1196613375="">Heaven's Vault</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_2"
+_ngcontent-gogcom-store-c1196613375="">Train Valley 2</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathway_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Pathway - Official Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/corpse_party_sweet_sachikos_hysteric_birthday_bash"
+_ngcontent-gogcom-store-c1196613375="">Corpse Party: Sweet Sachiko’s Hysteric Birthday Bash</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/islanders"
+_ngcontent-gogcom-store-c1196613375="">ISLANDERS</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_7th_guest_25th_anniversary_edition"
+_ngcontent-gogcom-store-c1196613375="">The 7th Guest: 25th Anniversary Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grim_dawn_forgotten_gods"
+_ngcontent-gogcom-store-c1196613375="">Grim Dawn - Forgotten Gods</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$9.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battletech_shadowhawk_pack"
+_ngcontent-gogcom-store-c1196613375="">BATTLETECH - Shadow Hawk Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dont_escape_4_days_to_survive"
+_ngcontent-gogcom-store-c1196613375="">Don't Escape: 4 Days to Survive</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galaxy_trucker"
+_ngcontent-gogcom-store-c1196613375="">Galaxy Trucker: Extended Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_germany"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire - Germany</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yakuza_kiwami"
+_ngcontent-gogcom-store-c1196613375="">Yakuza Kiwami</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heart_of_the_woods"
+_ngcontent-gogcom-store-c1196613375="">Heart of the Woods</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flower"
+_ngcontent-gogcom-store-c1196613375="">Flower</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_prom_second_term"
+_ngcontent-gogcom-store-c1196613375="">Monster Prom: Second Term</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relegion_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Re-Legion - Deluxe Edition</span>
+"base-value ng-star-inserted">$14.25</span>
+"final-value ng-star-inserted">$2.42</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mutant_football_league_la_power_pack"
+_ngcontent-gogcom-store-c1196613375="">Mutant Football League - LA Power Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_2_chaos_campaign_expansion"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada 2 - Chaos Campaign Expansion</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sweet_pool"
+_ngcontent-gogcom-store-c1196613375="">sweet pool</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sweet_pool_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">sweet pool unrated patch</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crusader_kings_ii_imperial_collection"
+_ngcontent-gogcom-store-c1196613375="">Crusader Kings II: Imperial Collection</span>
+"base-value ng-star-inserted">$253.79</span>
+"final-value ng-star-inserted">$101.51</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ballisticng"
+_ngcontent-gogcom-store-c1196613375="">BallisticNG</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gris_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">GRIS Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_kingmaker_the_wildcards"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Kingmaker - The Wildcards</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_great_britain_ireland"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire - Great Britain &amp; Ireland</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dusk"
+_ngcontent-gogcom-store-c1196613375="">DUSK</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_megacorp"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: MegaCorp</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_brothers_beasts_exploration"
+_ngcontent-gogcom-store-c1196613375="">Battle Brothers - Beasts &amp; Exploration</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_fantasy_jigsaw_puzzle"
+_ngcontent-gogcom-store-c1196613375="">Dark Fantasy: Jigsaw Puzzle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/this_war_of_mine_stories_the_last_broadcast"
+_ngcontent-gogcom-store-c1196613375="">This War of Mine: Stories - The Last Broadcast</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distraint_2"
+_ngcontent-gogcom-store-c1196613375="">DISTRAINT 2</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$0.80</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_holy_fury"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: Holy Fury</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_potatoes_a_spy_story"
+_ngcontent-gogcom-store-c1196613375="">Holy Potatoes! A Spy Story?!</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_cataclysm_expansion"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Cataclysm Expansion</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/corpse_party_book_of_shadows"
+_ngcontent-gogcom-store-c1196613375="">Corpse Party: Book of Shadows</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadows_awakening_legendary_armory_pack"
+_ngcontent-gogcom-store-c1196613375="">Shadows: Awakening –  Legendary Armory Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/exapunks"
+_ngcontent-gogcom-store-c1196613375="">EXAPUNKS</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/megadimension_neptunia_viir"
+_ngcontent-gogcom-store-c1196613375="">Megadimension Neptunia VIIR</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frostpunk_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Frostpunk Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/railway_empire_crossing_the_andes"
+_ngcontent-gogcom-store-c1196613375="">Railway Empire: Crossing the Andes</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_reinforcement_pack"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000 Gladius – Reinforcement Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/project_warlock"
+_ngcontent-gogcom-store-c1196613375="">Project Warlock</span>
+"base-value ng-star-inserted">$12.00</span>
+"final-value ng-star-inserted">$1.80</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rimworld"
+_ngcontent-gogcom-store-c1196613375="">RimWorld</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$27.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tower_hunter_erzas_trial_ost"
+_ngcontent-gogcom-store-c1196613375="">Tower Hunter: Erza's Trial - OST</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.55</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mark_of_the_ninja_remastered"
+_ngcontent-gogcom-store-c1196613375="">Mark of the Ninja: Remastered</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nukitashi"
+_ngcontent-gogcom-store-c1196613375="">NUKITASHI</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/overcooked_2_surf_n_turf"
+_ngcontent-gogcom-store-c1196613375="">Overcooked! 2 - Surf 'n' Turf</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.03</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

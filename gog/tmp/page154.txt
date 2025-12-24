@@ -1,0 +1,179 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/machineboy_complete_collection"
+_ngcontent-gogcom-store-c1196613375="">Machineboy Complete Collection</span>
+"base-value ng-star-inserted">$20.35</span>
+"final-value ng-star-inserted">$3.05</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deponia_full_scrap_collection"
+_ngcontent-gogcom-store-c1196613375="">Deponia Full Scrap Collection</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cobra_kai_the_karate_kid_saga_continues"
+_ngcontent-gogcom-store-c1196613375="">Cobra Kai: The Karate Kid Saga Continues</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realms_of_antiquity_the_shattered_crown"
+_ngcontent-gogcom-store-c1196613375="">Realms of Antiquity: The Shattered Crown</span>
+"base-value ng-star-inserted">$20.00</span>
+"final-value ng-star-inserted">$10.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trine_4_melody_of_mystery_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Trine 4: Melody of Mystery Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trine_4_the_nightmare_prince_the_art_of_trine_4_artbook"
+_ngcontent-gogcom-store-c1196613375="">Trine 4: The Nightmare Prince - The Art of Trine 4 (Artbook)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/paradise_killer_art_of_paradise"
+_ngcontent-gogcom-store-c1196613375="">Paradise Killer: Art of Paradise</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hardspace_shipbreaker_ost_digital_artbook_bundle"
+_ngcontent-gogcom-store-c1196613375="">Hardspace: Shipbreaker + OST + Digital Artbook Bundle</span>
+"final-value ng-star-inserted">$42.21</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hardspace_shipbreaker_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Hardspace: Shipbreaker - Original Soundtrack</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pieces_of_my_heart"
+_ngcontent-gogcom-store-c1196613375="">Pieces of my Heart</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/magical_swordmaiden"
+_ngcontent-gogcom-store-c1196613375="">Magical Swordmaiden</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/magical_swordmaiden_unrated"
+_ngcontent-gogcom-store-c1196613375="">Magical Swordmaiden UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtual_happiness_18_content_uncensored"
+_ngcontent-gogcom-store-c1196613375="">Virtual Happiness: 18+ Content (Uncensored)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/founders_fortune"
+_ngcontent-gogcom-store-c1196613375="">Founders' Fortune</span>
+"base-value ng-star-inserted">$21.99</span>
+"final-value ng-star-inserted">$5.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kirakira_stars_idol_project_set"
+_ngcontent-gogcom-store-c1196613375="">Kirakira Stars Idol Project set</span>
+"base-value ng-star-inserted">$23.38</span>
+"final-value ng-star-inserted">$14.02</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/new_world_computing_bundle"
+_ngcontent-gogcom-store-c1196613375="">New World Computing Bundle</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/riddle_joker"
+_ngcontent-gogcom-store-c1196613375="">Riddle Joker</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/riddle_joker_unrated"
+_ngcontent-gogcom-store-c1196613375="">Riddle Joker UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dont_be_afraid"
+_ngcontent-gogcom-store-c1196613375="">Don't Be Afraid</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_harvest_rusviet_revolution"
+_ngcontent-gogcom-store-c1196613375="">Iron Harvest - Rusviet Revolution</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hanoi_puzzles_solid_match"
+_ngcontent-gogcom-store-c1196613375="">Hanoi Puzzles: Solid Match</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/calico"
+_ngcontent-gogcom-store-c1196613375="">Calico</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_winter_pack"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner Winter Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/outward_the_three_brothers"
+_ngcontent-gogcom-store-c1196613375="">Outward: The Three Brothers</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fantasy_tavern_sextet_vol1_new_world_days"
+_ngcontent-gogcom-store-c1196613375="">Fantasy Tavern Sextet - Vol.1 New World Days</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fantasy_tavern_sextet_vol1_new_world_days_unrated"
+_ngcontent-gogcom-store-c1196613375="">Fantasy Tavern Sextet - Vol.1 New World Days UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/solasta_crown_of_the_magister_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Solasta: Crown of the Magister - Supporter Pack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orwells_animal_farm"
+_ngcontent-gogcom-store-c1196613375="">Orwell's Animal Farm</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_axis_operations_1940"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Axis Operations - 1940</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unto_the_end"
+_ngcontent-gogcom-store-c1196613375="">Unto The End</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/call_of_the_sea_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Call of the Sea Deluxe Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/call_of_the_sea_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Call of the Sea Original Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terraforming_mars_prelude"
+_ngcontent-gogcom-store-c1196613375="">Terraforming Mars - Prelude</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_art_of_call_of_the_sea"
+_ngcontent-gogcom-store-c1196613375="">The Art of Call of the Sea</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immortal_realms_vampire_wars_fangs_and_bones"
+_ngcontent-gogcom-store-c1196613375="">Immortal Realms: Vampire Wars - Fangs and Bones</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nomads_of_driftland"
+_ngcontent-gogcom-store-c1196613375="">Nomads of Driftland</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nomads_of_driftland_the_forgotten_passage"
+_ngcontent-gogcom-store-c1196613375="">Nomads of Driftland: The Forgotten Passage</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nine_witches_family_disruption"
+_ngcontent-gogcom-store-c1196613375="">Nine Witches: Family Disruption</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/suzerain"
+_ngcontent-gogcom-store-c1196613375="">Suzerain</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/suzerain_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Suzerain Original Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/creeper_world_4"
+_ngcontent-gogcom-store-c1196613375="">Creeper World 4</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/creeper_world_4_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Creeper World 4 Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_classified_operation_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - Classified Operation Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/el_hijo_a_wild_west_tale"
+_ngcontent-gogcom-store-c1196613375="">El Hijo - A Wild West Tale</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/haven_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Haven Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/per_aspera"
+_ngcontent-gogcom-store-c1196613375="">Per Aspera</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/per_aspera_art_book"
+_ngcontent-gogcom-store-c1196613375="">Per Aspera Art Book</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/per_aspera_audiobook"
+_ngcontent-gogcom-store-c1196613375="">Per Aspera Audiobook</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

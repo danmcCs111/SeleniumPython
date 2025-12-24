@@ -1,0 +1,175 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trash_sailors_demo"
+_ngcontent-gogcom-store-c1196613375="">Trash Sailors Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wolfstride_demo"
+_ngcontent-gogcom-store-c1196613375="">Wolfstride Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ambition_a_minuet_in_power"
+_ngcontent-gogcom-store-c1196613375="">Ambition: A Minuet in Power</span>
+"base-value ng-star-inserted">$20.99</span>
+"final-value ng-star-inserted">$6.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_end_request_2_deluxe_helping_hand_set"
+_ngcontent-gogcom-store-c1196613375="">Death end re;Quest 2 - Deluxe Helping Hand Set</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_end_request_2_deluxe_pack"
+_ngcontent-gogcom-store-c1196613375="">Death end re;Quest 2 - Deluxe Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_end_request_2_exp_booster_equipment"
+_ngcontent-gogcom-store-c1196613375="">Death end re;Quest 2 - EXP Booster Equipment</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_end_request_2_ultimate_weapon_set"
+_ngcontent-gogcom-store-c1196613375="">Death end re;Quest 2 - Ultimate Weapon Set</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dying_light_astronaut_bundle"
+_ngcontent-gogcom-store-c1196613375="">Dying Light - Astronaut Bundle</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hell_architect"
+_ngcontent-gogcom-store-c1196613375="">Hell Architect</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hell_architect_prologue"
+_ngcontent-gogcom-store-c1196613375="">Hell Architect: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_shell"
+_ngcontent-gogcom-store-c1196613375="">Mortal Shell</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mortal_shell_the_virtuous_cycle"
+_ngcontent-gogcom-store-c1196613375="">Mortal Shell - The Virtuous Cycle</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/doki_doki_gravity_dive"
+_ngcontent-gogcom-store-c1196613375="">Doki Doki Gravity Dive</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/greak_memories_of_azur"
+_ngcontent-gogcom-store-c1196613375="">Greak: Memories of Azur</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/greak_memories_of_azur_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Greak: Memories of Azur - Deluxe Edition</span>
+"base-value ng-star-inserted">$24.78</span>
+"final-value ng-star-inserted">$4.95</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/greak_memories_of_azur_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Greak: Memories of Azur - Digital Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/greak_memories_of_azur_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Greak: Memories of Azur Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96_hitchhiker_bundle"
+_ngcontent-gogcom-store-c1196613375="">Road 96 - Hitchhiker Bundle</span>
+"base-value ng-star-inserted">$29.81</span>
+"final-value ng-star-inserted">$7.45</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96_prologue_ebook"
+_ngcontent-gogcom-store-c1196613375="">Road 96 - Prologue eBook</span>
+"base-value ng-star-inserted">$9.96</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/road_96_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Road 96 - Soundtrack</span>
+"base-value ng-star-inserted">$9.96</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/faraday_protocol"
+_ngcontent-gogcom-store-c1196613375="">Faraday Protocol</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/faraday_protocol_demo"
+_ngcontent-gogcom-store-c1196613375="">Faraday Protocol Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dust_to_the_end"
+_ngcontent-gogcom-store-c1196613375="">Dust to the End</span>
+"final-value ng-star-inserted">$12.30</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fishing_north_atlantic_scallops"
+_ngcontent-gogcom-store-c1196613375="">Fishing: North Atlantic - Scallops Expansion</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_book"
+_ngcontent-gogcom-store-c1196613375="">Black Book</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$8.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/patron"
+_ngcontent-gogcom-store-c1196613375="">Patron</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/patron_demo"
+_ngcontent-gogcom-store-c1196613375="">Patron Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/patron_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Patron Soundtrack</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/patron_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Patron Supporter Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/city_of_gangsters"
+_ngcontent-gogcom-store-c1196613375="">City of Gangsters</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/city_of_gangsters_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">City of Gangsters - Deluxe Edition</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/city_of_gangsters_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">City of Gangsters Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/song_of_farca_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Song of Farca Original Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$0.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hunter_girls"
+_ngcontent-gogcom-store-c1196613375="">Hunter Girls</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hundred_days_winemaking_simulator_grapelab"
+_ngcontent-gogcom-store-c1196613375="">Hundred Days - Grape Lab</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_trash"
+_ngcontent-gogcom-store-c1196613375="">Death Trash</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_trash_demo"
+_ngcontent-gogcom-store-c1196613375="">Death Trash Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dodgeball_academia"
+_ngcontent-gogcom-store-c1196613375="">Dodgeball Academia</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/farmers_life"
+_ngcontent-gogcom-store-c1196613375="">Farmer's Life</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/haven_park"
+_ngcontent-gogcom-store-c1196613375="">Haven Park</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/idoldays"
+_ngcontent-gogcom-store-c1196613375="">IdolDays</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/idoldays_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">IdolDays - unrated patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/starmancer"
+_ngcontent-gogcom-store-c1196613375="">Starmancer</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_falconeer_edge_of_the_world"
+_ngcontent-gogcom-store-c1196613375="">The Falconeer - Edge of the World</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_falconeer_warrior_edition"
+_ngcontent-gogcom-store-c1196613375="">The Falconeer - Warrior Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/imperial_grace_demo"
+_ngcontent-gogcom-store-c1196613375="">Imperial Grace Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellar_warfare"
+_ngcontent-gogcom-store-c1196613375="">Stellar Warfare</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/toodee_and_topdee"
+_ngcontent-gogcom-store-c1196613375="">Toodee and Topdee</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

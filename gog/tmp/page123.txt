@@ -1,0 +1,186 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/regiments"
+_ngcontent-gogcom-store-c1196613375="">Regiments</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rollerdrome"
+_ngcontent-gogcom-store-c1196613375="">Rollerdrome</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Way of The Hunter - Map Pack 1</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_elite_edition"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter Elite Edition</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_hunters_pack"
+_ngcontent-gogcom-store-c1196613375="">Way of The Hunter: Hunter's Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/noelle_does_her_best"
+_ngcontent-gogcom-store-c1196613375="">Noelle Does Her Best!</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/noelle_does_her_best_unrated"
+_ngcontent-gogcom-store-c1196613375="">Noelle Does Her Best! UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flowers_bundle"
+_ngcontent-gogcom-store-c1196613375="">Flowers Bundle</span>
+"base-value ng-star-inserted">$55.97</span>
+"final-value ng-star-inserted">$30.78</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revenge_of_the_orcs_flag_of_conquest"
+_ngcontent-gogcom-store-c1196613375="">Revenge of the Orcs: Flag of Conquest</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revenge_of_the_orcs_flag_of_conquest_unrated"
+_ngcontent-gogcom-store-c1196613375="">Revenge of the Orcs: Flag of Conquest UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/arcade_paradise_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Arcade Paradise Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_play"
+_ngcontent-gogcom-store-c1196613375="">Lost in Play</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tyrants_blessing"
+_ngcontent-gogcom-store-c1196613375="">Tyrant's Blessing</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tyrants_blessing_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Tyrant's Blessing Deluxe Edition</span>
+"base-value ng-star-inserted">$22.48</span>
+"final-value ng-star-inserted">$7.86</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tyrants_blessing_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Tyrant's Blessing Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_tycoon_under_new_management_bundle_1"
+_ngcontent-gogcom-store-c1196613375="">Prison Tycoon: Under New Management - Bundle 1</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/under_the_moon"
+_ngcontent-gogcom-store-c1196613375="">Under The Moon</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/camp_buddy_scoutmaster_season"
+_ngcontent-gogcom-store-c1196613375="">Camp Buddy: Scoutmaster Season</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgive_me_father_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Forgive Me Father Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hard_west_2"
+_ngcontent-gogcom-store-c1196613375="">Hard West 2</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/illuminaria"
+_ngcontent-gogcom-store-c1196613375="">Illuminaria</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/illuminaria_demo"
+_ngcontent-gogcom-store-c1196613375="">Illuminaria Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vanaris_tactics"
+_ngcontent-gogcom-store-c1196613375="">Vanaris Tactics</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vanaris_tactics_demo"
+_ngcontent-gogcom-store-c1196613375="">Vanaris Tactics Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/last_call_bbs"
+_ngcontent-gogcom-store-c1196613375="">Last Call BBS</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_of_the_circle"
+_ngcontent-gogcom-store-c1196613375="">South of the Circle</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_of_the_circle_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">South of the Circle Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_of_the_circle_ebook_eighty_two_nineteen"
+_ngcontent-gogcom-store-c1196613375="">South of the Circle: E-book - Eighty Two Nineteen</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frogun"
+_ngcontent-gogcom-store-c1196613375="">Frogun</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frogun_artbook_and_manual"
+_ngcontent-gogcom-store-c1196613375="">Frogun - Artbook and Manual</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frogun_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Frogun - Deluxe Edition</span>
+"base-value ng-star-inserted">$23.22</span>
+"final-value ng-star-inserted">$16.25</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frogun_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Frogun - Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/civitatem"
+_ngcontent-gogcom-store-c1196613375="">Civitatem</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/retreat_to_enen"
+_ngcontent-gogcom-store-c1196613375="">Retreat to Enen</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beat_refle"
+_ngcontent-gogcom-store-c1196613375="">beat refle</span>
+"base-value ng-star-inserted">$27.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/apostle_rebellion"
+_ngcontent-gogcom-store-c1196613375="">Apostle: Rebellion</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/apostle_rebellion_unrated"
+_ngcontent-gogcom-store-c1196613375="">Apostle: Rebellion UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_house_of_da_vinci_3_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The House of Da Vinci 3 Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necrosmith_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Necrosmith Original Soundtrack</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_short_story_the_arrival"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite Short Story: The Arrival</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gravewood_high_chapter_1"
+_ngcontent-gogcom-store-c1196613375="">Gravewood High - Chapter 1</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vestaria_saga_ii_the_sacred_sword_of_silvanister"
+_ngcontent-gogcom-store-c1196613375="">Vestaria Saga II: The Sacred Sword of Silvanister</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gravewood_high_complete"
+_ngcontent-gogcom-store-c1196613375="">Gravewood High - Complete</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blood_and_zombies_gold_edition"
+_ngcontent-gogcom-store-c1196613375="">Blood and Zombies - Gold Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cartel_tycoon_artbook"
+_ngcontent-gogcom-store-c1196613375="">Cartel Tycoon Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

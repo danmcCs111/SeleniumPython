@@ -1,0 +1,196 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/weapon_level_x3_journey_to_kreisia"
+_ngcontent-gogcom-store-c1196613375="">Weapon Level x3 - Journey to Kreisia</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/factorio_space_age_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Factorio: Space Age - Soundtrack</span>
+"final-value ng-star-inserted">$7.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fetish_locator_week_three_bonus_endings_dlc"
+_ngcontent-gogcom-store-c1196613375="">Fetish Locator Week Three - Bonus Endings DLC Two</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/karate_survivor"
+_ngcontent-gogcom-store-c1196613375="">Karate Survivor</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/karate_survivor_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Karate Survivor Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warno_nemesis_2_plateau_dalbion"
+_ngcontent-gogcom-store-c1196613375="">WARNO - Nemesis #2 - Plateau d'Albion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destiny_star_girlfriend_2"
+_ngcontent-gogcom-store-c1196613375="">Destiny Star Girlfriend 2</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destiny_star_girlfriend_3"
+_ngcontent-gogcom-store-c1196613375="">Destiny Star Girlfriend 3</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_2_anniversary_pack"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner 2 - Anniversary Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/devilated"
+_ngcontent-gogcom-store-c1196613375="">Devilated</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dont_be_afraid_2"
+_ngcontent-gogcom-store-c1196613375="">Don't Be Afraid 2</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/massacre_at_the_mirage"
+_ngcontent-gogcom-store-c1196613375="">Massacre At The Mirage</span>
+"base-value ng-star-inserted">$12.49</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moon_mystery"
+_ngcontent-gogcom-store-c1196613375="">Moon Mystery</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pure_pure_pero_pero_princess"
+_ngcontent-gogcom-store-c1196613375="">Pure Pure Pero Pero Princess</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pure_pure_pero_pero_princess_unrated"
+_ngcontent-gogcom-store-c1196613375="">Pure Pure Pero Pero Princess UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_tiny_sticker_tale_artbook"
+_ngcontent-gogcom-store-c1196613375="">A Tiny Sticker Tale Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/farm_manager_world_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Farm Manager World Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2b_catacomb"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2B: Catacomb</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2b_catacomb_the_child_of_destiny_skin"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2B: Catacomb - The Child of Destiny Skin</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2b_catacomb_the_gamer_skin"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2B: Catacomb - The Gamer Skin</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2b_catacomb_the_survivalist_skin"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2B: Catacomb - The Survivalist Skin</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2b_catacomb_artbook"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2B: Catacomb Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2b_catacomb_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2B: Catacomb Deluxe Edition</span>
+"base-value ng-star-inserted">$24.60</span>
+"final-value ng-star-inserted">$17.22</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_coma_2b_catacomb_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Coma 2B: Catacomb Original Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$44.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_advanced_pack"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics - Advanced Pack</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$26.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_attachment_pack"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics - Attachment Pack</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_complete_cosmetics"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics - Complete Cosmetics</span>
+"base-value ng-star-inserted">$43.67</span>
+"final-value ng-star-inserted">$32.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_costume_pack"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics - Costume Pack</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_freebie_pack"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics - Freebie Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_sandras_pack"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics - Sandras Pack</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_starter_pack"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics - Starter Pack</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics Deluxe Edition</span>
+"base-value ng-star-inserted">$79.17</span>
+"final-value ng-star-inserted">$59.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_x_nordics_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Ys X: Nordics Ultimate Edition</span>
+"base-value ng-star-inserted">$129.31</span>
+"final-value ng-star-inserted">$96.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distant_worlds_2_return_of_the_shakturi"
+_ngcontent-gogcom-store-c1196613375="">Distant Worlds 2: Return of the Shakturi</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgive_me_father_2_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Forgive Me Father 2 Deluxe Edition</span>
+"base-value ng-star-inserted">$37.77</span>
+"final-value ng-star-inserted">$18.88</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgive_me_father_2_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Forgive Me Father 2 Digital Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgive_me_father_2_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Forgive Me Father 2 Official Soundtrack</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prim"
+_ngcontent-gogcom-store-c1196613375="">PRIM</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/puppet_house"
+_ngcontent-gogcom-store-c1196613375="">Puppet House</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/teppo_and_the_secret_ancient_city"
+_ngcontent-gogcom-store-c1196613375="">Teppo And The Secret Ancient City</span>
+"base-value ng-star-inserted">$7.77</span>
+"final-value ng-star-inserted">$2.33</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_smurfs_dreams"
+_ngcontent-gogcom-store-c1196613375="">The Smurfs – Dreams</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_smurfs_dreams_cosmic_skin"
+_ngcontent-gogcom-store-c1196613375="">The Smurfs – Dreams – Cosmic Skin</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_smurfs_dreams_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Smurfs – Dreams – Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$39.97</span>
+"final-value ng-star-inserted">$19.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_smurfs_dreams_digital_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">The Smurfs – Dreams – Digital Deluxe Upgrade</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_park_snow_day_good_times_with_weapons_weapon_variation_pack"
+_ngcontent-gogcom-store-c1196613375="">SOUTH PARK: SNOW DAY! - Good Times with Weapons - Weapon Variation Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_park_snow_day_nicholes_home_brew"
+_ngcontent-gogcom-store-c1196613375="">SOUTH PARK: SNOW DAY! - Nichole's Home Brew</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_trucker_hallows_eve_customization_pack"
+_ngcontent-gogcom-store-c1196613375="">Star Trucker - Hallows' Eve Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

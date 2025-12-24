@@ -1,0 +1,202 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/graveyard_keeper"
+_ngcontent-gogcom-store-c1196613375="">Graveyard Keeper</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unavowed"
+_ngcontent-gogcom-store-c1196613375="">Unavowed</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/treasure_hunter_claire"
+_ngcontent-gogcom-store-c1196613375="">Treasure Hunter Claire</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_darkness_over_daggerford"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Darkness Over Daggerford</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotton_anne_collectors_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Forgotton Anne Collector's Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_2_game"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity II: Deadfire</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_ii_deadfire_obsidian_edition_release"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity II: Deadfire - Obsidian Edition</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trailblazers"
+_ngcontent-gogcom-store-c1196613375="">Trailblazers</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_infinite_dungeons"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Infinite Dungeons</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_pirates_of_the_sword_coast"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Pirates of the Sword Coast</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_wyvern_crown_of_cormyr"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Wyvern Crown of Cormyr</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/devil_may_cry_hd_collection"
+_ngcontent-gogcom-store-c1196613375="">Devil May Cry HD Collection</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_mirror"
+_ngcontent-gogcom-store-c1196613375="">Black Mirror</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/titan_quest_ragnarok"
+_ngcontent-gogcom-store-c1196613375="">Titan Quest: Ragnarök</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wolfenstein_ii_the_new_colossus"
+_ngcontent-gogcom-store-c1196613375="">Wolfenstein II: The New Colossus</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aer"
+_ngcontent-gogcom-store-c1196613375="">AER – Memories of Old</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/divinity_original_sin_2_eternal_edition"
+_ngcontent-gogcom-store-c1196613375="">Divinity: Original Sin 2 - Eternal Edition</span>
+"base-value ng-star-inserted">$89.99</span>
+"final-value ng-star-inserted">$35.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/absolver"
+_ngcontent-gogcom-store-c1196613375="">Absolver</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/batman_the_enemy_within_the_telltale_series"
+_ngcontent-gogcom-store-c1196613375="">Batman: The Enemy Within - The Telltale Series</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tales_of_the_tiny_planet"
+_ngcontent-gogcom-store-c1196613375="">Tales of the Tiny Planet</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_surge"
+_ngcontent-gogcom-store-c1196613375="">The Surge</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/styx_shards_of_darkness"
+_ngcontent-gogcom-store-c1196613375="">Styx: Shards of Darkness</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_tactics_blades_of_the_shogun"
+_ngcontent-gogcom-store-c1196613375="">Shadow Tactics: Blades of the Shogun</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/silence"
+_ngcontent-gogcom-store-c1196613375="">Silence</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellar_tactics"
+_ngcontent-gogcom-store-c1196613375="">Stellar Tactics</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_heist_hatbox_hatful_eight"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Heist - Hatbox: Hatful Eight + 2</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bioshock_2_remastered"
+_ngcontent-gogcom-store-c1196613375="">BioShock™ 2 Remastered</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bioshock_remastered"
+_ngcontent-gogcom-store-c1196613375="">BioShock™ Remastered</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/va11_halla"
+_ngcontent-gogcom-store-c1196613375="">VA-11 Hall-A: Cyberpunk Bartender Action</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$10.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_the_devils_daughter"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes: The Devil's Daughter</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hard_reset_redux"
+_ngcontent-gogcom-store-c1196613375="">Hard Reset Redux</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ori_and_the_blind_forest_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Ori and the Blind Forest: Definitive Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlefleet_gothic_armada_1"
+_ngcontent-gogcom-store-c1196613375="">Battlefleet Gothic: Armada</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deponia_doomsday"
+_ngcontent-gogcom-store-c1196613375="">Deponia 4: Deponia Doomsday</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/factorio"
+_ngcontent-gogcom-store-c1196613375="">Factorio</span>
+"final-value ng-star-inserted">$35.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/we_are_the_dwarves"
+_ngcontent-gogcom-store-c1196613375="">We are the Dwarves</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/homeworld_deserts_of_kharak"
+_ngcontent-gogcom-store-c1196613375="">Homeworld: Deserts of Kharak</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_incredible_adventures_of_van_helsing_final_cut"
+_ngcontent-gogcom-store-c1196613375="">The Incredible Adventures of Van Helsing: Final Cut</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crosscode"
+_ngcontent-gogcom-store-c1196613375="">CrossCode</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saints_row_gat_out_of_hell_devils_workshop_pack"
+_ngcontent-gogcom-store-c1196613375="">Saints Row: Gat Out of Hell - Devil's Workshop Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hotline_miami_2_wrong_number"
+_ngcontent-gogcom-store-c1196613375="">Hotline Miami 2: Wrong Number</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/saints_row_gat_out_of_hell"
+_ngcontent-gogcom-store-c1196613375="">Saints Row: Gat out of Hell</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mount_blade_warband_viking_conquest"
+_ngcontent-gogcom-store-c1196613375="">Mount &amp; Blade: Warband - Viking Conquest Reforged Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_dark_side_premium_edition"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty: Dark Side - Premium Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/anomaly_defenders"
+_ngcontent-gogcom-store-c1196613375="">Anomaly Defenders</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wolfenstein_the_new_order"
+_ngcontent-gogcom-store-c1196613375="">Wolfenstein: The New Order</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lego_the_hobbit"
+_ngcontent-gogcom-store-c1196613375="">LEGO® The Hobbit™</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/thief_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">THIEF: Definitive Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$3.74</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

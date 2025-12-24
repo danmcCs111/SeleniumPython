@@ -1,0 +1,183 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_of_iron_crimson_knight"
+_ngcontent-gogcom-store-c1196613375="">Tails of Iron - Crimson Knight</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_prestige_collection"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Prestige Collection</span>
+"base-value ng-star-inserted">$89.95</span>
+"final-value ng-star-inserted">$71.96</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_ultimate_sprite_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Ultimate Sprite Pack</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_more_snow"
+_ngcontent-gogcom-store-c1196613375="">No More Snow</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sticky_business_plan_with_me"
+_ngcontent-gogcom-store-c1196613375="">Sticky Business: Plan With Me</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_black_guards_of_odom_desert_town_prison"
+_ngcontent-gogcom-store-c1196613375="">The Black Guards of Odom - Desert Town Prison</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_black_guards_of_odom_desert_town_prison_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Black Guards of Odom - Desert Town Prison UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/book_of_hours_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">BOOK OF HOURS: Original Soundtrack</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$7.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/you_will_die_here_tonight_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">You Will Die Here Tonight Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bahnsen_knights"
+_ngcontent-gogcom-store-c1196613375="">Bahnsen Knights</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/destiny_star_girlfriend_unrated"
+_ngcontent-gogcom-store-c1196613375="">Destiny Star Girlfriend UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seaorama_world_of_shipping"
+_ngcontent-gogcom-store-c1196613375="">SeaOrama: World of Shipping</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartales_pirates_of_belerion"
+_ngcontent-gogcom-store-c1196613375="">Wartales - Expansion: Pirates of Belerion</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/booze_masters_freezing_moonshine"
+_ngcontent-gogcom-store-c1196613375="">Booze Masters: Freezing Moonshine</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endless_bundle"
+_ngcontent-gogcom-store-c1196613375="">Endless™ Bundle</span>
+"base-value ng-star-inserted">$95.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_island_cozy_comforts_dlc_pack"
+_ngcontent-gogcom-store-c1196613375="">Moonstone Island Cozy Comforts DLC Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_glitch_fairy"
+_ngcontent-gogcom-store-c1196613375="">The Glitch Fairy</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$6.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darkest_dungeonr_ii_the_binding_blade"
+_ngcontent-gogcom-store-c1196613375="">Darkest Dungeon® II: The Binding Blade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/philana_and_the_elixir_of_life"
+_ngcontent-gogcom-store-c1196613375="">Philana and the Elixir of Life</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/philana_and_the_elixir_of_life_unrated"
+_ngcontent-gogcom-store-c1196613375="">Philana and the Elixir of Life UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/against_the_storm_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Against the Storm - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/back_then"
+_ngcontent-gogcom-store-c1196613375="">Back Then</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/potion_permit_christmas_bundle"
+_ngcontent-gogcom-store-c1196613375="">Potion Permit - Christmas Bundle</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_2_ice_pack_dlc"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner 2 - Ice Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ghostrunner_2_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Ghostrunner 2 Season Pass</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_teams_mascot_hat_pack"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Teams Mascot Hat Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golf_with_your_friends_teams_mascot_sticker_pack"
+_ngcontent-gogcom-store-c1196613375="">Golf With Your Friends - Teams Mascot Sticker Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metal_hellsinger_purgatory"
+_ngcontent-gogcom-store-c1196613375="">Metal: Hellsinger - Purgatory</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_vordr_clan_of_the_owl"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Vordr, Clan of the Owl</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_rogue_trader_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Rogue Trader Deluxe Edition</span>
+"base-value ng-star-inserted">$64.98</span>
+"final-value ng-star-inserted">$25.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pestersim"
+_ngcontent-gogcom-store-c1196613375="">Pestersim</span>
+"base-value ng-star-inserted">$23.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_gambit_yukis_wish"
+_ngcontent-gogcom-store-c1196613375="">Shadow Gambit: Yuki’s Wish</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadow_gambit_zagans_ritual"
+_ngcontent-gogcom-store-c1196613375="">Shadow Gambit: Zagan’s Ritual</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/born_of_bread"
+_ngcontent-gogcom-store-c1196613375="">Born of Bread</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/born_of_bread_baker_edition"
+_ngcontent-gogcom-store-c1196613375="">Born of Bread - Baker Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/born_of_bread_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Born of Bread - Digital Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/born_of_bread_digital_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Born of Bread - Digital Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_shell_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Shell Official Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingpin_reloaded"
+_ngcontent-gogcom-store-c1196613375="">Kingpin: Reloaded</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/svarogs_dream"
+_ngcontent-gogcom-store-c1196613375="">Svarog's Dream</span>
+"base-value ng-star-inserted">$21.00</span>
+"final-value ng-star-inserted">$8.40</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_boy_and_his_blob_retro_collection"
+_ngcontent-gogcom-store-c1196613375="">A Boy and His Blob Retro Collection</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steamworld_build"
+_ngcontent-gogcom-store-c1196613375="">SteamWorld Build</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_sessions_mami_mamiyas_sweet_slice_of_hell_unrated"
+_ngcontent-gogcom-store-c1196613375="">Succubus Sessions: Mami Mamiya’s Sweet Slice of Hell UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/furi_demake_the_chain"
+_ngcontent-gogcom-store-c1196613375="">Furi Demake - The Chain</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/goalgetter"
+_ngcontent-gogcom-store-c1196613375="">Goalgetter</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/markus_ritter_ghosts_of_the_past"
+_ngcontent-gogcom-store-c1196613375="">Markus Ritter - Ghosts Of The Past</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sos_ops"
+_ngcontent-gogcom-store-c1196613375="">SOS OPS!</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sos_ops_guns_n_ops"
+_ngcontent-gogcom-store-c1196613375="">SOS OPS! - GUNS N' OPS</span>
+"final-value ng-star-inserted">$0.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,183 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jotun"
+_ngcontent-gogcom-store-c1196613375="">Jotun: Valhalla Edition</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_kiss_for_the_petals_remembering_how_we_met"
+_ngcontent-gogcom-store-c1196613375="">A Kiss For The Petals - Remembering How We Met</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grand_ages_medieval"
+_ngcontent-gogcom-store-c1196613375="">Grand Ages: Medieval</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_fistful_of_gun_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Fistful of Gun Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/else_heartbreak"
+_ngcontent-gogcom-store-c1196613375="">else Heart.Break()</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blood_bowl_2_legendary_edition"
+_ngcontent-gogcom-store-c1196613375="">Blood Bowl 2 - Legendary Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soma"
+_ngcontent-gogcom-store-c1196613375="">SOMA</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley"
+_ngcontent-gogcom-store-c1196613375="">Train Valley</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/braveland_pirate"
+_ngcontent-gogcom-store-c1196613375="">Braveland Pirate</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dropsy"
+_ngcontent-gogcom-store-c1196613375="">Dropsy</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dropsy_warm_damp_hug"
+_ngcontent-gogcom-store-c1196613375="">Dropsy: Warm Damp Hug</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_revenge_of_the_snathi"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III - Revenge of the Snathi DLC</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lovers_in_a_dangerous_spacetime"
+_ngcontent-gogcom-store-c1196613375="">Lovers in a Dangerous Spacetime</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fault_milestone_two_sideabove"
+_ngcontent-gogcom-store-c1196613375="">fault - milestone two side:above</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/renowned_explorers"
+_ngcontent-gogcom-store-c1196613375="">Renowned Explorers: International Society</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stasis"
+_ngcontent-gogcom-store-c1196613375="">STASIS</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stasis_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">STASIS: Deluxe Edition Upgrade</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/satellite_reign"
+_ngcontent-gogcom-store-c1196613375="">Satellite Reign</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/satellite_reign_artbook"
+_ngcontent-gogcom-store-c1196613375="">Satellite Reign - Artbook</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/satellite_reign_novella"
+_ngcontent-gogcom-store-c1196613375="">Satellite Reign - Reboot Prequel Novella</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/satellite_reign_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Satellite Reign - Soundtrack</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/big_pharma"
+_ngcontent-gogcom-store-c1196613375="">Big Pharma</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dead_in_bermuda"
+_ngcontent-gogcom-store-c1196613375="">Dead In Bermuda</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fran_bow"
+_ngcontent-gogcom-store-c1196613375="">Fran Bow</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amnesia_memories"
+_ngcontent-gogcom-store-c1196613375="">Amnesia™: Memories</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crookz_the_big_heist"
+_ngcontent-gogcom-store-c1196613375="">Crookz - The Big Heist</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/evoland_2_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Evoland 2 Deluxe Edition</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/evoland_2_deluxe_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Evoland 2 Deluxe Edition Upgrade</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/evoland_2"
+_ngcontent-gogcom-store-c1196613375="">Evoland 2, A Slight Case of Spacetime Continuum Disorder</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hegemony_iii_clash_of_the_ancients"
+_ngcontent-gogcom-store-c1196613375="">Hegemony III: Clash of the Ancients</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/party_hard"
+_ngcontent-gogcom-store-c1196613375="">Party Hard</span>
+"base-value ng-star-inserted">$12.89</span>
+"final-value ng-star-inserted">$2.57</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_the_white_march_part_1"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity: The White March - Part I</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shelter_2_mountains"
+_ngcontent-gogcom-store-c1196613375="">Shelter 2: Mountains</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mass_destruction"
+_ngcontent-gogcom-store-c1196613375="">Mass Destruction</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/universe_sandbox"
+_ngcontent-gogcom-store-c1196613375="">Universe Sandbox</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$20.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowrun_hong_kong_extended_edition"
+_ngcontent-gogcom-store-c1196613375="">Shadowrun Hong Kong - Extended Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowrun_hong_kong_extended_edition_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Shadowrun Hong Kong - Extended Edition Deluxe</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowrun_hong_kong_extended_edition_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Shadowrun Hong Kong - Extended Edition Deluxe Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relic_hunters_zero_remix"
+_ngcontent-gogcom-store-c1196613375="">Relic Hunters Zero: Remix</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hacknet"
+_ngcontent-gogcom-store-c1196613375="">Hacknet</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_mega_events"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III - Mega Events DLC</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/olliolli2_welcome_to_olliwood"
+_ngcontent-gogcom-store-c1196613375="">OlliOlli2: Welcome to Olliwood</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/celestian_tales_old_north"
+_ngcontent-gogcom-store-c1196613375="">Celestian Tales: Old North</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/notch_original_soundtrack_omega_episode"
+_ngcontent-gogcom-store-c1196613375="">Notch Original Soundtrack - Omega Episode</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cosmonautica"
+_ngcontent-gogcom-store-c1196613375="">Cosmonautica</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dream"
+_ngcontent-gogcom-store-c1196613375="">Dream</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/king_of_dragon_pass"
+_ngcontent-gogcom-store-c1196613375="">King of Dragon Pass</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$5.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,172 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iku_iku_succubus_unrated_patch"
+_ngcontent-gogcom-store-c1196613375="">Iku Iku Succubus - unrated patch</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hell_pie"
+_ngcontent-gogcom-store-c1196613375="">Hell Pie</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hell_pie_demo"
+_ngcontent-gogcom-store-c1196613375="">Hell Pie Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hidden_through_time_aztec_rituals"
+_ngcontent-gogcom-store-c1196613375="">Hidden Through Time - Aztec Rituals</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hidden_through_time_pirate_treasures"
+_ngcontent-gogcom-store-c1196613375="">Hidden Through Time - Pirate Treasures</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phoenix_point_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Phoenix Point: Complete Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phoenix_point_complete_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Phoenix Point: Complete Edition Upgrade</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/baldurs_gate_dark_alliance_ii"
+_ngcontent-gogcom-store-c1196613375="">Baldur's Gate: Dark Alliance II</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/powers_in_the_basement"
+_ngcontent-gogcom-store-c1196613375="">Powers in the Basement</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/powers_in_the_basement_extended_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Powers in the Basement Extended Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/as_dusk_falls"
+_ngcontent-gogcom-store-c1196613375="">As Dusk Falls</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/concordia_digital_edition_aegyptus_creta"
+_ngcontent-gogcom-store-c1196613375="">Concordia: Digital Edition - Aegyptus &amp; Creta</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/duck_paradox"
+_ngcontent-gogcom-store-c1196613375="">Duck Paradox</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/endling_extinction_is_forever"
+_ngcontent-gogcom-store-c1196613375="">Endling - Extinction is Forever</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$9.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chef_pizza_baked_goods"
+_ngcontent-gogcom-store-c1196613375="">Chef: Pizza &amp; Baked Goods</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_riftbreaker_metal_terror"
+_ngcontent-gogcom-store-c1196613375="">The Riftbreaker: Metal Terror</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/circles_ep_south_of_the_circle_edition"
+_ngcontent-gogcom-store-c1196613375="">Circles EP: South of the Circle Edition</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mothmen_1966"
+_ngcontent-gogcom-store-c1196613375="">Mothmen 1966</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_future_youve_been_dreaming_of"
+_ngcontent-gogcom-store-c1196613375="">The Future You've Been Dreaming Of</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_tale_of_bistun"
+_ngcontent-gogcom-store-c1196613375="">The Tale of Bistun</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_tale_of_bistun_digital_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">The Tale of Bistun - Digital Collector's Edition</span>
+"final-value ng-star-inserted">$21.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_tale_of_bistun_demo"
+_ngcontent-gogcom-store-c1196613375="">The Tale of Bistun Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/time_lock_vr_2"
+_ngcontent-gogcom-store-c1196613375="">Time Lock VR 2</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$1.31</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/urbek_city_builder"
+_ngcontent-gogcom-store-c1196613375="">Urbek City Builder</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hellpoint_blue_sun"
+_ngcontent-gogcom-store-c1196613375="">Hellpoint - Blue Sun</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hellpoint_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Hellpoint - Ultimate Edition</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xel"
+_ngcontent-gogcom-store-c1196613375="">XEL</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wavecade"
+_ngcontent-gogcom-store-c1196613375="">WAVECADE</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nelly_cootalot_spoonbeaks_ahoy_artbook"
+_ngcontent-gogcom-store-c1196613375="">Nelly Cootalot: Spoonbeaks Ahoy! Artbook</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/castaway_of_the_ardusta_sea"
+_ngcontent-gogcom-store-c1196613375="">Castaway of the Ardusta Sea</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/castaway_of_the_ardusta_sea_unrated"
+_ngcontent-gogcom-store-c1196613375="">Castaway of the Ardusta Sea UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/madison"
+_ngcontent-gogcom-store-c1196613375="">MADiSON</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/award_card_choices_1_overrogue"
+_ngcontent-gogcom-store-c1196613375="">Award Card Choices +1 - Overrogue</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/award_swap_per_square_overrogue"
+_ngcontent-gogcom-store-c1196613375="">Award Swap per Square - Overrogue</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gwent_rogue_mage"
+_ngcontent-gogcom-store-c1196613375="">GWENT: Rogue Mage</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nelly_cootalot_the_fowl_fleet_artbook"
+_ngcontent-gogcom-store-c1196613375="">Nelly Cootalot: The Fowl Fleet - Artbook</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/overrogue"
+_ngcontent-gogcom-store-c1196613375="">Overrogue</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alwas_awakening_nes"
+_ngcontent-gogcom-store-c1196613375="">Alwa's Awakening The 8-Bit Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alaloth_champions_of_the_four_kingdoms_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Alaloth: Champions of The Four Kingdoms - Digital Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alaloth_champions_of_the_four_kingdoms_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Alaloth: Champions of The Four Kingdoms - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alaloth_champions_of_the_four_kingdoms_supporter_edition"
+_ngcontent-gogcom-store-c1196613375="">Alaloth: Champions of The Four Kingdoms - Supporter Edition</span>
+"final-value ng-star-inserted">$45.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fida_puti_samurai"
+_ngcontent-gogcom-store-c1196613375="">Fida Puti Samurai</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crowns_and_pawns_kingdom_of_deceit_soundtrack_bundle"
+_ngcontent-gogcom-store-c1196613375="">Crowns and Pawns: Kingdom of Deceit + Soundtrack</span>
+"base-value ng-star-inserted">$21.58</span>
+"final-value ng-star-inserted">$6.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crowns_and_pawns_kingdom_of_deceit_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Crowns and Pawns: Kingdom of Deceit Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serafina_and_the_key_to_the_egg"
+_ngcontent-gogcom-store-c1196613375="">Serafina and the Key to the Egg</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$12.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/serafina_and_the_key_to_the_egg_unrated"
+_ngcontent-gogcom-store-c1196613375="">Serafina and the Key to the Egg UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/born_punk_the_art_of_born_punk"
+_ngcontent-gogcom-store-c1196613375="">Born Punk - The Art Of Born Punk</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruggnar"
+_ngcontent-gogcom-store-c1196613375="">Ruggnar</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$2.79</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

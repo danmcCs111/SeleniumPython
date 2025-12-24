@@ -1,0 +1,185 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heading_out_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Heading Out - Original Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_the_machine_age"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: The Machine Age</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lesson_learned_cult_of_the_elizabeth"
+_ngcontent-gogcom-store-c1196613375="">Lesson Learned: Cult of the Elizabeth</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beyond_the_edge_of_owlsgard_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Beyond the Edge of Owlsgard Deluxe Edition</span>
+"base-value ng-star-inserted">$26.98</span>
+"final-value ng-star-inserted">$4.04</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/beyond_the_edge_of_owlsgard_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Beyond The Edge Of Owlsgard Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ingression"
+_ngcontent-gogcom-store-c1196613375="">Ingression</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/otherwar_chronicles_of_creation"
+_ngcontent-gogcom-store-c1196613375="">Otherwar - Chronicles of Creation</span>
+"base-value ng-star-inserted">$2.49</span>
+"final-value ng-star-inserted">$1.12</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/otherwar_crafting_compendium"
+_ngcontent-gogcom-store-c1196613375="">Otherwar - Crafting Compendium</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.34</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/otherwar_studio_secrets"
+_ngcontent-gogcom-store-c1196613375="">Otherwar - Studio Secrets</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/otherwar_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Otherwar Deluxe Edition</span>
+"base-value ng-star-inserted">$11.44</span>
+"final-value ng-star-inserted">$4.57</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indika"
+_ngcontent-gogcom-store-c1196613375="">INDIKA</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indika_artbook"
+_ngcontent-gogcom-store-c1196613375="">INDIKA: ARTBOOK</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indika_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">INDIKA: DELUXE EDITION</span>
+"base-value ng-star-inserted">$30.57</span>
+"final-value ng-star-inserted">$19.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indika_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">INDIKA: ORIGINAL SOUNDTRACK</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/south_park_snow_day_snowball"
+_ngcontent-gogcom-store-c1196613375="">SOUTH PARK: SNOW DAY! - Snowball</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_ruins"
+_ngcontent-gogcom-store-c1196613375="">Dragon Ruins</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_ruins_with_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dragon Ruins + Soundtrack</span>
+"base-value ng-star-inserted">$7.18</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_ruins_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dragon Ruins Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/footgun_underground"
+_ngcontent-gogcom-store-c1196613375="">Footgun: Underground</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tales_from_candleforth"
+_ngcontent-gogcom-store-c1196613375="">Tales from Candleforth</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_hungry_lamb_traveling_in_the_late_ming_dynasty_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Hungry Lamb: Traveling in the Late Ming Dynasty (Original Soundtrack)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_lullaby_of_life"
+_ngcontent-gogcom-store-c1196613375="">The Lullaby of Life</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_lullaby_of_life_art_book_wallpapers"
+_ngcontent-gogcom-store-c1196613375="">The Lullaby of Life - Art Book + Wallpapers</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_lullaby_of_life_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Lullaby of Life - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$20.67</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_lullaby_of_life_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Lullaby of Life Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/everspace_2_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">EVERSPACE™ 2 - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/guilty_force_wish_of_the_colony"
+_ngcontent-gogcom-store-c1196613375="">Guilty Force: Wish of the Colony</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/womanazers_pack"
+_ngcontent-gogcom-store-c1196613375="">Womanazers Pack</span>
+"base-value ng-star-inserted">$11.88</span>
+"final-value ng-star-inserted">$9.50</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/womanizer_adult_content"
+_ngcontent-gogcom-store-c1196613375="">Womanizer - Adult Content</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/womanizer_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Womanizer - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jack_holmes_master_of_puppets"
+_ngcontent-gogcom-store-c1196613375="">Jack Holmes: Master of Puppets</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/manor_lords_artbook"
+_ngcontent-gogcom-store-c1196613375="">Manor Lords - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/manor_lords_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Manor Lords - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pools"
+_ngcontent-gogcom-store-c1196613375="">POOLS</span>
+"base-value ng-star-inserted">$9.79</span>
+"final-value ng-star-inserted">$5.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pools_demo"
+_ngcontent-gogcom-store-c1196613375="">POOLS Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/minicology"
+_ngcontent-gogcom-store-c1196613375="">Minicology</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/minicology_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Minicology - Official Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tents_and_trees"
+_ngcontent-gogcom-store-c1196613375="">Tents and Trees</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_last_spell_dwarves_of_runenberg"
+_ngcontent-gogcom-store-c1196613375="">The Last Spell - Dwarves of Runenberg</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eiyuden_chronicle_hundred_heroes"
+_ngcontent-gogcom-store-c1196613375="">Eiyuden Chronicle: Hundred Heroes</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eiyuden_chronicle_hundred_heroes_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$79.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eiyuden_chronicle_hundred_heroes_allraan_artistry_pack"
+_ngcontent-gogcom-store-c1196613375="">Eiyuden Chronicle: Hundred Heroes Allraan Artistry Pack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eiyuden_chronicle_hundred_heroes_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Eiyuden Chronicle: Hundred Heroes Season Pass</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phantom_fury_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Phantom Fury - Digital Artbook</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sheryl_the_alchemist_of_the_island_ruins"
+_ngcontent-gogcom-store-c1196613375="">Sheryl ~The Alchemist of the Island Ruins~</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$14.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sheryl_the_alchemist_of_the_island_ruins_unrated"
+_ngcontent-gogcom-store-c1196613375="">Sheryl ~The Alchemist of the Island Ruins~ UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_shell_part_ii_purgatorio_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Shell Part II: Purgatorio UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bunny_garden"
+_ngcontent-gogcom-store-c1196613375="">BUNNY GARDEN</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

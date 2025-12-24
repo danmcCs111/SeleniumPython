@@ -1,0 +1,174 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galactic_civilizations_iii_worlds_in_crisis"
+_ngcontent-gogcom-store-c1196613375="">Galactic Civilizations III – Worlds in Crisis</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtuaverse_demo"
+_ngcontent-gogcom-store-c1196613375="">VirtuaVerse Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/delores_a_thimbleweed_park_miniadventure"
+_ngcontent-gogcom-store-c1196613375="">Delores: A Thimbleweed Park Mini-Adventure</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/one_dreamer_prologue"
+_ngcontent-gogcom-store-c1196613375="">One Dreamer: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/three_kingdoms_story_conussia_unrated_dlc"
+_ngcontent-gogcom-store-c1196613375="">Three kingdoms story: Conussia - UNRATED DLC</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tonight_we_riot"
+_ngcontent-gogcom-store-c1196613375="">Tonight We Riot</span>
+"final-value ng-star-inserted">$15.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/celestian_tales_realms_beyond"
+_ngcontent-gogcom-store-c1196613375="">Celestian Tales: Realms Beyond</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/foxtail_official_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">FoxTail - Official Game Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indivisible_razmi_challenges"
+_ngcontent-gogcom-store-c1196613375="">Indivisible Razmi Challenges</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jay_and_silent_bob_mall_brawl"
+_ngcontent-gogcom-store-c1196613375="">Jay and Silent Bob: Mall Brawl</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_base_game_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - Base Game: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_dungeon_expansion_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Dungeon Expansion: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_highland_expansion_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Highland Expansion: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_the_reaper_expansion_legendary_deck"
+_ngcontent-gogcom-store-c1196613375="">Talisman - The Reaper Expansion: Legendary Deck</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_ranger"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Ranger</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_swordsman"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Swordsman</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_witch_hunter"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Witch Hunter</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/close_to_the_sun"
+_ngcontent-gogcom-store-c1196613375="">Close To The Sun</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/close_to_the_sun_digital_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Close to the Sun Digital Deluxe</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/someday_youll_return"
+_ngcontent-gogcom-store-c1196613375="">Someday You'll Return</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wartile_hels_nightmare"
+_ngcontent-gogcom-store-c1196613375="">WARTILE: Hel's Nightmare</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wintermoor_tactics_club"
+_ngcontent-gogcom-store-c1196613375="">Wintermoor Tactics Club</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wintermoor_tactics_club_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Wintermoor Tactics Club: Official Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wintermoor_tactics_club_wintermost_edition"
+_ngcontent-gogcom-store-c1196613375="">Wintermoor Tactics Club: Wintermost Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sclash_demo"
+_ngcontent-gogcom-store-c1196613375="">Sclash Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/streets_of_rage_4"
+_ngcontent-gogcom-store-c1196613375="">Streets of Rage 4</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zoria_age_of_shattering_prologue"
+_ngcontent-gogcom-store-c1196613375="">Zoria Prologue (2020)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/samsara_room"
+_ngcontent-gogcom-store-c1196613375="">Samsara Room</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brave_alchemist_colette_unrated"
+_ngcontent-gogcom-store-c1196613375="">Brave Alchemist Colette UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/resolutiion_ost_the_last_website"
+_ngcontent-gogcom-store-c1196613375="">Resolutiion OST - The Last Website</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/interrogation_you_will_be_deceived_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Interrogation: You Will Be Deceived Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/project_hospital_hospital_services"
+_ngcontent-gogcom-store-c1196613375="">Project Hospital - Hospital Services</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/xcom_chimera_squad"
+_ngcontent-gogcom-store-c1196613375="">XCOM®: Chimera Squad</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cloudpunk"
+_ngcontent-gogcom-store-c1196613375="">Cloudpunk</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cloudpunk_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Cloudpunk Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/filament"
+_ngcontent-gogcom-store-c1196613375="">Filament</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/filament_marmalade_edition"
+_ngcontent-gogcom-store-c1196613375="">Filament: Marmalade Edition</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iratus_lord_of_the_dead_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Iratus: Lord of the Dead - Supporter Bundle</span>
+"base-value ng-star-inserted">$37.99</span>
+"final-value ng-star-inserted">$7.21</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_under_fire_the_crusaders_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Under Fire: The Crusaders Soundtrack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/order_of_battle_red_steel"
+_ngcontent-gogcom-store-c1196613375="">Order of Battle: Red Steel</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tropico_6_spitter"
+_ngcontent-gogcom-store-c1196613375="">Tropico 6 - Spitter</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/itta"
+_ngcontent-gogcom-store-c1196613375="">ITTA</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/help_will_come_tomorrow"
+_ngcontent-gogcom-store-c1196613375="">Help Will Come Tomorrow</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/snake_core"
+_ngcontent-gogcom-store-c1196613375="">Snake Core</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_flower_collectors"
+_ngcontent-gogcom-store-c1196613375="">The Flower Collectors</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_shattering"
+_ngcontent-gogcom-store-c1196613375="">The Shattering</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_8_destruction_mode"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #8 - Destruction Mode</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aground"
+_ngcontent-gogcom-store-c1196613375="">Aground</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.09</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

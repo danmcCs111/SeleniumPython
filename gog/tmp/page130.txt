@@ -1,0 +1,175 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prison_tycoon_under_new_management_maximum_security"
+_ngcontent-gogcom-store-c1196613375="">Prison Tycoon: Under New Management - Maximum Security</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_x_saint_unrated"
+_ngcontent-gogcom-store-c1196613375="">Succubus x Saint UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nightmare_reaper_demo"
+_ngcontent-gogcom-store-c1196613375="">Nightmare Reaper Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wigmund"
+_ngcontent-gogcom-store-c1196613375="">Wigmund</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cafe_stella_and_the_reapers_butterflies"
+_ngcontent-gogcom-store-c1196613375="">Café Stella and the Reaper's Butterflies</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cafe_stella_and_the_reapers_butterflies_unrated"
+_ngcontent-gogcom-store-c1196613375="">Café Stella and the Reaper's Butterflies UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_of_the_chalice_2"
+_ngcontent-gogcom-store-c1196613375="">Knights of the Chalice 2</span>
+"base-value ng-star-inserted">$44.99</span>
+"final-value ng-star-inserted">$33.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_of_the_chalice_2_archmage_edition"
+_ngcontent-gogcom-store-c1196613375="">Knights of the Chalice 2 - Archmage Edition</span>
+"base-value ng-star-inserted">$59.84</span>
+"final-value ng-star-inserted">$44.88</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/knights_of_the_chalice_2_archmage_pack"
+_ngcontent-gogcom-store-c1196613375="">Knights of the Chalice 2 - Archmage Pack</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$13.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chromosome_evil"
+_ngcontent-gogcom-store-c1196613375="">Chromosome Evil</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expedition_zero"
+_ngcontent-gogcom-store-c1196613375="">Expedition Zero</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highrise_city"
+_ngcontent-gogcom-store-c1196613375="">Highrise City</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highrise_city_demo"
+_ngcontent-gogcom-store-c1196613375="">Highrise City Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/highrise_city_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Highrise City Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/norco_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">NORCO Original Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/norco_special_edition"
+_ngcontent-gogcom-store-c1196613375="">NORCO Special Edition</span>
+"base-value ng-star-inserted">$22.99</span>
+"final-value ng-star-inserted">$9.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scrolls_of_sengoku_dynasty"
+_ngcontent-gogcom-store-c1196613375="">Scrolls of Sengoku Dynasty - Complete Scrolls Collection</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_art_of_norco"
+_ngcontent-gogcom-store-c1196613375="">The Art of NORCO</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_planet_crafter"
+_ngcontent-gogcom-store-c1196613375="">The Planet Crafter</span>
+"base-value ng-star-inserted">$23.99</span>
+"final-value ng-star-inserted">$13.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nadir_a_grimdark_deck_builder_demo"
+_ngcontent-gogcom-store-c1196613375="">Nadir: A Grimdark Deck Builder Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_m_for_mystery"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One - M for Mystery</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/itorah_save_the_world_edition"
+_ngcontent-gogcom-store-c1196613375="">ITORAH Save the World Edition</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orbital_bullet_the_360_roguelite_save_the_world_edition"
+_ngcontent-gogcom-store-c1196613375="">Orbital Bullet – The 360° Rogue-lite - Save the World Edition</span>
+"base-value ng-star-inserted">$26.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/trifox_demo"
+_ngcontent-gogcom-store-c1196613375="">Trifox Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lego_dc_supervillains_batman_the_animated_series_level_pack"
+_ngcontent-gogcom-store-c1196613375="">LEGO® DC Super-Villains Batman: The Animated Series Level Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/magna_fortuna"
+_ngcontent-gogcom-store-c1196613375="">Magna Fortuna</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/magna_fortuna_unrated"
+_ngcontent-gogcom-store-c1196613375="">Magna Fortuna UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dv_rings_of_saturn_4k_texture_pack"
+_ngcontent-gogcom-store-c1196613375="">ΔV: Rings of Saturn - 4K Texture Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/black_geyser_couriers_of_darkness"
+_ngcontent-gogcom-store-c1196613375="">Black Geyser: Couriers of Darkness</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_guns_drums_and_steel_volume_3_music_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Guns, Drums and Steel Volume 3 Music Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_textorcist_amen_edition"
+_ngcontent-gogcom-store-c1196613375="">The Textorcist: Amen Edition</span>
+"base-value ng-star-inserted">$22.46</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_textorcist_the_village"
+_ngcontent-gogcom-store-c1196613375="">The Textorcist: The Village</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_textorcist_the_village_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Textorcist: The Village - Soundtrack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/about_that_paradise_killer_bsides"
+_ngcontent-gogcom-store-c1196613375="">About That... Paradise Killer B-Sides</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tunic_bundle"
+_ngcontent-gogcom-store-c1196613375="">TUNIC + TUNIC (Original Game Soundtrack)</span>
+"base-value ng-star-inserted">$38.99</span>
+"final-value ng-star-inserted">$31.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/city_of_gangsters_criminal_record"
+_ngcontent-gogcom-store-c1196613375="">City of Gangsters: Criminal Record</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeons_of_dreadrock"
+_ngcontent-gogcom-store-c1196613375="">Dungeons of Dreadrock</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_fermi_paradox_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Fermi Paradox - Soundtrack</span>
+"final-value ng-star-inserted">$10.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/telepath_tactics_liberated"
+_ngcontent-gogcom-store-c1196613375="">Telepath Tactics Liberated</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_ukraine_support"
+_ngcontent-gogcom-store-c1196613375="">Succubus - Ukraine Support</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/limingweige_melody_before_the_dawn"
+_ngcontent-gogcom-store-c1196613375="">黎明为歌 - Melody before the Dawn</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/limingweige_melody_before_the_dawn_cgyuanhuaji"
+_ngcontent-gogcom-store-c1196613375="">黎明为歌 - Melody before the Dawn - CG原画集</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_rewinder_root_of_evil"
+_ngcontent-gogcom-store-c1196613375="">The Rewinder - Root of Evil</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aztech_forgotten_gods"
+_ngcontent-gogcom-store-c1196613375="">Aztech Forgotten Gods</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battle_brothers_of_flesh_and_faith"
+_ngcontent-gogcom-store-c1196613375="">Battle Brothers - Of Flesh and Faith</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/distant_worlds_2"
+_ngcontent-gogcom-store-c1196613375="">Distant Worlds 2</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_lung_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Iron Lung Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/urbek_city_builder_prologue"
+_ngcontent-gogcom-store-c1196613375="">Urbek City Builder Prologue</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

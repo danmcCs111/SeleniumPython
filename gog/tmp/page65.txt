@@ -1,0 +1,152 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/angeline_era_ost_volume_1"
+_ngcontent-gogcom-store-c1196613375="">Angeline Era OST (Volume 1)</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/angeline_era_ost_volume_2"
+_ngcontent-gogcom-store-c1196613375="">Angeline Era OST (Volume 2)</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/angeline_era_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Angeline Era Supporter Bundle</span>
+"final-value ng-star-inserted">$46.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/frostpunk_2_fractured_utopias"
+_ngcontent-gogcom-store-c1196613375="">Frostpunk 2 - Fractured Utopias</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tainted_grail_the_fall_of_avalon_bonus_content_1"
+_ngcontent-gogcom-store-c1196613375="">Tainted Grail: The Fall of Avalon - Bonus Content #1</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_dynasty_exquisite_pack"
+_ngcontent-gogcom-store-c1196613375="">Medieval Dynasty - Exquisite Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flotsam"
+_ngcontent-gogcom-store-c1196613375="">Flotsam</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Northgard: Definitive Edition</span>
+"final-value ng-star-inserted">$34.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dystopika_bsides"
+_ngcontent-gogcom-store-c1196613375="">Dystopika: B-Sides</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rising_heat"
+_ngcontent-gogcom-store-c1196613375="">Rising Heat</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shes_leaving"
+_ngcontent-gogcom-store-c1196613375="">She's Leaving</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stalker_gamma"
+_ngcontent-gogcom-store-c1196613375="">S.T.A.L.K.E.R. G.A.M.M.A.</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/formula_legends_pioneer_pack"
+_ngcontent-gogcom-store-c1196613375="">Formula Legends: Pioneer Pack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_ember_legendary_souls"
+_ngcontent-gogcom-store-c1196613375="">LOST EMBER: Legendary Souls</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_ember_rekindled_edition"
+_ngcontent-gogcom-store-c1196613375="">LOST EMBER: Rekindled Edition</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lover_kiss_endless_memories"
+_ngcontent-gogcom-store-c1196613375="">LoveR Kiss Endless Memories</span>
+"final-value ng-star-inserted">$44.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lover_kiss_endless_memories_demo"
+_ngcontent-gogcom-store-c1196613375="">LoveR Kiss Endless Memories Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/band_of_crusaders_demo"
+_ngcontent-gogcom-store-c1196613375="">Band of Crusaders Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brotherhood"
+_ngcontent-gogcom-store-c1196613375="">Brotherhood</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_1"
+_ngcontent-gogcom-store-c1196613375="">Holy Valkyrie EXS-TiA: Concerto 1</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_1_unrated"
+_ngcontent-gogcom-store-c1196613375="">Holy Valkyrie EXS-TiA: Concerto 1 UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_2"
+_ngcontent-gogcom-store-c1196613375="">Holy Valkyrie EXS-TiA: Concerto 2</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_valkyrie_exstia_concerto_2_unrated"
+_ngcontent-gogcom-store-c1196613375="">Holy Valkyrie EXS-TiA: Concerto 2 UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_command_american_civil_war_concert_of_europe"
+_ngcontent-gogcom-store-c1196613375="">Strategic Command: American Civil War - Concert of Europe</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormentor_artbook"
+_ngcontent-gogcom-store-c1196613375="">TORMENTOR - Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormentor_comic_book"
+_ngcontent-gogcom-store-c1196613375="">TORMENTOR - Comic Book</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormentor_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">TORMENTOR - Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormentor_supporter"
+_ngcontent-gogcom-store-c1196613375="">TORMENTOR - Supporter</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormentor_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">TORMENTOR Deluxe Edition</span>
+"final-value ng-star-inserted">$30.07</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure"
+_ngcontent-gogcom-store-c1196613375="">Hunter's Moon: A Sovereign Syndicate Adventure</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Hunter’s Moon: A Sovereign Syndicate Adventure - Digital Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Hunter’s Moon: A Sovereign Syndicate Adventure - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$35.97</span>
+"final-value ng-star-inserted">$32.37</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hunters_moon_a_sovereign_syndicate_adventure_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Hunter’s Moon: A Sovereign Syndicate Adventure - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fetish_locator_sm_studio_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Fetish Locator: S&amp;M Studio Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galador_the_prince_and_the_coward_digital_deluxe_content"
+_ngcontent-gogcom-store-c1196613375="">Galador - The Prince and the Coward - Digital Deluxe Content</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galador_the_prince_and_the_coward_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Galador - The Prince and the Coward - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/galador_the_prince_and_the_coward_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Galador - The Prince and the Coward - Soundtrack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gorky_17_digital_deluxe_content"
+_ngcontent-gogcom-store-c1196613375="">Gorky 17 - Digital Deluxe Content</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gorky_17_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Gorky 17 - Digital Deluxe Edition</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gorky_17_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Gorky 17 - Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kriophobia"
+_ngcontent-gogcom-store-c1196613375="">Kriophobia</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monsters_are_coming_rock_road"
+_ngcontent-gogcom-store-c1196613375="">Monsters are Coming! Rock &amp; Road</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/typhon_bot_vs_bot"
+_ngcontent-gogcom-store-c1196613375="">Typhon: Bot vs Bot</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/home_sweet_homecoming"
+_ngcontent-gogcom-store-c1196613375="">Home Sweet Homecoming</span>
+"final-value ng-star-inserted">$24.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/home_sweet_homecoming_unrated"
+_ngcontent-gogcom-store-c1196613375="">Home Sweet Homecoming UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_ghostly_digital_edition"
+_ngcontent-gogcom-store-c1196613375="">SpongeBob SquarePants: Titans of the Tide - Ghostly Digital Edition</span>
+"final-value ng-star-inserted">$54.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_natural_costume_pack"
+_ngcontent-gogcom-store-c1196613375="">SpongeBob SquarePants: Titans of the Tide - Natural Costume Pack</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spongebob_squarepants_titans_of_the_tide_planktons_portal_challenge"
+_ngcontent-gogcom-store-c1196613375="">SpongeBob SquarePants: Titans of the Tide - Plankton's Portal Challenge</span>
+"final-value ng-star-inserted">$9.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

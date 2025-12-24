@@ -1,0 +1,200 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/i_am_not_a_monster_first_contact"
+_ngcontent-gogcom-store-c1196613375="">I am not a Monster: First Contact</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$1.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/my_brother_rabbit"
+_ngcontent-gogcom-store-c1196613375="">My Brother Rabbit</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_king_of_fighters_xiii"
+_ngcontent-gogcom-store-c1196613375="">THE KING OF FIGHTERS XIII GALAXY EDITION</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/construction_simulator_2_us_pocket_edition"
+_ngcontent-gogcom-store-c1196613375="">Construction Simulator 2 US - Pocket Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/megaquarium"
+_ngcontent-gogcom-store-c1196613375="">Megaquarium</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/akane"
+_ngcontent-gogcom-store-c1196613375="">Akane</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_point_hospital"
+_ngcontent-gogcom-store-c1196613375="">Two Point Hospital</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ultimate_fishing_simulator"
+_ngcontent-gogcom-store-c1196613375="">Ultimate Fishing Simulator</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/graveyard_keeper_artbook"
+_ngcontent-gogcom-store-c1196613375="">Graveyard Keeper Artbook</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phantom_doctrine"
+_ngcontent-gogcom-store-c1196613375="">Phantom Doctrine</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phantom_doctrine_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Phantom Doctrine Deluxe Edition</span>
+"base-value ng-star-inserted">$45.99</span>
+"final-value ng-star-inserted">$4.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_bards_tale_trilogy"
+_ngcontent-gogcom-store-c1196613375="">The Bard's Tale Trilogy</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_walking_dead_the_final_season"
+_ngcontent-gogcom-store-c1196613375="">The Walking Dead: The Final Season</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/we_happy_few"
+_ngcontent-gogcom-store-c1196613375="">We Happy Few</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/overcooked_2_too_many_cooks_pack"
+_ngcontent-gogcom-store-c1196613375="">Overcooked! 2 - Too Many Cooks Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.01</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_ii_deadfire_the_beast_of_winter"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity II: Deadfire - The Beast of Winter</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chasm"
+_ngcontent-gogcom-store-c1196613375="">Chasm</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forsaken"
+_ngcontent-gogcom-store-c1196613375="">Forsaken Remastered</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shining_song_starnova"
+_ngcontent-gogcom-store-c1196613375="">Shining Song Starnova</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ys_memories_of_celceta"
+_ngcontent-gogcom-store-c1196613375="">Ys: Memories of Celceta</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/semblance"
+_ngcontent-gogcom-store-c1196613375="">Semblance</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mary_skelter_nightmares"
+_ngcontent-gogcom-store-c1196613375="">Mary Skelter: Nightmares</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tempest_4000"
+_ngcontent-gogcom-store-c1196613375="">Tempest 4000</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_demolition_pack"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius - Demolition Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_relics_of_war_lord_of_skulls"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius - Relics of War Lord of Skulls</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_come_deliverance_from_the_ashes"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Come: Deliverance – From the Ashes</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/higurashi_when_they_cry_hou_ch6_tsumihoroboshi"
+_ngcontent-gogcom-store-c1196613375="">Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wreckfest"
+_ngcontent-gogcom-store-c1196613375="">Wreckfest</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampyr_the_hunters_heirlooms"
+_ngcontent-gogcom-store-c1196613375="">Vampyr - The Hunters Heirlooms DLC</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_darkness_over_daggerford_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Darkness Over Daggerford Official Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yokus_island_express"
+_ngcontent-gogcom-store-c1196613375="">Yoku's Island Express</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ancestors"
+_ngcontent-gogcom-store-c1196613375="">Ancestors Legacy</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_hulk_deathwing_enhanced_edition_deluxe"
+_ngcontent-gogcom-store-c1196613375="">Space Hulk: Deathwing - Enhanced Edition - Deluxe</span>
+"base-value ng-star-inserted">$34.19</span>
+"final-value ng-star-inserted">$6.83</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/far_lone_sails"
+_ngcontent-gogcom-store-c1196613375="">FAR: Lone Sails</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/far_lone_sails_ost"
+_ngcontent-gogcom-store-c1196613375="">FAR: Lone Sails - Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_explorers"
+_ngcontent-gogcom-store-c1196613375="">Star Explorers</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pillars_of_eternity_ii_deadfire_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Pillars of Eternity II: Deadfire - Season Pass</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_prom"
+_ngcontent-gogcom-store-c1196613375="">Monster Prom</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_woodsman"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Woodsman</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hiveswap_friendsim"
+_ngcontent-gogcom-store-c1196613375="">Hiveswap Friendsim</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/last_rites"
+_ngcontent-gogcom-store-c1196613375="">Last Rites</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$68.29</span>
+"final-value ng-star-inserted">$6.82</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Enhanced Edition Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_premium_adventures_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights: Premium Adventures Official Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kerbal_space_program_making_history"
+_ngcontent-gogcom-store-c1196613375="">Kerbal Space Program: Making History</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chuchel"
+_ngcontent-gogcom-store-c1196613375="">CHUCHEL</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fear_effect_sedna"
+_ngcontent-gogcom-store-c1196613375="">Fear Effect: Sedna</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/battlezone_combat_commander"
+_ngcontent-gogcom-store-c1196613375="">Battlezone: Combat Commander</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.79</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

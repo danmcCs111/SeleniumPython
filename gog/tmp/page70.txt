@@ -1,0 +1,184 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_shoot"
+_ngcontent-gogcom-store-c1196613375="">Holy Shoot</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/day_of_the_shell"
+_ngcontent-gogcom-store-c1196613375="">Day of the Shell</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$9.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terminator_dark_fate_defiance_uprising"
+_ngcontent-gogcom-store-c1196613375="">Terminator: Dark Fate - Defiance: Uprising</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/primal_planet_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Primal Planet (Original Soundtrack)</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/primal_planet_soundtrack_pack"
+_ngcontent-gogcom-store-c1196613375="">Primal Planet - Soundtrack Pack</span>
+"final-value ng-star-inserted">$25.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/split"
+_ngcontent-gogcom-store-c1196613375="">s.p.l.i.t</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ctrl_alt_deal"
+_ngcontent-gogcom-store-c1196613375="">Ctrl Alt Deal</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_23"
+_ngcontent-gogcom-store-c1196613375="">Forgotten 23</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$7.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strategic_command_wwii_rise_and_fall_of_an_empire"
+_ngcontent-gogcom-store-c1196613375="">Strategic Command WWII: War in the Pacific - Rise and Fall of an Empire</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bridge_constructor_studio"
+_ngcontent-gogcom-store-c1196613375="">Bridge Constructor Studio</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/golden_tee_arcade_classics"
+_ngcontent-gogcom-store-c1196613375="">Golden Tee Arcade Classics</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mandragora_whispers_of_the_witch_tree_dark_ale_quest"
+_ngcontent-gogcom-store-c1196613375="">Mandragora: Whispers of the Witch Tree - 'Dark Ale' Quest</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reus_2_everglades"
+_ngcontent-gogcom-store-c1196613375="">Reus 2 - Everglades</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/robocop_rogue_city_unfinished_business"
+_ngcontent-gogcom-store-c1196613375="">RoboCop: Rogue City - Unfinished Business</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_drifter_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Drifter Original Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_drifter_pixels_and_synths_bundle"
+_ngcontent-gogcom-store-c1196613375="">The Drifter: Pixels and Synths Bundle</span>
+"base-value ng-star-inserted">$26.99</span>
+"final-value ng-star-inserted">$24.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/refresh_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Re:Fresh Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/virtual_rides_3_ride_pack_3_noise_machine_power_dive"
+_ngcontent-gogcom-store-c1196613375="">Virtual Rides 3 - Ride Pack #3 (Noise Machine &amp; Power Dive)</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eriksholm_the_stolen_dream_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Eriksholm: The Stolen Dream Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/neverwinter_nights_1_2_enhanced_collection"
+_ngcontent-gogcom-store-c1196613375="">Neverwinter Nights 1 + 2 Enhanced Collection</span>
+"base-value ng-star-inserted">$44.98</span>
+"final-value ng-star-inserted">$42.28</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/everdeep_aurora"
+_ngcontent-gogcom-store-c1196613375="">Everdeep Aurora</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/where_it_all_began_season_1"
+_ngcontent-gogcom-store-c1196613375="">Where it all Began - Season 1</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rain_world_slugcats_lifecycle_edition"
+_ngcontent-gogcom-store-c1196613375="">Rain World - Slugcat's Lifecycle Edition</span>
+"base-value ng-star-inserted">$49.47</span>
+"final-value ng-star-inserted">$39.57</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boxville_2_artbook_and_wallpapers"
+_ngcontent-gogcom-store-c1196613375="">Boxville 2 Artbook and Wallpapers</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boxville_2_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Boxville 2 Collector's Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boxville_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Boxville 2 Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darkest_dungeon_ii_hero_origin_pack"
+_ngcontent-gogcom-store-c1196613375="">Darkest Dungeon® II: Hero Origin Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/elroy_and_the_aliens_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Elroy and the Aliens Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jaleco_sports_goal"
+_ngcontent-gogcom-store-c1196613375="">Jaleco Sports: Goal!</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_dynasty_original_soundtrack_vol_2"
+_ngcontent-gogcom-store-c1196613375="">Medieval Dynasty - Original Soundtrack Vol. 2</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/monster_con_bradphomet_warm_walter_playable_character_pack"
+_ngcontent-gogcom-store-c1196613375="">Monster Con - Bradphomet &amp; Warm Walter (Playable Character Pack)</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nanomon_virtual_pet"
+_ngcontent-gogcom-store-c1196613375="">Nanomon Virtual Pet</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nanomon_virtual_pet_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nanomon Virtual Pet Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/guards_ii_chaos_in_hell"
+_ngcontent-gogcom-store-c1196613375="">Guards II: Chaos in Hell</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$13.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vessels_of_decay"
+_ngcontent-gogcom-store-c1196613375="">Vessels of Decay</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/azraels_tear"
+_ngcontent-gogcom-store-c1196613375="">Azrael's Tear</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_random_the_eternal_die_artbook"
+_ngcontent-gogcom-store-c1196613375="">Lost in Random: The Eternal Die - Artbook</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_random_the_eternal_die_fortune_edition"
+_ngcontent-gogcom-store-c1196613375="">Lost In Random: The Eternal Die - Fortune Edition</span>
+"base-value ng-star-inserted">$37.47</span>
+"final-value ng-star-inserted">$28.10</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_random_the_eternal_die_official_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lost in Random: The Eternal Die - Official Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lost_in_random_the_eternal_die_wardrobe_expansion"
+_ngcontent-gogcom-store-c1196613375="">Lost In Random: The Eternal Die - Wardrobe Expansion</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubers_dark_covenant_unrated"
+_ngcontent-gogcom-store-c1196613375="">Succubers! Dark Covenant UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_building_full_of_cats_2"
+_ngcontent-gogcom-store-c1196613375="">A Building Full of Cats 2</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_building_full_of_cats_2_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">A Building Full of Cats 2 Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/grimstar_crystals_are_the_new_oil"
+_ngcontent-gogcom-store-c1196613375="">Grimstar: Crystals are the New Oil!</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_alters_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Alters: Original Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/way_of_the_hunter_night_hunting_pack"
+_ngcontent-gogcom-store-c1196613375="">Way of the Hunter - Night Hunting Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_gardariki_clan_of_the_hippogriff"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Gardariki, Clan of the Hippogriff</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/songs_of_silence_year_1_crafters_frame"
+_ngcontent-gogcom-store-c1196613375="">Songs of Silence Year 1 Crafters Frame</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

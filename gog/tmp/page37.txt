@@ -1,0 +1,201 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/enishia_and_the_binding_brand"
+_ngcontent-gogcom-store-c1196613375="">Enishia and the Binding Brand</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/summers_gone_season_1"
+_ngcontent-gogcom-store-c1196613375="">Summer's Gone - Season 1</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bloodstained_ritual_of_the_night_japanesque_cosmetic_pack"
+_ngcontent-gogcom-store-c1196613375="">Bloodstained: Ritual of the Night - Japanesque Cosmetic Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bloodstained_ritual_of_the_night_magical_girl_cosmetic_pack"
+_ngcontent-gogcom-store-c1196613375="">Bloodstained: Ritual of the Night - Magical Girl Cosmetic Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_the_machine_age"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: The Machine Age</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/indika"
+_ngcontent-gogcom-store-c1196613375="">INDIKA</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/front_mission_2_remake"
+_ngcontent-gogcom-store-c1196613375="">FRONT MISSION 2: Remake</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$11.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nordic_ashes_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nordic Ashes Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tactical_warfare_bundle"
+_ngcontent-gogcom-store-c1196613375="">Tactical Warfare Bundle</span>
+"base-value ng-star-inserted">$55.99</span>
+"final-value ng-star-inserted">$31.35</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/womanizer"
+_ngcontent-gogcom-store-c1196613375="">Womanizer</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.58</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nordic_ashes_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Nordic Ashes Digital Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nordic_ashes_survivors_of_ragnarok"
+_ngcontent-gogcom-store-c1196613375="">Nordic Ashes: Survivors of Ragnarok</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/phantom_fury"
+_ngcontent-gogcom-store-c1196613375="">Phantom Fury</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_shell_part_ii_purgatorio"
+_ngcontent-gogcom-store-c1196613375="">The Shell Part II: Purgatorio</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/headquarters_world_war_ii_market_garden"
+_ngcontent-gogcom-store-c1196613375="">Headquarters: World War II - Market Garden</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rimworld_anomaly"
+_ngcontent-gogcom-store-c1196613375="">RimWorld - Anomaly</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sons_of_valhalla"
+_ngcontent-gogcom-store-c1196613375="">Sons of Valhalla</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holy_maid_academy"
+_ngcontent-gogcom-store-c1196613375="">Holy Maid Academy</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_genesis_order"
+_ngcontent-gogcom-store-c1196613375="">The Genesis Order</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_skye"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Skye</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$6.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/geneforge_2_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Geneforge 2 Deluxe Edition</span>
+"base-value ng-star-inserted">$26.98</span>
+"final-value ng-star-inserted">$21.58</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bulwark_falconeer_chronicles"
+_ngcontent-gogcom-store-c1196613375="">Bulwark Evolution: Falconeer Chronicles</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/living_with_sister_monochrome_fantasy"
+_ngcontent-gogcom-store-c1196613375="">Living With Sister: Monochrome Fantasy</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$10.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bears_in_space"
+_ngcontent-gogcom-store-c1196613375="">Bears In Space</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/panzer_corps_2_frontlines_bulge"
+_ngcontent-gogcom-store-c1196613375="">Panzer Corps 2: Frontlines - Bulge</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$8.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/scott_whiskers_in_the_search_for_mr_fumbleclaw"
+_ngcontent-gogcom-store-c1196613375="">Scott Whiskers in: the Search for Mr. Fumbleclaw</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alone_in_the_dark"
+_ngcontent-gogcom-store-c1196613375="">Alone in the Dark</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/alone_in_the_dark_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Alone in the Dark Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$49.96</span>
+"final-value ng-star-inserted">$19.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/outcast_a_new_beginning_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Outcast - A New Beginning Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$2.63</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crypt_of_the_necrodancer_synchrony"
+_ngcontent-gogcom-store-c1196613375="">Crypt of the NecroDancer: SYNCHRONY</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/train_valley_2_patent_pending"
+_ngcontent-gogcom-store-c1196613375="">Train Valley 2 - Patent Pending</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/between_the_stars"
+_ngcontent-gogcom-store-c1196613375="">Between the Stars</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gord_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Gord - Ultimate Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zoria_age_of_shattering"
+_ngcontent-gogcom-store-c1196613375="">Zoria: Age of Shattering</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_thaumaturge_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">The Thaumaturge: Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$40.47</span>
+"final-value ng-star-inserted">$22.66</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/maid_of_the_dead"
+_ngcontent-gogcom-store-c1196613375="">Maid of the Dead</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brothers_a_tale_of_two_sons_remake"
+_ngcontent-gogcom-store-c1196613375="">Brothers: A Tale of Two Sons Remake</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/death_from_above_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Death From Above - Complete Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inkulinati"
+_ngcontent-gogcom-store-c1196613375="">Inkulinati</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rail_route"
+_ngcontent-gogcom-store-c1196613375="">Rail Route</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/medieval_machines_builder"
+_ngcontent-gogcom-store-c1196613375="">Medieval Machines Builder</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nukitashi_2"
+_ngcontent-gogcom-store-c1196613375="">NUKITASHI 2</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/clash_ii"
+_ngcontent-gogcom-store-c1196613375="">Clash II</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hardball_hardball_2"
+_ngcontent-gogcom-store-c1196613375="">Hardball + Hardball 2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lysfanga_the_time_shift_warrior"
+_ngcontent-gogcom-store-c1196613375="">Lysfanga: The Time Shift Warrior</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/spellforce_conquest_of_eo_demon_scourge"
+_ngcontent-gogcom-store-c1196613375="">SpellForce: Conquest of Eo - Demon Scourge</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_inquisitor"
+_ngcontent-gogcom-store-c1196613375="">The Inquisitor</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$25.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/last_train_home_legion_tales"
+_ngcontent-gogcom-store-c1196613375="">Last Train Home - Legion Tales</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,186 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/necromunda_hired_gun_nautica"
+_ngcontent-gogcom-store-c1196613375="">Necromunda: Hired Gun - Nautica Skin Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_detective_pack"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One - Detective Pack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_12_kostritza"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #12 – Kostritza</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stellaris_aquatics_species_pack"
+_ngcontent-gogcom-store-c1196613375="">Stellaris: Aquatics Species Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_gladius_adeptus_mechanicus"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Gladius - Adeptus Mechanicus</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fetish_locator_week_two_walkthrough_dlc"
+_ngcontent-gogcom-store-c1196613375="">Fetish Locator Week Two - Walkthrough DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/obscurite_magie_the_city_of_sin_unrated"
+_ngcontent-gogcom-store-c1196613375="">Obscurite Magie: The City of Sin UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/b17_flying_fortress_bombers_in_action"
+_ngcontent-gogcom-store-c1196613375="">B-17 Flying Fortress: World War II Bombers in Action</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$5.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hero_of_the_kingdom_the_lost_tales_2"
+_ngcontent-gogcom-store-c1196613375="">Hero of the Kingdom: The Lost Tales 2</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kimagure_temptation_unrated"
+_ngcontent-gogcom-store-c1196613375="">Kimagure Temptation unrated</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pronty"
+_ngcontent-gogcom-store-c1196613375="">Pronty</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/redestiny"
+_ngcontent-gogcom-store-c1196613375="">RE:Destiny</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/redestiny_18_patch_depreciated"
+_ngcontent-gogcom-store-c1196613375="">Re:DESTINY 18+ Patch (depreciated)</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relord_2_the_witch_of_cologne_and_black_cat"
+_ngcontent-gogcom-store-c1196613375="">Re;Lord 2 ~The witch of Cologne and black cat~</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/relord_2_the_witch_of_cologne_and_black_cat_unrated"
+_ngcontent-gogcom-store-c1196613375="">Re;Lord 2 ~The witch of Cologne and black cat~ unrated</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/city_of_gangsters_atlantic_city"
+_ngcontent-gogcom-store-c1196613375="">City of Gangsters: Atlantic City</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/undungeon"
+_ngcontent-gogcom-store-c1196613375="">Undungeon</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/next_space_rebels"
+_ngcontent-gogcom-store-c1196613375="">Next Space Rebels</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/combat_mission_cold_war"
+_ngcontent-gogcom-store-c1196613375="">Combat Mission Cold War</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/curious_expedition_2_highlands_of_avalon"
+_ngcontent-gogcom-store-c1196613375="">Curious Expedition 2 - Highlands of Avalon</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kingdom_two_crowns_norse_lands"
+_ngcontent-gogcom-store-c1196613375="">Kingdom Two Crowns: Norse Lands</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruined_king_a_league_of_legends_story_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Ruined King: A League of Legends Story™ - Deluxe Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruined_king_lost_found_weapon_pack"
+_ngcontent-gogcom-store-c1196613375="">Ruined King: Lost &amp; Found Weapon Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruined_king_manamune_sword_for_yasuo"
+_ngcontent-gogcom-store-c1196613375="">Ruined King: Manamune Sword for Yasuo</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruined_king_ruination_starter_pack"
+_ngcontent-gogcom-store-c1196613375="">Ruined King: Ruination Starter Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruined_king_ruined_skin_variants"
+_ngcontent-gogcom-store-c1196613375="">Ruined King: Ruined Skin Variants</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_artbook_and_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One - Artbook and Soundtrack</span>
+"base-value ng-star-inserted">$10.99</span>
+"final-value ng-star-inserted">$3.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_saints_and_sinners"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One - Saints And Sinners</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_season_pass"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One Season Pass</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_the_aftermath"
+_ngcontent-gogcom-store-c1196613375="">Surviving the Aftermath</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tavern_master_demo"
+_ngcontent-gogcom-store-c1196613375="">Tavern Master Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_bikini_dlc"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Bikini DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_black_kitten_dlc"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Black Kitten DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_energetic_dlc"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Energetic DLC</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_gold_edition"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Gold Edition</span>
+"base-value ng-star-inserted">$24.86</span>
+"final-value ng-star-inserted">$19.88</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_skinny_jeans_dlc"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Skinny Jeans DLC</span>
+"base-value ng-star-inserted">$0.99</span>
+"final-value ng-star-inserted">$0.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Ultimate Edition</span>
+"base-value ng-star-inserted">$27.99</span>
+"final-value ng-star-inserted">$22.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite_youthful_days_dlc"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite Youthful Days DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fox_girls_never_play_dirty_unrated"
+_ngcontent-gogcom-store-c1196613375="">Fox Girls Never Play Dirty! UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gigapocalypse"
+_ngcontent-gogcom-store-c1196613375="">Gigapocalypse</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/american_hero"
+_ngcontent-gogcom-store-c1196613375="">American Hero</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/catisfaction_bundle"
+_ngcontent-gogcom-store-c1196613375="">Catisfaction Bundle</span>
+"base-value ng-star-inserted">$44.03</span>
+"final-value ng-star-inserted">$30.38</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/epic_chef"
+_ngcontent-gogcom-store-c1196613375="">Epic Chef</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/house_builder"
+_ngcontent-gogcom-store-c1196613375="">House Builder</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immersion_pack_europa_universalis_iv_origins"
+_ngcontent-gogcom-store-c1196613375="">Immersion Pack - Europa Universalis IV: Origins</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/megaquarium_architects_collection"
+_ngcontent-gogcom-store-c1196613375="">Megaquarium: Architect's Collection</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$6.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/punk_wars"
+_ngcontent-gogcom-store-c1196613375="">Punk Wars</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,195 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dark_reign_expansion"
+_ngcontent-gogcom-store-c1196613375="">Dark Reign + Expansion</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_big_adventure_2"
+_ngcontent-gogcom-store-c1196613375="">Twinsen's Little Big Adventure 2 Classic</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/imperium_galactica"
+_ngcontent-gogcom-store-c1196613375="">Imperium Galactica</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nitro_racers"
+_ngcontent-gogcom-store-c1196613375="">Nitro Racers</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/leisure_suit_larry_love_for_sail"
+_ngcontent-gogcom-store-c1196613375="">Leisure Suit Larry: Love for Sail!</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realms_of_arkania_3"
+_ngcontent-gogcom-store-c1196613375="">Realms of Arkania 3</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_general"
+_ngcontent-gogcom-store-c1196613375="">Star General</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/maui_mallard_in_cold_shadow"
+_ngcontent-gogcom-store-c1196613375="">Maui Mallard in Cold Shadow</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_control_iii"
+_ngcontent-gogcom-store-c1196613375="">Star Control III</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/strife_veteran_edition"
+_ngcontent-gogcom-store-c1196613375="">The Original Strife: Veteran Edition</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/world_rally_fever_born_on_the_road"
+_ngcontent-gogcom-store-c1196613375="">World Rally Fever: Born on the Road</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/d_the_game"
+_ngcontent-gogcom-store-c1196613375="">D: The Game</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pinball_gold_pack"
+_ngcontent-gogcom-store-c1196613375="">Pinball Gold Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/worms_united"
+_ngcontent-gogcom-store-c1196613375="">Worms United</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slipstream_5000"
+_ngcontent-gogcom-store-c1196613375="">Slipstream 5000</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/stonekeep"
+_ngcontent-gogcom-store-c1196613375="">Stonekeep</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/anvil_of_dawn"
+_ngcontent-gogcom-store-c1196613375="">Anvil of Dawn</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/across_the_rhine"
+_ngcontent-gogcom-store-c1196613375="">Across the Rhine</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/call_of_cthulhu_prisoner_of_ice"
+_ngcontent-gogcom-store-c1196613375="">Call of Cthulhu: Prisoner of Ice</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/time_gate_knights_chase"
+_ngcontent-gogcom-store-c1196613375="">Time Gate: Knight's Chase</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_lore_the_legend_begins"
+_ngcontent-gogcom-store-c1196613375="">Dragon Lore: The Legend Begins</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ultimate_body_blows"
+_ngcontent-gogcom-store-c1196613375="">Ultimate Body Blows</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragonview"
+_ngcontent-gogcom-store-c1196613375="">Dragonview</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_big_adventure"
+_ngcontent-gogcom-store-c1196613375="">Twinsen's Little Big Adventure Classic</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wing_commander_armada"
+_ngcontent-gogcom-store-c1196613375="">Wing Commander™: Armada</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/magic_carpet"
+_ngcontent-gogcom-store-c1196613375="">Magic Carpet Plus™</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/realms_of_arkania_1_2"
+_ngcontent-gogcom-store-c1196613375="">Realms of Arkania 1+2</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/1942_the_pacific_air_war"
+_ngcontent-gogcom-store-c1196613375="">1942: The Pacific Air War</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers"
+_ngcontent-gogcom-store-c1196613375="">Gabriel Knight: Sins of the Fathers</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/wing_commander_academy"
+_ngcontent-gogcom-store-c1196613375="">Wing Commander™: Academy</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/return_to_zork"
+_ngcontent-gogcom-store-c1196613375="">Return to Zork</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/labyrinth_of_time_the"
+_ngcontent-gogcom-store-c1196613375="">The Labyrinth of Time</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Kyrandia: Hand of Fate (Book Two)</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eric_the_unready"
+_ngcontent-gogcom-store-c1196613375="">Eric the Unready</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_wars_rebel_assault_1_2"
+_ngcontent-gogcom-store-c1196613375="">Star Wars™: Rebel Assault 1 + 2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cosmos_cosmic_adventure"
+_ngcontent-gogcom-store-c1196613375="">Cosmo's Cosmic Adventure</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sabre_team"
+_ngcontent-gogcom-store-c1196613375="">Sabre Team</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_dagger_of_amon_ra"
+_ngcontent-gogcom-store-c1196613375="">The Dagger of Amon Ra</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/populous_2"
+_ngcontent-gogcom-store-c1196613375="">Populous™ 2: Trials of the Olympian Gods</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/moonstone_a_hard_days_knight"
+_ngcontent-gogcom-store-c1196613375="">Moonstone: A Hard Days Knight</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgotten_realms_the_archives_collection_one"
+_ngcontent-gogcom-store-c1196613375="">Forgotten Realms: The Archives - Collection One</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/prehistorik_12"
+_ngcontent-gogcom-store-c1196613375="">Prehistorik 1+2</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_adventures_of_willy_beamish"
+_ngcontent-gogcom-store-c1196613375="">The Adventures of Willy Beamish</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/quest_for_glory"
+_ngcontent-gogcom-store-c1196613375="">Quest for Glory 1-5</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_zork_anthology"
+_ngcontent-gogcom-store-c1196613375="">The Zork Anthology</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$3.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/space_quest_1_2_3"
+_ngcontent-gogcom-store-c1196613375="">Space Quest 1+2+3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.29</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zak_mckracken_and_the_alien_mindbenders"
+_ngcontent-gogcom-store-c1196613375="">Zak McKracken and the Alien Mindbenders</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zany_golf"
+_ngcontent-gogcom-store-c1196613375="">Zany Golf</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,196 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/guacamelee_super_turbo_championship_edition"
+_ngcontent-gogcom-store-c1196613375="">Guacamelee! Super Turbo Championship Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/qube_directors_cut"
+_ngcontent-gogcom-store-c1196613375="">Q.U.B.E.: Director's Cut</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowgate"
+_ngcontent-gogcom-store-c1196613375="">Shadowgate</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowgate_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Shadowgate: Special Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shadowgate_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Shadowgate: Special Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_dark_side"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty: Dark Side</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$1.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_dark_side_premium_edition"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty: Dark Side - Premium Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_dark_side_premium_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty: Dark Side - Premium Edition Upgrade</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/detective_grimoire"
+_ngcontent-gogcom-store-c1196613375="">Detective Grimoire</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/morphopolis"
+_ngcontent-gogcom-store-c1196613375="">Morphopolis</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/risen_3_titan_lords"
+_ngcontent-gogcom-store-c1196613375="">Risen 3: Titan Lords</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/risen_3_titan_lords_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Risen 3: Titan Lords - Complete Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/risen_3_titan_lords_upgrade_to_complete"
+_ngcontent-gogcom-store-c1196613375="">Risen 3: Titan Lords - Upgrade to Complete</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/victory_at_sea"
+_ngcontent-gogcom-store-c1196613375="">Victory At Sea</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lovely_planet_ost"
+_ngcontent-gogcom-store-c1196613375="">Lovely Planet OST</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/80_days"
+_ngcontent-gogcom-store-c1196613375="">80 Days</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lovely_planet"
+_ngcontent-gogcom-store-c1196613375="">Lovely Planet</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pixel_piracy"
+_ngcontent-gogcom-store-c1196613375="">Pixel Piracy</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_in_the_sky"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails in the Sky</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gods_will_be_watching_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Gods Will Be Watching: Special Edition</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gods_will_be_watching_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Gods Will Be Watching: Special Edition Upgrade</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_black_witch"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Black Witch</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unrest"
+_ngcontent-gogcom-store-c1196613375="">Unrest</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unrest_special_edition"
+_ngcontent-gogcom-store-c1196613375="">Unrest Special Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unrest_special_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Unrest Special Edition Upgrade</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/halfway"
+_ngcontent-gogcom-store-c1196613375="">Halfway</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/olliolli"
+_ngcontent-gogcom-store-c1196613375="">OlliOlli</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$2.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/freedom_planet"
+_ngcontent-gogcom-store-c1196613375="">Freedom Planet</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_indian_ships_unit_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Indian Ships Unit Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_indian_subcontinent_unit_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Indian Subcontinent Unit Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/europa_universalis_iv_republican_music_pack"
+_ngcontent-gogcom-store-c1196613375="">Europa Universalis IV: Republican Music Pack</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_europa_universalis_iv_res_publica"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Europa Universalis IV: Res Publica</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shantae_riskys_revenge_directors_cut"
+_ngcontent-gogcom-store-c1196613375="">Shantae: Risky's Revenge - Director's Cut</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crimsonland"
+_ngcontent-gogcom-store-c1196613375="">Crimsonland</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$4.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/quest_for_infamy"
+_ngcontent-gogcom-store-c1196613375="">Quest for Infamy</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whispering_willows"
+_ngcontent-gogcom-store-c1196613375="">Whispering Willows</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whispering_willows_art_book_soundtrack_and_wallpaper"
+_ngcontent-gogcom-store-c1196613375="">Whispering Willows - Art Book, Soundtrack and Wallpaper</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/whispering_willows_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Whispering Willows - Deluxe Edition</span>
+"base-value ng-star-inserted">$13.49</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mousecraft"
+_ngcontent-gogcom-store-c1196613375="">MouseCraft﻿</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/contraption_maker"
+_ngcontent-gogcom-store-c1196613375="">Contraption Maker</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/z"
+_ngcontent-gogcom-store-c1196613375="">Z: The Game</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bridge_constructor_playground"
+_ngcontent-gogcom-store-c1196613375="">Bridge Constructor Playground</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sunrider_mask_of_arcadius"
+_ngcontent-gogcom-store-c1196613375="">Sunrider: Mask of Arcadius</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/talisman_character_gambler"
+_ngcontent-gogcom-store-c1196613375="">Talisman Character - Gambler</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_warriors_of_the_north_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty: Warriors of the North - Complete Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/kings_bounty_warriors_of_the_north_complete_edition_upgrade"
+_ngcontent-gogcom-store-c1196613375="">King's Bounty: Warriors of the North - Complete Edition Upgrade</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/shovel_knight"
+_ngcontent-gogcom-store-c1196613375="">Shovel Knight: Treasure Trove</span>
+"final-value ng-star-inserted">$39.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/drod_the_second_sky"
+_ngcontent-gogcom-store-c1196613375="">DROD: The Second Sky</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

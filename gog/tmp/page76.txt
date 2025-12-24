@@ -1,0 +1,173 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/eternal_strands_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Eternal Strands Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/learning_factory_catopia_visionary_edition"
+_ngcontent-gogcom-store-c1196613375="">Learning Factory Catopia Visionary Edition</span>
+"base-value ng-star-inserted">$22.46</span>
+"final-value ng-star-inserted">$17.96</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/learning_factory_support_the_developers_poster_pack"
+_ngcontent-gogcom-store-c1196613375="">Learning Factory Support the Developers &amp; Poster Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_stone_of_madness_special_edition"
+_ngcontent-gogcom-store-c1196613375="">The Stone of Madness - Special Edition</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$11.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_stone_of_madness_special_edition_content"
+_ngcontent-gogcom-store-c1196613375="">The Stone of Madness Special Edition Content</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.64</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/darkest_dungeon_ii_inhuman_bondage"
+_ngcontent-gogcom-store-c1196613375="">Darkest Dungeon® II: Inhuman Bondage</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mark_of_the_deep"
+_ngcontent-gogcom-store-c1196613375="">Mark of the Deep</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mark_of_the_deep_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Mark of the Deep - Deluxe Edition</span>
+"final-value ng-star-inserted">$25.46</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/mark_of_the_deep_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Mark of the Deep - Supporter Pack</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_shell_part_iii_paradiso_unrated"
+_ngcontent-gogcom-store-c1196613375="">The Shell Part III: Paradiso UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jotunnslayer_hordes_of_hel_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Jotunnslayer: Hordes of Hel - Digital Artbook</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/jotunnslayer_hordes_of_hel_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Jotunnslayer: Hordes of Hel Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$3.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sacrifice_villains"
+_ngcontent-gogcom-store-c1196613375="">SACRIFICE VILLAINS</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sacrifice_villains_unrated"
+_ngcontent-gogcom-store-c1196613375="">SACRIFICE VILLAINS UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/somber_echoes"
+_ngcontent-gogcom-store-c1196613375="">Somber Echoes</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_nemesis_7_hells_highway"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Nemesis #7 - Hell's Highway</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_16_dukla_pass"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #16 - Dukla Pass</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/reus_2_ice_age"
+_ngcontent-gogcom-store-c1196613375="">Reus 2 - Ice Age</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$6.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/another_way_of_gettin_paid_unrated"
+_ngcontent-gogcom-store-c1196613375="">Another Way of Gettin' Paid UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boti_byteland_overclocked_bit_racing_dlc"
+_ngcontent-gogcom-store-c1196613375="">Boti: Byteland Overclocked - Bit Racing DLC</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dragon_ruins_ii_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Dragon Ruins II Soundtrack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/murder_is_game_over_the_blackinton_curse"
+_ngcontent-gogcom-store-c1196613375="">Murder Is Game Over: The Blackinton Curse</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$5.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slave_zero_x_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Slave Zero X Deluxe Upgrade</span>
+"base-value ng-star-inserted">$5.00</span>
+"final-value ng-star-inserted">$3.00</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sub_terra_draconis_the_golemworks"
+_ngcontent-gogcom-store-c1196613375="">Sub Terra Draconis - The Golemworks</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/49_keys_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">49 Keys Soundtrack</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/boxville_2_demo"
+_ngcontent-gogcom-store-c1196613375="">Boxville 2 Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/code_bunny"
+_ngcontent-gogcom-store-c1196613375="">CODE Bunny</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/heads_will_roll_reforged_threads_of_destiny"
+_ngcontent-gogcom-store-c1196613375="">Heads Will Roll: Reforged - Threads of Destiny</span>
+"base-value ng-star-inserted">$11.99</span>
+"final-value ng-star-inserted">$5.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/impaler_gold_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Impaler Gold Soundtrack</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tokyo_clanpool"
+_ngcontent-gogcom-store-c1196613375="">Tokyo Clanpool</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$29.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tokyo_clanpool_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Tokyo Clanpool Deluxe Edition</span>
+"base-value ng-star-inserted">$49.99</span>
+"final-value ng-star-inserted">$37.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blood_west_dead_mans_edition"
+_ngcontent-gogcom-store-c1196613375="">Blood West: Dead Man's Edition</span>
+"final-value ng-star-inserted">$29.73</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blood_west_dead_mans_promise"
+_ngcontent-gogcom-store-c1196613375="">Blood West: Dead Man’s Promise</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bo_path_of_the_teal_lotus_original_game_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Bō: Path of the Teal Lotus (Original Game Soundtrack)</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/citadelum_original_soundtrack_pack"
+_ngcontent-gogcom-store-c1196613375="">Citadelum + Original Soundtrack</span>
+"base-value ng-star-inserted">$27.88</span>
+"final-value ng-star-inserted">$21.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/citadelum_campaign_ii_the_last_conqueror_of_britannia"
+_ngcontent-gogcom-store-c1196613375="">Citadelum Campaign II: The Last Conqueror of Britannia</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flint_the_treasure_of_oblivion"
+_ngcontent-gogcom-store-c1196613375="">Flint: Treasure of Oblivion</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$17.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flint_treasure_of_oblivion_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Flint: Treasure of Oblivion - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$24.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/flint_treasure_of_oblivion_digital_deluxe_upgrade"
+_ngcontent-gogcom-store-c1196613375="">Flint: Treasure of Oblivion - Digital Deluxe Upgrade</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$9.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_shift_nurses"
+_ngcontent-gogcom-store-c1196613375="">Night Shift Nurses</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/night_shift_nurses_unrated"
+_ngcontent-gogcom-store-c1196613375="">Night Shift Nurses UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warno_northag"
+_ngcontent-gogcom-store-c1196613375="">WARNO - NORTHAG</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$18.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/brok_the_investigator_natal_tail_a_new_christmas"
+_ngcontent-gogcom-store-c1196613375="">BROK the InvestiGator - Natal Tail, A New Christmas</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/workers_resources_soviet_republic_world_maps"
+_ngcontent-gogcom-store-c1196613375="">Workers &amp; Resources: Soviet Republic - World Maps</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/breath_of_death_vii_the_beginning_reanimated"
+_ngcontent-gogcom-store-c1196613375="">Breath of Death VII: The Beginning: Reanimated</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/northgard_hafgufa_clan_of_the_turtle"
+_ngcontent-gogcom-store-c1196613375="">Northgard - Hafgufa, Clan of the Turtle</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/star_trucker_heavy_duty_customisation_pack"
+_ngcontent-gogcom-store-c1196613375="">Star Trucker - Heavy Duty Pack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dungeons_4_not_another_multiverse"
+_ngcontent-gogcom-store-c1196613375="">Dungeons 4 – Not Another Multiverse</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$12.74</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

@@ -1,0 +1,175 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deadly_dozen_reloaded"
+_ngcontent-gogcom-store-c1196613375="">Deadly Dozen Reloaded</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.84</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/little_nightmares_i_ii_bundle"
+_ngcontent-gogcom-store-c1196613375="">Little Nightmares I &amp; II Bundle</span>
+"base-value ng-star-inserted">$59.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ravenous_devils"
+_ngcontent-gogcom-store-c1196613375="">Ravenous Devils</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ravenous_devils_demo"
+_ngcontent-gogcom-store-c1196613375="">Ravenous Devils Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dorfromantik_soundtrack_vol_2"
+_ngcontent-gogcom-store-c1196613375="">Dorfromantik Soundtrack Vol 2</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$4.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nope_nope_nope_nurses_unrated"
+_ngcontent-gogcom-store-c1196613375="">Nope Nope Nope Nurses UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/save_room_organization_puzzle"
+_ngcontent-gogcom-store-c1196613375="">Save Room - Organization Puzzle</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_martian_express"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars - Martian Express</span>
+"final-value ng-star-inserted">$6.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_all_new_in_bundle"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars: All New In Bundle</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_future_contemporary_cosmetic_pack"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars: Future Contemporary Cosmetic Pack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/surviving_mars_revelation_radio_pack"
+_ngcontent-gogcom-store-c1196613375="">Surviving Mars: Revelation Radio Pack</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/syberia_the_world_before_demo"
+_ngcontent-gogcom-store-c1196613375="">Syberia: The World Before Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unsouled"
+_ngcontent-gogcom-store-c1196613375="">Unsouled</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unsouled_digital_artbook"
+_ngcontent-gogcom-store-c1196613375="">Unsouled - Digital Artbook</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unsouled_digital_deluxe_bundle"
+_ngcontent-gogcom-store-c1196613375="">Unsouled Digital Deluxe Bundle</span>
+"final-value ng-star-inserted">$26.97</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unsouled_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Unsouled Soundtrack</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/holomento"
+_ngcontent-gogcom-store-c1196613375="">Holomento</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$15.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lilas_sky_ark_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lila's Sky Ark Soundtrack</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/metal_mind"
+_ngcontent-gogcom-store-c1196613375="">Metal Mind</span>
+"final-value ng-star-inserted">$17.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lego_dc_supervillains_shazam_movie_level_pack_1_2"
+_ngcontent-gogcom-store-c1196613375="">LEGO® DC Super-Villains Shazam! Movie Level Pack 1 &amp; 2</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ai_war_2_the_neinzul_abyss"
+_ngcontent-gogcom-store-c1196613375="">AI War 2: The Neinzul Abyss</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_blue_flames"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite - Blue Flames</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/immortal_mantis"
+_ngcontent-gogcom-store-c1196613375="">Immortal Mantis</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/remorse_the_list"
+_ngcontent-gogcom-store-c1196613375="">Remorse: The List</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/turbo_overkill_demo"
+_ngcontent-gogcom-store-c1196613375="">Turbo Overkill Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/winkeltje_the_little_shop"
+_ngcontent-gogcom-store-c1196613375="">Winkeltje: The Little Shop</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/godlike_burger"
+_ngcontent-gogcom-store-c1196613375="">Godlike Burger</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/godlike_burger_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Godlike Burger - Supporter Bundle</span>
+"base-value ng-star-inserted">$25.59</span>
+"final-value ng-star-inserted">$6.14</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/godlike_burger_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Godlike Burger – Supporter Pack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lilas_sky_ark"
+_ngcontent-gogcom-store-c1196613375="">Lila's Sky Ark</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lumote"
+_ngcontent-gogcom-store-c1196613375="">Lumote: The Mastermote Chronicles</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lumote_the_mastermote_chronicles_digital_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">Lumote: The Mastermote Chronicles - Digital Deluxe Edition</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$8.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lumote_the_mastermote_chronicles_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Lumote: The Mastermote Chronicles - Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/orbitindustries_demo"
+_ngcontent-gogcom-store-c1196613375="">orbit.industries demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_through_the_ashes"
+_ngcontent-gogcom-store-c1196613375="">Pathfinder: Wrath of the Righteous - Through the Ashes</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$5.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revita"
+_ngcontent-gogcom-store-c1196613375="">Revita</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/revita_original_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Revita - Original Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terraformers_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Terraformers - Supporter Pack</span>
+"base-value ng-star-inserted">$12.99</span>
+"final-value ng-star-inserted">$6.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/velone"
+_ngcontent-gogcom-store-c1196613375="">VELONE</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$1.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/velone_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">VELONE - Supporter Bundle</span>
+"base-value ng-star-inserted">$19.89</span>
+"final-value ng-star-inserted">$2.18</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/velone_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">VELONE - Supporter Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warhammer_40000_battlesector_necrons_faction"
+_ngcontent-gogcom-store-c1196613375="">Warhammer 40,000: Battlesector - Necrons</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/warpips"
+_ngcontent-gogcom-store-c1196613375="">Warpips</span>
+"base-value ng-star-inserted">$16.99</span>
+"final-value ng-star-inserted">$2.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/aircraft_carrier_survival"
+_ngcontent-gogcom-store-c1196613375="">Aircraft Carrier Survival</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/glover"
+_ngcontent-gogcom-store-c1196613375="">Glover</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$10.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dv_rings_of_saturn_anthropogenesis"
+_ngcontent-gogcom-store-c1196613375="">ΔV: Rings of Saturn - Anthropogenesis</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.79</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dice_legacy_corrupted_fates"
+_ngcontent-gogcom-store-c1196613375="">Dice Legacy: Corrupted Fates</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_iron_oath"
+_ngcontent-gogcom-store-c1196613375="">The Iron Oath</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$14.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

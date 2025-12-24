@@ -1,0 +1,173 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_danger_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Iron Danger - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/iron_danger_supporter_bundle"
+_ngcontent-gogcom-store-c1196613375="">Iron Danger Supporter Bundle</span>
+"base-value ng-star-inserted">$24.89</span>
+"final-value ng-star-inserted">$5.72</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_point_hospital_exhibition_items_pack"
+_ngcontent-gogcom-store-c1196613375="">Two Point Hospital: Exhibition Items Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/two_point_hospital_off_the_grid"
+_ngcontent-gogcom-store-c1196613375="">Two Point Hospital: Off the Grid</span>
+"base-value ng-star-inserted">$8.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_coteries_of_new_york_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Official Vampire: The Masquerade - Coteries of New York Soundtrack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_consumable_starter_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Consumable Starter Set</span>
+"base-value ng-star-inserted">$14.87</span>
+"final-value ng-star-inserted">$5.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_consumable_value_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Consumable Value Set</span>
+"base-value ng-star-inserted">$29.86</span>
+"final-value ng-star-inserted">$11.94</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_faculty_swimsuit_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Faculty Swimsuit Set</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_free_sample_set_a"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Free Sample Set A</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_free_sample_set_b"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Free Sample Set B</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_junas_lloyd_bannings_costume"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Juna's Lloyd Bannings Costume</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_premium_cosmetic_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Premium Cosmetic Set</span>
+"base-value ng-star-inserted">$29.69</span>
+"final-value ng-star-inserted">$11.87</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_reans_unspeakable_costume"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Rean's Unspeakable Costume</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_standard_cosmetic_set"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III - Standard Cosmetic Set</span>
+"base-value ng-star-inserted">$14.79</span>
+"final-value ng-star-inserted">$5.91</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_demo"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III Demo</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_legend_of_heroes_trails_of_cold_steel_iii_digital_limited_edition"
+_ngcontent-gogcom-store-c1196613375="">The Legend of Heroes: Trails of Cold Steel III Digital Limited Edition</span>
+"base-value ng-star-inserted">$78.97</span>
+"final-value ng-star-inserted">$19.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vampire_the_masquerade_coteries_of_new_york_artbook"
+_ngcontent-gogcom-store-c1196613375="">Vampire: The Masquerade - Coteries of New York Artbook</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$0.89</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/princesses_never_lose"
+_ngcontent-gogcom-store-c1196613375="">Princesses Never Lose!</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/princesses_never_lose_unrated"
+_ngcontent-gogcom-store-c1196613375="">Princesses Never Lose! UNRATED</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/amairo_chocolate"
+_ngcontent-gogcom-store-c1196613375="">Amairo Chocolate</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_keepers_supporter_pack"
+_ngcontent-gogcom-store-c1196613375="">Legend of Keepers - Supporter Pack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/legend_of_keepers_career_of_a_dungeon_master"
+_ngcontent-gogcom-store-c1196613375="">Legend of Keepers: Career of a Dungeon Manager</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_a_world_betrayed"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - A World Betrayed</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/total_war_three_kingdoms_white_tiger_yan"
+_ngcontent-gogcom-store-c1196613375="">Total War: THREE KINGDOMS - White Tiger Yan</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_music_of_vyn"
+_ngcontent-gogcom-store-c1196613375="">The Music of Vyn</span>
+"base-value ng-star-inserted">$13.47</span>
+"final-value ng-star-inserted">$8.75</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dv_rings_of_saturn_tales_from_the_rings"
+_ngcontent-gogcom-store-c1196613375="">ΔV: Rings of Saturn - Tales from the Rings</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/oral_lessons_with_chiichan"
+_ngcontent-gogcom-store-c1196613375="">Oral Lessons With Chii-chan</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/deep_stories_bundle"
+_ngcontent-gogcom-store-c1196613375="">Deep Stories Bundle</span>
+"base-value ng-star-inserted">$39.97</span>
+"final-value ng-star-inserted">$25.98</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hidden_through_time"
+_ngcontent-gogcom-store-c1196613375="">Hidden Through Time</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/age_of_wonders_planetfall_preorder_content_pack"
+_ngcontent-gogcom-store-c1196613375="">Age of Wonders: Planetfall - Pre-Order Content Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/murder_by_numbers"
+_ngcontent-gogcom-store-c1196613375="">Murder by Numbers</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/murder_by_numbers_collectors_edition"
+_ngcontent-gogcom-store-c1196613375="">Murder by Numbers Collector’s Edition</span>
+"final-value ng-star-inserted">$22.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/murder_by_numbers_soundtrack_artbook"
+_ngcontent-gogcom-store-c1196613375="">Murder by Numbers Soundtrack &amp; Artbook</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/smart_city_plan"
+_ngcontent-gogcom-store-c1196613375="">Smart City Plan</span>
+"base-value ng-star-inserted">$15.99</span>
+"final-value ng-star-inserted">$7.19</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/yes_your_grace_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Yes, Your Grace Soundtrack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dandara_trials_of_fear_edition"
+_ngcontent-gogcom-store-c1196613375="">Dandara: Trials of Fear Edition</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dandara_trials_of_fear_edition_ost"
+_ngcontent-gogcom-store-c1196613375="">Dandara: Trials of Fear Edition Soundtrack</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$1.39</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_longing"
+_ngcontent-gogcom-store-c1196613375="">The Longing</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/cloud_meadow"
+_ngcontent-gogcom-store-c1196613375="">Cloud Meadow</span>
+"final-value ng-star-inserted">$19.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_6_auto_deployment"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #6 - Auto Deployment</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_reinforcement_pack_7_rules_of_engagement"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Reinforcement Pack #7 - Rules of Engagement</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_the_fate_of_finland"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - The Fate of Finland</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$4.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/builders_of_egypt_prologue"
+_ngcontent-gogcom-store-c1196613375="">Builders of Egypt: Prologue</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/nehrim_at_fates_edge_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Nehrim: At Fate's Edge Soundtrack</span>
+"base-value ng-star-inserted">$7.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dwarrows"
+_ngcontent-gogcom-store-c1196613375="">Dwarrows</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/soul_saga"
+_ngcontent-gogcom-store-c1196613375="">Soul Saga</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/terra_lander_ii_rockslide_rescue"
+_ngcontent-gogcom-store-c1196613375="">Terra Lander II - Rockslide Rescue</span>
+"final-value ng-star-inserted">$4.99</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

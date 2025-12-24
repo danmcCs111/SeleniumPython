@@ -1,0 +1,202 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/hextech_mayhem_a_league_of_legends_story"
+_ngcontent-gogcom-store-c1196613375="">Hextech Mayhem: A League of Legends Story™</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ruined_king_a_league_of_legends_story"
+_ngcontent-gogcom-store-c1196613375="">Ruined King: A League of Legends Story™</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/sherlock_holmes_chapter_one_victorian_pack"
+_ngcontent-gogcom-store-c1196613375="">Sherlock Holmes Chapter One - Victorian Pack</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tavern_master"
+_ngcontent-gogcom-store-c1196613375="">Tavern Master</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/bright_memory_infinite"
+_ngcontent-gogcom-store-c1196613375="">Bright Memory: Infinite</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fox_girls_never_play_dirty"
+_ngcontent-gogcom-store-c1196613375="">Fox Girls Never Play Dirty!</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$13.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/slice_of_sea"
+_ngcontent-gogcom-store-c1196613375="">Slice of Sea</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$12.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_evil_support"
+_ngcontent-gogcom-store-c1196613375="">Succubus - Evil Support</span>
+"base-value ng-star-inserted">$6.99</span>
+"final-value ng-star-inserted">$5.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/chernobylite_autumn_dread_pack"
+_ngcontent-gogcom-store-c1196613375="">Chernobylite - Autumn Dread Pack</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/graveyard_keeper_better_save_soul"
+_ngcontent-gogcom-store-c1196613375="">Graveyard Keeper - Better Save Soul</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/forgive_me_father"
+_ngcontent-gogcom-store-c1196613375="">Forgive Me Father</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/evertried"
+_ngcontent-gogcom-store-c1196613375="">Evertried</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$5.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/growbot"
+_ngcontent-gogcom-store-c1196613375="">Growbot</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/abaddon_princess_of_the_decay"
+_ngcontent-gogcom-store-c1196613375="">Abaddon: Princess of the Decay</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$12.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/corpse_party_2021"
+_ngcontent-gogcom-store-c1196613375="">Corpse Party (2021)</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dreams_of_desire_definitive_edition"
+_ngcontent-gogcom-store-c1196613375="">Dreams of Desire: Definitive Edition</span>
+"base-value ng-star-inserted">$13.99</span>
+"final-value ng-star-inserted">$5.59</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">Succubus - Soundtrack</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$2.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_artbook"
+_ngcontent-gogcom-store-c1196613375="">Succubus - Artbook</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/children_of_morta_ancient_spirits"
+_ngcontent-gogcom-store-c1196613375="">Children of Morta: Ancient Spirits</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/children_of_morta_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Children of Morta: Complete Edition</span>
+"base-value ng-star-inserted">$26.99</span>
+"final-value ng-star-inserted">$5.12</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_comic_book"
+_ngcontent-gogcom-store-c1196613375="">Succubus - Comic Book</span>
+"base-value ng-star-inserted">$3.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/succubus_the_worshipper_bundle"
+_ngcontent-gogcom-store-c1196613375="">Succubus - The Worshipper Bundle</span>
+"base-value ng-star-inserted">$29.57</span>
+"final-value ng-star-inserted">$24.54</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/vagrus_the_riven_realms"
+_ngcontent-gogcom-store-c1196613375="">Vagrus - The Riven Realms</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/asdivine_saga"
+_ngcontent-gogcom-store-c1196613375="">Asdivine Saga</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$7.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/astria_ascending"
+_ngcontent-gogcom-store-c1196613375="">Astria Ascending</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$3.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/impostor_factory"
+_ngcontent-gogcom-store-c1196613375="">Impostor Factory</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/lords_and_villeins"
+_ngcontent-gogcom-store-c1196613375="">Lords and Villeins</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$6.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/a_jugglers_tale"
+_ngcontent-gogcom-store-c1196613375="">A Juggler's Tale</span>
+"base-value ng-star-inserted">$17.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/in_sound_mind_deluxe_edition"
+_ngcontent-gogcom-store-c1196613375="">In Sound Mind - Deluxe Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/unmetal"
+_ngcontent-gogcom-store-c1196613375="">UnMetal</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/source_of_madness"
+_ngcontent-gogcom-store-c1196613375="">Source of Madness</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/crysis_remastered"
+_ngcontent-gogcom-store-c1196613375="">Crysis Remastered</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$10.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tails_of_iron_complete_edition"
+_ngcontent-gogcom-store-c1196613375="">Tails of Iron - Complete Edition</span>
+"base-value ng-star-inserted">$29.84</span>
+"final-value ng-star-inserted">$4.47</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gas_station_simulator"
+_ngcontent-gogcom-store-c1196613375="">Gas Station Simulator</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/ashes_of_the_singularity_escalation_core_worlds"
+_ngcontent-gogcom-store-c1196613375="">Ashes of the Singularity: Escalation - Core Worlds</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$1.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/seed_of_the_dead_sweet_home"
+_ngcontent-gogcom-store-c1196613375="">Seed of the Dead: Sweet Home</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tormented_souls"
+_ngcontent-gogcom-store-c1196613375="">Tormented Souls</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/myst"
+_ngcontent-gogcom-store-c1196613375="">Myst</span>
+"base-value ng-star-inserted">$34.99</span>
+"final-value ng-star-inserted">$20.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/full_metal_daemon_muramasa"
+_ngcontent-gogcom-store-c1196613375="">Full Metal Daemon Muramasa</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$23.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/honeyhoneyhoney"
+_ngcontent-gogcom-store-c1196613375="">Honey*Honey*Honey!</span>
+"base-value ng-star-inserted">$29.99</span>
+"final-value ng-star-inserted">$8.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/recompile"
+_ngcontent-gogcom-store-c1196613375="">Recompile</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$1.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/dreamscaper"
+_ngcontent-gogcom-store-c1196613375="">Dreamscaper</span>
+"base-value ng-star-inserted">$24.99</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_longer_home"
+_ngcontent-gogcom-store-c1196613375="">No Longer Home</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$2.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/no_longer_home_farewell_edition"
+_ngcontent-gogcom-store-c1196613375="">No Longer Home Farewell Edition</span>
+"base-value ng-star-inserted">$21.23</span>
+"final-value ng-star-inserted">$4.24</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/abomi_nation"
+_ngcontent-gogcom-store-c1196613375="">Abomi Nation</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$3.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/the_forgotten_city_soundtrack"
+_ngcontent-gogcom-store-c1196613375="">The Forgotten City - Digital Soundtrack</span>
+"base-value ng-star-inserted">$5.99</span>
+"final-value ng-star-inserted">$2.69</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/rimworld_ideology"
+_ngcontent-gogcom-store-c1196613375="">RimWorld - Ideology</span>
+"base-value ng-star-inserted">$19.99</span>
+"final-value ng-star-inserted">$16.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/steel_division_2_nemesis_4_storming_toulon"
+_ngcontent-gogcom-store-c1196613375="">Steel Division 2 - Nemesis #4 - Storming Toulon</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$1.24</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>

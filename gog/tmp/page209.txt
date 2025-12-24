@@ -1,0 +1,70 @@
+product-tile product-tile--grid" href="https://www.gog.com/en/game/puddle"
+_ngcontent-gogcom-store-c1196613375="">Puddle</span>
+"final-value ng-star-inserted">$7.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/expansion_crusader_kings_ii_legacy_of_rome"
+_ngcontent-gogcom-store-c1196613375="">Expansion - Crusader Kings II: Legacy of Rome</span>
+"base-value ng-star-inserted">$4.99</span>
+"final-value ng-star-inserted">$2.49</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/worms_revolution"
+_ngcontent-gogcom-store-c1196613375="">Worms Revolution Gold Edition</span>
+"base-value ng-star-inserted">$23.39</span>
+"final-value ng-star-inserted">$3.50</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/blood_bowl_chaos_edition"
+_ngcontent-gogcom-store-c1196613375="">Blood Bowl: Chaos Edition</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/doom_3"
+_ngcontent-gogcom-store-c1196613375="">DOOM 3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$3.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/retro_city_rampage_dx"
+_ngcontent-gogcom-store-c1196613375="">Retro City Rampage DX</span>
+"final-value ng-star-inserted">$14.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/zafehouse_diaries"
+_ngcontent-gogcom-store-c1196613375="">Zafehouse: Diaries</span>
+"base-value ng-star-inserted">$1.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_enchantress_ultimate_edition"
+_ngcontent-gogcom-store-c1196613375="">Fallen Enchantress: Ultimate Edition</span>
+"base-value ng-star-inserted">$39.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/fallen_enchantress_upgrade_to_ultimate"
+_ngcontent-gogcom-store-c1196613375="">Fallen Enchantress: Upgrade to Ultimate</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/secret_files_3"
+_ngcontent-gogcom-store-c1196613375="">Secret Files 3</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$0.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/gateways"
+_ngcontent-gogcom-store-c1196613375="">Gateways</span>
+"final-value ng-star-inserted">$4.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/i_am_alive"
+_ngcontent-gogcom-store-c1196613375="">I Am Alive</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$11.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/super_hexagon"
+_ngcontent-gogcom-store-c1196613375="">Super Hexagon</span>
+"base-value ng-star-inserted">$2.99</span>
+"final-value ng-star-inserted">$0.74</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/inquisitor"
+_ngcontent-gogcom-store-c1196613375="">Inquisitor</span>
+"base-value ng-star-inserted">$14.99</span>
+"final-value ng-star-inserted">$5.09</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/snapshot"
+_ngcontent-gogcom-store-c1196613375="">Snapshot</span>
+"final-value ng-star-inserted">$9.99</span>
+product-tile product-tile--grid" href="https://www.gog.com/en/game/tales_from_space_mutant_blobs_attack"
+_ngcontent-gogcom-store-c1196613375="">Tales From Space: Mutant Blobs Attack</span>
+"base-value ng-star-inserted">$9.99</span>
+"final-value ng-star-inserted">$2.49</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Best Video games from category: </span>
+_ngcontent-gogcom-store-c1845873003="">, DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Welcome to GOG.com | best PC games DRM-free</span>
+_ngcontent-gogcom-store-c1845873003="">Discounted</span>
+_ngcontent-gogcom-store-c1845873003="">DLCs not included</span>
+_ngcontent-gogcom-store-c1845873003="">Free</span>
+_ngcontent-gogcom-store-c1845873003="">New arrivals</span>
+_ngcontent-gogcom-store-c1845873003="">Upcoming</span>
+_ngcontent-gogcom-store-c1845873003="">Early access</span>
+_ngcontent-gogcom-store-c1845873003="">GOG.COM</span>
