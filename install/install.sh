@@ -24,6 +24,7 @@ pythonInstalled=$(where python32)
 if [[ -z $pythonInstalled ]]
 then
 	echo "python not found. install from browser or terminal"
+	echo "or check environment/path variables"
 	chrome "https://www.python.org/downloads/"
 fi
 
