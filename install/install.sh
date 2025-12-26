@@ -20,7 +20,12 @@ function pipInstall()
 	pip install $package
 }
 
-where python
+pythonInstalled=$(where python32)
+if [[ -z $pythonInstalled ]]
+then
+	echo "python not found. install from browser or terminal"
+	chrome "https://www.python.org/downloads/"
+fi
 
 for pack in ${requiredPackages[@]}
 do
