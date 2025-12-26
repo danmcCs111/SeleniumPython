@@ -20,7 +20,7 @@ function pipInstall()
 	pip install $package
 }
 
-pythonInstalled=$(where python32)
+pythonInstalled=$(where python)
 if [[ -z $pythonInstalled ]]
 then
 	echo "python not found. install from browser or terminal"
