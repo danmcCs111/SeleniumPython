@@ -24,11 +24,16 @@ function pipInstall()
 
 if [[ "$typeOs" == "Linux" ]]
 then
-	pythonInstalled=$(whereis python | sed 's/python://g')
+	pythonInstalled=$(whereis python3 | sed 's/python3://g')
 	if [[ -z $pythonInstalled ]]
 	then
 		sudo apt install python3
 		sudo apt install python3-pip
+	fi
+	chromeInstalled=$(whereis google-chrome | sed 's/google-chrome://g')
+	if [[ -z $pythonInstalled ]]
+	then
+		sudo apt install -y google-chrome-stable
 	fi
 else
 
