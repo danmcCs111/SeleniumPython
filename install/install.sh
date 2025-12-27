@@ -39,3 +39,4 @@ do
 	fi
 done
 
+read -p "Press <Enter> to Close"
