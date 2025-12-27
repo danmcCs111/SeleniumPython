@@ -2,6 +2,7 @@
 
 browser="chrome"
 requiredPackages=("pillow" "selenium")
+typeOs=`uname`
 
 function checkPipInstall()
 {
@@ -21,12 +22,22 @@ function pipInstall()
 	pip install $package
 }
 
-pythonInstalled=$(where python)
-if [[ -z $pythonInstalled ]]
+if [[ "$typeOs" == "Linux" ]]
 then
-	echo "python not found. install from browser or terminal"
-	echo "or check environment/path variables"
-	$browser "https://www.python.org/downloads/"
+	pythonInstalled=$(whereis python)
+	if [[ -z $pythonInstalled ]]
+	then
+		sudo apt-get install python
+	fi
+else
+
+	pythonInstalled=$(where python)
+	if [[ -z $pythonInstalled ]]
+	then
+		echo "python not found. install from browser or terminal"
+		echo "or check environment/path variables"
+		$browser "https://www.python.org/downloads/"
+	fi
 fi
 
 for pack in ${requiredPackages[@]}
