@@ -24,10 +24,11 @@ function pipInstall()
 
 if [[ "$typeOs" == "Linux" ]]
 then
-	pythonInstalled=$(whereis python)
+	pythonInstalled=$(whereis python | sed 's/python://g')
 	if [[ -z $pythonInstalled ]]
 	then
-		sudo apt-get install python
+		sudo apt install python3
+		sudo apt install python3-pip
 	fi
 else
 
