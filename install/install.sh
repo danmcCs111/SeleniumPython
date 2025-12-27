@@ -1,5 +1,6 @@
 #!/bin/bash
 
+browser="chrome"
 requiredPackages=("pillow" "selenium")
 
 function checkPipInstall()
@@ -25,7 +26,7 @@ if [[ -z $pythonInstalled ]]
 then
 	echo "python not found. install from browser or terminal"
 	echo "or check environment/path variables"
-	chrome "https://www.python.org/downloads/"
+	$browser "https://www.python.org/downloads/"
 fi
 
 for pack in ${requiredPackages[@]}
