@@ -1,4 +1,6 @@
 #/bin/bash
+mkdir -p "GrabFolder/Roku/images/"
+
 python grabRokuCategories.py > rokuHomePage.txt
 ./rokuUrlStrip.sh rokuHomePage.txt | sort -n | uniq > rokuCategories.txt
 
