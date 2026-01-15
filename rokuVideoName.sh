@@ -48,10 +48,28 @@ echo "image count: ${#roku_images[@]}"
 
 for index in "${!roku_urls[@]}"
 do
-	./rokuToUrl.sh "${roku_urls[$index]}" "${roku_titles[$index]}" 
+	url="${roku_urls[$index]}"
+	filename="${roku_titles[$index]}"
+	filename="GrabFolder/Roku/"`echo $filename | sed 's/title=//g' | sed -E 's/[^[:alnum:]]+/_/g'`.url
+	ls_res="$(ls $filename)"
+	if [ -z "$ls_res" ];
+	then
+		./rokuToUrl.sh "$url" "$filename" 
+	else
+		echo $filename " already saved."
+	fi
 done
 
 for index in "${!roku_images[@]}"
 do
-	./rokuToImage.sh "${roku_images[$index]}" "${roku_titles[$index]}"
+	url="${roku_urls[$index]}"
+	filename="${roku_titles[$index]}"
+	filename="GrabFolder/Roku/images/"`echo $filename | sed 's/title=//g' | sed -E 's/[^[:alnum:]]+/_/g'`.jpg
+	ls_res="$(ls $filename)"
+	if [ -z "$ls_res" ];
+	then
+		curl --output "$filename" "$url"
+	else
+		echo $filename " already saved."
+	fi
 done
