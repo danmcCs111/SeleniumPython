@@ -62,13 +62,13 @@ done
 
 for index in "${!roku_images[@]}"
 do
-	url="${roku_urls[$index]}"
+	imgUrl="${roku_images[$index]}"
 	filename="${roku_titles[$index]}"
 	filename="GrabFolder/Roku/images/"`echo $filename | sed 's/title=//g' | sed -E 's/[^[:alnum:]]+/_/g'`.jpg
 	ls_res="$(ls $filename)"
 	if [ -z "$ls_res" ];
 	then
-		curl --output "$filename" "$url"
+		curl --output "$filename" "$imgUrl"
 	else
 		echo $filename " already saved."
 	fi

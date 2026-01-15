@@ -14,4 +14,5 @@ do
 	./rokuVideoName.sh rokuCat.txt
 done
 
-./GrabFolder/convertRokuToPng.sh
+cd GrabFolder
+./convertRokuToPng.sh
