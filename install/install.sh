@@ -36,13 +36,12 @@ then
 		sudo apt install -y google-chrome-stable
 	fi
 else
-
 	pythonInstalled=$(where python)
 	if [[ -z $pythonInstalled ]]
 	then
 		echo "python not found. install from browser or terminal"
 		echo "or check environment/path variables"
-		$browser "https://www.python.org/downloads/"
+		winget install python
 	fi
 fi
 
